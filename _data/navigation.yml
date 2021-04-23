@@ -1,12 +1,4 @@
 logo: /images/SWITCH-Logo_Eng-Light BG_Transparent.png
 links:
-  - title: About Us
-    url: /contact-us/
-  - title: SWITCH Connect
-    url: /example-page/
-  - title: SWITCH Global
-    collection: example-collection
-  - title: Slingshot
-    resource_room: true
   - title: Highlights
     collection: highlights
