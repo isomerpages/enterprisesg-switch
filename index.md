@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: GLOBAL-ASIA INNOVATION
-      subtitle: Asia's Leading Technology and Innovation Festival
+      subtitle: Asia's Leading Innovation and Technology Festival
       background: /images/SWITCH Isomer Hero Banner-01.jpg
       button: Contact Us
       url: /contact-us/
