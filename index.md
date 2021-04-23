@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
+      title: ASIA'S LEADING INNOVATION
       subtitle: Hero subtitle
       background: /images/SWITCH Isomer Hero Banner-01.jpg
       button: Contact Us
