@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: ASIA'S LEADING INNOVATION
-      subtitle: Hero subtitle
+      title: GLOBAL-ASIA INNOVATION
+      subtitle: Asia's Leading Technology and Innovation Festival
       background: /images/SWITCH Isomer Hero Banner-01.jpg
       button: Contact Us
       url: /contact-us/
