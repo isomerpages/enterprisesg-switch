@@ -8,3 +8,5 @@ links:
     collection: example-collection
   - title: Slingshot
     resource_room: true
+  - title: Highlights
+    collection: highlights
