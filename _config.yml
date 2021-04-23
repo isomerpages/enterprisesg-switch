@@ -1,6 +1,6 @@
 title: Singapore Week of Innovation and Technology | SWITCH
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/SWITCH-Logo_Eng-Light_BG_sq.jpg
 colors:
   primary-color: "#ff0800"
   secondary-color: "#4372d6"
@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://enterprisesg-switch-staging.netlify.app
 prod: https://enterprisesg-switch-prod.netlify.app
+is_government: false
