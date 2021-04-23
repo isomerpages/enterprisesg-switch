@@ -4,3 +4,4 @@ collections:
     order:
       - switch-connect.md
       - switch-global.md
+      - slingshot-2021.md
