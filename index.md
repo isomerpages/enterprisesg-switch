@@ -18,7 +18,7 @@ sections:
       description: With 40M Southeast Asians adopting digital tech for the first time
         in 2020, gain unprecedented opportunities at Asia’s premier startup
         pitching competition!
-      button: Apoly today!
+      button: Apply today!
       url: /highlights/slingshot-2021
       image: /images/SLINGSHOT 2021.jpg
       alt: Image alt text
