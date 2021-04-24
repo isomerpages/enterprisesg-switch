@@ -2,6 +2,7 @@
 title: Overview
 permalink: /about-us/switch-2021
 ---
+![](/images/SWITCH_Main.jpg)
 # What is SWITCH?
 The Singapore Week of Innovation and Technology (SWITCH) brings together leaders, entrepreneurs, creators, accelerators and investors from the Global-Asia innovation ecosystem.  
 
