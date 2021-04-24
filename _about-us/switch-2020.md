@@ -3,7 +3,7 @@ title: SWITCH 2020
 permalink: /about-us/switch-2020
 ---
 # The SWITCH Impact
-lorem ipsum
+![](/images/SWITCH%20Impact.JPG)
 
 ## Legandary leaders who spoke
 ![](/images/ISOMER%20pages-SPEAKERS-01.jpg)
