@@ -85,7 +85,7 @@ There is only so much preparation one can do however, as challenges will always 
 
 To smooth the path for internationalisation, you can tap resources such as Enterprise Singapore’s [Global Innovation Alliance (GIA)](https://www.enterprisesg.gov.sg/industries/hub/startup/global-innovation-alliance) that runs acceleration programmes for companies going abroad.
 
-You can also plug into local innovation ecosystem with the GIA’s networks in Bangalore, Chennai, Mumbai and New Delhi. Through local partners and their guidance, you can navigate the foreign market with confidence.
+You can also plug into local innovation ecosystem with the [GIA’s networks](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/india/contact-us) in Bangalore, Chennai, Mumbai and New Delhi. Through local partners and their guidance, you can navigate the foreign market with confidence.
 
 Ready to make India your next base? Click [here](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/india/market-profile) for more information on how we can help you get there.
 
