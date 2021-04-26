@@ -3,7 +3,7 @@ title: "Innovation In India: A Snapshot Of Sectors To Watch"
 date: 2021-03-26
 permalink: /blog/innovation-in-india-a-snapshot-of-sectors
 ---
-The appeal of doing business in India is undeniable. The country has a population of 1.3 billion and a growing middle class.
+The appeal of doing business in [India](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/india) is undeniable. The country has a population of 1.3 billion and a growing middle class.
 
 It also boasts over 700 million Internet users1 thanks to rapid urbanisation.
 
