@@ -8,7 +8,7 @@ colors:
     - title: media-color-one
       color: "#e7131a"
     - title: media-color-two
-      color: "0"
+      color: "#e7131a"
     - title: media-color-three
       color: "0"
     - title: media-color-four
