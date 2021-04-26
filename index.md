@@ -50,4 +50,8 @@ sections:
       url: /highlights/switch-global
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
+  - resources:
+      title: Upcoming events
+      subtitle: Events
+      button: Find out more
 ---
