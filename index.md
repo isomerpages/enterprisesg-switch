@@ -7,9 +7,9 @@ permalink: /
 notification: Testing notification bar
 sections:
   - hero:
-      title: GLOBAL-ASIA INNOVATION
-      subtitle: Asia's Leading Innovation and Technology Festival
-      background: /images/SWITCH Isomer Hero Banner-01.jpg
+      title: ASIA'S LEADING TECH FESTIVAL
+      subtitle: Singapore Week of Innovation and Technology | SWITCH 2021
+      background: /images/SWITCH_Main.jpg
       button: Learn more
       url: /about-us/switch-2021
   - infopic:
@@ -23,8 +23,8 @@ sections:
       image: /images/SLINGSHOT 2021.jpg
       alt: Image alt text
   - infopic:
-      title: The global innovation movement
-      subtitle: SWITCH 2021
+      title: The Global Innovation Movement
+      subtitle: Be part of
       description: SWITCH brings together leaders, entrepreneurs, creators,
         accelerators and investors from the Global-Asia innovation ecosystem.
       button: Learn more
