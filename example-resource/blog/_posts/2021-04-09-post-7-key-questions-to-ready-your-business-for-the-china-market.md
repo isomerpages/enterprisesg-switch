@@ -52,7 +52,7 @@ China is far from homogenous, with major differences even among Tier One cities 
 
 Emerging first-tier cities such as Chengdu, Chongqing, Hangzhou, Suzhou, Nanjing offer many opportunities too, albeit in different sectors. It is important to match your business needs with the market gaps and conditions when deciding where to land.
 
-[Ednovation](https://www.enterprisesg.gov.sg/inspiring-stories/ednovation) is a Singapore education services provider which chose Chongqing as its primary market for its preschools in 2007. Compared to the more competitive coastal cities, there was higher unmet demand for premium preschools in Chongqing then. The company now operates more than 20 preschools across China.
+[Ednovation](https://www.enterprisesg.gov.sg/inspiring-stories/ednovation) is a Singapore education services provider which chose [Chongqing](https://www.enterprisesg.gov.sg/esghome/overseas-markets/asia-pacific/china-b--/discover-key-business-opportunities/chongqing-gateway-to-west-china) as its primary market for its preschools in 2007. Compared to the more competitive coastal cities, there was higher unmet demand for premium preschools in Chongqing then. The company now operates more than 20 preschools across China.
 
 **3. Are you up for the intense competition?**
 
@@ -84,15 +84,13 @@ If you plan to venture into different regions, pay attention to and be prepared 
 
 Having a trusted in-market business partner or consultant will help to connect you with the relevant local authorities and right partners.
 
-Businesses with a focus on technology and innovation can tap the Global Innovation Alliance (GIA), a joint initiative by Enterprise Singapore and the Singapore Economic Development Board. The Alliance will provide support for firms to understand the market, find their product-market fit, receive mentorship opportunities, and visit potential clients and partners in China. Within China, our in-market partners are DayDayUp in Beijing , and XNode in Shanghai and Shenzhen .
+Businesses with a focus on technology and innovation can tap the [Global Innovation Alliance (GIA)](https://www.enterprisesg.gov.sg/industries/hub/startup/global-innovation-alliance/), a joint initiative by Enterprise Singapore and the Singapore Economic Development Board. The Alliance will provide support for firms to understand the market, find their product-market fit, receive mentorship opportunities, and visit potential clients and partners in China. Within China, our in-market partners are DayDayUp in Beijing , and XNode in Shanghai and Shenzhen .
 
 ![](/images/SWITCH_GIA-Shanghai.png)
 
 Looking to get started on doing business in China? Check out our Market Guide and Global Talent Mobility Guide to learn more about the nuts and bolts of setting up shop in Asia’s largest economy!
 
 ---
-
-
 <sup>1</sup> Statista.com
 
 <sup>2</sup> “China consumer report 2021. Understanding Chinese consumers: Growth Engine of the World”, Mckinsey & Company, November 2020
