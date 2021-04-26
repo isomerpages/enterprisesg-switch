@@ -8,8 +8,9 @@ permalink: /about-us/switch-2020
 ## Legendary leaders who spoke
 ![](/images/ISOMER%20pages-SPEAKERS-01.jpg)
 
-## Leading companies partner at SWITCH
-Include image cards of partners according to what was proposed
+## Leading companies partner at SWITCH!
+![](/images/sponsors1.jpg)
+![](/images/sponsors2.jpg)
 
 ## Media at SWITCH
 Include image cards of media partners at SWITCH according to what was proposed
