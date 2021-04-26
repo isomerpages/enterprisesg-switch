@@ -7,7 +7,6 @@ permalink: /highlights/switch-connect
 
 SWITCH Connect brings together leaders and experts across industries in a must-attend technology and innovation conference to discuss the ideas and innovations – from smart cities and urban solutions to emerging and sustainable technologies – transforming the world today.
 
-# Why join us at SWITCH Connect?
 ![](/images/Others%203.jpg)
 ## Thought leadership
 Be at the forefront of your industry by hosting or speaking at our conference. Lead important conversations on the most current topics in tech and innovation.
