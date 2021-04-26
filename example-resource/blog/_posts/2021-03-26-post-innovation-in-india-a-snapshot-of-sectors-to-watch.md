@@ -1,6 +1,7 @@
 ---
-title: "Innovation In India: A Snapshot Of Sectors To Watch"
+title: Innovation In India - A Snapshot Of Sectors To Watch
 date: 2021-03-26
 permalink: /blog/innovation-in-india-a-snapshot-of-sectors
 ---
+
 
