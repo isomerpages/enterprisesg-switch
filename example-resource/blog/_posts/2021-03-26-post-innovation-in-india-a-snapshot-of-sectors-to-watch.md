@@ -3,7 +3,6 @@ title: "Innovation In India: A Snapshot Of Sectors To Watch"
 date: 2021-03-26
 permalink: /blog/innovation-in-india-a-snapshot-of-sectors
 ---
-
 The appeal of doing business in India is undeniable. The country has a population of 1.3 billion and a growing middle class.
 
 It also boasts over 700 million Internet users1 thanks to rapid urbanisation.
@@ -89,3 +88,22 @@ To smooth the path for internationalisation, you can tap resources such as Enter
 You can also plug into local innovation ecosystem with the GIA’s networks in Bangalore, Chennai, Mumbai and New Delhi. Through local partners and their guidance, you can navigate the foreign market with confidence.
 
 Ready to make India your next base? Click here for more information on how we can help you get there.
+
+---
+<sup>1</sup> “Number of internet users in India from 2015 to 2020 with a forecast until 2025”, Statistica, July 2020.
+
+<sup>2</sup> “India 3rd largest startup ecosystem; home to 21 unicorns: Ambassador to US”, Business Today, 6 January 2021.
+
+<sup>3</sup> “Year Ender-2020: A report on the ‘Smart City Mission’”, All India Radio News, 24 December 2020.
+
+<sup>4</sup> “Smart Building Market: Growth, Trends & Forecasts to 2025”, Research and Markets, January 2020.
+
+<sup>5</sup> “India’s Energy Efficiency Initiatives Help Save Over ₹891 Billion in 2018-19: BEE Report”, Mercom India.
+
+<sup>6</sup> “Edtech funding jumps 4x to $1.5 billion this year”, The Times of India, 21 September 2020.
+
+<sup>7</sup> “The Future of Education: Indian Startups Chase $10 Bn Edtech Opportunity”, Inc42 Plus, 8 October 2020.
+
+<sup>8</sup> “Digital healthcare to witness exponential growth in India”, India Brand Equity Foundation, 30 November 2020.
+
+<sup>9</sup> ”E-commerce industry in India”, India Brand Equity Foundation, 23 December 2020. 
