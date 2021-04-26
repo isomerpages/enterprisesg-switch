@@ -29,7 +29,7 @@ In [real estate and built environment](https://www.enterprisesg.gov.sg/industrie
 
 In particular, there has been a push for smart buildings with the establishment of India’s Energy Conservation Building Code<sup>4</sup>. The code sets out minimum energy performance standards.
 
-Based on a study by Honeywell India5, India’s airports and hotels currently lead the pack in terms of being green, safe and productive for users. Growth opportunities in related solutions and services are anticipated, especially since adopting modern technologies in buildings can potentially save the country billions of dollars each year in energy use4.
+Based on a study by Honeywell India<sup>5</sup>, India’s airports and hotels currently lead the pack in terms of being green, safe and productive for users. Growth opportunities in related solutions and services are anticipated, especially since adopting modern technologies in buildings can potentially save the country billions of dollars each year in energy use<sup>4</sup>.
 
 ### Beyond the hardware
 
