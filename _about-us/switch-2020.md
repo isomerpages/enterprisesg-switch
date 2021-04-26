@@ -9,11 +9,11 @@ permalink: /about-us/switch-2020
 ![](/images/ISOMER%20pages-SPEAKERS-01.jpg)
 
 ## Leading companies partner at SWITCH!
-![](/images/sponsors1.jpg)
-![](/images/sponsors2.jpg)
+![](/images/platimun%20sponsors.jpg)
+![](/images/other%20top%20partners.jpg)
 
 ## Media at SWITCH
-Include image cards of media partners at SWITCH according to what was proposed
+![](/images/media%20partners.jpg)
 
 ## What they're saying
 
