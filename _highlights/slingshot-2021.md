@@ -14,7 +14,6 @@ Connect with a global network of fellow innovators and entrepreneurs and battle 
 
 Your idea might just kick start a journey of a lifetime!
 
-# Why you should not miss SLINGSHOT!
 ![](/images/SLINGSHOT%201.jpg)
 ## Discover promising business ideas and innovative solutions to trends in emerging markets and industries
 Hear from the Top 100 Global Startups and be inspired by their disruptive solutions to today’s challenges. From hot topics such as sustainability to evergreen trends in medtech, these startups continue to explore and push the limits of human ingenuity and creativity.
