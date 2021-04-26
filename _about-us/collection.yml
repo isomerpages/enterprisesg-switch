@@ -1,0 +1,6 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - overview.md
+      - switch-2020.md
