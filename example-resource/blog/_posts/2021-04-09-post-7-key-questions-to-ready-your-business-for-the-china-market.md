@@ -52,7 +52,7 @@ China is far from homogenous, with major differences even among Tier One cities 
 
 Emerging first-tier cities such as Chengdu, Chongqing, Hangzhou, Suzhou, Nanjing offer many opportunities too, albeit in different sectors. It is important to match your business needs with the market gaps and conditions when deciding where to land.
 
-Ednovation is a Singapore education services provider which chose Chongqing as its primary market for its preschools in 2007. Compared to the more competitive coastal cities, there was higher unmet demand for premium preschools in Chongqing then. The company now operates more than 20 preschools across China.
+[Ednovation](https://www.enterprisesg.gov.sg/inspiring-stories/ednovation) is a Singapore education services provider which chose Chongqing as its primary market for its preschools in 2007. Compared to the more competitive coastal cities, there was higher unmet demand for premium preschools in Chongqing then. The company now operates more than 20 preschools across China.
 
 **3. Are you up for the intense competition?**
 
