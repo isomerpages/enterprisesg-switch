@@ -25,7 +25,7 @@ While COVID-19 has slowed progress, the campaign is still underway. A notable mi
 
 Beyond that, smart solutions are key to helping urban dwellers live, work and play in a more efficient, innovative and sustainable manner.
 
-In real estate and built environment, cities are looking at how they can reduce energy consumption and improve efficiencies. With increasing concern over environmental sustainability, waste and water management are also top-of-mind, shared Mr Vinamra Srivastava, CEO, India Business Parks, CapitaLand India.
+In [real estate and built environment](https://www.enterprisesg.gov.sg/industries/type/urban-solutions), cities are looking at how they can reduce energy consumption and improve efficiencies. With increasing concern over environmental sustainability, waste and water management are also top-of-mind, shared Mr Vinamra Srivastava, CEO, India Business Parks, CapitaLand India.
 
 In particular, there has been a push for smart buildings with the establishment of India’s Energy Conservation Building Code4. The code sets out minimum energy performance standards.
 
