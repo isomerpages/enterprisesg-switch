@@ -4,7 +4,7 @@ title: Singapore Week of Innovation and Technology | SWITCH
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Testing notification bar (Primary is #000000)"
+notification: "Testing notification bar (Primary is #000000 Secondary is #e7131a)"
 sections:
   - hero:
       title: ASIA'S LEADING TECH FESTIVAL
