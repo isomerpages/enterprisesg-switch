@@ -83,7 +83,7 @@ Be prepared to experience pressure on profit margins in the price-competitive ma
 
 There is only so much preparation one can do however, as challenges will always present themselves when venturing overseas. “The only way to learn is to get in and get started,” said Ms Yadav.
 
-To smooth the path for internationalisation, you can tap resources such as Enterprise Singapore’s Global Innovation Alliance (GIA) that runs acceleration programmes for companies going abroad.
+To smooth the path for internationalisation, you can tap resources such as Enterprise Singapore’s [Global Innovation Alliance (GIA)](https://www.enterprisesg.gov.sg/industries/hub/startup/global-innovation-alliance) that runs acceleration programmes for companies going abroad.
 
 You can also plug into local innovation ecosystem with the GIA’s networks in Bangalore, Chennai, Mumbai and New Delhi. Through local partners and their guidance, you can navigate the foreign market with confidence.
 
