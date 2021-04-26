@@ -13,11 +13,11 @@ sections:
       button: Learn more
       url: /about-us/switch-2021
   - infopic:
-      title: Launch your startup in Asia!
+      title: Startups Launch at SLINGSHOT!
       subtitle: SLINGSHOT 2021
-      description: With 40M Southeast Asians adopting digital tech for the first time
-        in 2020, gain unprecedented opportunities at Asia’s premier startup
-        pitching competition!
+      description: " Join Asia’s most exciting deep tech startup pitching competition
+        and unlock access to global investors, startup resources and attractive
+        prizes!"
       button: Apply today!
       url: /highlights/slingshot-2021
       image: /images/SLINGSHOT 2021.jpg
