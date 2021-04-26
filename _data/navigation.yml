@@ -4,3 +4,5 @@ links:
     collection: highlights
   - title: About Us
     collection: about-us
+  - title: Blog
+    url: /example-resource/blog/
