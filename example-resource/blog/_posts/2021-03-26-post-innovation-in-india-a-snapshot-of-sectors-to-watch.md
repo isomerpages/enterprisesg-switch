@@ -5,13 +5,13 @@ permalink: /blog/innovation-in-india-a-snapshot-of-sectors
 ---
 The appeal of doing business in [India](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/india) is undeniable. The country has a population of 1.3 billion and a growing middle class.
 
-It also boasts over 700 million Internet users1 thanks to rapid urbanisation.
+It also boasts over 700 million Internet users<sup>1</sup> thanks to rapid urbanisation.
 
 “But there’s still a massive gap between this and the overall population, therefore representing great opportunity,” said Mr Zaran Bhagwagar, Head, A-Scale, Anthill Ventures at SWITCH 2020, Asia’s largest technology, innovation and enterprise festival.
 
 It was this opportunity that Mr Bagwagar and a host of other industry stalwarts sought to explore at SWITCH 2020, where panellists provided an in-depth look at India’s bright spots for startups and pragmatic advice for aspiring entrants.
 
-There are no short of early movers who have seen the potential in this massive market. India is the world’s third largest startup ecosystem2. It is also home to 21 unicorns, with over 50 "soonicorns” en route to joining the club.
+There are no short of early movers who have seen the potential in this massive market. India is the world’s third largest startup ecosystem<sup>2</sup>. It is also home to 21 unicorns, with over 50 "soonicorns” en route to joining the club.
 
 Government-led initiatives have been helpful to young companies hoping to establish a firm footing. For instance, startups can enjoy tax benefits and networking opportunities with Startup India – the country’s startup accelerator under the Ministry of Commerce and Industry; or get access to labs, investors and financial guidance through government-led initiatives.
 
@@ -21,7 +21,7 @@ Government-led initiatives have been helpful to young companies hoping to establ
 
 One of the most prolific innovation campaigns is the 100 Smart Cities Mission that was launched in mid-2015 by Prime Minister Narendra Modi. A budget of US$14 billion (S$18.5 billion) was set aside to develop 100 smart cities and rejuvenate 500 others.
 
-While COVID-19 has slowed progress, the campaign is still underway. A notable milestone has been the implementation of Integrated Command and Control Centres – to step up surveillance for reducing crime and efficiently deploy emergency services – in 53 cities3.
+While COVID-19 has slowed progress, the campaign is still underway. A notable milestone has been the implementation of Integrated Command and Control Centres – to step up surveillance for reducing crime and efficiently deploy emergency services – in 53 cities<sup>3</sup>.
 
 Beyond that, smart solutions are key to helping urban dwellers live, work and play in a more efficient, innovative and sustainable manner.
 
