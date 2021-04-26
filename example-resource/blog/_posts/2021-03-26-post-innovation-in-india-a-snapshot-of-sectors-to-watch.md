@@ -87,7 +87,7 @@ To smooth the path for internationalisation, you can tap resources such as Enter
 
 You can also plug into local innovation ecosystem with the GIA’s networks in Bangalore, Chennai, Mumbai and New Delhi. Through local partners and their guidance, you can navigate the foreign market with confidence.
 
-Ready to make India your next base? Click here for more information on how we can help you get there.
+Ready to make India your next base? Click [here](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/india/market-profile) for more information on how we can help you get there.
 
 ---
 <sup>1</sup> “Number of internet users in India from 2015 to 2020 with a forecast until 2025”, Statistica, July 2020.
@@ -106,4 +106,4 @@ Ready to make India your next base? Click here for more information on how we ca
 
 <sup>8</sup> “Digital healthcare to witness exponential growth in India”, India Brand Equity Foundation, 30 November 2020.
 
-<sup>9</sup> ”E-commerce industry in India”, India Brand Equity Foundation, 23 December 2020. 
+<sup>9</sup> ”E-commerce industry in India”, India Brand Equity Foundation, 23 December 2020.
