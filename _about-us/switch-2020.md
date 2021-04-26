@@ -5,7 +5,7 @@ permalink: /about-us/switch-2020
 # The SWITCH Impact
 ![](/images/SWITCH%20Impact.JPG)
 
-## Legandary leaders who spoke
+## Legendary leaders who spoke
 ![](/images/ISOMER%20pages-SPEAKERS-01.jpg)
 
 ## Leading companies partner at SWITCH
