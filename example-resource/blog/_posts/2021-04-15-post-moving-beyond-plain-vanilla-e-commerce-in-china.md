@@ -7,7 +7,7 @@ Growing your e-commerce market share in Asia’s largest economy calls for new d
 
 ### Growing e-commerce market share calls for new data-driven strategies
 
-The global retail industry is evolving rapidly due to digitalisation and changing consumer needs sparked by the COVID-19 pandemic.
+The global [retail](https://www.enterprisesg.gov.sg/industries/type/retail/industry-profile) industry is evolving rapidly due to digitalisation and changing consumer needs sparked by the COVID-19 pandemic.
 
 While e-commerce has been growing at a steady clip since the mid-1990s, brick and mortar retailers reeling from lockdowns have accelerated online strategies while shuttering stores.
 
@@ -71,7 +71,7 @@ Experts at SWITCH 2020 envision innovative digital solutions such as artificial 
 
 The concept of space in retail could evolve as well, with retailers possibly moving away from renting large spaces to simply taking up a small space within, say, a café, as a base to reach consumers, said 8XP’s Ms Teo. No matter the size of the retail space, what’s key in driving retail growth is having a data-driven mindset to guide business decisions – one that leverages technology to engage users and gathering valuable insights such as consumer preferences and habits.
 
-Are you a retailer looking to grow your business in China? Learn more about how Enterprise Singapore can help you tap new opportunities in the world’s fastest growing e-commerce market.
+Are you a retailer looking to grow your business in China? [Learn more](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/market-profile) about how Enterprise Singapore can help you tap new opportunities in the world’s fastest growing e-commerce market.
 
 ---
 
