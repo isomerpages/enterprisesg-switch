@@ -84,7 +84,7 @@ If you plan to venture into different regions, pay attention to and be prepared 
 
 Having a trusted in-market business partner or consultant will help to connect you with the relevant local authorities and right partners.
 
-Businesses with a focus on technology and innovation can tap the [Global Innovation Alliance (GIA)](https://www.enterprisesg.gov.sg/industries/hub/startup/global-innovation-alliance/), a joint initiative by Enterprise Singapore and the Singapore Economic Development Board. The Alliance will provide support for firms to understand the market, find their product-market fit, receive mentorship opportunities, and visit potential clients and partners in China. Within China, our in-market partners are DayDayUp in Beijing , and XNode in Shanghai and Shenzhen .
+Businesses with a focus on technology and innovation can tap the [Global Innovation Alliance (GIA)](https://www.enterprisesg.gov.sg/industries/hub/startup/global-innovation-alliance/), a joint initiative by Enterprise Singapore and the Singapore Economic Development Board. The Alliance will provide support for firms to understand the market, find their product-market fit, receive mentorship opportunities, and visit potential clients and partners in China. Within China, our in-market partners are DayDayUp in [Beijing](https://www.enterprisesg.gov.sg/industries/hub/startup/global-innovation-alliance/china/beijing/daydayup) , and XNode in Shanghai and Shenzhen .
 
 ![](/images/SWITCH_GIA-Shanghai.png)
 
