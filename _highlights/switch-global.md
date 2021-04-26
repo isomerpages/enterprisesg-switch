@@ -8,7 +8,6 @@ SWITCH Global consists of Market Access Sessions and Masterclasses. At our Marke
 
 Masterclasses @ SWITCH Global partners with world-leading companies to arm entrepreneurs with practical knowledge and tips on digitalisation and internationalisation to get ready for the future.
 
-# Why you should join SWITCH Global
 ![](/images/SWITCH%20Global%203.JPG)
 ## Direct lead generation
 Beyond panel discussions, our Market Access Sessions and unique platform allow you to connect directly with the host company during or after the sessions to kickstart your internationalisation venture! 
