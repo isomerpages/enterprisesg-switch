@@ -45,7 +45,7 @@ Healthtech is yet another booming sector, with an expected market worth pegged a
 
 ### E-commerce to reach new heights
 
-The COVID-19 lockdown has driven many retailers and suppliers to move their trade online within India and abroad. The India Brand Equity Foundation estimates that India’s e-commerce market will grow to US$200 billion (S$264.4 billion) by 20269, up from US$38.5 billion (S$50.9 billion) in 2017.
+The COVID-19 lockdown has driven many retailers and suppliers to move their trade online within India and abroad. The India Brand Equity Foundation estimates that India’s e-commerce market will grow to US$200 billion (S$264.4 billion) by 2026<sup>9</sup>, up from US$38.5 billion (S$50.9 billion) in 2017.
 
 Just ten years ago, e-commerce was a niche area for most brands, said Mr Manish Taneja, Chief Executive Officer and Co-Founder, Purplle.com, a leading online retailer of beauty products.
 
