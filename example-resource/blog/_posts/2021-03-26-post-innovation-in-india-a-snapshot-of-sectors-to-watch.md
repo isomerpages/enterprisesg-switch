@@ -39,9 +39,9 @@ Smart city living is also about improving the residents’ quality of life. This
 
 Consequently, players in the edutech space are now having a heyday. While remote learning had already been on the rise before COVID-19, the pandemic accelerated its disruption to traditional learning formats.
 
-In the first nine months of 2020, funding in edutech jumped four times to US$1.5 billion (S$2 billion) compared to the previous year6. By 2025, India is expected to have over 37 million paid edutech users7 for remote classroom learning, test preparations, online certification and skills development.
+In the first nine months of 2020, funding in edutech jumped four times to US$1.5 billion (S$2 billion) compared to the previous year<sup>6</sup>. By 2025, India is expected to have over 37 million paid edutech users<sup>7</sup> for remote classroom learning, test preparations, online certification and skills development.
 
-Healthtech is yet another booming sector, with an expected market worth pegged at US$485.4 billion (S$641.7 billion) by 20248, up from US$116.6 billion (S$154.2 billion) in 2018. Analysts expect wearable health devices and telemedicine to be significant growth drivers.
+Healthtech is yet another booming sector, with an expected market worth pegged at US$485.4 billion (S$641.7 billion) by 2024<sup>8</sup>, up from US$116.6 billion (S$154.2 billion) in 2018. Analysts expect wearable health devices and telemedicine to be significant growth drivers.
 
 ### E-commerce to reach new heights
 
