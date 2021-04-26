@@ -9,7 +9,7 @@ sections:
   - hero:
       title: ASIA'S LEADING TECH FESTIVAL
       subtitle: Singapore Week of Innovation and Technology | SWITCH 2021
-      background: /images/SWITCH_Main.jpg
+      background: /images/SWITCH Isomer Hero Banner-01.jpg
       button: Learn more
       url: /about-us/switch-2021
   - infopic:
