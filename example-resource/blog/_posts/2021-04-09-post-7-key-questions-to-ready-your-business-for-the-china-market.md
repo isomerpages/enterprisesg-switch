@@ -13,7 +13,7 @@ Enter Aleta Planet, a Singapore fintech start-up, with an innovative solution to
 
 COVID-19 may have put a dampener on the global economy and changed consumption patterns, but China remains poised to be one of the world’s key growth engines post-pandemic<sup>2</sup>.
 
-With a population of 1.4 billion, and the value of its consumer market set to expand by about 12% every year to reach US$8.4 trillion (S$11.3 trillion) by 2022<sup>3</sup>, China is an attractive market to fuel your business growth. The key is to find and fill a market gap like what Aleta Planet did.
+With a population of 1.4 billion, and the value of its consumer market set to expand by about 12% every year to reach US$8.4 trillion (S$11.3 trillion) by 2022<sup>3</sup>, [China is an attractive market](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/market-profile) to fuel your business growth. The key is to find and fill a market gap like what Aleta Planet did.
 
 At the Singapore Week of Innovation and TeCHnology (SWITCH) 2020, conference panellists weighed in on the growth opportunities for Singapore companies looking to venture into China:
 
