@@ -8,11 +8,11 @@ colors:
     - title: media-color-one
       color: "#e7131a"
     - title: media-color-two
-      color: "#e7131a"
+      color: "#000000"
     - title: media-color-three
-      color: "#e7131a"
+      color: "#ffffff"
     - title: media-color-four
-      color: "#e7131a"
+      color: "#cccccc"
     - title: media-color-five
       color: "#e7131a"
 resources_name: example-resource
