@@ -56,65 +56,39 @@ Since health is even more crucial during the COVID-19 crisis in the UK, IamYIAM 
 
 ![](/images/SWITCH_2020-IAMYIAM_2.png)
 
-SYD provides a real-time anonymised population dashboard of integrated human health and predictive analytics for organisations to develop strategies to optimise quality of life for their employees, patients, clients, etc. The dashboards are tailored to meet the information needs of the organisation and provide data for wider population health management systems. 
+SYD provides a real-time anonymised population dashboard of integrated human health and predictive analytics for organisations to develop strategies to optimise quality of life for their employees, patients, clients, etc. The dashboards are tailored to meet the information needs of the organisation and provide data for wider population health management systems.
 
- 
-
-    Current Health      
+### Current Health      
 
 Current Health aims to build a future where healthcare is delivered to patients before they even fall ill, working towards proactive and community-based rather than reactive healthcare.
 
- 
+Current Health offers advanced remote patient monitoring platform using proprietary machine learning algorithms, with ICU-level accuracy at home. With virtual video visits on an all-in-one wireless wearable device, they have made continuous and passive monitoring of core vitals possible. Their solution seamlessly integrates with an ecosystem of peripheral products to track temperature, blood pressure, and continuous glucose, among others.
 
-Current Health offers advanced remote patient monitoring platform using proprietary machine learning algorithms, with ICU-level accuracy at home. With virtual video visits on an all-in-one wireless wearable device, they have made continuous and passive monitoring of core vitals possible. Their solution seamlessly integrates with an ecosystem of peripheral products to track temperature, blood pressure, and continuous glucose, among others. 
-
- 
-
-Current Health’s solution even offers the capability to monitor patients based on hospital-controlled protocols and send fully-managed kits to a patient's home. These work together to help the healthcare system reduce COVID-19 readmissions, increase reimbursement, and improve the experience of both patients and healthcare workers.      
-
- 
+Current Health’s solution even offers the capability to monitor patients based on hospital-controlled protocols and send fully-managed kits to a patient's home. These work together to help the healthcare system reduce COVID-19 readmissions, increase reimbursement, and improve the experience of both patients and healthcare workers.
 
 Tapping on their expertise in Artificial Intelligence (AI), they plan to roll out a next-gen wearable device later in the year that will be the smallest in the world.
 
- 
+### Inavya
 
-    Inavya
+Avatr FRIEND is the brainchild of the London-based startup, Inavya Ventures Ltd. Their unique technology harnesses the power of AI and machine learning, enabling doctors to give their best care, and empowering patients to take control of their health.
 
-Avatr FRIEND is the brainchild of the London-based startup, Inavya Ventures Ltd. Their unique technology harnesses the power of AI and machine learning, enabling doctors to give their best care, and empowering patients to take control of their health. 
+Avatr securely pools multiple sources of data to create a digital representation of a patient, and has patient insights on hand whenever the doctor requires it. It maintains real-time, permanent connectivity between the doctor and patient.
 
- 
+When COVID-19 hit, Inavya worked to develop enhanced features that not only provided COVID-19 symptom monitoring and alerts, and data analytics tracking comorbidities like diabetes and hypertension.
 
-Avatr securely pools multiple sources of data to create a digital representation of a patient, and has patient insights on hand whenever the doctor requires it. It maintains real-time, permanent connectivity between the doctor and patient. 
-
- 
-
-When COVID-19 hit, Inavya worked to develop enhanced features that not only provided COVID-19 symptom monitoring and alerts, and data analytics tracking comorbidities like diabetes and hypertension. 
-
- 
-
-It also enabled video conferencing between patients and doctors, and included a feature that allows patients to keep in contact with friends and family via tele-conferencing to maintain safe distancing. 
-
- 
+It also enabled video conferencing between patients and doctors, and included a feature that allows patients to keep in contact with friends and family via tele-conferencing to maintain safe distancing.
 
 The European Commission has just awarded AVATR a ‘Seal of Excellence’ in recognition of the high quality of innovation as well. 
 
- 
+### Huma
 
-    Huma
-
-British healthcare tech startup, Medopad, recently rebranded as Huma, tweaked their remote patient monitoring (RPM) platform to specialise in COVID-19, and is making their technology available for all NHS Trusts, as well as global healthcare providers. 
-
- 
+British healthcare tech startup, Medopad, recently rebranded as Huma, tweaked their remote patient monitoring (RPM) platform to specialise in COVID-19, and is making their technology available for all NHS Trusts, as well as global healthcare providers.
 
 Designed to help monitor ill and at-risk patients, the specialised platform enables healthcare workers to track patient data and symptoms progression, and flag patients with worsening symptoms, both in and out of clinical settings. Patients can use a corresponding app to securely share personal health data such as temperature, respiration rate and heart rate.
 
- 
-
 During the crisis, Huma’s solution allows hospitals to continuously monitor and engage with their existing patients remotely, without exposing them to elevated risks of COVID-19. In collaboration with their global partners, like John Hopkins, Huma is also working on clinically validating digital biomarkers to identify individual risk for COVID-19, and to monitor respiratory symptoms and progression.
 
- 
-
-    AMPLYFI
+### AMPLYFI
 
 AMPLYFI developed the ‘Coronavirus Gateway’, a public search engine connecting to leading information sites, to create a one-stop shop for the best available information on the pandemic. 
 
