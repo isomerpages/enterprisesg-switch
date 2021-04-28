@@ -29,3 +29,11 @@ Singapore’s vision to be a global hydrohub has been long in the making. Anchor
 
 <sup>Imagine H2O Asia showcased at SWITCH 2019 will be connecting its startups to global investors and customers in the 2020 virtual exhibition</sup>
 
+### Digital Water: A Final Frontier
+
+Software, automation and analytics, ubiquitous in many other sectors of the economy, will play a vital role in upgrading legacy systems and future-proofing water infrastructure. Indeed, digitization features prominently in Singapore’s 50-year water roadmap, from 24/7 water quality monitoring to predictive intelligence for plant operations. However, these tools remain largely underutilized across Southeast Asia creating new commercial opportunities for founders from within and outside the water industry.
+
+During Digital Desert: Innovating for Water Resilience, an interactive dialogue hosted on December 7 at SWITCH 2020, industry experts will explore the technology and investment potential in digital water. The session spotlights early-movers who are leveraging diagnostic and predictive tools to manage water and wastewater resources; crucial in responding to today’s crisis, but equally important to prioritize future infrastructure investments. 
+
+“The current crisis is revealing for the future of digital water because as water and wastewater operators we had to keep this essential service going despite so many unknowns,” says Annelise Avril, SVP, Research, Innovation & Digital Transformation at SUEZ, and a speaker at SWITCH 2020. “Digital tools for applications like remote operations and predictive scenarios are the special ingredients that help us navigate this uncertainty, making our infrastructure smarter but also more resilient to future shocks. Annelise adds, “At the same time, the value of innovation in this space is about the outcomes, not the technology itself. This opens the door to greater participation from founders in related sectors like healthcare, power and fintech.”
+
