@@ -24,3 +24,8 @@ In partnership with [Enterprise Singapore](https://enterprisesg.gov.sg), [Imagin
 “Water is a finite resource and governments and businesses alike are increasingly looking to sustainable water management solutions to support growing populations and business needs. Innovation will be key in advancing water sustainability and resilience,” says Mr Yeoh Choon Jin, Director, Urban Solutions, Enterprise Singapore. “Singapore’s commitment to water stewardship, coupled with its growing startup ecosystem, creates the ideal launchpad for accelerator programs like Imagine H2O Asia to scale entrepreneurial solutions to serve the region’s needs.”
 
 Singapore’s vision to be a global hydrohub has been long in the making. Anchored by its track record as an early adopter of innovation, the country continues to expand its resources to develop home-grown startups as well as providing test-bedding for global entrepreneurs. Despite the economic downturn triggered by the pandemic, the country has doubled down on its commitment. In February of this year, the country announced a [S$100B commitment](https://www.bloomberg.com/news/features/2020-02-25/singapore-has-a-100-billion-plan-for-adapting-to-climate-change) to build and deploy new solutions to tackle climate change and rising sea levels.
+
+![](/images/SWITCH_2020-Digital_Water_4.jpg)
+
+<sup>Imagine H2O Asia showcased at SWITCH 2019 will be connecting its startups to global investors and customers in the 2020 virtual exhibition</sup>
+
