@@ -12,7 +12,9 @@ If you have an innovative product or solution, join us for the once-in-a-lifetim
 
 Connect with a global network of fellow innovators and entrepreneurs and battle it out for attractive prizes and deal-making opportunities!
 
-Your idea might just kick start a journey of a lifetime!
+[Your idea might just kick start a journey of a lifetime! ->](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg?utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021)
+
+[亚洲最受注目的深科创业大赛， 您准备好了吗？->](https://slingshot-cn.agorize.com/2021-edition?t=fX5LOg7F8fnaJvgACrUEbg?utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021)
 
 ---
 
