@@ -37,3 +37,23 @@ They have thousands of locum healthcare workers on their app, accessing function
 FarmaTrust is a UK-based Artificial Intelligence (AI) and blockchain company active in the medical supply chain industry since 2017. FarmaTrust combines its expertise in blockchain and AI to ensure the integrity of pharmaceutical supply chains during the COVID-19 pandemic.
 
 ![](/images/SWITCH_2020-FarmaTrust.png)
+
+During the pandemic, poor traceability and provenance, hoarding, and bad actors lead to manufacturing issues, supply distortions, trade restrictions and panic buying. FarmaTrust’s user-friendly solution will provide accurate real-time data, enabling demand planning and supply chain scenario simulations. 
+
+ 
+
+Their pharmaceutical tracking and data services solution also safeguards the supply chain from substandard or counterfeit medicines, ensuring the authenticity of medicinal products. 
+
+ 
+
+Their roster of clients includes NHS (National Health Service), regulators, health departments, as well as the private sector. Not surprising, given that their solution can be easily adapted for medical devices/implants and PPE, in terms of logistics and inventory planning.
+
+ 
+
+    IamYIAM
+
+IamYIAM strongly believes prevention is better than cure, personalisation is better than pigeonholing, and being healthy means treating a whole human life, not merely a subset of it. 
+
+This is where their AI virtual health companion, See Yourself Differently (SYD), comes in. The app analyses four key drivers—lifestyle choices, genetic makeup, social circumstances, and healthcare system to determine quality of life and performance.
+
+![](/images/SWITCH_2020-IAMYIAM.png)
