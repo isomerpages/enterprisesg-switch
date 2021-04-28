@@ -13,7 +13,7 @@ A strong advocator of globalisation, Tim Draper believed that entrepreneurs shou
 
 During his panel at SWTICH, Tim Draper revealed the key elements he looks for in an entrepreneur.
 
-*“When I meet entrepreneurs, what I'm really looking for is: Is this your passion? Is this your love? Is this really what you want to spend your life doing? And is it a big enough thing for you to make happen? And is that a big enough deal?"*
+> “When I meet entrepreneurs, what I'm really looking for is: Is this your passion? Is this your love? Is this really what you want to spend your life doing? And is it a big enough thing for you to make happen? And is that a big enough deal?"
 
 In his closing remarks, he asserted that it is going to be these entrepreneurs that will take us outside of COVID-19, that wll make us more global and interconnected—and this will allow us to achieve the extraordinaries in our generation.
 
