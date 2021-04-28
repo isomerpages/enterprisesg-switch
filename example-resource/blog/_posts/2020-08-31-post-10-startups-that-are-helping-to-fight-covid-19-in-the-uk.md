@@ -48,4 +48,6 @@ They have thousands of locum healthcare workers on their app, accessing function
 
     FarmaTrust
 
-FarmaTrust is a UK-based Artificial Intelligence (AI) and blockchain company active in the medical supply chain industry since 2017. FarmaTrust combines its expertise in blockchain and AI to ensure the integrity of pharmaceutical supply chains during the COVID-19 pandemic. 
+FarmaTrust is a UK-based Artificial Intelligence (AI) and blockchain company active in the medical supply chain industry since 2017. FarmaTrust combines its expertise in blockchain and AI to ensure the integrity of pharmaceutical supply chains during the COVID-19 pandemic.
+
+![](/images/SWITCH_2020-FarmaTrust.png)
