@@ -94,32 +94,21 @@ AMPLYFI developed the ‘Coronavirus Gateway’, a public search engine connecti
 
 ![](/images/SWITCH_2020-Amplyfi.png)
 
-Coronavirus Gateway connects to a wide variety of leading news, government, academic, and other renowned sources around the globe to provide the latest and most relevant information as possible. 
+Coronavirus Gateway connects to a wide variety of leading news, government, academic, and other renowned sources around the globe to provide the latest and most relevant information as possible.
 
- 
+Statistics displayed are all verified and exclude reported unofficial numbers from some locations. Since its launch in March, the gateway has been visited around 20,000 times by users from over 80 countries.
 
-Statistics displayed are all verified and exclude reported unofficial numbers from some locations. Since its launch in March, the gateway has been visited around 20,000 times by users from over 80 countries. 
-
- 
-
-The global map shows the confirmed status of cases around the world, and hovering over the graphic shows the official statistics for each specific location. Clicking on a location on the map shows more specific content relating to Diagnosis, Prevention, Travel, etc. The Topic Wheel enables users to drill down further to explore specific areas of interest. 
-
- 
+The global map shows the confirmed status of cases around the world, and hovering over the graphic shows the official statistics for each specific location. Clicking on a location on the map shows more specific content relating to Diagnosis, Prevention, Travel, etc. The Topic Wheel enables users to drill down further to explore specific areas of interest.
 
 Ensuring the right information is easily accessible will combat the fake news surrounding COVID-19, empowering the people to do what’s right.
 
- 
-
-    Unmanned Life
+### Unmanned Life
 
 Although robots have shown their worth in the battle against COVID-19 and in the prevention of future pandemics, many of these systems still lack scalability and flexibility. Unmanned Life’s Autonomy-as-a-Service software platform enables fully autonomous robotic swarms.
 
- 
-
-Unmanned Life’s platform is a single management interface with a centralised control platform, integrating robotic systems with different capabilities and functions into one autonomous robot team. 
-
- 
+Unmanned Life’s platform is a single management interface with a centralised control platform, integrating robotic systems with different capabilities and functions into one autonomous robot team.
 
 The central control platform, which eliminates the need for multiple operators, acts as the brain of all connected robots and allows them to work together to achieve specific goals as one autonomous robot team. This enables autonomous robot teams to assist governments, law enforcement agencies, and healthcare workers in the battlefields against COVID-19.
 
 ![](/images/SWITCH_2020-Unmanned_Life.jpg)
+
