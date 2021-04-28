@@ -39,5 +39,8 @@ During *Digital Desert: Innovating for Water Resilience*, an interactive dialogu
 
 ![](/images/SWITCH_2020-Digital_Water_5.jpg)
 
+![](/images/SWITCH_2020-Digital_Water_6.jpg)
+
 ![](/images/SWITCH_2020-Digital_Water_7.jpg)
 
+<sup>Imagine H2O Asia startups Fluid Robotics; SmartTerra; SpaceAge Labs</sup>
