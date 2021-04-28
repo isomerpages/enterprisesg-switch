@@ -112,3 +112,18 @@ The central control platform, which eliminates the need for multiple operators, 
 
 ![](/images/SWITCH_2020-Unmanned_Life.jpg)
 
+Unmanned Life’s solution offers assistance in enforcing lockdowns and social distancing, making public announcements, tracking people with fever, disinfecting indoor and outdoor spaces, and carrying out last-mile deliveries of food, medicine, and other goods to those in isolation. It also helps in the transportation of test samples from test centres to hospitals, and urgent medical supplies to test centres.
+
+### DeepMind 
+
+DeepMind is an AI research organisation made up of scientists, engineers, and machine learning experts. In support of the global scientific community’s research effort to understand COVID-19 better, DeepMind released structure predictions for six proteins associated with it.
+
+DeepMind’s AlphaFold deep learning system generates 3D protein structures based solely on genetic sequences. They are said to produce the most accurate 3D models of proteins available, which is a huge progress in a core challenge of biology.
+
+Their team focused specifically on modelling target shapes from scratch, without using previously solved proteins as templates. These protein structure predictions have matched experimentally-determined protein structures with a good degree of accuracy, but more work is required before this system can have real-world applications.
+
+DeepMind started in London, and has offices located in Canada, France, and the US, and is constantly collaborating with interdisciplinary experts to advance the state of the art in AI research and help solve other scientific challenges.
+
+### Preparing for the future
+
+With the lessons learned from COVID-19, these ten future-ready startups—and many others like them—are in a good position to help us better prepare for the next emergency that comes our way. The future of the healthtech industry is promising, and we will be exploring more of these trends at SWITCH 2020.
