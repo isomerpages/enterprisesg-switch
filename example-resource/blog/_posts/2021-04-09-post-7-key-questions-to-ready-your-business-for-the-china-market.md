@@ -3,6 +3,8 @@ title: 7 key questions to ready your business for the China market
 date: 2021-04-09
 permalink: /blog/ready-your-business-for-china-market
 ---
+_This article was [first published](https://www.enterprisesg.gov.sg/blog/7-key-questions-to-ready-your-business-for-the-china-market) on Enterprise Singapore on 9 April 2021_
+
 ### We’ve compiled the top tips and growth hacks you need to know for success in Asia’s largest economy.
 
 Have you ever experienced difficulties with mobile payments in China? Cashless payment may be a breeze for locals, but it has been a challenge for many foreigners without a local bank account to authorise mobile payments. International credit cards are not widely accepted as well.
