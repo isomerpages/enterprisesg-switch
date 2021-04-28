@@ -52,3 +52,7 @@ This is where their AI virtual health companion, See Yourself Differently (SYD),
 
 ![](/images/SWITCH_2020-IAMYIAM.png)
 
+Since health is even more crucial during the COVID-19 crisis in the UK, IamYIAM has extended free access to SYD to all working from home, patients, and emergency staff. The demand for SYD has increased during this period, with most users selecting the COVID-19-specific goal in the app, providing them with daily recommendations to keep physically and mentally fit while confined at home.
+
+![](/images/SWITCH_2020-IAMYIAM_2.png)
+
