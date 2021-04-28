@@ -90,7 +90,7 @@ During the crisis, Huma’s solution allows hospitals to continuously monitor an
 
 ### AMPLYFI
 
-AMPLYFI developed the ‘Coronavirus Gateway’, a public search engine connecting to leading information sites, to create a one-stop shop for the best available information on the pandemic. 
+AMPLYFI developed the [‘Coronavirus Gateway’](https://coronavirusgateway.com/corona/desktop/en/search.html), a public search engine connecting to leading information sites, to create a one-stop shop for the best available information on the pandemic. 
 
 ![](/images/SWITCH_2020-Amplyfi.png)
 
