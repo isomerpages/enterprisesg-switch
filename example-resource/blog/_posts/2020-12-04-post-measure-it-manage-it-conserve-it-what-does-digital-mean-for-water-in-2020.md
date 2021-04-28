@@ -13,3 +13,4 @@ Countries across ASEAN find themselves on the frontlines with a growing share of
 
 ![](/images/SWITCH_2020-Digital_Water_2.jpg)
 
+<sup>Global Climate Risk Index 2020 reported that 7 out of the top 10 countries most impacted by flooding and other adverse events over the past 10 years are in the Asia-Pacific</sup>
