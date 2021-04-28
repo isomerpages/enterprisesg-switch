@@ -116,9 +116,9 @@ Unmanned Life’s solution offers assistance in enforcing lockdowns and social d
 
 ### DeepMind 
 
-DeepMind is an AI research organisation made up of scientists, engineers, and machine learning experts. In support of the global scientific community’s research effort to understand COVID-19 better, DeepMind released structure predictions for six proteins associated with it.
+DeepMind is an AI research organisation made up of scientists, engineers, and machine learning experts. In support of the global scientific community’s research effort to understand COVID-19 better, DeepMind released [structure predictions for six proteins](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19) associated with it.
 
-DeepMind’s AlphaFold deep learning system generates 3D protein structures based solely on genetic sequences. They are said to produce the most accurate 3D models of proteins available, which is a huge progress in a core challenge of biology.
+DeepMind’s [AlphaFold](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery) deep learning system generates 3D protein structures based solely on genetic sequences. They are said to produce the most accurate 3D models of proteins available, which is a huge progress in a core challenge of biology.
 
 Their team focused specifically on modelling target shapes from scratch, without using previously solved proteins as templates. These protein structure predictions have matched experimentally-determined protein structures with a good degree of accuracy, but more work is required before this system can have real-world applications.
 
