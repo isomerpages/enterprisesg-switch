@@ -44,3 +44,9 @@ During *Digital Desert: Innovating for Water Resilience*, an interactive dialogu
 ![](/images/SWITCH_2020-Digital_Water_7.jpg)
 
 <sup>Imagine H2O Asia startups Fluid Robotics; SmartTerra; SpaceAge Labs</sup>
+
+Imagine H2O Asia offers a front-row seat to digital water in action: AI-powered analytics, provided by SmartTerra, help Indian cities reduce water losses due to leaky pipes; Water quality sensors, offered by Environsens, provide utilities with early-detection of unexpected or illegal discharge into sewer networks; and IOT platforms, delivered by SpaceAge Labs, enable low-power wireless data transmission to monitor the health of remote infrastructure assets in real-time.  
+
+However, big data and analytics are no longer standalone technologies for the water sector. Increasingly, these tools must be integrated across the lifecycle of water and wastewater infrastructure – from design and construction to operations and maintenance. Across the ten companies selected for Imagine H2O Asia 2020, digital water is par for the course. As SWITCH convenes global tech leaders for a week of knowledge sharing and networking next week, the opportunity is ripe to showcase these innovators and elevate the role of technology in managing the world’s most precious resource.
+
+**Join Imagine H2O Asia and partners at Digital Desert: Innovating for Water Resilience (December 7, 7 – 8 PM SGT). You can learn more about Imagine H2O Asia and its 2020 cohort at the Imagine H2O Asia Digital Booth at SWITCH (December 7-11) or visit [www.imagineh2o.org/asia](https://www.imagineh2o.org/asia).**
