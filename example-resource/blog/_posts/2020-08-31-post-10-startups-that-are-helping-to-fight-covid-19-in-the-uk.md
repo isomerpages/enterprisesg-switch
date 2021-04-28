@@ -66,7 +66,7 @@ Current Health offers advanced remote patient monitoring platform using propriet
 
 Current Health’s solution even offers the capability to monitor patients based on hospital-controlled protocols and send fully-managed kits to a patient's home. These work together to help the healthcare system reduce COVID-19 readmissions, increase reimbursement, and improve the experience of both patients and healthcare workers.
 
-Tapping on their expertise in Artificial Intelligence (AI), they plan to roll out a next-gen wearable device later in the year that will be the smallest in the world.
+Tapping on their expertise in Artificial Intelligence (AI), they plan to roll out a [next-gen wearable device later in the year that will be the smallest in the world](https://currenthealth.com/product).
 
 ### Inavya
 
