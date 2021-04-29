@@ -5,6 +5,8 @@ permalink: /about-us/switch-2020
 # The SWITCH Impact
 ![](/images/impact-02.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y7WknG7XgKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ## Legendary leaders who spoke
