@@ -1,8 +1,9 @@
 ---
-title: Switch 2020 Q and A With Timothy Draper Founding Partner Of Draper Associates
+title: Q and A With Timothy Draper Founding Partner Of Draper Associates
 date: 2020-12-10
 permalink: /blog/switch-2020-timothy-draper-associates
 ---
+
 
 As a renowned global venture capital investor and founder of Draper Associates, Draper Fisher Jurvetson (DFJ) and the Draper Venture Network, a global network of venture capital funds, Timothy (Tim) Draper had helped innumerable entrepreneurs drive their visions. Some of the most prominent investments that Draper had made over the years includes, but not limited to, Baidu, Hotmail, Skype, Tesla, SpaceX, Twitter, Coinbase and Twitch.
 

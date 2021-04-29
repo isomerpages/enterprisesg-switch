@@ -6,3 +6,5 @@ links:
     collection: about-us
   - title: Blog
     url: /example-resource/blog/
+  - title: Register Interest
+    url: /interest
