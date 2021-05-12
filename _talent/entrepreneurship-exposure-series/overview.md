@@ -21,5 +21,4 @@ An exclusive series like no other: Industry experts from different ecosystem bod
 Network with other youth attendees relevant to your projects and ventures. With virtual networking features like face-to-face meetings and networking lounge, Talent @ SWITCH will be where you make meaningful connections.
 
 # Interested? 
-Apply now!
-
+Register for the series here!
