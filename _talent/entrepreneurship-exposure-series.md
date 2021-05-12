@@ -1,5 +1,6 @@
 ---
 title: Entrepreneurship Exposure Series
-permalink: /ees
+permalink: /talent/ees
 ---
+
 abc
