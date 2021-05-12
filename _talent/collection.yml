@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - entrepreneurship-exposure/.keep
+      - entrepreneurship-exposure/apply-now.md
