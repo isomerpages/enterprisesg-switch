@@ -4,5 +4,6 @@ collections:
     order:
       - job-shadowing-internship/.keep
       - job-shadowing-internship/join-us.md
+      - job-shadowing-internship/overview.md
       - entrepreneurship-exposure/.keep
       - entrepreneurship-exposure/apply-now.md
