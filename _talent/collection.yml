@@ -1,5 +1,4 @@
 collections:
   talent:
     output: true
-    order:
-      - job-shadowing-internship.md
+    order: []
