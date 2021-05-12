@@ -1,4 +1,5 @@
 collections:
   talent:
     output: true
-    order: []
+    order:
+      - entrepreneurship-exposure/.keep
