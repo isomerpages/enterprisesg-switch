@@ -2,5 +2,6 @@ collections:
   talent:
     output: true
     order:
+      - job-shadowing-internship/.keep
       - entrepreneurship-exposure/.keep
       - entrepreneurship-exposure/apply-now.md
