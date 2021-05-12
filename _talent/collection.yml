@@ -2,9 +2,9 @@ collections:
   talent:
     output: true
     order:
-      - entrepreneurship-exposure-series/.keep
-      - entrepreneurship-exposure-series/overview.md
-      - entrepreneurship-exposure-series/apply-now.md
+      - entrepreneurship-exposure/.keep
+      - entrepreneurship-exposure/overview.md
+      - entrepreneurship-exposure/apply-now.md
       - job-shadowing-internship/.keep
       - job-shadowing-internship/overview.md
       - job-shadowing-internship/join-us.md
