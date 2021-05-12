@@ -8,3 +8,5 @@ links:
     url: /example-resource/blog/
   - title: Register Interest
     url: /interest
+  - title: Talent
+    collection: talent
