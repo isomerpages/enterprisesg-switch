@@ -19,14 +19,14 @@ This role allows you to be involved in the planning and execution of SWITCH, as 
 Looking for a job that will hone your skills in entrepreneurship, business or marketing? Get your chance to learn directly from a SWITCH manager while being a part of the planning, operations and business development of SWITCH.
 
 
-# Created to suit the semester - part-time; 10 hours a week, from 30 July to 12 November *(We respect your time to accomplish your assignments and exams)*
+# Created to suit the semester - part-time; 10 hours a week, from 30 July to 12 November 
 
 Planning your timetables and thinking of additional internships to maximise your semester? Invest 10 hours a week with us and embark on a journey of invaluable industry knowledge and skills.
 
 ![Alt text for image on Isomer site](/images/Youth3.jpg)
-# Get exclusive access to our Entrepreneurship Exposure Series by being there physically - only for our job-shadows
+# Get exclusive access to our Entrepreneurship Exposure Series
 
-Get priority access to attending our live-streamed Entrepreneurship Exposure Series physically, where speakers from top companies share their knowledge on startups, innovation and upskilling.
+Get priority access to attending our live-streamed Entrepreneurship Exposure Series, where speakers from top companies share their knowledge on startups, innovation and upskilling.
 # 3 exciting roles:
 ![Alt text for image on Isomer site](/images/Youth1.jpg)
 # 1. Partnerships
@@ -37,7 +37,7 @@ Are you a people-person with strong communication and organisational skills? Joi
 
 Have a flair for design and copywriting? Help in creating and executing our marketing campaigns, evaluating our marketing performance metrics, and collaborating with internal teams. 
 
-![Alt text for image on Isomer site](/images/Hybrid%204.jpg)
+![Alt text for image on Isomer site](/images/SWITCH%20Connect%202.jpg)
 # 3. Event Management
 
 An aspiring producer with endless creativity in content creation and like to gain hands-on experience managing and executing events? Aid with the pre-during-post production of all aspects of SWITCH - get involved in the backstage of the event.
