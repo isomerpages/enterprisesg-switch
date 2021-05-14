@@ -10,7 +10,7 @@ Entrepreneurship Exposure Series @ SWITCH consisting of bi-weekly industry-led s
 
 Through exclusive sharing sessions by established speakers in the startup and innovation ecosystem, attendees will gain valuable insights from the eyes of Singaporean and International entrepreneurs, investors, government and corporate players - understanding entrepreneurship from a holistic view.
 
-Limited slots available! Application opens on 18 May 2021. Stay tuned and follow our Facebook for more!
+Stay tuned and follow our Facebook for more information!
 
 ![Alt text for image on Isomer site](/images/Others.jpg)
 # Explore future career opportunities
