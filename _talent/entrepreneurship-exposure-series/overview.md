@@ -22,7 +22,7 @@ An exclusive series like no other: Industry experts from different ecosystem bod
 
 ![Alt text for image on Isomer site](/images/Youth4.jpg)
 # Connect with fellow future entrepreneurs
-Network with other youth attendees relevant to your projects and ventures. With virtual networking features like face-to-face meetings and networking lounge, Talent @ SWITCH will be where you make meaningful connections.
+Network with other youth attendees relevant to your projects and ventures. With virtual networking features like one-to-one meetings and networking lounge, Talent @ SWITCH will be where you make meaningful connections.
 
 # Interested? 
 Register for the series here!
