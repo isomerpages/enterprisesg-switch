@@ -42,6 +42,6 @@ Have a flair for design and copywriting? Help in creating and executing our mark
 
 An aspiring producer with endless creativity in content creation and like to gain hands-on experience managing and executing events? Aid with the pre-during-post production of all aspects of SWITCH - get involved in the backstage of the event.
 
-Download the detailed job descriptions here [Example Filename](/files/SWITCH%20Job%20Shadowing%20Internship_Job%20Descriptions.pdf).
+Download the detailed job descriptions here: [Example Filename](/files/SWITCH%20Job%20Shadowing%20Internship_Job%20Descriptions.pdf).
 # Join Us
 Apply to be a job shadow @ SWITCH [here](https://www.switchsg.org/talent/job-shadowing-internship/join-us)! Limited vacancies of 30 job shadows.
