@@ -24,6 +24,9 @@ Looking for a job that will hone your skills in entrepreneurship, business or ma
 Planning your timetables and thinking of additional internships to maximise your semester? Invest 10 hours a week with us and embark on a journey of invaluable industry knowledge and skills.
 
 ![Alt text for image on Isomer site](/images/Youth3.jpg)
+## Get exclusive access to our Entrepreneurship Exposure Series as your training
+All job shadows will be given exclusive access to attend our Entrepreneurship Exposure Series (hyperlink) as a training programme, which consists of bi-weekly industry-led sessions from August to October. You will get the opportunity to hear from established speakers in the international entrepreneurship ecosystem on startups, innovation and upskilling. 
+
 ## 3 exciting roles
 ![Alt text for image on Isomer site](/images/Youth1.jpg)
 ### 1. Partnerships
@@ -40,8 +43,5 @@ Have a flair for design and copywriting? Help in creating and executing our mark
 An aspiring producer with endless creativity in content creation and like to gain hands-on experience managing and executing events? Aid with the pre-during-post production of all aspects of SWITCH - get involved in the backstage of the event.
 
 Download the detailed job descriptions here (hyperlink).
-## Get exclusive access to our Entrepreneurship Exposure Series as your training
-All job shadows will be given exclusive access to attend our Entrepreneurship Exposure Series (hyperlink) as a training programme, which consists of bi-weekly industry-led sessions from August to October. You will get the opportunity to hear from established speakers in the international entrepreneurship ecosystem on startups, innovation and upskilling. 
-
 # Join Us
 Apply to be a job shadow @ SWITCH here (hyperlink)!
