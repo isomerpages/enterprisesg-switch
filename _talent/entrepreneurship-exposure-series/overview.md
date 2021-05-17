@@ -39,7 +39,7 @@ Deep dive into the startup and innovation ecosystem and take away exclusive insi
 
 **Key takeaways:** Organisations are increasingly  developing their employees to be intrapreneurs - corporate entrepreneurs with a startup mindset who can challenge the company’s way of thinking and create new kinds of value through innovation, unique business models, organisational renewal projects, and networking within the organisation to effectively communicate innovative concepts. Learn all about how you can work your way into becoming an intrapreneur in this concluding session.
 
-# Reasons why you should attend:
+# Why you should attend:
 ![Alt text for image on Isomer site](/images/Others%202.jpg)
 ## Deep dive into the startup ecosystem from the lens of different players
 Acquire exclusive and actionable knowledge and tips from industry experts from different ecosystem bodies - Singaporean and International startups, investors, government and corporations - gathered for your full understanding of entrepreneurship as an ecosystem.
