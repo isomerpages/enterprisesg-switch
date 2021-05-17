@@ -22,7 +22,7 @@ Deep dive into the startup and innovation ecosystem and take away exclusive insi
 
 **Theme:** Get into the minds of **investors** to find out what they look for in startups and the winning formula.
 
-**Key takeaways:** Learn d
+**Key takeaways:** What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Find out from investors on the key milestones of the startup development journey - from concept and product development to market validation and finally, to getting your startup idea funded.
 
 #### Session 3
 What makes the success of  **Singaporean startups**? Gain exclusive access to knowledge on launching a startup from **prominent local founders**. 
