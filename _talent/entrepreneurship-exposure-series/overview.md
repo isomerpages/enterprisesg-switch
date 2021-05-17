@@ -13,31 +13,31 @@ Deep dive into the startup and innovation ecosystem and take away exclusive insi
 ### Overview of the 5-sessions series:
 
 #### Session 1
-**Theme:**  Discover **the global startup landscape** from the eyes of **government and corporate players** who are actively shaping it.
+Discover **the global startup landscape** from the eyes of **government and corporate players** who are actively shaping it.
 
-**Key takeaways:** Learn directly from the regulators and corporates who set the rules of the game and understand how their key initiatives and regulatory frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
+**Synopsis:** Learn directly from the regulators and corporates who set the rules of the game and understand how their key initiatives and regulatory frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
 
 #### Session 2
 
-**Theme:** Get into the minds of **investors** to find out what they look for in startups and the winning formula.
+Get into the minds of **investors** to find out what they look for in startups and the winning formula.
 
-**Key takeaways:** What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what determines the success of the key milestones of a startup development journey - from concept and product development to market validation and getting your startup idea funded.
+**Synopsis:** What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what determines the success of the key milestones of a startup development journey - from concept and product development to market validation and getting your startup idea funded.
 
 #### Session 3
-**Theme:** What makes the success of  **Singaporean startups**? Gain exclusive access to knowledge on launching a startup from **prominent local founders**. 
+What makes the success of  **Singaporean startups**? Gain exclusive access to knowledge on launching a startup from **prominent local founders**. 
 
-**Key takeaways:** Learn the ropes of launching a startup from Singaporean founders who have treaded the path on what worked and did not work for them in their startup development journey - be it coming up with a good business idea or getting market validation and scaling their idea.
+**Synopsis:** Learn the ropes of launching a startup from Singaporean founders who have treaded the path on what worked and did not work for them in their startup development journey - be it coming up with a good business idea or getting market validation and scaling their idea.
 
 #### Session 4
 
-**Theme:** How is it like to **launch a startup overseas**? Get deep insights from **an international startup** on the differences of Singapore's startup ecosystem compared to other countries. 
+How is it like to **launch a startup overseas**? Get deep insights from **an international startup** on the differences of Singapore's startup ecosystem compared to other countries. 
 
-**Key takeaways:** Find out from an international startup founder on how a particular city's startup ecosystem differ from another, in terms of whether it has a supportive and dense network, which is a critical mass of investors, research institutes, local government backers, and effective intermediaries like entrepreneurship support groups. This will determine the access and cost to network building with other stakeholders. Other differences include the ecosystem's areas of innovation focus, funding support and policies from the government.
+**Synopsis:** Find out from an international startup founder on how a particular city's startup ecosystem differ from another, in terms of whether it has a supportive and dense network, which is a critical mass of investors, research institutes, local government backers, and effective intermediaries like entrepreneurship support groups. This will determine the access and cost to network building with other stakeholders. Other differences include the ecosystem's areas of innovation focus, funding support and policies from the government.
 
 #### Session 5
-**Theme:** Why having an **intrapreneurial spirit** is important for your career and how you can cultivate one.
+Why having an **intrapreneurial spirit** is important for your career and how you can cultivate one.
 
-**Key takeaways:** Organisations are increasingly  developing their employees to be intrapreneurs - corporate entrepreneurs with a startup mindset who can challenge the company’s way of thinking and create new kinds of value through innovation, unique business models, organisational renewal projects, and networking within the organisation to effectively communicate innovative concepts. Learn all about how you can work your way into becoming an intrapreneur in this concluding session.
+**Synopsis:** Organisations are increasingly  developing their employees to be intrapreneurs - corporate entrepreneurs with a startup mindset who can challenge the company’s way of thinking and create new kinds of value through innovation, unique business models, organisational renewal projects, and networking within the organisation to effectively communicate innovative concepts. Learn all about how you can work your way into becoming an intrapreneur in this concluding session.
 
 # Why you should attend:
 ![Alt text for image on Isomer site](/images/Others%202.jpg)
