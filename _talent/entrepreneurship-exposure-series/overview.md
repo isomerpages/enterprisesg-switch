@@ -25,7 +25,9 @@ Deep dive into the startup and innovation ecosystem and take away exclusive insi
 **Key takeaways:** What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what determines the success of the key milestones of a startup development journey - from concept and product development to market validation and getting your startup idea funded.
 
 #### Session 3
-What makes the success of  **Singaporean startups**? Gain exclusive access to knowledge on launching a startup from **prominent local founders**. 
+**Theme:** What makes the success of  **Singaporean startups**? Gain exclusive access to knowledge on launching a startup from **prominent local founders**. 
+
+**Key takeaways:** Learn the ropes of launching a startup from Singaporean founders who have treaded the path on what worked and did not work for them in their startup development journey - be it coming up with a good business idea or getting market validation and scaling their idea.
 
 #### Session 4
 
