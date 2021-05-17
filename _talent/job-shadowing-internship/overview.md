@@ -44,4 +44,4 @@ An aspiring producer with endless creativity in content creation and like to gai
 
 Download the detailed job descriptions here (hyperlink).
 # Join Us
-Apply to be a job shadow @ SWITCH here (hyperlink)! Limited vacancies of 30 job shadows.
+Apply to be a job shadow @ SWITCH [here](https://www.switchsg.org/talent/job-shadowing-internship/join-us)! Limited vacancies of 30 job shadows.
