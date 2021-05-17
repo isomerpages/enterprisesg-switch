@@ -28,7 +28,7 @@ Acquire exclusive knowledge from industry experts from different ecosystem bodie
 
 ![Alt text for image on Isomer site](/images/Others.jpg)
 # Embark on your career exploration journey
-Interested in a startup or innovation career but not sure about how the ecosystem works? Learn from the experience of speakers and mentors who have already achieved success in their journey.
+Interested in a startup or innovation career but not sure about how the ecosystem works? Learn and find out more from the experience of speakers and mentors who have already achieved success in their journey.
 
 ![Alt text for image on Isomer site](/images/Youth4.jpg)
 # Connect with fellow future entrepreneurs
