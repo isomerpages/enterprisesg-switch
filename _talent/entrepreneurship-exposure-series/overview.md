@@ -10,7 +10,6 @@ Entrepreneurship Exposure Series @ SWITCH consisting of bi-weekly industry-led s
 
 Deep dive into the startup and innovation ecosystem and take away exclusive insights from different stakeholders speaking and mentoring at our series - Singaporean and International entrepreneurs, investors, government and corporate players.
 
-
 ### Overview of the 5-sessions series:
 
 #### Session 1
@@ -40,8 +39,6 @@ Why having an **intrapreneurial spirit** is important for your career and how yo
 
 **Key takeaways:** Organisations are increasingly  developing their employees to be intrapreneurs -corporate entrepreneurs with a startup mindset who can challenge the company’s way of thinking and create new kinds of value through innovation, unique business models, organisational renewal projects, and networking within the organisation to effectively communicate innovative concepts. Learn all about how you can work your way into becoming an intrapreneur in this concluding session.
 
-The series will not only equip you with the knowledge on entrepreneurship and innovation, but also the increased confidence and ability to sustain conversations and network with players in the ecosystem, bringing you nearer to starting your entrepreneurship journey.
-
 ![Alt text for image on Isomer site](/images/Others%202.jpg)
 ## Deep dive into the industry from the lens of different players
 Acquire exclusive knowledge from industry experts from different ecosystem bodies - Singaporean and International startups, investors, government and corporations - gathered for your full understanding of entrepreneurship as an ecosystem.
@@ -49,6 +46,8 @@ Acquire exclusive knowledge from industry experts from different ecosystem bodie
 ![Alt text for image on Isomer site](/images/Others.jpg)
 ## Embark on your career exploration journey
 Interested in a startup or innovation career but not sure about how the ecosystem works? Learn and find out more from the experience of speakers and mentors who have already achieved success in their journey.
+
+If you wish to pursue a startup career after the series, the sessions would have not only equipped you with the knowledge on entrepreneurship and innovation, but also the increased confidence and ability to sustain conversations and network with players in the ecosystem, bringing you nearer to starting your entrepreneurship journey.
 
 ![Alt text for image on Isomer site](/images/Youth4.jpg)
 ## Connect with fellow future entrepreneurs
