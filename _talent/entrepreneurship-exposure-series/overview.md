@@ -54,4 +54,4 @@ If you wish to pursue a startup career after the series, the sessions would have
 ## Connect with fellow future entrepreneurs
 Network with other youth attendees relevant to your projects and ventures. With virtual networking features like one-to-one meetings and networking lounge, Talent @ SWITCH will be where you make meaningful connections.
 
-Stay tuned and follow our Facebook (hyperlink) for more information!
+Stay tuned and follow our [Facebook](https://www.facebook.com/SwitchSingapore/) for more information!
