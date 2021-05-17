@@ -24,7 +24,7 @@ Looking for a job that will hone your skills in entrepreneurship, business or ma
 Planning your timetables and thinking of additional internships to maximise your semester? Invest 10 hours a week with us and embark on a journey of invaluable industry knowledge and skills. Work schedule is flexible and tentatively, you will be working 5 hours in the office and 5 hours from home.
 
 ![Alt text for image on Isomer site](/images/Youth3.jpg)
-## Get exclusive access to our Entrepreneurship Exposure Series as your training
+## Get exclusive access to the Entrepreneurship Exposure Series as your training programme
 All job shadows will be given exclusive access to attend our Entrepreneurship Exposure Series (hyperlink) as a training programme, which consists of bi-weekly industry-led sessions from August to October. You will get the opportunity to hear from established speakers in the international entrepreneurship ecosystem on startups, innovation and upskilling. 
 
 ## 3 exciting roles
@@ -44,4 +44,4 @@ An aspiring producer with endless creativity in content creation and like to gai
 
 Download the detailed job descriptions here (hyperlink).
 # Join Us
-Apply to be a job shadow @ SWITCH here (hyperlink)! Limited slots of 30 job shadows.
+Apply to be a job shadow @ SWITCH here (hyperlink)! Limited vacancies of 30 job shadows.
