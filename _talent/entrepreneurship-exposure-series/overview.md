@@ -10,7 +10,7 @@ Entrepreneurship Exposure Series @ SWITCH consisting of bi-weekly industry-led s
 
 Deep dive into the startup and innovation ecosystem and take away exclusive insights from different stakeholders speaking and mentoring at our series - Singaporean and International entrepreneurs, investors, government and corporate players.
 
-The series will not only equip you with the knowledge on entrepreneurship and innovation, but also the increased confidence and ability to sustain conversations and network with players in the ecosystem, bringing you nearer to kickstarting your entrepreneurship journey.
+The series will not only equip you with the knowledge on entrepreneurship and innovation, but also the increased confidence and ability to sustain conversations and network with players in the ecosystem, bringing you nearer to starting your entrepreneurship journey.
 
 ![Alt text for image on Isomer site](/images/Others%202.jpg)
 # Deep dive into the industry from the lens of different players
