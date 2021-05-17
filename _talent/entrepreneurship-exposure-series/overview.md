@@ -8,7 +8,7 @@ third_nav_title: Entrepreneurship Exposure Series
 
 Entrepreneurship Exposure Series @ SWITCH consisting of bi-weekly industry-led sessions from August to October, seeks to cultivate knowledge and passion in entrepreneurship among youths. The series is organised by SWITCH and in partnership with National Youth Council and *SCAPE.
 
-Deep dive into the startup and innovation ecosystem and take away exclusive insights from different stakeholders speaking at our series - Singaporean and International entrepreneurs, investors, government and corporate players.
+Deep dive into the startup and innovation ecosystem and take away exclusive insights from different stakeholders speaking and mentoring at our series - Singaporean and International entrepreneurs, investors, government and corporate players.
 
 The series will equip you with the knowledge on entrepreneurship and innovation, but also more importantly, the increased confidence and ability to sustain conversations and network with players in the ecosystem, bringing you nearer to kickstarting your entrepreneurship journey.
 
