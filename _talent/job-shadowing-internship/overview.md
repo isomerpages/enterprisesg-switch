@@ -21,7 +21,7 @@ Looking for a job that will hone your skills in entrepreneurship, business or ma
 
 ## Created to suit the semester - part-time; 10 hours a week, from 30 July to 12 November 
 
-Planning your timetables and thinking of additional internships to maximise your semester? Invest 10 hours a week with us and embark on a journey of invaluable industry knowledge and skills.
+Planning your timetables and thinking of additional internships to maximise your semester? Invest 10 hours a week with us and embark on a journey of invaluable industry knowledge and skills. Work schedule is flexible and tentatively, you will be working 5 hours in the office and 5 hours from home.
 
 ![Alt text for image on Isomer site](/images/Youth3.jpg)
 ## Get exclusive access to our Entrepreneurship Exposure Series as your training
@@ -44,4 +44,4 @@ An aspiring producer with endless creativity in content creation and like to gai
 
 Download the detailed job descriptions here (hyperlink).
 # Join Us
-Apply to be a job shadow @ SWITCH here (hyperlink)!
+Apply to be a job shadow @ SWITCH here (hyperlink)! Limited slots of 30 job shadows.
