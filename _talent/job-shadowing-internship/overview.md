@@ -25,7 +25,7 @@ Planning your timetables and thinking of additional internships to maximise your
 
 ![Alt text for image on Isomer site](/images/Youth3.jpg)
 ## Get exclusive access to the Entrepreneurship Exposure Series as your training programme
-All job shadows will be given exclusive access to attend our Entrepreneurship Exposure Series (hyperlink) as a training programme, which consists of bi-weekly industry-led sessions from August to October. You will get the opportunity to hear from established speakers in the international entrepreneurship ecosystem on startups, innovation and upskilling. 
+All job shadows will be given exclusive access to attend our [Entrepreneurship Exposure Series](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) as a training programme, which consists of bi-weekly industry-led sessions from August to October. You will get the opportunity to hear from established speakers in the international entrepreneurship ecosystem on startups, innovation and upskilling. 
 
 ## 3 exciting roles
 ![Alt text for image on Isomer site](/images/Youth1.jpg)
