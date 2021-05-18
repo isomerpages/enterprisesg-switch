@@ -4,6 +4,8 @@ links:
     collection: highlights
   - title: About Us
     collection: about-us
+  - title: Talent
+    collection: talent
   - title: Blog
     url: /example-resource/blog/
   - title: Register Interest
