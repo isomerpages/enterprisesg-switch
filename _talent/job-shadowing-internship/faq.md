@@ -27,6 +27,8 @@ Yes, a stipend will be provided.
 
 You may apply for this job shadowing internship if you hold a Student Pass issued by the Immigration and Checkpoints Authority (ICA) and if your exchange programme allows you to. Find out if you are eligible [here](https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students).
 
+**How long is the duration of the job shadowing internship and how many hours am I required to work per day?**
 
+It is a 3-month long job shadowing internship and you are required to fulfill 10 hours of work per week. Once you are selected and assigned to a SWITCH Manager, you can work out a work schedule with him or her based on your school timetable.
 
 If you have more questions, contact us at talent@switchsg.org.
