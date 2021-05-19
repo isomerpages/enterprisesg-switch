@@ -5,7 +5,7 @@ third_nav_title: Job Shadowing Internship
 ---
 ![Alt text for image on Isomer site](/images/Job%20Shadowing%20Banner.jpg)
 # Do you have what it takes to organise a tech festival?
-Interested in all things startup, innovation and tech, or even launching one in the future? This is the place you ought to be - Singapore Week of Innovation and Technology (SWITCH), Asia’s leading tech and innovation festival, happening from 8 to 12 November - where the top entrepreneurs, industry leaders and creators congregate. 
+Interested in all things innovation, tech and startup, or even launching one in the future? This is the place you ought to be - Singapore Week of Innovation and Technology (SWITCH), Asia’s leading tech and innovation festival, happening from 8 to 12 November - where the top entrepreneurs, industry leaders and creators congregate. 
 
 Here’s your chance to land a spot in an exclusive job shadowing internship (10-hour a week) at SWITCH 2021, where you will be attached to a SWITCH manager for 3 months and get dedicated guidance and real experience.
 
@@ -21,7 +21,7 @@ Looking for a job that will hone your skills in entrepreneurship, business or ma
 
 ## Created to suit the semester - part-time; 10 hours a week, from 30 July to 12 November 
 
-Planning your timetables and thinking of additional internships to maximise your semester? Invest 10 hours a week with us and embark on a journey of invaluable industry knowledge and skills. Work schedule is flexible and tentatively, you will be working 5 hours in the office and 5 hours from home.
+Planning your timetables and thinking of additional internships to maximise your semester? Invest 10 hours a week with us and embark on a journey of invaluable industry knowledge and skills. Work schedule is flexible.
 
 ![Alt text for image on Isomer site](/images/Youth3.jpg)
 ## Get exclusive access to the Entrepreneurship Exposure Series as your training programme
