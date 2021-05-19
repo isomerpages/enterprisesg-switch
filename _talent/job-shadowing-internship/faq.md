@@ -3,6 +3,7 @@ title: "FAQ "
 permalink: /talent/job-shadowing-internship/faq
 third_nav_title: Job Shadowing Internship
 ---
+# Frequently Asked Questions
 **Do I qualify for the job shadowing internship?**
 
 You qualify for the position as long as you are a student from a tertiary institution and based in Singapore. Tertiary institutions in Singapore include, but not limited to, Junior Colleges, Polytechnics, Institute of Technical Education and Singapore and international Universities. We accept both Singaporean and international students.
@@ -45,4 +46,4 @@ Out of the 10 hours you are required to work per week, you will be working 5 hou
 
 
 
-If you have more questions, contact us at talent@switchsg.org. 
+If you have more questions, contact us at talent@switchsg.org.
