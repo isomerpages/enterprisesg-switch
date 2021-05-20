@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - job-shadowing-internship/.keep
-      - job-shadowing-internship/join-us-test.md
       - entrepreneurship-exposure-series/.keep
       - entrepreneurship-exposure-series/overview.md
