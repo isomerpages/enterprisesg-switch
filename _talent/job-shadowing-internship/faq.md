@@ -18,7 +18,7 @@ Fill up the application form on our website [here](https://www.switchsg.org/tale
 
 **4. What positions are available?**
 
-There are 3 roles available for this job shadowing internship - Partnership, Marketing and Event Management. You can refer to the detailed job descriptions here: [Example Filename](/files/SWITCH%20Job%20Shadowing%20Internship_Job%20Descriptions.pdf).
+There are 3 roles available for this job shadowing internship - Partnership, Marketing and Event Management. You can refer to the detailed job descriptions here: [Download](/files/SWITCH%20Job%20Shadowing%20Internship_Job%20Descriptions.pdf).
 
 **5. Do I need to have prior work experience to apply?**
 
