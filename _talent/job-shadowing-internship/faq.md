@@ -6,7 +6,7 @@ third_nav_title: Job Shadowing Internship
 # Frequently Asked Questions
 **1. Do I qualify for the job shadowing internship?**
 
-You qualify for the position as long as you are a student from a tertiary institution and based in Singapore. Tertiary institutions in Singapore include, but not limited to, Junior Colleges, Polytechnics, Institute of Technical Education and Singapore and international Universities. We accept both Singaporean and international students.
+You qualify for the position if you are a student from a Post-Secondary Education Institution (PSEI) and based in Singapore. PSEIs in Singapore include, but not limited to, Polytechnics, Institute of Technical Education and Singapore and international Universities. We accept both Singaporean and international students.
 
 **2. When do applications close?**
 
