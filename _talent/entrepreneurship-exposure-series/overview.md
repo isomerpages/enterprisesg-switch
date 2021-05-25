@@ -15,7 +15,7 @@ Deep dive into the startup and innovation ecosystem and take away exclusive insi
 #### Session 1
 Discover **the global startup landscape** from the eyes of **government and corporate players** who are actively shaping it.
 
-**Synopsis:** Learn directly from the regulators and corporates who set the rules of the game and understand how their key initiatives and regulatory frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
+**Synopsis:** Learn directly from the regulators and corporates and understand how their key initiatives and regulatory frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
 
 #### Session 2
 
@@ -32,7 +32,7 @@ What makes the success of  **Singaporean startups**? Gain exclusive access to kn
 
 How is it like to **launch a startup overseas**? Get deep insights from **an international startup** on the differences of Singapore's startup ecosystem compared to other countries. 
 
-**Synopsis:** Find out from an international startup founder on how a particular city's startup ecosystem differ from another, in terms of whether it has a supportive and dense network, which is a critical mass of investors, research institutes, local government backers, and effective intermediaries like entrepreneurship support groups. This will determine the access and cost to network building with other stakeholders. Other differences include the ecosystem's areas of innovation focus, funding support and policies from the government.
+**Synopsis:** Find out from an international startup founder on how a particular city's startup ecosystem differs from another, in terms of the support network and intermediaries it offers, which will determine the access and cost to network building with other stakeholders. Other differences include the areas of innovation that the ecosystem including investors and researchers focus on, funding support and policies from the government.
 
 #### Session 5
 Why having an **intrapreneurial spirit** is important for your career and how you can cultivate one.
