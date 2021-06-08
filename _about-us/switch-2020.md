@@ -14,12 +14,6 @@ permalink: /about-us/switch-2020
 
 ---
 
-## Leading companies partner at SWITCH!
-![](/images/platimun%20sponsors.jpg)
-![](/images/other%20top%20partners.jpg)
-
----
-
 ## Media at SWITCH
 ![](/images/media%20partners.jpg)
 
