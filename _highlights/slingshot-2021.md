@@ -22,19 +22,13 @@ Connect with a global network of fellow innovators and entrepreneurs and battle 
 ## Discover promising business ideas and innovative solutions to trends in emerging markets and industries
 Hear from the Top 100 Global Startups and be inspired by their disruptive solutions to today’s challenges. From hot topics such as sustainability to evergreen trends in medtech, these startups continue to explore and push the limits of human ingenuity and creativity.
 
----
-
 ![](/images/SWITCH%20Connect%207.jpg)
 ## Networking
 Rub shoulders with up-and-coming SLINGSHOT founders, global investors and established corporates. The world’s your oyster at SWITCH, as you gain access to the movers-and-shakers of the startup world.
 
----
-
 ![](/images/Networking.jpg)
 ## Find high potential startups to invest in
 Meet SLINGSHOT’s next Grand Winner, plus our top startups with groundbreaking solutions. Will Asia’s next unicorn be amongst them?
-
----
 
 ![](/images/SLINGSHOT%202.jpg)
 ## One stop dealflow enabler
