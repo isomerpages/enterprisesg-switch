@@ -34,7 +34,7 @@ It is a 3-month long job shadowing internship and you are required to fulfill 10
 
 **8. Is there a stipend provided for this job shadowing internship?**
 
-Yes, a stipend of $7 per hour will be provided. 
+Yes, a stipend will be provided. 
 
 **9. How will I know if I am selected?**
 
