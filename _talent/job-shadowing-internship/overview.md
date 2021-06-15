@@ -44,6 +44,6 @@ An aspiring producer with endless creativity in content creation and like to gai
 
 Download the detailed job descriptions here: [Download](/files/SWITCH%20Job%20Shadowing%20Internship_Job%20Descriptions.pdf).
 # Join Us
-Apply to be a job shadow @ SWITCH [here](https://www.switchsg.org/talent/job-shadowing-internship/join-us)! Limited vacancies of 30 job shadows. 
+Apply to be a job shadow @ SWITCH [here](https://www.switchsg.org/talent/job-shadowing-internship/join-us) by 16 July 2021, 2359 (SGT)! Limited vacancies of 30 job shadows. 
 
 For more enquiries, please contact talent@switchsg.org.
