@@ -10,7 +10,7 @@ You qualify for the position if you are a Singaporean or Singaporean PR student 
 
 **2. When do applications close?**
 
-Applications close on 11 July 2021, 2359 (SGT).
+Applications close on 16 July 2021, 2359 (SGT).
 
 **3. How do I apply?**
 
