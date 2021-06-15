@@ -24,19 +24,15 @@ There are 3 roles available for this job shadowing internship - Partnership, Mar
 
 No prior work experience is required, but relevant skills and knowledge as stated in the job descriptions are a bonus.
 
-**6. Can I apply if I am a student on an exchange programme?**
-
-You may apply for this job shadowing internship if you hold a Student Pass issued by the Immigration and Checkpoints Authority (ICA) and if your exchange programme allows you to. Find out if you are eligible [here](https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students).
-
-**7. How long is the duration of the job shadowing internship and how many hours am I required to commit?**
+**6. How long is the duration of the job shadowing internship and how many hours am I required to commit?**
 
 It is a 3-month long job shadowing internship and you are required to fulfill 10 hours of work per week. Once you are selected and assigned to a SWITCH Manager, you can work out a work schedule with him or her based on your school timetable.
 
-**8. Is there a stipend provided for this job shadowing internship?**
+**7. Is there a stipend provided for this job shadowing internship?**
 
 Yes, a stipend will be provided. 
 
-**9. How will I know if I am selected?**
+**8. How will I know if I am selected?**
 
 Selected applicants will be contacted through email.
 
