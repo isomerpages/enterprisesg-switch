@@ -9,7 +9,7 @@ sections:
   - hero:
       title: ASIA'S LEADING TECH FESTIVAL
       subtitle: Singapore Week of Innovation and Technology | 8—12 Nov 2021
-      background: /images/SWITCH Isomer Hero Banner-01.jpg
+      background: /images/Isomer%20Hero%20Banner%20-%20new-01.jpg
       button: Learn more
       url: /about-us/switch-2021
   - infopic:
