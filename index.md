@@ -14,13 +14,13 @@ sections:
       url: /register
       key_highlights:
         - title: SWITCH Connect
-          description: Global innovation trends
+          description: Innovation & Technology Trends
           url: /highlights/switch-connect
         - title: SWITCH Global
-          description: Market expansion and readiness
+          description: Gateway to global markets
           url: /highlights/switch-global
         - title: SLINGSHOT
-          description: Deep tech pitching competition
+          description: Premier startup pitching event
           url: /highlights/slingshot-2021
   - infopic:
       title: The Global Innovation Movement
