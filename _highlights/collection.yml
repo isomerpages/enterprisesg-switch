@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - slingshot/.keep
-      - slingshot/slingshot.md
+      - slingshot/overview.md
       - switch-connect/.keep
       - switch-connect/overview.md
       - switch-connect/what-to-expect-in-2021.md
