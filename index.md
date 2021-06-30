@@ -11,17 +11,17 @@ sections:
       subtitle: Singapore Week of Innovation and Technology | 8—12 Nov 2021
       background: /images/SWITCH_2021_Hero_Banner_01.jpg
       button: Register Your Interest
-      url: /register
+      url: /interest
       key_highlights:
         - title: SWITCH Connect
           description: Innovation & Technology Trends
-          url: /highlights/switch-connect
+          url: /highlights/switch-connect/2021/overview
         - title: SWITCH Global
           description: Gateway to global markets
-          url: /highlights/switch-global
+          url: /highlights/switch-global/2021/overview
         - title: SLINGSHOT
           description: Premier startup pitching event
-          url: /highlights/slingshot-2021
+          url: /highlights/slingshot/2021/overview
   - infopic:
       title: The Global Innovation Movement
       subtitle: Be part of
@@ -37,7 +37,7 @@ sections:
       description: "Gain exclusive insights on cutting-edge innovations and growing
         trends that are transforming the world today. "
       button: Learn more
-      url: /highlights/switch-connect
+      url: /highlights/switch-connect/2021/overview
       image: /images/SWITCH Connect 5.jpg
       alt: SWITCH Connect
   - infopic:
@@ -47,7 +47,7 @@ sections:
         Market Access Sessions and Masterclasses tailored for business growth
         and internationalisation.
       button: Learn more
-      url: /highlights/switch-global
+      url: /highlights/switch-global/2021/overview
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
   - infopic:
@@ -57,7 +57,7 @@ sections:
         and unlock access to global investors, startup resources and attractive
         prizes!"
       button: Apply today!
-      url: /highlights/slingshot-2021
+      url: /highlights/slingshot/2021/overview
       image: /images/SLINGSHOT 2021.jpg
       alt: Image alt text
   - resources:
