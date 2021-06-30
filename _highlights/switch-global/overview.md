@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /highlights/switch-global
+permalink: /highlights/switch-global/2021/overview
 third_nav_title: Switch Global
 ---
+
 
 ![](/images/SWITCH%20Global%203.JPG)
 # Go beyond by connecting at SWITCH Global
