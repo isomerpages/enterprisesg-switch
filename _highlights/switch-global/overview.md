@@ -3,22 +3,18 @@ title: Overview
 permalink: /highlights/switch-global/2021/overview
 third_nav_title: Switch Global
 ---
-
-
-![](/images/SWITCH%20Global%203.JPG)
-# Go beyond by connecting at SWITCH Global
-SWITCH Global consists of Market Access Sessions and Masterclasses. At our Market Access sessions, top business leaders, investors and international government agencies share deep, actionable business knowledge and know-hows on expanding your business in 42 markets around the world. 
-
-Masterclasses @ SWITCH Global partners with world-leading companies to arm entrepreneurs with practical knowledge and tips on digitalisation and internationalisation to get ready for the future.
-
-![](/images/SWITCH%20Global%202.JPG)
-## Direct lead generation
-Beyond panel discussions, our Market Access Sessions and unique platform allow you to connect directly with the host company during or after the sessions to kickstart your internationalisation venture! 
-
 ![](/images/SWITCH%20Global%201.jpg)
-## Grow your business networks internationally
-Identify and gain access to the right opportunities and partners in your target markets, among SWITCH’s exclusive network of top companies and agencies across 42 international markets. 
+# About SWITCH Global
+SWITCH Global is a conference channel that congregates global business and market leaders to discuss and lead on global and local market trends, business strategy and expansion opportunities.
 
-![](/images/Masterclass%201.jpg)
-## Deepen expansion capabilities
-Level up your business strategies at the Masterclasses designed to equip entrepreneurs with actionable knowledge and tips in the areas of fundraising, digitalisation, and expanding to and within Asia.
+Through two curated session types–Market Access and Masterclasses–attendees will benefit from the deep knowledge and experiences of our invited speakers and international partner networks to build their business and internationalisation capabilities.
+
+[Register your interest to attend SWITCH 2021.](/interest)
+
+# Market Access Sessions
+Get to learn more on how to soft-land into an extensive range of 42 markets around the world. Learn about the nuance of local market cultures and business ecosystems, as well as a treasure trove of global opportunities that are waiting to be tapped upon. 
+
+2020’s sessions saw an assembly of market experts from organisations like Enterprise Singapore, JETRO, UK Department of International Trade, Canada High Commission and more!
+
+# Masterclass Sessions
+Acquire actionable knowledge on ways to propel your organisation’s ability to secure funding and develop business capabilities in technology and digitalisation, as well as business expansion opportunities in Singapore and Asia. Our 2020’s Masterclasses saw sessions being hosted by companies like Google, Facebook, Amazon Web Services (AWS) and more! 
