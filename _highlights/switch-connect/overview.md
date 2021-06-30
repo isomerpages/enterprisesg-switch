@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /highlights/switch-connect/switch-2021-overview
+permalink: /highlights/switch-connect/2021-overview
 third_nav_title: Switch Connect
 ---
+
 
 ![](/images/SWITCH%20Connect%203.jpg)
 # Gain innovation insights from industry leaders
