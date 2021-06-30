@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Global-Asia Innovation Festival
       subtitle: Singapore Week of Innovation and Technology | 8—12 Nov 2021
-      background: /images/SWITCH_2021_Hero_Banner_2.jpg
+      background: /images/SWITCH%20Isomer%20Hero%20Banner-01.jpg
       button: Register Your Interest
       url: /register
       key_highlights:
