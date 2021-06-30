@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - switch-connect/.keep
-      - switch-connect.md
       - switch-global.md
       - slingshot.md
