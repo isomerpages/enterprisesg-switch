@@ -7,21 +7,21 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: ASIA'S LEADING TECH FESTIVAL
+      title: Global-Asia Innovation Festival
       subtitle: Singapore Week of Innovation and Technology | 8—12 Nov 2021
       background: /images/SWITCH_2021_Hero_Banner_2.jpg
       button: Register Your Interest
       url: /register
-  - infopic:
-      title: Startups Launch at SLINGSHOT!
-      subtitle: SLINGSHOT 2021
-      description: " Join Asia’s most exciting deep tech startup pitching competition
-        and unlock access to global investors, startup resources and attractive
-        prizes!"
-      button: Apply today!
-      url: /highlights/slingshot-2021
-      image: /images/SLINGSHOT 2021.jpg
-      alt: Image alt text
+      key_highlights:
+        - title: SWITCH Connect
+          description: Global innovation trends
+          url: /highlights/switch-connect
+        - title: SWITCH Global
+          description: Market expansion and readiness
+          url: /highlights/switch-global
+        - title: SLINGSHOT
+          description: Deep tech pitching competition
+          url: /highlights/slingshot-2021
   - infopic:
       title: The Global Innovation Movement
       subtitle: Be part of
@@ -50,6 +50,16 @@ sections:
       url: /highlights/switch-global
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
+  - infopic:
+      title: Startups Launch at SLINGSHOT!
+      subtitle: SLINGSHOT 2021
+      description: " Join Asia’s most exciting deep tech startup pitching competition
+        and unlock access to global investors, startup resources and attractive
+        prizes!"
+      button: Apply today!
+      url: /highlights/slingshot-2021
+      image: /images/SLINGSHOT 2021.jpg
+      alt: Image alt text
   - resources:
       title: News and Happenings
       subtitle: Explore
