@@ -3,26 +3,21 @@ title: "SWITCH Connect 2021: Overview"
 permalink: /highlights/switch-connect/2021/overview
 third_nav_title: Switch Connect
 ---
+![](/images/SWITCH%20Connect%205.jpg)
+# About SWITCH Connect
+SWITCH Connect is a conference channel that brings together global leaders and experts from diverse industries to must-attend conference sessions where discussions on groundbreaking and innovative ideas and technologies that are transforming the world today take place. 
 
+[Register your interest for SWITCH 2021 here.](/register)
 
+# Innovation Insights across key emerging sectors
+Stay ahead of the latest trends and developments in key sectors like Smart Cities & Urban Solutions, Healthcare & Biomedical Sciences, as well as Artificial Intelligence, Robotics & Deep Tech innovations.
 
-![](/images/SWITCH%20Connect%203.jpg)
+[Recap some of our key conference highlights from 2020](https://notes.switchsg.org).
 # Gain innovation insights from industry leaders
 
 SWITCH Connect brings together leaders and experts across industries in a must-attend technology and innovation conference to discuss the ideas and innovations – from smart cities and urban solutions to emerging and sustainable technologies – transforming the world today.
 
-![](/images/Others%203.jpg)
-## Thought leadership
-Be at the forefront of your industry by hosting or speaking at our conference. Lead important conversations on the most current topics in tech and innovation.
+# Hear from inspiring Global thought leaders and innovators
+Over 250 prestigious speakers from a variety of sectors spoke on our Connect stage in 2020, including:
 
-![](/images/Connections.jpg)
-## Networking
-Expand your network by connecting with attendees within your industry and beyond. With virtual networking features such as face-to-face meetings and networking lounges, SWITCH 2021 will be the place to start meaningful conversations.
-
-![](/images/Connections%202.jpg)
-## Collaboration opportunities
-Connect directly with our partners and speakers, global delegation, investors and ecosystem partners relevant to your business. They are on the lookout for the next big idea as much as you are, and you might just find your golden match at SWITCH!
-
-![](/images/SWITCH%20Connect%205.jpg)
-## Acquire exclusive knowledge
-Hear from world leaders who are spearheading change in their fields, learn from their experience, and apply their insights to your innovation journey.
+![Alt text for image on Isomer site](/images/ISOMER%20pages-SPEAKERS-01.jpg)
