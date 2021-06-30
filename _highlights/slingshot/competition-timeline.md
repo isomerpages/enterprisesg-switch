@@ -17,6 +17,10 @@ In this phase, startups who are keen to participate in the SLINGSHOT competition
 * Forecast 2021/2022
 * Team Presentation
 
+[Your idea might just kick start a journey of a lifetime!](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021)
+
+[亚洲最受注目的深科创业大赛， 您准备好了吗](https://slingshot-cn.agorize.com/zh/challenges/2021-edition?t=fX5LOg7F8fnaJvgACrUEbg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021)
+
 Complete your application by 1 August 2021, 23:59 (GMT+8) to participate.
 
 *The Top 500 Global Startups will be announced at a later date*
@@ -34,4 +38,3 @@ SLINGSHOT’s Top 100 Global Startups will pitch on the global stage as part of 
 All **Top 100 Global Startups** will also be invited for deal-making and networking opportunities with corporates and investors from relevant industries during the Virtual Finals.
 
 After the initial pitch, SLINGSHOT 2021’s **Top 10 Sector Winners will be announced on 9 November 2021.**
-
