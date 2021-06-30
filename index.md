@@ -9,9 +9,9 @@ sections:
   - hero:
       title: ASIA'S LEADING TECH FESTIVAL
       subtitle: Singapore Week of Innovation and Technology | 8—12 Nov 2021
-      background: /images/Isomer%20Hero%20Banner%20-%20new-01.jpg
-      button: Learn more
-      url: /about-us/switch-2021
+      background: /images/SWITCH_2021_Hero_Banner_2.jpg
+      button: Register Your Interest
+      url: /register
   - infopic:
       title: Startups Launch at SLINGSHOT!
       subtitle: SLINGSHOT 2021
