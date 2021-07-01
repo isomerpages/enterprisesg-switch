@@ -75,7 +75,7 @@ If you wish to pursue a startup career after the series, the sessions would have
 Network with other youth attendees relevant to your projects and ventures. With virtual networking features like one-to-one meetings and networking lounge, Talent @ SWITCH will be where you make meaningful connections.
 
 # What is involved?
-Applicants of the Entrepreneurship Exposure Series (EES) are required to:
+Participants of the Entrepreneurship Exposure Series (EES) are required to:
 1. Be committed to the series and be there for the respective sessions.
 2. Be proactive in raising questions or insights to the speakers of the panel sessions, if any.
 3. Provide feedback to the organisers about the programme.
