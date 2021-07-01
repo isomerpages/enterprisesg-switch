@@ -6,11 +6,11 @@ third_nav_title: Entrepreneurship Exposure Series
 ![Alt text for image on Isomer site](/images/ees_banner.png)
 # Calling all youths: Hear from industry leaders on entrepreneurship
 
-The Talent @ SWITCH Entrepreneurship Exposure Series (EES), consists of a series of bi-weekly industry-led sessions from August to October, and seeks to increase youths’ knowledge in the global entrepreneurship ecosystem. The series is organised by SWITCH and in partnership with National Youth Council (NYC) and SCAPE.
+The Talent @ SWITCH Entrepreneurship Exposure Series (EES), consists of **a series of bi-weekly industry-led sessions from August to October**, and seeks to increase youths’ knowledge in the global entrepreneurship ecosystem. The series is organised by SWITCH and in partnership with National Youth Council (NYC) and SCAPE.
 
-Deep dive into the startup and innovation ecosystems from the lens of a wide range of stakeholders speaking and mentoring at our series - Singaporean and International entrepreneurs, investors, government and corporate players.
+Deep dive into the startup and innovation ecosystems from the lens of different stakeholders speaking and mentoring at our series - Singaporean and International entrepreneurs, investors, government and corporate players.
 
-The series also includes two complementary programmes - the Talent @ SWITCH Mentorship Programme and Youth Challenge. As part of EES, the former allows youths to get mentored by an experienced professional to gain one-to-one advice on developing career-related skills and becoming investible and hireable, while the Youth Challenge gives them the opportunity to apply their newly acquired knowledge on innovation to real-world challenges.
+The Talent @ SWITCH EES also has two complementary programmes - the Talent @ SWITCH Mentorship Programme and Youth Challenge. As part of EES, the former allows youths to get mentored by an experienced professional to gain one-to-one guidance on developing career-related skills as well as industry knowledge from their mentor, while the Youth Challenge provides youths with the opportunity to acquire valuable experience in solving real-world challenges issued by organisations.
 
 [Applications for the Entrepreneurship Exposure Series will open soon! Follow our Facebook page for the update when registrations open.](https://www.facebook.com/SwitchSingapore/)
 
