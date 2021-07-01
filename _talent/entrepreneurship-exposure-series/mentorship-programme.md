@@ -8,16 +8,18 @@ The Talent @ SWITCH Mentorship Programme is **a structured and skill-based mento
 
 Regardless of whether they decide to be intrapreneurs in a company or entrepreneurs – they will be equipped with the skills and confidence to take it on.
 
-The Mentorship Programme consists of 4 mentoring sessions over 2.5 months and takes place right after each EES session. Interested applicants for this programme are required to apply along with the EES. 
+The Mentorship Programme consists of **4 mentoring sessions over 2.5 months and takes place right after each EES session, between 8pm to 9pm.** Interested applicants for this programme are required to apply along with the EES. 
 
 Limited slots are available - fastest fingers first! 
 
-[Apply for the Mentorship Programme along with the Entrepreneurship Exposure Series here.](https://bit.ly/367daDG)
+[Don't miss your chance to get a mentor - apply for  the Mentorship Programme along with the EES here.](https://bit.ly/367daDG)
 
 # What is the structure of the programme?
 In each session, mentees will prepare for different tasks, each targeting unique skillsets and knowledge - from persuasive pitching to building self-awareness and working towards career goals. Mentors will provide advice regarding their performance, along with sharing of industry knowledge based on their professional expertise. 
 
-Find out more about the programme details here <link to pdf>.
+Find out more about the programme details and schedule below.
+
+![Alt text for image on Isomer site](/images/mentorship%20programme%20schedule.JPG)
 
 # What is involved?
 Mentors are working professionals who are industry experts across various sectors, including current or ex-entrepreneurs. Mentees will book their desired mentor from the list of mentors on the platform.
@@ -36,6 +38,6 @@ Once you are enrolled into this mentorship programme, you are required to be com
 
 # Overall timeline:
 * Sign up for mentorship programme (By 1 August)
-* Briefing session and orientation for mentees (5 August)
+* Briefing session and orientation for mentees (6 August)
 * Mentoring programme kick-off (10 August)
 * End of mentoring programme (21 September)
