@@ -14,6 +14,8 @@ The Talent @ SWITCH EES also has two complementary programmes - the Talent @ SWI
 
 [Applications for the Entrepreneurship Exposure Series will open soon! Follow our Facebook page to get updated when registrations open.](https://www.facebook.com/SwitchSingapore/)
 
+***Read on to find out more about the details of the 5  EES sessions, how you can participate in the EES and its complementary programmes, what is in it for you, and the commitment required for the series.***
+
 ### Overview of the 5-sessions series:
 ![Alt text for image on Isomer site](/images/ees%20schedule.png)
 #### Session 1: Understand the global startup ecosystem
@@ -52,24 +54,24 @@ Why having an **intrapreneurial spirit** is important for your career and how yo
 **Synopsis:** Organisations are increasingly  developing their employees to be intrapreneurs - corporate entrepreneurs with a startup mindset who can challenge the company’s way of thinking and create new kinds of value through innovation, unique business models, organisational renewal projects, and networking within the organisation to effectively communicate innovative concepts. Learn all about how you can work your way into becoming an intrapreneur in this concluding session.
 
 # How can I participate?
-You will have the opportunity to attend the Entrepreneurship Exposure Series, together with its complementary programmes - Mentorship and/or Youth Challenge - in the following ways and combinations.
+You will have the opportunity to apply for the Entrepreneurship Exposure Series (EES), as well as its complementary programmes - the Mentorship Programme **and/or** Youth Challenge - in the same EES registration form. 
+
+You can refer to the below infographic for the different combinations of programmes you can take on and what they entail.
 
 ![Alt text for image on Isomer site](/images/EES_participation.jpeg)
-
-You may choose to sign up for the programme(s) you are keen to join in the registration form.
 # Why you should attend:
 ![Alt text for image on Isomer site](/images/Others%202.jpg)
-## Deep dive into the startup ecosystem from the lens of different players
+### Deep dive into the startup ecosystem from the lens of different players
 Acquire exclusive and actionable knowledge and tips from industry experts from different ecosystem bodies - Singaporean and International startups, investors, government and corporations - gathered for your full understanding of entrepreneurship as an ecosystem.
 
 ![Alt text for image on Isomer site](/images/Others.jpg)
-## Embark on your career exploration journey
+### Embark on your career exploration journey
 Interested in a startup or innovation career but not sure about how the ecosystem works? Learn and find out more from the experience of speakers and mentors who have achieved success in their journey.
 
 If you wish to pursue a startup career after the series, the sessions would have not only equipped you with the knowledge on entrepreneurship and innovation, but also the increased confidence and ability to sustain conversations and network with players in the ecosystem, bringing you nearer to starting your entrepreneurship journey.
 
 ![Alt text for image on Isomer site](/images/Youth4.jpg)
-## Connect with fellow future entrepreneurs
+### Connect with fellow future entrepreneurs
 Network with other youth attendees relevant to your projects and ventures. With virtual networking features like one-to-one meetings and networking lounge, Talent @ SWITCH will be where you make meaningful connections.
 
 # What is involved?
