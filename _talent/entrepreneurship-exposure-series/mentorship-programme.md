@@ -21,7 +21,7 @@ In each session, mentees will prepare for different tasks, each targeting a uniq
 
 Each mentorship session will be one-to-one and 20 minutes long, right after the EES sessions.
 
-![Alt text for image on Isomer site](/images/mentorship%20programme%20schedule.JPG)
+![Alt text for image on Isomer site](/images/mentorship%20programme%20details.JPG)
 
 # What is involved?
 Mentors are working professionals who are industry experts across various sectors, including current or ex-entrepreneurs. Mentees will book their desired mentor from the list of mentors on the platform.
