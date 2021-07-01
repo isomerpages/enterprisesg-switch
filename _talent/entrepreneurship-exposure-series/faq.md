@@ -10,19 +10,21 @@ We accept both Singaporean and international students, including exchange studen
 
 For instance, post-secondary education institutions in Singapore include, but not limited to, Polytechnics, Institute of Technical Education as well as Singapore and international universities. 
 
-**2. Can I apply for the programme now?**
+**2. Is the Entrepreneurship Exposure Series (EES), including the Mentorship Programme and Youth Challenge, open for applications now?**
 
 Applications for the Entrepreneurship Exposure Series (EES), Mentorship Programme and Youth Challenge will open soon - stay tuned to this page!
 
 **3. Can I apply for the Mentorship Programme and/or Youth Challenge in addition to the EES?**
 
-Yes, you may apply to all three programmes and all possible combinations:
+As long as you sign up for the EES, you can apply to its complementary programmes, i.e. the Mentorship Programme **and/or** Youth Challenge in the same EES registration form.
+
+In summary, these are the possible combinations:
 * Just the EES
 * The EES and Mentorship Programme
 * The EES and Youth Challenge
 * All three programmes
 
-You can refer to the below for the different combinations of programmes you can take on and what they entail. Do ensure that you are able to commit to the programmes before applying. 
+You can refer to the below for the different combinations of programmes you can take on and what they entail. Do also ensure that you are able to commit to the programmes before applying. 
 
 ![Alt text for image on Isomer site](/images/EES_participation.jpeg)
 
