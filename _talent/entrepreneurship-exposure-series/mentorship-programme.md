@@ -41,3 +41,9 @@ Once you are enrolled into this mentorship programme, you are required to be com
 * Briefing session and orientation for mentees (6 August)
 * Mentoring programme kick-off (10 August)
 * End of mentoring programme (21 September)
+
+# How can I apply?
+
+Interested applicants for the Talent @ SWITCH Mentorship Programme are required to apply along with the EES. 
+
+Registration will open soon - stay tuned to this page!
