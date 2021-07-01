@@ -34,5 +34,17 @@ ASEAN is rapidly urbanising - 90 million more people within ASEAN are expected t
 
 ### Impact Investing  
 
-Green finance is a crucial component in ASEAN’s effort to bring about sustainable development outcomes, including mitigating and adapting to the adverse effects of climate change. It is estimated that ASEAN needs US$200 billion per year in green investments till 2030. According to global investment management company Fidelity International, Environmental, Social and Governance (ESG)-rated stocks and bonds outperformed their competitors over the first nine months of 2020 and were less vulnerable to the risks associated with market volatility. Furthermore, within the Asia-Pacific region, a survey conducted in September 2020 by global investment research firm MSCI reported that 79% of respondents had significantly or moderately increased their ESG investment as a result of Covid-19 as ASEAN is increasingly focused on green infrastructure developments as a way to drive a sustainable recovery from the pandemic. Despite the increasing efforts and focus from the ecosystem and industry, there are still several major challenges that still need to be addressed. 
+Green finance is a crucial component in ASEAN’s effort to bring about sustainable development outcomes, including mitigating and adapting to the adverse effects of climate change. It is estimated that ASEAN needs US$200 billion per year in green investments till 2030. According to global investment management company Fidelity International, Environmental, Social and Governance (ESG)-rated stocks and bonds outperformed their competitors over the first nine months of 2020 and were less vulnerable to the risks associated with market volatility. Furthermore, within the Asia-Pacific region, a survey conducted in September 2020 by global investment research firm MSCI reported that 79% of respondents had significantly or moderately increased their ESG investment as a result of Covid-19 as ASEAN is increasingly focused on green infrastructure developments as a way to drive a sustainable recovery from the pandemic. Despite the increasing efforts and focus from the ecosystem and industry, there are still several major challenges that still need to be addressed.
 
+# Programme overview and schedule
+
+# What is the commitment required from you? 
+Applicants for the Youth Challenge are required to:
+1. Be able to commit throughout the 3-month duration and attend all the compulsory sessions.
+2. Be able to participate in team meetings and attend consultation sessions with your team mentor, both taking place outside of the official programme schedule. 
+3. Submit a reflection journal at the end of the Youth Challenge. 
+
+# How can I apply?
+Interested applicants for the Talent @ SWITCH Youth Challenge can sign up along with the EES. 
+
+Registration for the Youth Challenge will be opening soon - watch this space!
