@@ -23,14 +23,14 @@ The Talent @ SWITCH EES also has two complementary programmes - the **Talent @ S
 
 Discover **the global startup landscape** from the eyes of **government and corporate players** who are actively shaping it.
 
-**Synopsis:** Learn directly from the regulators and corporates and understand how their key initiatives and regulatory frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
+**Synopsis:** Hear from the regulators and corporates on how different initiatives and frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
 
 #### Session 2: Get into the minds of investors!
 *24 August 2021*
 
 Get into the minds of **investors** to find out what they look for in startups and the winning formula.
 
-**Synopsis:** What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what determines the success of the key milestones of a startup development journey - from concept and product development to market validation and getting your startup idea funded.
+**Synopsis:** What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what determines the success of different growth stages and milestones of a startup - from concept and product development to market validation and getting your startup idea funded.
 
 #### Session 3: Learn about startup success in Singapore!
 *7 September 2021*
@@ -42,16 +42,16 @@ What makes the success of  **Singaporean startups**? Gain exclusive access to kn
 #### Session 4: Learn the tips to expanding beyond Singapore’s shores!
 *21 September 2021*
 
-How is it like to **launch a startup overseas**? Get deep insights from **an international startup** on the differences of Singapore's startup ecosystem compared to other countries. 
+How is it like to **launch a startup overseas**? Get deep insights from **international startups** on the differences of Singapore's startup ecosystem compared to other countries. 
 
-**Synopsis:** Find out from an international startup founder on how a particular city's startup ecosystem differs from another, in terms of the support network and intermediaries it offers, which will determine the access and cost to network building with other stakeholders. Other differences include the areas of innovation that the ecosystem including investors and researchers focus on, funding support and policies from the government.
+**Synopsis:** Find out from international startup founders on how a particular city's startup ecosystem differs from another, such as in terms of the support network and intermediaries it offers. This will determine the startups' access and cost to network building with other stakeholders.
 
 #### Session 5: Entrepreneurship redefined at work
 *5 October 2021*
 
 Why having an **intrapreneurial spirit** is important for your career and how you can cultivate one.
 
-**Synopsis:** Organisations are increasingly  developing their employees to be intrapreneurs - corporate entrepreneurs with a startup mindset who can challenge the company’s way of thinking and create new kinds of value through innovation, unique business models, organisational renewal projects, and networking within the organisation to effectively communicate innovative concepts. Learn all about how you can work your way into becoming an intrapreneur in this concluding session.
+**Synopsis:** Organisations are increasingly  developing their employees to be intrapreneurs - corporate entrepreneurs with a startup mindset who can challenge the company’s way of thinking and create new kinds of value through innovation and unique business models. Learn all about how you can work your way to becoming an intrapreneur in this concluding session.
 
 # How can I participate?
 You will have the opportunity to apply for the Entrepreneurship Exposure Series (EES), as well as its complementary programmes - the Mentorship Programme **and/or** Youth Challenge - in the same EES registration form. 
