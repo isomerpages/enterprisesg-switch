@@ -23,7 +23,7 @@ Looking for a job that will hone your skills in entrepreneurship, business or ma
 
 Planning your timetables and thinking of additional internships to maximise your semester? Invest 10 hours a week with us and embark on a journey of invaluable industry knowledge and skills. Work schedule is flexible.
 
-![Alt text for image on Isomer site](/images/Youth3.jpg)
+![Alt text for image on Isomer site](/images/Discussion%20Roundtable.jpg)
 ## Get exclusive access to the Entrepreneurship Exposure Series as your training programme
 All job shadows will be given exclusive access to attend our [Entrepreneurship Exposure Series](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) as a training programme, which consists of bi-weekly industry-led sessions from August to October. You will get the opportunity to hear from established speakers in the international entrepreneurship ecosystem on startups, innovation and upskilling. 
 
