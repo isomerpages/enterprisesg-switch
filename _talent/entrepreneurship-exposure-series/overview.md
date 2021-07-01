@@ -72,7 +72,7 @@ If you wish to pursue a startup career after the series, the sessions would have
 
 ![Alt text for image on Isomer site](/images/Youth4.jpg)
 ### Connect with fellow future entrepreneurs
-Network with other youth attendees relevant to your projects and ventures. With virtual networking features like one-to-one meetings and networking lounge, Talent @ SWITCH will be where you make meaningful connections.
+Network with other youth attendees relevant to your projects and ventures. With virtual networking features like one-to-one meetings and networking lounge, Talent @ SWITCH EES will be where you make meaningful connections.
 
 # What is involved?
 Participants of the Entrepreneurship Exposure Series (EES) are required to:
