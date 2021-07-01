@@ -4,7 +4,7 @@ permalink: /talent/ees/mentorship-programme
 third_nav_title: Entrepreneurship Exposure Series
 ---
 # Get mentored by an industry professional on career-related skills and more!
-The Talent @ SWITCH Mentorship Programme is **a structured and skill-based mentorship programme** as part of the Talent @ SWITCH Entrepreneurship Exposure Series (EES), offering EES youths the opportunity to get an experienced professional as their mentor and gain one-to-one guidance on sharpening career-related skills such as communication and pitching skills, defining personal success and developing an entrepreneurial mindset, setting them on the path to become investible and hireable. 
+The Talent @ SWITCH Mentorship Programme is **a structured and skill-based mentorship programme** as part of the Talent @ SWITCH Entrepreneurship Exposure Series (EES), offering EES' youths the opportunity to get an experienced professional as their mentor and gain one-to-one guidance on sharpening career-related skills such as communication and pitching skills, defining personal success and developing an entrepreneurial mindset, setting them on the path to become investible and hireable. 
 
 Regardless of whether they decide to be intrapreneurs in a company or entrepreneurs, from the programme, they will be equipped with the skills and confidence to take on their future career paths.
 
@@ -46,4 +46,4 @@ Once you are enrolled into this mentorship programme, you are required to be com
 
 Interested applicants for the Talent @ SWITCH Mentorship Programme are required to apply along with the EES. 
 
-[Registration will open soon - follow our Facebook page for the latest updates!](https://www.facebook.com/SwitchSingapore/)
+[Applications will open soon, with limited slots  available - follow our Facebook page for the update when registrations open!](https://www.facebook.com/SwitchSingapore/)
