@@ -14,7 +14,7 @@ This is the perfect chance to sharpen your technical and soft skills, while putt
 
 Applications for the Youth Challenge will open soon - stay tuned to this page!
 
-*Read on for more details on the theme, programme schedule and commitment required.*
+***Read on for more details on the theme, programme schedule and commitment required.***
 
 # Why sustainability?
 
@@ -37,7 +37,7 @@ ASEAN is rapidly urbanising - 90 million more people within ASEAN are expected t
 Green finance is a crucial component in ASEAN’s effort to bring about sustainable development outcomes, including mitigating and adapting to the adverse effects of climate change. It is estimated that ASEAN needs US$200 billion per year in green investments till 2030. According to global investment management company Fidelity International, Environmental, Social and Governance (ESG)-rated stocks and bonds outperformed their competitors over the first nine months of 2020 and were less vulnerable to the risks associated with market volatility. Furthermore, within the Asia-Pacific region, a survey conducted in September 2020 by global investment research firm MSCI reported that 79% of respondents had significantly or moderately increased their ESG investment as a result of Covid-19 as ASEAN is increasingly focused on green infrastructure developments as a way to drive a sustainable recovery from the pandemic. Despite the increasing efforts and focus from the ecosystem and industry, there are still several major challenges that still need to be addressed.
 
 # Programme overview and schedule
-
+![Alt text for image on Isomer site](/images/youth%20challenge%20schedule.JPG)
 # What is the commitment required from you? 
 Applicants for the Youth Challenge are required to:
 1. Be able to commit throughout the 3-month duration and attend all the compulsory sessions.
