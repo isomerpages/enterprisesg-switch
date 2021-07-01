@@ -6,7 +6,7 @@ third_nav_title: Entrepreneurship Exposure Series
 ![Alt text for image on Isomer site](/images/ees_banner.png)
 # Calling all youths: Hear from industry leaders on entrepreneurship
 
-The Talent @ SWITCH Entrepreneurship Exposure Series (EES), consists of **a series of bi-weekly industry-led sessions from August to October**, and seeks to increase youths’ knowledge in the global entrepreneurship ecosystem. The series is organised by SWITCH and in partnership with National Youth Council (NYC) and SCAPE.
+The Talent @ SWITCH Entrepreneurship Exposure Series (EES), consists of **a series of bi-weekly industry-led sessions from August to October**, and seeks to increase youths’ knowledge in the global entrepreneurship ecosystem. The series is organised by SWITCH and in partnership with National Youth Council (NYC) and *SCAPE.
 
 Deep dive into the startup and innovation ecosystems from the lens of different stakeholders speaking and mentoring at our series - Singaporean and International entrepreneurs, investors, government and corporate players.
 
