@@ -3,7 +3,7 @@ url: ""
 favicon: /images/SWITCH-Logo_Eng-Light_BG_sq.jpg
 colors:
   primary-color: "#e7131a"
-  secondary-color: "#000000"
+  secondary-color: "#e7131a"
   media-colors:
     - title: media-color-one
       color: "#e7131a"
