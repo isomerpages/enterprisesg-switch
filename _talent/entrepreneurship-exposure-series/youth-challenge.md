@@ -4,7 +4,7 @@ permalink: /talent/ees/youth-challenge
 third_nav_title: Entrepreneurship Exposure Series
 ---
 # Are you a youth with a passion for sustainability and an interest to turn your ideas into actionable solutions?
-The Youth Challenge is **a 3-month programme taking place from August to October**, as part of the Talent @ SWITCH Entrepreneurship Exposure Series. Centred around the theme of ‘Sustainability’, this immersive, project-based experience aims to provide you with an opportunity to tackle real-world challenges issued by organisations and related to one of the following topics: (i) Food Security and Resilience; (ii) Liveable Cities; or (iii) Impact Investing. 
+The Talent @ SWITCH Youth Challenge is **a 3-month programme taking place from August to October**, as part of the Talent @ SWITCH Entrepreneurship Exposure Series (EES). Centred around the theme of ‘Sustainability’, this immersive, project-based experience aims to provide you with an opportunity to tackle real-world challenges issued by organisations and related to one of the following topics: (i) Food Security and Resilience; (ii) Liveable Cities; or (iii) Impact Investing. 
 
 You will work in small project teams with like-minded peers and be guided by an industry mentor. The journey will culminate in a demo day, where teams will pitch their ideas to organisations that are keen on supporting youth-led solutions. 
 
