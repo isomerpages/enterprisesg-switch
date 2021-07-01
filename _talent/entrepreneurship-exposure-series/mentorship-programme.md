@@ -10,9 +10,9 @@ Regardless of whether they decide to be intrapreneurs in a company or entreprene
 
 The Mentorship Programme consists of **4 mentoring sessions over 2.5 months and takes place right after each EES session.** Interested applicants for this programme are required to apply along with the EES. 
 
-Limited slots are available - fastest fingers first! 
+Applications for the Mentorship Programme will open soon! [Limited slots are available - follow to our Facebook page to get the update when registrations open! ](https://www.facebook.com/SwitchSingapore/)
 
-[Don't miss your chance to get a mentor - apply for  the Mentorship Programme along with the EES here.](https://bit.ly/367daDG)
+***Read on to find out more about the Mentorship Programme structure, schedule and other information.***
 
 # What is the structure of the programme?
 In each session, mentees will prepare for different tasks, each targeting a unique skillset and knowledge area - from persuasive pitching to building self-awareness and working towards career goals. Mentors will provide advice regarding their performance, along with sharing of industry knowledge based on their professional expertise. 
