@@ -12,7 +12,7 @@ Apart from working on the challenge project, you will also undergo the 5-session
 
 This is the perfect chance to sharpen your technical and soft skills, while putting your newly acquired knowledge on innovation and entrepreneurship to the test. 
 
-Applications for the Youth Challenge will open soon - stay tuned to this page!
+[Applications for the Youth Challenge will open soon - follow our Facebook page for the latest updates.](https://www.facebook.com/SwitchSingapore/)
 
 ***Read on for more details on the theme, programme schedule and commitment required.***
 
