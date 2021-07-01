@@ -12,7 +12,7 @@ Deep dive into the startup and innovation ecosystems from the lens of different 
 
 The Talent @ SWITCH EES also has two complementary programmes - the Talent @ SWITCH Mentorship Programme and Youth Challenge. As part of EES, the former allows youths to get mentored by an experienced professional to gain one-to-one guidance on developing career-related skills as well as industry knowledge from their mentor, while the Youth Challenge provides youths with the opportunity to acquire valuable experience in solving real-world challenges issued by organisations.
 
-[Applications for the Entrepreneurship Exposure Series will open soon! Follow our Facebook page for the update when registrations open.](https://www.facebook.com/SwitchSingapore/)
+[Applications for the Entrepreneurship Exposure Series will open soon! Follow our Facebook page to get updated when registrations open.](https://www.facebook.com/SwitchSingapore/)
 
 ### Overview of the 5-sessions series:
 ![Alt text for image on Isomer site](/images/ees%20schedule.png)
@@ -81,7 +81,4 @@ Applicants of the Entrepreneurship Exposure Series (EES) are required to:
 Do note that there is a fee of SGD10 to join the series, to cover the programme’s logistics, production and platform costs.
 
 # How can I apply?
-Applications for the Entrepreneurship Exposure Series will open soon! Stay tuned to this page.
-
-
-Follow our [Facebook](https://www.facebook.com/SwitchSingapore/) for the latest updates!
+[Applications for the Entrepreneurship Exposure Series will open soon! Follow our Facebook page for the latest updates.](https://www.facebook.com/SwitchSingapore/)
