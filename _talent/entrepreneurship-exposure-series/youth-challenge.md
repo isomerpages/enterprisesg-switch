@@ -47,4 +47,4 @@ Applicants for the Youth Challenge are required to:
 # How can I apply?
 Interested applicants for the Talent @ SWITCH Youth Challenge can sign up along with the EES. 
 
-Registration for the Youth Challenge will be opening soon - watch this space!
+[Registration for the Youth Challenge will be opening soon - follow our Facebook page to get updated when it opens!](https://www.facebook.com/SwitchSingapore/)
