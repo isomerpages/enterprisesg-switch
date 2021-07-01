@@ -54,3 +54,4 @@ staging: https://enterprisesg-switch-staging.netlify.app
 prod: https://enterprisesg-switch-prod.netlify.app
 is_government: false
 google_analytics: UA-124054828-1
+shareicon: /images/SWITCH_2021_Hero_Banner_03a.jpg
