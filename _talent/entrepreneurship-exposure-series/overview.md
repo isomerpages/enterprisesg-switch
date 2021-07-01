@@ -29,7 +29,7 @@ Get into the minds of **investors** to find out what they look for in startups a
 **Synopsis:** What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what determines the success of the key milestones of a startup development journey - from concept and product development to market validation and getting your startup idea funded.
 
 #### Session 3: Learn about startup success in Singapore!
-*7 September 2021 *
+*7 September 2021*
 
 What makes the success of  **Singaporean startups**? Gain exclusive access to knowledge on launching a startup from **prominent local founders**. 
 
@@ -82,6 +82,7 @@ Do note that there is a fee of SGD10 to join the series, to cover the programmeâ
 Apply to join the Talent @ SWITCH EES [here](https://bit.ly/367daDG). Limited slots are available!
 
 Applications close on 1 August 2021, 2359 (SGT).
+
 
 
 Stay tuned and follow our [Facebook](https://www.facebook.com/SwitchSingapore/) for more information!
