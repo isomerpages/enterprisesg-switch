@@ -14,6 +14,8 @@ For instance, post-secondary education institutions in Singapore include, but no
 
 Applications for the Entrepreneurship Exposure Series (EES), Mentorship Programme and Youth Challenge will open soon - stay tuned to this page!
 
+[Follow our Facebook page to get updated when registrations open.](https://www.facebook.com/SwitchSingapore/)
+
 **3. Can I apply for the Mentorship Programme and/or Youth Challenge in addition to the EES?**
 
 As long as you sign up for the EES, you can apply to its complementary programmes, i.e. the Mentorship Programme **and/or** Youth Challenge in the same EES registration form.
