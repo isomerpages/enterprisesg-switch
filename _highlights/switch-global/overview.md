@@ -12,7 +12,7 @@ Through two curated session types–Market Access and Masterclasses–attendees 
 [Register your interest to attend SWITCH 2021.](/interest)
 
 # Market Access Sessions
-Get to learn more on how to soft-land into an extensive range of 42 markets around the world. Learn about the nuance of local market cultures and business ecosystems, as well as a treasure trove of global opportunities that are waiting to be tapped upon. 
+Get to learn more on how to soft-land into an extensive range of 42 markets around the world. Learn about the nuance of local market cultures and business ecosystems, as well as global opportunities that are waiting to be tapped upon. 
 
 2020’s sessions saw an assembly of market experts from organisations like Enterprise Singapore, JETRO, UK Department of International Trade, Canada High Commission and more!
 
