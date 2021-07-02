@@ -48,7 +48,7 @@ Once you are enrolled into this mentorship programme, you are required to be com
 
 # How can I apply?
 
-[Interested applicants for the Talent @ SWITCH Mentorship Programme can apply along with the EES here.](https://bit.ly/EESapply)
+Interested applicants for the Talent @ SWITCH Mentorship Programme can apply along with the EES [here](https://bit.ly/EESapply).
 
 Limited slots are available - fastest fingers first! Applications close on **1 August 2021, 2359 (SGT)**.
 
