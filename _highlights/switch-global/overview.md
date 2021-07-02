@@ -18,3 +18,6 @@ Get to learn more on how to soft-land into an extensive range of 42 markets arou
 
 # Masterclass Sessions
 Acquire actionable knowledge on ways to propel your organisation’s ability to secure funding and develop business capabilities in technology and digitalisation, as well as business expansion opportunities in Singapore and Asia. Our 2020’s Masterclasses saw sessions being hosted by companies like Google, Facebook, Amazon Web Services (AWS) and more!
+
+***
+**Click "Next" to learn more about what to expect for SWITCH Global in 2021.**
