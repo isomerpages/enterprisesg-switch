@@ -18,3 +18,6 @@ Stay ahead of the latest trends and developments in key sectors like Smart Citie
 Over 250 prestigious speakers from a variety of sectors spoke on our Connect stage in 2020, including:
 
 ![Alt text for image on Isomer site](/images/ISOMER%20pages-SPEAKERS-01.jpg)
+
+***
+**Click "Next" to learn more about SWITCH Connect in 2021.**
