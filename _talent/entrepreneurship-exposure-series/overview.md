@@ -85,6 +85,6 @@ Participants of the Entrepreneurship Exposure Series (EES) are required to:
 Do note that there is a fee of SGD10 to join the series, to cover the programme’s logistics, production and platform costs.
 
 # How can I apply?
-[Apply to join the Talent @ SWITCH EES here by 1 August 2021, 2359 (SGT) - limited slots available!](https://bit.ly/EESapply)
+Apply to join the Talent @ SWITCH EES [here](https://bit.ly/EESapply) by **1 August 2021, 2359 (SGT)** - limited slots available!
 
 [Follow our Facebook page to get updated when we release the speakers of each session!](https://www.facebook.com/SwitchSingapore/)
