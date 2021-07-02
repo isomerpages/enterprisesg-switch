@@ -13,9 +13,6 @@ SWITCH Connect is a conference channel that brings together global leaders and e
 Stay ahead of the latest trends and developments in key sectors like Smart Cities & Urban Solutions, Healthcare & Biomedical Sciences, as well as Artificial Intelligence, Robotics & Deep Tech innovations.
 
 [Recap some of our key conference highlights from 2020](https://notes.switchsg.org).
-# Gain innovation insights from industry leaders
-
-SWITCH Connect brings together leaders and experts across industries in a must-attend technology and innovation conference to discuss the ideas and innovations – from smart cities and urban solutions to emerging and sustainable technologies – transforming the world today.
 
 # Hear from inspiring Global thought leaders and innovators
 Over 250 prestigious speakers from a variety of sectors spoke on our Connect stage in 2020, including:
