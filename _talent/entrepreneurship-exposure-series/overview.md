@@ -14,7 +14,7 @@ The Talent @ SWITCH EES also has two complementary programmes - the [Talent @ SW
 
 [Apply now to join the Talent @ SWITCH EES by 1 August 2021, 2359 (SGT) - limited slots available!](https://bit.ly/EESapply)
 
-[Follow our Facebook page to get updated on the  speakers of each session.](https://www.facebook.com/SwitchSingapore/)
+[Follow our Facebook page to get the latest updates when we release the speakers of each session.](https://www.facebook.com/SwitchSingapore/)
 
 ***Read on to find out more about the details of the 5  EES sessions, how you can participate in the EES and its complementary programmes, what is in it for you, and the commitment required for the series.***
 
