@@ -52,4 +52,4 @@ Once you are enrolled into this mentorship programme, you are required to be com
 
 Limited slots are available - fastest fingers first! Applications close on **1 August 2021, 2359 (SGT)**.
 
-[Follow our Facebook page to get updated on the programme and mentors!](https://www.facebook.com/SwitchSingapore/)
+[Follow our Facebook page to get updates on the programme and mentors!](https://www.facebook.com/SwitchSingapore/)
