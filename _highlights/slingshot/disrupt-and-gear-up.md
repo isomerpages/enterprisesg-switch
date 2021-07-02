@@ -14,3 +14,6 @@ SLINGSHOT Disrupt is a 3-day virtual programme for the Top 1,000 Global Startups
 ## SLINGSHOT Gear Up | 18–20 Oct 2021
 
 SLINGSHOT Gear Up is a 3-day virtual programme for the Top 100 Global Startups that prepares these startups to pitch to a judging panel of investors and corporates. Foreign startups will also get a better understanding of the opportunities in Singapore and the region, while local startups could be matched to international mentors to explore expansion opportunities in other global markets. SLINGSHOT Gear Up will take place virtually in the form of Masterclasses, Pitch Coaching, Mentor Clinics as well as Mentor Hours.
+
+***
+**Click "Next" to meet some of the judges in this year's competition.**
