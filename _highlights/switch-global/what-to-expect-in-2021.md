@@ -8,7 +8,7 @@ third_nav_title: Switch Global
 This year, SWITCH Global will focus on being the global gateway for innovation and opportunity with the aim of allowing attendees worldwide to be able to tap on a wide offering of resources from the various local ecosystem builders around the world and build global connections through SWITCH.
 
 # 3-Day Digital Conference, Masterclasses and Networking
-SWITCH Global this year will be presented as aspan over a 3-day conference, bringing in experts from local startups and innovation ecosystem builders from 42 markets around the world. Our SWITCH Global conference experience is designed with the objective of allowing our attendees to easily access the resources and opportunities offered in the various regions easily by promoting seamless networking and connection building alongside an unparalleled virtual experience. 
+SWITCH Global this year will be presented as a 3-day conference, bringing in experts from local startups and innovation ecosystem builders from 42 markets around the world. Our SWITCH Global conference experience is designed with the objective of allowing our attendees to easily access the resources and opportunities offered in the various regions by promoting seamless networking and connection building alongside an unparalleled virtual experience. 
 
 This year’s SWITCH Global will be in the form of impactful and efficient bites of 30-minute content sessions per market, with integrated networking solutions per session to allow attendees the flexibility of high-impact knowledge sessions and deep connectivity with fellow participants and delegates.
 
@@ -19,5 +19,3 @@ Regions covered will include the Americas, Asia Pacific, China, Middle East and 
 Session topics will span *Tech-Up*, *Fundraising* and *Expanding to Asia*
 
 Full agenda and details to be announced.
-
-
