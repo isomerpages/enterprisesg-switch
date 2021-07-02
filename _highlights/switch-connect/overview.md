@@ -20,4 +20,4 @@ Over 250 prestigious speakers from a variety of sectors spoke on our Connect sta
 ![Alt text for image on Isomer site](/images/ISOMER%20pages-SPEAKERS-01.jpg)
 
 ***
-**Click "Next" to learn more about SWITCH Connect in 2021.**
+**Click "Next" to learn more about what to expect at SWITCH Connect in 2021.**
