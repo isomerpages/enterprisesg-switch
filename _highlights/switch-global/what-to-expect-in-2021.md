@@ -18,4 +18,7 @@ Regions covered will include the Americas, Asia Pacific, China, Middle East and 
 ## Masterclassess
 Session topics will span *Tech-Up*, *Fundraising* and *Expanding to Asia*
 
-Full agenda and details to be announced.
+_Full agenda and details to be announced._
+
+***
+**Click "Next" to learn about SLINGSHOT–Asia's most exciting deep tech pitching competition.**
