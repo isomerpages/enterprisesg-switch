@@ -12,7 +12,7 @@ Apart from working on the challenge project, you will also undergo the 5-session
 
 This is the perfect chance to sharpen your technical and soft skills, while putting your newly acquired knowledge on innovation and entrepreneurship to the test. 
 
-[Applications for the Youth Challenge will open soon - follow our Facebook page for the latest updates.](https://www.facebook.com/SwitchSingapore/)
+[Apply for the Talent @ SWITCH Youth Challenge along with the EES, by 28 July 2021, 2359 (SGT). ](https://bit.ly/EESapply)
 
 ***Read on for more details on the theme, programme schedule and commitment required.***
 
@@ -45,6 +45,6 @@ Applicants for the Youth Challenge are required to:
 3. Submit a reflection journal at the end of the Youth Challenge. 
 
 # How can I apply?
-Interested applicants for the Talent @ SWITCH Youth Challenge can sign up along with the EES. 
+Interested applicants for the Talent @ SWITCH Youth Challenge can sign up along with the EES [here](https://bit.ly/EESapply).
 
-[Registration for the Youth Challenge will be opening soon - follow our Facebook page to get updated when it opens!](https://www.facebook.com/SwitchSingapore/)
+Applications close on **28 July 2021, 2359 (SGT)**.
