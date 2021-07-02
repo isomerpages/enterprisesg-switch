@@ -5,7 +5,7 @@ third_nav_title: Switch Global
 ---
 ![Alt text for image on Isomer site](/images/Booths.jpg)
 # Global Gateway for Innovation and Collaboration
-This year, SWITCH Global will focus on being the global gateway for innovation and opportunity with the aim of allowing attendees worldwide to be able to tap on a wide offering of resources from the various local ecosystem builders around the world and build global connections through SWITCH.
+SWITCH Global will allow attendees worldwide to tap on resources from the various local ecosystem builders around the world and build global connections through SWITCH.
 
 # 3-Day Digital Conference, Masterclasses and Networking
 SWITCH Global this year will be presented as a 3-day conference, bringing in experts from local startups and innovation ecosystem builders from 42 markets around the world. Our SWITCH Global conference experience is designed with the objective of allowing our attendees to easily access the resources and opportunities offered in the various regions by promoting seamless networking and connection building alongside an unparalleled virtual experience. 
