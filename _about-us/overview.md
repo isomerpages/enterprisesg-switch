@@ -11,3 +11,6 @@ Through the open exchange of new ideas, vibrant networks and line-up of innovati
 In its sixth edition, SWITCH 2021 will feature various innovation and partner programmes culminating in an exciting hybrid festival featuring conferences, the SLINGSHOT Startup Pitching Finals, showcases, roundtables as well as global partner and networking activities. In 2020, SWITCH saw over 15,000 participants from 42 cities across 31 markets, with more than 600 international thought leaders at over 200 conference and masterclass sessions. Together with the Singapore FinTech Festival (SFF), SWITCH will be part of the annual SFF x SWITCH event in November 2021. 
 
 SWITCH is organised by Enterprise Singapore (ESG) and supported by National Research Foundation (NRF).
+
+***
+**Click "Next" to learn about SWITCH's impact in 2020.**
