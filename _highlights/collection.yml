@@ -2,6 +2,14 @@ collections:
   highlights:
     output: true
     order:
-      - switch-connect.md
-      - switch-global.md
-      - slingshot-2021.md
+      - switch-connect/.keep
+      - switch-connect/overview.md
+      - switch-connect/what-to-expect-in-2021.md
+      - switch-global/.keep
+      - switch-global/overview.md
+      - switch-global/what-to-expect-in-2021.md
+      - slingshot/.keep
+      - slingshot/overview.md
+      - slingshot/competition-timeline.md
+      - slingshot/disrupt-and-gear-up.md
+      - slingshot/meet-the-judges.md
