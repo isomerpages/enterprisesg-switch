@@ -10,9 +10,9 @@ Regardless of whether they decide to be intrapreneurs in a company or entreprene
 
 The Mentorship Programme consists of **4 mentoring sessions over 2.5 months and takes place right after each EES session.** Interested applicants for this programme are required to apply along with the EES. 
 
-[Interested applicants for the Talent @ SWITCH Mentorship Programme can apply along with the EES here.](https://bit.ly/EESapply)
+[Sign up for the Talent @ SWITCH Mentorship Programme along with the EES to get a mentor, by 1 August 2021, 2359 (SGT).](https://bit.ly/EESapply)
 
-Limited slots are available - sign up fast for a spot in the programme! Applications close on **1 August 2021, 2359 (SGT)**.
+Limited slots are available - sign up fast for a spot in the programme!
 
 [Follow our Facebook page to get the latest updates on the programme and mentors!](https://www.facebook.com/SwitchSingapore/)
 
@@ -50,6 +50,6 @@ Once you are enrolled into this mentorship programme, you are required to be com
 
 Interested applicants for the Talent @ SWITCH Mentorship Programme can apply along with the EES [here](https://bit.ly/EESapply).
 
-Limited slots are available - fastest fingers first! Applications close on **1 August 2021, 2359 (SGT)**.
+Limited slots are available - sign up fast to get a mentor! Applications close on **1 August 2021, 2359 (SGT)**.
 
 [Follow our Facebook page to get updates on the programme and mentors!](https://www.facebook.com/SwitchSingapore/)
