@@ -6,7 +6,7 @@ third_nav_title: Entrepreneurship Exposure Series
 # Frequently Asked Questions
 **1. Am I eligible to apply for the Entrepreneurship Exposure Series (EES), including the Mentorship Programme and Youth Challenge?**
 
-We accept both Singaporean, Singapore Permanent Resident and international students, including exchange students, for the EES, Mentorship Programme and Youth Challenge. You are eligible to apply for the series as long as you are a student from a post-secondary education institution. 
+We accept Singaporean, Singapore Permanent Resident and international students, including exchange students, for the EES, Mentorship Programme and Youth Challenge. You are eligible to apply for the series as long as you are a student from a post-secondary education institution. 
 
 For instance, post-secondary education institutions in Singapore include, but not limited to, Polytechnics, Institute of Technical Education as well as Singapore and international universities. 
 
