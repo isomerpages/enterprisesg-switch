@@ -47,4 +47,4 @@ Applicants for the Youth Challenge are required to:
 # How can I apply?
 Interested applicants for the Talent @ SWITCH Youth Challenge can sign up along with the EES [here](https://bit.ly/EESapply).
 
-Applications close on 28 July 2021, 2359 (SGT).
+Applications close on **28 July 2021, 2359 (SGT)**.
