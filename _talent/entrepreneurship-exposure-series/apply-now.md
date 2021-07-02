@@ -11,4 +11,4 @@ Interested youths can apply for the **Talent @ SWITCH Entrepreneurship Exposure 
 * Youth Challenge: **28 July 2021, 2359 (SGT)**
 
 
-If you have any questions regarding the EES or its complementary programmes, visit our FAQ page here or email talent@switchsg.org.
+If you have any questions regarding the EES or its complementary programmes, visit our FAQ page [here](https://www.switchsg.org/talent/ees/faq) or email talent@switchsg.org.
