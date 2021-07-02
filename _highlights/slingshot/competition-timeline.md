@@ -44,3 +44,6 @@ SLINGSHOT’s Top 100 Global Startups will pitch on the global stage as part of 
 All **Top 100 Global Startups** will also be invited for deal-making and networking opportunities with corporates and investors from relevant industries during the Virtual Finals.
 
 After the initial pitch, SLINGSHOT 2021’s **Top 10 Sector Winners will be announced on 9 November 2021.**
+
+***
+**Click "Next" to learn about SLINGSHOT Disrupt and SLINGSHOT Gear Up, two in-demand programmes that connect startups with corproates and investors for co-innovation and mentorship opportunities.**
