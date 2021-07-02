@@ -12,7 +12,7 @@ Apart from working on the challenge project, you will also undergo the 5-session
 
 This is the perfect chance to sharpen your technical and soft skills, while putting your newly acquired knowledge on innovation and entrepreneurship to the test. 
 
-[Apply for the Talent @ SWITCH Youth Challenge along with the EES here, by 28 July 2021, 2359 (SGT). ](https://bit.ly/EESapply)
+[Apply for the Talent @ SWITCH Youth Challenge along with the EES, by 28 July 2021, 2359 (SGT). ](https://bit.ly/EESapply)
 
 ***Read on for more details on the theme, programme schedule and commitment required.***
 
