@@ -15,7 +15,7 @@ Stay ahead of the latest trends and developments in key sectors like Smart Citie
 [Recap some of our key conference highlights from 2020](https://notes.switchsg.org).
 
 # Hear from inspiring Global thought leaders and innovators
-Over 250 prestigious speakers from a variety of sectors spoke on our Connect stage in 2020, including:
+Over 250 prestigious speakers from a variety of sectors spoke at SWITCH in 2020, including:
 
 ![Alt text for image on Isomer site](/images/ISOMER%20pages-SPEAKERS-01.jpg)
 
