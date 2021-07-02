@@ -3,7 +3,6 @@ title: Overview
 permalink: /highlights/slingshot/2021/overview
 third_nav_title: Slingshot
 ---
-
 ![SLINGSHOT Winners EKO.ai](/images/SLINGSHOT%202021.jpg)
 # Launch your startup into Asia!
 Calling all startups: Asia’s most exciting deep tech pitching competition is back!
@@ -17,3 +16,6 @@ Shortlisted startups will be given the opportunity to develop corporate partners
 [Your idea might just kick start a journey of a lifetime!](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021)
 
 [亚洲最受注目的深科创业大赛， 您准备好了吗](https://slingshot-cn.agorize.com/zh/challenges/2021-edition?t=fX5LOg7F8fnaJvgACrUEbg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021)
+
+***
+**Click "Next" to learn more about the overall SLINGSHOT competition timeline.**
