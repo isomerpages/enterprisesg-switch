@@ -10,7 +10,7 @@ The Talent @ SWITCH Entrepreneurship Exposure Series (EES), consists of **a seri
 
 Deep dive into the startup and innovation ecosystems from the lens of different stakeholders speaking and mentoring at our series - Singaporean and International entrepreneurs, investors, government and corporate players.
 
-The Talent @ SWITCH EES also has two complementary programmes - the [**Talent @ SWITCH Mentorship Programme**](https://www.switchsg.org/talent/ees/mentorship-programme) and [**Talent @ SWITCH Youth Challenge**](https://www.switchsg.org/talent/ees/youth-challenge). As part of EES, the former allows youths to get mentored by an experienced professional to gain one-to-one guidance on developing career-related skills as well as industry knowledge from their mentor, while the Youth Challenge provides youths with the opportunity to acquire valuable experience in solving real-world challenges issued by organisations.
+The Talent @ SWITCH EES also has two complementary programmes - the [Talent @ SWITCH Mentorship Programme](https://www.switchsg.org/talent/ees/mentorship-programme) and [Talent @ SWITCH Youth Challenge](https://www.switchsg.org/talent/ees/youth-challenge). As part of EES, the former allows youths to get mentored by an experienced professional to gain one-to-one guidance on developing career-related skills as well as industry knowledge from their mentor, while the Youth Challenge provides youths with the opportunity to acquire valuable experience in solving real-world challenges issued by organisations.
 
 [Applications for the Entrepreneurship Exposure Series will open soon! Follow our Facebook page to get updated when registrations open.](https://www.facebook.com/SwitchSingapore/)
 
