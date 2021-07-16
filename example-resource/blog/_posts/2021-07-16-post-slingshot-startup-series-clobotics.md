@@ -10,7 +10,7 @@ layout: post
 ### The computer vision startup that wants to digitize the physical world and turn sight into insight.
 
 ![Alt text for image on Isomer site](/images/blog_slingshot_Team-pic_Clobotics.jpeg)
-(Caption: Clobotics team. *Image courtesy of Clobotics.*)
+<sub>(Caption: Clobotics team. *Image courtesy of Clobotics.*)</sub>
 
 [Clobotics](https://clobotics.com) is a technology company that combines computer vision, artificial intelligence/machine learning, and data analytics, coupled with various hardware like autonomous drones, and IoT devices, to automate time-intensive and dangerous operational processes. It currently uses its fleet of drones to take photos of wind turbines for inspection, increasing efficiency, safety, and business performance.
 
@@ -21,7 +21,7 @@ In a matter of four years since its launch, Clobotics was able to make significa
 We catch up with Clobotics to discuss their journey thus far, and what else is in store for them.
 
 ![Alt text for image on Isomer site](/images/blog_slingshot_clobotics_founders.JPG)
-(Caption: Clobitics founders from L–R: Yan Ke, George Yan, Zhao Li, Claire Chen. *Image courtesy of Clobotics.*)
+<sub>(Caption: Clobitics founders from L–R: Yan Ke, George Yan, Zhao Li, Claire Chen. *Image courtesy of Clobotics.*)</sub>
 
 **Q: We understand that the Founder and CEO, George Yan was a senior executive in a global technology company. Why did he decide to leave and start Clobotics?**
 
@@ -40,7 +40,7 @@ Selecting the right investor is critical and it is a two-way street, you want to
 Programs like SLINGSHOT will provide a good platform for a young company to profile itself to an international audience of investors and industry leaders, demonstrate the value of its product, and catalyse new conversations with interested parties.
 
 ![Alt text for image on Isomer site](/images/blog_slingshot_clobotics-wind-promo-blade-repair.jpg)
-(Caption: Wind blade repair. *Image courtesy of Clobotics.*)
+<sub>(Caption: Wind blade repair. *Image courtesy of Clobotics.*)</sub>
 
 **Q: Can you share more about your current funding to date, and how you apply your funding?**
 
@@ -57,7 +57,7 @@ Even with that “inferior” product, when we saw the lightbulbs go off in our 
 Since then, they have worked alongside us year after year, iteration after iteration to improve our product towards that early vision, only this time we also have the customer buy-in for it.
 
 ![Alt text for image on Isomer site](/images/blog_slingshot_clobotics-wind-promo-drone.jpeg)
-(Caption: Aeriel drone. *Image courtesy of Clobotics.*)
+<sub>(Caption: Aeriel drone. *Image courtesy of Clobotics.*)</sub>
 
 **Q: You participated in the Corporate Challenges at SLINGSHOT 2020. How did this benefit your business?**
 
@@ -86,4 +86,3 @@ Since then, they have worked alongside us year after year, iteration after itera
 *[Apply now](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021) and submit your pitch today.*
 
 *To learn more about SLINGSHOT, please [click here](/highlights/slingshot/2021/overview).*
-
