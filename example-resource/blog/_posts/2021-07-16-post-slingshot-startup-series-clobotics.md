@@ -42,5 +42,48 @@ Programs like SLINGSHOT will provide a good platform for a young company to prof
 ![Alt text for image on Isomer site](/images/blog_slingshot_clobotics-wind-promo-blade-repair.jpg)
 (Caption: Wind blade repair. *Image courtesy of Clobotics.*)
 
+**Q: Can you share more about your current funding to date, and how you apply your funding?**
 
+**A:** We have raised our seed, A, and pre-B rounds with top global investors with likes of GGV, KTB, CDIB, CMC, Tiger, SanXia.  They are long term investors that are poised to be on our side for the long haul and we have continuous support from them. We have been working on marketing and promoting the business, developing the talents, as well as growing our engineering and sales forces.
+
+**Q: Are there any experiences in your business that continue to shape how you do things today?**
+
+**A:** Back in 2017, we were trying to land our retail product concept and find a customer who would be willing to try it out with us, when we got referred to a very large multinational beverage brand.
+
+We always had a vision of what the end-product would be like. But during development, the actual realization (somewhat counter-intuitively) was that the path to success is not linear: we had to NOT build that initial vision from the get-go as it would require too much upfront commitment from the customer. Instead, we started off with an intentionally inferior product, but which had the lowest barrier to entry for the customer to trial.
+
+Even with that “inferior” product, when we saw the lightbulbs go off in our customer’s heads as they realised how it would solve a very painful problem of theirs, and as they started to internally refer us to their other regional teams... that’s when we knew we struck gold.
+
+Since then, they have worked alongside us year after year, iteration after iteration to improve our product towards that early vision, only this time we also have the customer buy-in for it.
+
+![Alt text for image on Isomer site](/images/blog_slingshot_clobotics-wind-promo-drone.jpeg)
+(Caption: Aeriel drone. *Image courtesy of Clobotics.*)
+
+**Q: You participated in the Corporate Challenges at SLINGSHOT 2020. How did this benefit your business?**
+
+**A:** We were already working with several corporations both on the wind energy and the retail sides prior to SLINGSHOT 2020. However, through the event we managed to connect to even more of them and received positive feedback about our pitch and product. This boosted our confidence in the product direction decisions that we have made.
+
+**Q: What can we look forward from Clobotics in the next two to five years?**
+
+**A:** Having spent our early year doing product development and iterating with our local partners and customers, we now set our sights on getting our product flying high across the world. This is especially true with our wind product, which is starting to get very mature, even best-in-market in many of the product aspects.
+
+**Q: We understand that the pre-series B funding you had raised will aid you in expanding to Singapore. Why did you choose to set up a base in Singapore?**
+
+**A:** Singapore has a highly efficient infrastructure, free market economy, a stable socio-political environment, and an attractive tax regime for setting up a company. Singapore’s strategic location, which is in the heart of Asia, enables Clobotics to access the region’s rapidly expanding markets. Singapore’s extensive connectivity to regional and global markets has also solidified its position as the connecting hub for Asia to the world, and the world to Asia.
+
+**Q: Do you have any words of encouragement to SLINGSHOT 2021’s applicants?**
+
+**A:** Everybody needs that kick on the back sometimes. As George said on the GGV Podcast, “Get yourself out of that comfort zone into a new space because there’s a bigger world out there.”
+
+**Thanks to Clobotics for being part of this series and sharing their experiences!**
+
+***
+
+*This article was brought to you by SLINGSHOT 2021. As we gear up towards this year’s edition, don’t miss your chance to apply for Asia’s most exciting deep tech pitching competition! Like Clobotics, your SLINGSHOT journey could open doors to new corporate and investment opportunities!*
+
+*Ready to make the pitch of a lifetime?*
+
+*[Apply now](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021) and submit your pitch today.*
+
+*To learn more about SLINGSHOT, please [click here](/highlights/slingshot/2021/overview).*
 
