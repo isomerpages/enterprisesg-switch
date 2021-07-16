@@ -19,7 +19,7 @@ Earlier this year, despite the challenge to fundraise during the pandemic, Nalur
 We caught up with Naluri in a recent interview where we asked them about their exciting journey since SLINGSHOT 2020…
 
  ![Naluri Cofounders](/images/SLINGSHOT_Naluri_Cofounders_web.jpg)
-*(Caption: Naluri Co-founders Azran Osman-Rani and Dr Jeremy Ting)*
+<sub>(Caption: Naluri Co-founders Azran Osman-Rani and Dr Jeremy Ting. *Image courtesy of Naluri.*)</sub>
 
 **Q:  What were some of the challenges your startups faced over this arduous time since the pandemic and how has the startup ecosystem support your endeavors to overcome obstacles?**
 
@@ -48,6 +48,8 @@ We will also expand our efforts in clinical research to strengthen our developme
 **A:** Do not get disheartened by rejections! 
 
 During Azran’s time at iflix, he faced rejection more than 115 times before finally finding an investor. Similarly, when he was the CEO of AirAsia X during its early days, nobody believed in a budget airline experience for long-haul flights. Azran was glad that he did not get discouraged by these detractors, as the companies he ran discovered an unmet need that the larger players did not fully see. 
+
+***
 
 *This article was brought to you by SLINGSHOT 2021. As we gear up towards this year’s edition, don’t miss your chance to apply for Asia’s most exciting deep tech pitching competition! Like Naluri, your SLINGSHOT journey could open doors to new corporate and investment opportunities!*
 
