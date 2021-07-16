@@ -11,6 +11,8 @@ Here’s your chance to land a spot in an exclusive job shadowing internship (10
 
 This role allows you to be involved in the planning and execution of SWITCH, as well as exposure to extensive knowledge on startup strategy and groundbreaking innovations in deep tech - AI and robotics, smart cities, healthcare and biomedical sciences, food tech and even space tech.
 
+[Apply to be a job shadow @ SWITCH, by 23 July 2021, 2359 (SGT)!](https://www.switchsg.org/talent/job-shadowing-internship/join-us)
+
 ## SWITCH 2020’s Impact
 ![Alt text for image on Isomer site](/images/impact-02.jpg)
 # Not your typical internship:
