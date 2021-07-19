@@ -13,9 +13,9 @@ sections:
       button: Register Your Interest
       url: /interest
       key_highlights:
-        - title: SWITCH Connect
+        - title: SWITCH Beyond
           description: Innovation & Technology Trends
-          url: /highlights/switch-connect/2021/overview
+          url: /highlights/switch-beyond/2021/overview
         - title: SWITCH Global
           description: Gateway to global markets
           url: /highlights/switch-global/2021/overview
@@ -37,9 +37,9 @@ sections:
       description: "Gain exclusive insights on cutting-edge innovations and growing
         trends that are transforming the world today. "
       button: Learn more
-      url: /highlights/switch-connect/2021/overview
+      url: /highlights/switch-beyond/2021/overview
       image: /images/SWITCH Connect 5.jpg
-      alt: SWITCH Connect
+      alt: SWITCH Beyond
   - infopic:
       title: Market access and opportunity
       subtitle: SWITCH Global
