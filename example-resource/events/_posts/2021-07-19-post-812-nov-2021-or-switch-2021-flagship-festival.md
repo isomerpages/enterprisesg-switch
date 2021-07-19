@@ -8,7 +8,7 @@ layout: post
 
 #### About
 
-The **Singapore Week of Innovation and Technology (SWITCH)** brings together leaders, entrepreneurs, creators, accelerators and investors from the Global-Asia innovation ecosystem.
+The **Singapore Week of Innovation and Technology (SWITCH)** brings together leaders, entrepreneurs, creators, accelerators and investors from the Global and Asia innovation ecosystems.
 
 Through the open exchange of new ideas, vibrant networks and line-up of innovation-centric activities, SWITCH provides a global platform to catalyse collaboration that bring a meaningful exchange across different fields and markets. The focus industries include healthcare & biomedical sciences, smart cities & urban solutions, trade & connectivity, and emerging sustainable technologies.
 
@@ -19,7 +19,7 @@ SWITCH is organised by Enterprise Singapore (ESG) and supported by National Rese
 
 #### Embark on a year-long calendar of events and community check-ins
 
-SWITCH 2021 will feature a year-long innovation journey where the Global-Asia innovation ecosystem meets to discuss and collaborate on the most innovative trends and business opportunities. Get your **SWITCH Pass** today and unlock an unparalleled networking and conference experience throughout the year, leading up to and after the flagship **SWITCH 2021** festival in November.
+SWITCH 2021 will feature a year-long innovation journey where the Global and Asia innovation ecosystems meet to discuss and collaborate on the most innovative trends and business opportunities. Get your **SWITCH Pass** today and unlock an unparalleled networking and conference experience throughout the year, leading up to and after the flagship **SWITCH 2021** festival in November.
 
 The first event hosted on the SWITCH Platform will be **SG Innovation Community Day 2021**. [Click here](/events/sg-innovation-community-day-2021) to learn more.
 
