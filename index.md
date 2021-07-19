@@ -4,7 +4,10 @@ title: Singapore Week of Innovation and Technology | SWITCH
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Early Bird 1-For-1 Promotion! Get your SWITCH Pass and be part of
+  a year-long innovation journey starting 4 Aug 2021! <a
+  href="https://events.hubilo.com/switchsg/register" target="_blank">Register
+  here</a>
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
