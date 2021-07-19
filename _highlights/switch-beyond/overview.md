@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /highlights/switch-connect/2021/overview
+permalink: /highlights/switch-beyond/2021/overview
 third_nav_title: Switch Beyond
 ---
+
 
 ![](/images/SWITCH%20Connect%205.jpg)
 # About SWITCH Connect
