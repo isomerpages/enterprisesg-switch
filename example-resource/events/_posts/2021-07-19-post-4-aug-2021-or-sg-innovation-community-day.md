@@ -16,7 +16,7 @@ SWITCH Beyond will highlight a priority agenda on globally emergent topics such 
 
 #### Embark on a year-long calendar of events and community check-ins
 
-SG Innovation Community Day is the first stop of SWITCH 2021’s year-long innovation journey where the Global-Asia innovation ecosystem meets to discuss and collaborate on the most innovative technology trends and business opportunities. Look out for a calendar of upcoming events, as well as the flagship SWITCH Festival and SLINGSHOT Finals in November 2021.
+SG Innovation Community Day is the first stop of SWITCH 2021’s year-long innovation journey where the Global and Asia innovation ecosystems meet to discuss and collaborate on the most innovative technology trends and business opportunities. Look out for a calendar of upcoming events, as well as the flagship SWITCH Festival and SLINGSHOT Finals in November 2021.
 
 
 #### Event details
