@@ -1,5 +1,5 @@
 collections:
-  highlights:
+  flagship-festival:
     output: true
     order:
       - switch-beyond/.keep
