@@ -36,7 +36,7 @@ sections:
       alt: SWITCH Connects you globally
   - infopic:
       title: Where the brightest gather
-      subtitle: SWITCH CONNECT
+      subtitle: SWITCH BEYOND
       description: "Gain exclusive insights on cutting-edge innovations and growing
         trends that are transforming the world today. "
       button: Learn more
