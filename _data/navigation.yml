@@ -2,6 +2,8 @@ logo: /images/SWITCH logo.png
 links:
   - title: Highlights
     collection: highlights
+  - title: Events
+    url: /example-resource/events
   - title: About Us
     collection: about-us
   - title: Talent
