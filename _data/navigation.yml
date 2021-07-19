@@ -1,7 +1,9 @@
 logo: /images/SWITCH logo.png
 links:
-  - title: Highlights
-    collection: highlights
+  - title: Flagship Festival
+    collection: flagship-festival
+  - title: Events & Initiatives
+    url: /example-resource/events-and-initiatives
   - title: About Us
     collection: about-us
   - title: Talent
@@ -10,3 +12,5 @@ links:
     url: /example-resource/blog/
   - title: Register Interest
     url: /interest
+  - title: Tickets
+    url: https://events.hubilo.com/switchsg/register

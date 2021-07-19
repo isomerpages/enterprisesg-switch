@@ -4,7 +4,10 @@ title: Singapore Week of Innovation and Technology | SWITCH
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Early Bird 1-For-1 Promotion! Get your SWITCH Pass and be part of
+  a year-long innovation journey starting 4 Aug 2021! <a
+  href="https://events.hubilo.com/switchsg/register" target="_blank">Register
+  here</a>
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
@@ -13,9 +16,9 @@ sections:
       button: Register Your Interest
       url: /interest
       key_highlights:
-        - title: SWITCH Connect
+        - title: SWITCH Beyond
           description: Innovation & Technology Trends
-          url: /highlights/switch-connect/2021/overview
+          url: /highlights/switch-beyond/2021/overview
         - title: SWITCH Global
           description: Gateway to global markets
           url: /highlights/switch-global/2021/overview
@@ -33,13 +36,13 @@ sections:
       alt: SWITCH Connects you globally
   - infopic:
       title: Where the brightest gather
-      subtitle: SWITCH CONNECT
+      subtitle: SWITCH BEYOND
       description: "Gain exclusive insights on cutting-edge innovations and growing
         trends that are transforming the world today. "
       button: Learn more
-      url: /highlights/switch-connect/2021/overview
+      url: /highlights/switch-beyond/2021/overview
       image: /images/SWITCH Connect 5.jpg
-      alt: SWITCH Connect
+      alt: SWITCH Beyond
   - infopic:
       title: Market access and opportunity
       subtitle: SWITCH Global
