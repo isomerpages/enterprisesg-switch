@@ -35,7 +35,7 @@ Don’t miss the opportunity to also get an industry professional as your mentor
 
 #### Event details
 
-| **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES)|
+| **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES) Session 2/5: Get into the minds of investors!|
 | -------- | -------- |
 |**Date** | Tuesday, 24 August 2021 
 | **Time**    | 7–8.30pm |
