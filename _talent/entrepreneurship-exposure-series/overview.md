@@ -27,12 +27,16 @@ Discover **the global startup landscape** from the eyes of **government and corp
 
 **Synopsis:** Hear from the regulators and corporates on how different initiatives and frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
 
+Check out the speakers of our first session and more details [here](https://www.switchsg.org/events/ees-session-1).
+
 #### Session 2: Get into the minds of investors!
 *24 August 2021*
 
 Get into the minds of **investors** to find out what they look for in startups and the winning formula.
 
 **Synopsis:** What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what determines the success of different growth stages and milestones of a startup - from concept and product development to market validation and getting your startup idea funded.
+
+Find out more about this session [here](https://www.switchsg.org/events/ees-session-2).
 
 #### Session 3: Learn about startup success in Singapore!
 *7 September 2021*
