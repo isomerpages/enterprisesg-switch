@@ -6,8 +6,23 @@ permalink: /events/ees-session-1
 layout: post
 ---
 
+![Alt text for image on Isomer site](/images/All%20social%20media%20posts%20revised_EDM%20header.png)
 
+Are you curious about what shapes the global startup and innovation landscape? Who are the different players within these ecosystems and what initiatives are helping the startup scene grow and enabling innovation? 
 
+Learn from industry practitioners and ecosystem builders speaking at the first session of the Talent @ SWITCH Entrepreneurship Exposure Series (EES) - “Understand the global startup ecosystem” on 10 August (7pm to 8.30pm): 
 
+- Clara Chen, General Manager, XNode Pte Ltd
+- Brian Chan, Deputy Director, ACE (Action Community for Entrepreneurship)
+- Seng Woei Yuan, Deputy Director, SWITCH Programme Office (Enterprise Singapore)
+- Lee Jin Sheng, Deputy Director, Global Innovation Network, Enterprise Singapore 
 
-test
+Find out more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available! 
+
+The Talent @ SWITCH Entrepreneurship Exposure Series (EES) consists of 5 bi-weekly sessions from August to October, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
+
+Along with the series, don’t miss the opportunity to also get an industry professional as your mentor at the Talent @ SWITCH Mentorship Programme, and solve challenges issued by organisations at the Talent @ SWITCH Youth Challenge!
+
+Discover the global startup landscape from the eyes of government and corporate players who are actively shaping it.
+
+Synopsis: Hear from the regulators and corporates on how different initiatives and frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
