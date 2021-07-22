@@ -6,14 +6,14 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Early Bird 1-For-1 Promotion! Get your SWITCH Pass and be part of
   a year-long innovation journey starting 4 Aug 2021! <a
-  href="https://bit.ly/2V4et44" target="_blank">Buy SWITCH Pass</a>
+  href="https://bit.ly/2Uv69uy" target="_blank">Buy SWITCH Pass</a>
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
       subtitle: Asia's leading innovation and technology festival | 8–12 November 2021
       background: /images/SWITCH_2021_Hero_Banner_3e.jpg
       button: Buy SWITCH PASS
-      url: https://bit.ly/3rv8zp4
+      url: https://bit.ly/2Uv69uy
       key_highlights:
         - title: SWITCH Beyond
           description: Innovation & Technology Trends
@@ -31,7 +31,7 @@ sections:
         year-long innovation journey of networking opportunities and events
         throughout 2021 await you.
       button: Buy SWITCH Pass
-      url: https://bit.ly/3BqinVM
+      url: https://bit.ly/2Uv69uy
   - infopic:
       title: The Global Innovation Movement
       subtitle: Be part of
