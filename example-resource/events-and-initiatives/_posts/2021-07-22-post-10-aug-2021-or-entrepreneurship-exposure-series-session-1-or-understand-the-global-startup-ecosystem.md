@@ -5,8 +5,9 @@ date: 2021-07-22
 permalink: /events/ees-session-1
 layout: post
 ---
-
 ![Alt text for image on Isomer site](/images/All%20social%20media%20posts%20revised_EDM%20header.png)
+
+#### About
 
 Are you curious about what shapes the global startup and innovation landscape? Who are the different players within these ecosystems and what initiatives are helping the startup scene grow and enabling innovation? 
 
@@ -26,3 +27,13 @@ Along with the series, don’t miss the opportunity to also get an industry prof
 Discover the global startup landscape from the eyes of government and corporate players who are actively shaping it.
 
 Synopsis: Hear from the regulators and corporates on how different initiatives and frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
+
+#### Event details
+
+| **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES)|
+| -------- | -------- |
+|**Date** | Tuesday, 10 August 2021 
+| **Time**    | 7–8.30pm |
+|**Venue** | SWITCH Platform (Virtual), and limited slots to attend physically at SCAPE (first-come-first-serve). This is tentative and the number of pax will be determined by current SMM guidelines.
+| **Register** | [Click here](https://www.switchsg.org/talent/ees/apply-now) |
+|**Price for the 5-sessions series** | SGD $10
