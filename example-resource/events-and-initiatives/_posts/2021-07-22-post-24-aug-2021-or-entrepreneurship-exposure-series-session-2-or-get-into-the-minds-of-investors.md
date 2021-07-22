@@ -5,4 +5,40 @@ date: 2021-07-22
 permalink: /events/ees-session-2
 layout: post
 ---
-test
+![Alt text for image on Isomer site](/images/All%20social%20media%20posts%20revised_EDM%20header.png)
+
+#### About
+
+What do investors look for in startups before deciding to invest in them? What determines the success of a startup, through its different growth milestones – from product development to market validation and securing funding?
+
+Acquire exclusive knowledge and tips from experienced investors speaking at **the second session of the 5-sessions Talent @ SWITCH Entrepreneurship Exposure Series (EES)** - “Get into the minds of investors!” on 24 August, 7pm to 8.30pm.
+
+#### Some of our speakers
+
+- Farhan Firdaus, Partner & Head (Incubator), Meet Ventures
+- Jaclyn Seow, Head of ESG and Impact, Openspace Ventures 
+- Edward Tay, Chief Executive Officer, Sistema Asia Capital Pte Ltd 
+
+and more!
+
+Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available!
+
+The Talent @ SWITCH Entrepreneurship Exposure Series (EES) consists of **5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
+
+#### Get into the minds of investors to find out what they look for in startups and the winning formula.
+
+What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what determines the success of different growth stages and milestones of a startup - from concept and product development to market validation and getting your startup idea funded.
+
+#### Exclusive opportunity to get a mentor or take part in the Youth Challenge along with signing up for the series
+
+Don’t miss the opportunity to also get an industry professional as your mentor at the [Talent @ SWITCH Mentorship Programme](https://www.switchsg.org/talent/ees/mentorship-programme), and solve challenges issued by organisations at the [Talent @ SWITCH Youth Challenge](https://www.switchsg.org/talent/ees/youth-challenge), when you sign up for the EES.
+
+#### Event details
+
+| **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES)|
+| -------- | -------- |
+|**Date** | Tuesday, 24 August 2021 
+| **Time**    | 7–8.30pm |
+|**Venue** | SWITCH Platform (Virtual), with limited slots to attend physically at SCAPE (first-come-first-serve). *Physical attendance is tentative and the number of pax will be determined by current SMM guidelines.*
+| **Register** | [Click here](https://www.switchsg.org/talent/ees/apply-now) |
+|**Price for the 5-sessions EES** | SGD $10
