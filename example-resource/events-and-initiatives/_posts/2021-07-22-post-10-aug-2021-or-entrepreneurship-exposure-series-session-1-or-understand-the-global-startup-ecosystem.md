@@ -24,7 +24,7 @@ Find out more about the series [here](https://www.switchsg.org/talent/entreprene
 
 #### Deep dive into the global startup landscape from the eyes of government and corporate players
 
-Learn from the regulators, investors and ecosystem builders on how different initiatives and frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
+Learn from the regulators, investors and ecosystem builders on how different initiatives, frameworks and stakeholders are essential in enabling innovation and entrepreneurship in the ecosystem.
 
 #### Exclusive opportunity to get a mentor or take part in the Youth Challenge along with signing up for the series
 
@@ -32,7 +32,7 @@ Don’t miss the opportunity to also get an industry professional as your mentor
 
 #### Event details
 
-| **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES)|
+| **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES) Session 1/5: Understand the global startup ecosystem|
 | -------- | -------- |
 |**Date** | Tuesday, 10 August 2021 
 | **Time**    | 7–8.30pm |
