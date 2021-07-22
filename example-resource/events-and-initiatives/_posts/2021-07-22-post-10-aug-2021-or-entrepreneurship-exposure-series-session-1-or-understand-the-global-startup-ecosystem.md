@@ -36,6 +36,6 @@ Don’t miss the opportunity to also get an industry professional as your mentor
 | -------- | -------- |
 |**Date** | Tuesday, 10 August 2021 
 | **Time**    | 7–8.30pm |
-|**Venue** | SWITCH Platform (Virtual), with limited slots to attend physically at SCAPE (first-come-first-serve). *Physical attendance is tentative and the number of pax will be determined by current SMM guidelines.*
+|**Venue** | SWITCH Platform (Virtual), with limited slots to attend physically at SCAPE (first-come-first-serve basis). *Physical attendance is tentative and the number of pax will be determined by current SMM guidelines.*
 | **Register** | [Click here](https://www.switchsg.org/talent/ees/apply-now) |
 |**Price for the 5-sessions EES** | SGD $10
