@@ -11,8 +11,10 @@ layout: post
 
 Are you curious about what shapes the global startup and innovation landscape? Who are the different players within these ecosystems and what initiatives are helping the startup scene grow and enabling innovation? 
 
-Learn from industry practitioners and ecosystem builders speaking at the first session of the Talent @ SWITCH Entrepreneurship Exposure Series (EES) - “Understand the global startup ecosystem” on 10 August (7pm to 8.30pm): 
+Learn from industry practitioners and ecosystem builders speaking at the **first session of the Talent @ SWITCH Entrepreneurship Exposure Series (EES)** - “Understand the global startup ecosystem” on 10 August (7pm to 8.30pm). The EES **consists of 5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
 
+#### Session speakers:
+![Alt text for image on Isomer site](/images/All%20social%20media%20posts%20revised-06.png)
 - Clara Chen, General Manager, XNode Pte Ltd
 - Brian Chan, Deputy Director, ACE (Action Community for Entrepreneurship)
 - Seng Woei Yuan, Deputy Director, SWITCH Programme Office (Enterprise Singapore)
@@ -20,13 +22,13 @@ Learn from industry practitioners and ecosystem builders speaking at the first s
 
 Find out more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available! 
 
-The Talent @ SWITCH Entrepreneurship Exposure Series (EES) consists of 5 bi-weekly sessions from August to October, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
-
-Along with the series, don’t miss the opportunity to also get an industry professional as your mentor at the Talent @ SWITCH Mentorship Programme, and solve challenges issued by organisations at the Talent @ SWITCH Youth Challenge!
-
 #### Deep dive into the global startup landscape from the eyes of government and corporate players
 
 Learn from the regulators, investors and ecosystem builders on how different initiatives and frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
+
+#### Exclusive opportunity to get a mentor or take part in the Youth Challenge along with signing up for the series
+
+Don’t miss the opportunity to also get an industry professional as your mentor at the [Talent @ SWITCH Mentorship Programme](https://www.switchsg.org/talent/ees/mentorship-programme), and solve challenges issued by organisations at the [Talent @ SWITCH Youth Challenge](https://www.switchsg.org/talent/ees/youth-challenge), when you sign up for the EES.
 
 #### Event details
 
