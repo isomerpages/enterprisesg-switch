@@ -11,7 +11,7 @@ layout: post
 
 What do investors look for in startups before deciding to invest in them? What determines the success of a startup, through its different growth milestones – from product development to market validation and securing funding?
 
-Acquire exclusive knowledge and tips from experienced investors speaking at **the second session of the 5-sessions Talent @ SWITCH Entrepreneurship Exposure Series (EES)** - “Get into the minds of investors!” on 24 August, 7pm to 8.30pm.
+Acquire exclusive knowledge and tips from experienced investors speaking at **the second session of Talent @ SWITCH Entrepreneurship Exposure Series (EES)** - “Get into the minds of investors!” on 24 August, 7pm to 8.30pm. The series consists of **5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
 
 #### Some of our speakers
 
@@ -23,9 +23,7 @@ and more!
 
 Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available!
 
-The Talent @ SWITCH Entrepreneurship Exposure Series (EES) consists of **5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
-
-#### Get into the minds of investors to find out what they look for in startups and the winning formula.
+#### Get into the minds of investors to find out what they look for in startups and the winning formula
 
 What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what makes the cut for investable startups and the upcoming trends and industries they are looking at.
 
