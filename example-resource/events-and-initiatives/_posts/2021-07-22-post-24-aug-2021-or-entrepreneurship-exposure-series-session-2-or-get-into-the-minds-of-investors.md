@@ -27,7 +27,7 @@ The Talent @ SWITCH Entrepreneurship Exposure Series (EES) consists of **5 bi-we
 
 #### Get into the minds of investors to find out what they look for in startups and the winning formula.
 
-What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what determines the success of different growth stages and milestones of a startup - from concept and product development to market validation and getting your startup idea funded.
+What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what makes the cut for investable startups and the upcoming trends and industries they are looking at.
 
 #### Exclusive opportunity to get a mentor or take part in the Youth Challenge along with signing up for the series
 
