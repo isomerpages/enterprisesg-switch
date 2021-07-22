@@ -24,9 +24,9 @@ The Talent @ SWITCH Entrepreneurship Exposure Series (EES) consists of 5 bi-week
 
 Along with the series, don’t miss the opportunity to also get an industry professional as your mentor at the Talent @ SWITCH Mentorship Programme, and solve challenges issued by organisations at the Talent @ SWITCH Youth Challenge!
 
-Discover the global startup landscape from the eyes of government and corporate players who are actively shaping it.
+#### Discover the global startup landscape from the eyes of government and corporate players who are actively shaping it
 
-Synopsis: Hear from the regulators and corporates on how different initiatives and frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
+Hear from the regulators and corporates on how different initiatives and frameworks are pivotal in enabling innovation and entrepreneurship in the ecosystem.
 
 #### Event details
 
