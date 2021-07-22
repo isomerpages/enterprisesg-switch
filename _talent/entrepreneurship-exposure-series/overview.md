@@ -36,7 +36,7 @@ Get into the minds of **investors** to find out what they look for in startups a
 
 **Synopsis:** What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what determines the success of different growth stages and milestones of a startup - from concept and product development to market validation and getting your startup idea funded.
 
-Find out more about our second session [here](https://www.switchsg.org/events/ees-session-2).
+Find out more about this session [here](https://www.switchsg.org/events/ees-session-2).
 
 #### Session 3: Learn about startup success in Singapore!
 *7 September 2021*
