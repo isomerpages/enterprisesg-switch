@@ -71,6 +71,8 @@ Why having an **intrapreneurial spirit** is important for your career and how yo
 
 **Synopsis:** Organisations are increasingly  developing their employees to be intrapreneurs - corporate entrepreneurs with a startup mindset who can challenge the company’s way of thinking and create new kinds of value through innovation and unique business models. Learn all about how you can work your way to becoming an intrapreneur in this concluding session.
 
+Check out the speakers and details of the fifth session that is hosted by *SCAPE  [here](https://www.switchsg.org/events/ees-session-5).
+
 # How can I participate?
 You will have the opportunity to apply for the Entrepreneurship Exposure Series (EES), as well as its complementary programmes - the Mentorship Programme **and/or** Youth Challenge - in the same EES registration form. 
 
