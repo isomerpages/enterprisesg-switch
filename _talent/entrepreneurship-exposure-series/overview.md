@@ -22,7 +22,7 @@ The Talent @ SWITCH EES also has two complementary programmes - the [Talent @ SW
 
 As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES) (Original price: USD50)**!
 
-Don't miss this time-limited promotion - **sign up by 8 August 2021, 2359 (SGT)!**
+Don't miss this time-limited promotion - sign up **by 8 August 2021, 2359 (SGT)!**
 
 ### Overview of the 5-sessions series:
 ![Alt text for image on Isomer site](/images/ees%20schedule.png)
