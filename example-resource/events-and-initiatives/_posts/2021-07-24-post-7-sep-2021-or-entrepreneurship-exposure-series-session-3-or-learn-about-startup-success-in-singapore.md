@@ -9,9 +9,9 @@ layout: post
 
 #### About
 
-What makes the success of startups - from coming up with a good business idea to getting market validation and scaling it? This Talent @ SWITCH Entrepreneurship Exposure Series (EES) Session 3 is where you learn tips of launching a startup from successful  founders who have treaded the path on what worked and did not work for them in their startup  journey.
+What makes the success of startups - from coming up with a good business idea to getting market validation and scaling it? Get tips on launching a startup from successful founders who have treaded the path of starting up and discovered what worked and did not work for them in their startup journey.
 
-Gain exclusive knowledge from Singaporean startup founders speaking at **this EES Session 3  - “Learn about startup success in Singapore!”** on 7 September, 7pm to 8.30pm. The series consists of **5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
+Gain exclusive knowledge from Singaporean startup founders speaking at the **Talent @ SWITCH Entrepreneurship Exposure Series (EES) Session 3 - “Learn about startup success in Singapore!”** on 7 September, 7pm to 8.30pm. The series consists of **5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
 
 #### Session speakers
 
