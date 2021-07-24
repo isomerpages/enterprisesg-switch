@@ -15,6 +15,9 @@ sections:
       button: Buy SWITCH PASS
       url: https://bit.ly/2Uv69uy
       key_highlights:
+        - title: "4 Aug 2021 "
+          description: SG Innovation Community Day
+          url: /events/sg-innovation-community-day-2021
         - title: SWITCH Beyond
           description: Innovation & Technology Trends
           url: /highlights/switch-beyond/2021/overview
@@ -30,8 +33,18 @@ sections:
       description: The SWITCH Pass is your ticket to the SWITCH Platform where a
         year-long innovation journey of networking opportunities and events
         throughout 2021 await you.
-      button: Buy SWITCH Pass
+      button: Get "1-For-1" SWITCH Pass
       url: https://bit.ly/2Uv69uy
+  - infopic:
+      title: SG Innovation Community Day
+      subtitle: 4 Aug 2021
+      description: Connect with the global innovation community as partners from our
+        networks converge at a half-day forum to discuss trends and
+        collaboration opportunities.
+      button: Learn More
+      url: /events/sg-innovation-community-day-2021
+      image: /images/sg_innovation_community_day_2021_event_banner.jpg
+      alt: SG Innovation Community Day
   - infopic:
       title: The Global Innovation Movement
       subtitle: Be part of
