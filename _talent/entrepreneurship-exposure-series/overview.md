@@ -16,11 +16,13 @@ The Talent @ SWITCH EES also has two complementary programmes - the [Talent @ SW
 
 [Follow our Facebook page to get the latest updates when we release the speakers of each session.](https://www.facebook.com/SwitchSingapore/)
 
-***Read on to find out more about the details of the 5  EES sessions, how you can participate in the EES and its complementary programmes, what is in it for you, and the commitment required for the series.***
+***Read on to find out more about the student-exclusive promotion on tickets to SWITCH  2021 and EES, the details of the 5  EES sessions, how you can participate in the EES and its complementary programmes, what is in it for you, and the commitment required for the series.***
 
 ### Student-exclusive price to SWITCH 2021 and EES, of ~~USD50~~ SGD10
 
-As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of SGD10 *(original price: USD50)* to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**. Don't miss this time-limited promotion - **sign up by 8 August 2021, 2359 (SGT)!**
+As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES) (Original price: USD50)**!
+
+Don't miss this time-limited promotion - **sign up by 8 August 2021, 2359 (SGT)!**
 
 ### Overview of the 5-sessions series:
 ![Alt text for image on Isomer site](/images/ees%20schedule.png)
