@@ -10,7 +10,7 @@ Regardless of whether they decide to be intrapreneurs in a company or entreprene
 
 The Mentorship Programme consists of **4 mentoring sessions over 2.5 months and takes place right after each EES session.** Interested applicants for this programme are required to apply along with the EES. 
 
-[Sign up for the Talent @ SWITCH Mentorship Programme along with the EES to get a mentor, by 1 August 2021, 2359 (SGT).](https://bit.ly/EESapply)
+[Sign up for the Talent @ SWITCH Mentorship Programme along with the EES to get a mentor, by 8 August 2021, 2359 (SGT).](https://bit.ly/EESapply)
 
 Limited slots are available - sign up fast for a spot in the programme!
 
