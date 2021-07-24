@@ -21,7 +21,7 @@ Gain exclusive knowledge from both international and Singaporean startup founder
 - Carmen Low Jia Min, Co-founder, **Afterglow Concepts Private Limited**
 - Calvin Wee, Co-founder, **The Young SEAkers**
 
-and more.
+and more!
 
 Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available!
 
