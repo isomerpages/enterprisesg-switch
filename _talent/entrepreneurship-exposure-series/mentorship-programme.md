@@ -59,4 +59,4 @@ As an exclusive promotion to students through 8 August 2021, both Singaporean an
 
 Don't miss this time-limited promotion only for students - sign up [here](https://bit.ly/EESapply) **by 8 August 2021, 2359 (SGT)** with your school email!
 
-Once you have signed up for the EES, you will be onboarded to an always-on SWITCH platform that will stream both SWITCH 2021 and its other year-long events such as monthly webinars, including the EES.
+Once you have signed up for the EES, you will be onboarded to an always-on SWITCH platform where you can access both SWITCH 2021 and its other year-long events such as monthly webinars, on top of the EES.
