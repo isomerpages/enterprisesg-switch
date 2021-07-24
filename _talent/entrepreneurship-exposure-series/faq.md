@@ -41,7 +41,7 @@ As an exclusive promotion to students through 8 August 2021, both Singaporean an
 
 Grab the time-limited promotion only for students [here](https://bit.ly/EESapply) **by 8 August 2021, 2359 (SGT)** with your school email.
 
-Once you have signed up for EES, you will be onboarded to our always-on SWITCH platform that will stream both SWITCH 2021 and its year-long events, including EES.
+Once you have signed up for the EES, you will be onboarded to an always-on SWITCH platform where you can access both SWITCH 2021 and its other year-long events such as monthly webinars, on top of the EES.
 
 Youths may also apply for the Mentorship Programme and/or Youth Challenge at no additional cost along with the EES.
 
