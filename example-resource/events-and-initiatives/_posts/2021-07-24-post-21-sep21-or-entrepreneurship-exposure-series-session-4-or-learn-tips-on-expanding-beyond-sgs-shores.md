@@ -13,7 +13,7 @@ How is it like to launch a startup overseas? Get deep insights from internationa
 
 Find out from international startup founders on how a particular city’s startup ecosystem differs from another, such as in terms of the support network and intermediaries it offers, as well as the ways of maneuvering the different ecosystems and culture.
 
-Gain exclusive knowledge from both international and Singaporean startup founders speaking at the **Entrepreneurship Exposure Series (EES) Session 4 | “Learn the tips to expanding beyond Singapore’s shores!"** on 21 September, 7pm to 8.30pm. The series consists of **5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
+Gain exclusive knowledge from both international and Singaporean startup founders speaking at the **Entrepreneurship Exposure Series (EES) Session 4 - “Learn the tips to expanding beyond Singapore’s shores!"** on 21 September, 7pm to 8.30pm. The series consists of **5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
 
 #### Some of our session speakers
 
