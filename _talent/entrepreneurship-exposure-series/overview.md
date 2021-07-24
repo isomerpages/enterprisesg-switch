@@ -99,6 +99,8 @@ Participants of the Entrepreneurship Exposure Series (EES) are required to:
 3. Provide feedback to the organisers about the programme.
 
 # How can I apply?
-Apply to join the Talent @ SWITCH EES [here](https://bit.ly/EESapply) by **8 August 2021, 2359 (SGT)** - limited slots available!
+As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**.
+
+Grab this time-limited promotion only for students [here](https://bit.ly/EESapply) **by 8 August 2021, 2359 (SGT)** with your school email!
 
 [Follow our Facebook page to get updated when we release the speakers of each session!](https://www.facebook.com/SwitchSingapore/)
