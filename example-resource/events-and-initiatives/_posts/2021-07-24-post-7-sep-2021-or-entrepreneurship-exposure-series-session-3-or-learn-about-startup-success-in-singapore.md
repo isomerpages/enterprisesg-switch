@@ -9,24 +9,22 @@ layout: post
 
 #### About
 
-What makes the success of Singaporean startups? Learn the ropes of launching a startup from successful Singaporean founders who have treaded the path on what worked and did not work for them in their startup development journey - be it coming up with a good business idea or getting market validation and scaling their idea.
+What makes the success of startups - from coming up with a good business idea to getting market validation and scaling it? This Talent @ SWITCH Entrepreneurship Exposure Series (EES) Session 3 is where you learn tips of launching a startup from successful  founders who have treaded the path on what worked and did not work for them in their startup  journey.
 
-Gain exclusive knowledge and tips from startup founders speaking at **the third session of Talent @ SWITCH Entrepreneurship Exposure Series (EES)** - “Learn about startup success in Singapore!” on 7 September, 7pm to 8.30pm. The series consists of **5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
+Gain exclusive knowledge from Singaporean startup founders speaking at **this EES Session 3 | “Learn about startup success in Singapore!”** on 7 September, 7pm to 8.30pm. The series consists of **5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
 
-#### Some of our speakers
+#### Session speakers
 
-- Muhd Shamir Abdul Rahim, Co-founder, GotSurge
-- Glen Lim, Senior Associate, Partnership Lead, SWITCH Programme Office, Enterprise Singapore
-- Oswald Yeo, Chief Executive Officer and Co-founder, Glints
-- Ho Zhi Hui, Co-founder, Skilio
-
-and more!
+- Muhd Shamir Abdul Rahim, Co-founder, **GotSurge**
+- Glen Lim, Senior Associate, Partnership Lead, **SWITCH Programme Office, Enterprise Singapore**
+- Oswald Yeo, Chief Executive Officer and Co-founder, **Glints**
+- Ho Zhi Hui, Co-founder, **Skilio**
 
 Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available!
 
 #### Gain exclusive access to knowledge on launching a startup from prominent local founders
 
-What does it take to start up, from coming up with a business plan and getting market validation to building your customer base and securing funding, from the perspective of founders? Learn directly from the founder of Glints, Skilio and GotSurge on what makes their ideas grow into successful startups.
+What does it take to start up, from coming up with a business plan and getting market validation to building your customer base and securing funding, from the perspective of founders? Learn directly from the founder of Glints, Skilio and GotSurge on how they grew their ideas into successful startups.
 
 #### Exclusive opportunity to get a mentor or take part in the Youth Challenge along with signing up for the series
 
