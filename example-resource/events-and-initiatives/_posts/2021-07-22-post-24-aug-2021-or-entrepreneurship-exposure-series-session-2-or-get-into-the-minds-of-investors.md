@@ -18,8 +18,7 @@ Acquire exclusive knowledge and tips from experienced investors speaking at **th
 - Farhan Firdaus, Partner & Head (Incubator), Meet Ventures
 - Jaclyn Seow, Head of ESG and Impact, Openspace Ventures 
 - Edward Tay, Chief Executive Officer, Sistema Asia Capital Pte Ltd 
-
-and more!
+- Sang Shin, Director, Digital Innovation, Temasek
 
 Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available!
 
