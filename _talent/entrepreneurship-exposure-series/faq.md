@@ -35,11 +35,15 @@ You can refer to the below for the different combinations of programmes you can 
 
 ![Alt text for image on Isomer site](/images/EES_participation.jpeg)
 
-**5. What is the cost to participate in the EES, Mentorship Programme and Youth Challenge?**
+**5. What is the cost to participate in the EES, Mentorship Programme, Youth Challenge and SWITCH 2021 as a student?**
 
-A fee of SGD10 is required to join the series, to cover the programme’s logistics, production and platform costs.
+As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**.
 
-Youths may apply for the Mentorship Programme and/or Youth Challenge at no additional cost along with the EES.
+Grab the time-limited promotion only for students [here](https://bit.ly/EESapply) **by 8 August 2021, 2359 (SGT)** with your school email.
+
+Once you have signed up for EES, you will be onboarded to our always-on SWITCH platform that will stream both SWITCH 2021 and its year-long events, including EES.
+
+Youths may also apply for the Mentorship Programme and/or Youth Challenge at no additional cost along with the EES.
 
 
 If you have more questions, contact us at talent@switchsg.org.
