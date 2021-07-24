@@ -14,6 +14,14 @@ Hosted on the **SWITCH virtual platform**, delegates will be able to network sea
 
 SWITCH Beyond will highlight a priority agenda on globally emergent topics such as sustainability, open innovation and deep tech trends. SWITCH Global will explore the emerging business and innovation opportunities in Singapore and international markets.
 
+#### Register
+
+Get your **SWITCH Pass** and for access to the SWITCH Platform and attend SG Innovation Community Day!
+
+[Register here](https://bit.ly/2Uv69uy)
+
+<sub>(Exclusive 1-For-1 promotion for SWITCH Pass till 3 Aug 2021)</sub)
+
 #### Embark on a year-long calendar of events and community check-ins
 
 SG Innovation Community Day is the first stop of SWITCH 2021’s year-long innovation journey where the Global and Asia innovation ecosystems meet to discuss and collaborate on the most innovative technology trends and business opportunities. Look out for a calendar of upcoming events, as well as the flagship SWITCH Festival and SLINGSHOT Finals in November 2021.
