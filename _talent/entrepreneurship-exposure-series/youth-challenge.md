@@ -48,3 +48,11 @@ Applicants for the Youth Challenge are required to:
 Interested applicants for the Talent @ SWITCH Youth Challenge can sign up along with the EES [here](https://bit.ly/EESapply).
 
 Applications close on **28 July 2021, 2359 (SGT)**.
+
+### Student-exclusive price to SWITCH 2021 and EES, of ~~USD50~~ SGD10
+
+As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES) (inclusive of Mentorship Programme and Youth Challenge)**!
+
+Don't miss this time-limited promotion only for students - sign up [here](https://bit.ly/EESapply) **by 8 August 2021, 2359 (SGT)** with your school email!
+
+Once you have signed up for EES, you will be onboarded to our always-on SWITCH platform that will stream both SWITCH 2021 and its year-long events, including EES.
