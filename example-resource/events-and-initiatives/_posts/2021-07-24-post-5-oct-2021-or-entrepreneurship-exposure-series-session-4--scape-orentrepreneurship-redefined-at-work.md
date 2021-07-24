@@ -13,7 +13,7 @@ Why is having an intrapreneurial spirit important for your career and how can yo
 
 Organisations are increasingly developing their employees to be intrapreneurs - corporate entrepreneurs with a startup mindset who can challenge the company’s way of thinking and create new kinds of value through innovation and unique business models. Learn all about how you can work your way to becoming an intrapreneur in this concluding session of the Talent @ SWITCH Entrepreneurship Exposure Series (EES).
 
-Acquire exclusive knowledge and tips from intrapreneurs speaking at **the fifth session of EES** - “Entrepreneurship redefined at work” hosted by SCAPE, on 24 August, 7pm to 8.30pm. The series consists of **5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
+Acquire exclusive knowledge and tips from intrapreneurs speaking at **the fifth session of EES - “Entrepreneurship redefined at work” hosted by SCAPE**, on 24 August, 7pm to 8.30pm. The series consists of **5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
 
 #### Session speakers
 
