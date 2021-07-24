@@ -20,7 +20,7 @@ Get your **SWITCH Pass** and for access to the SWITCH Platform and attend SG Inn
 
 [Register here](https://bit.ly/2Uv69uy)
 
-<sub>(Exclusive 1-For-1 promotion for SWITCH Pass till 3 Aug 2021)</sub)
+<sub>(Exclusive 1-For-1 promotion for SWITCH Pass till 3 Aug 2021)
 
 #### Embark on a year-long calendar of events and community check-ins
 
