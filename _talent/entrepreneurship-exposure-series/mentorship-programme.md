@@ -45,11 +45,18 @@ Once you are enrolled into this mentorship programme, you are required to be com
 * Briefing session and orientation for mentees (6 August)
 * Mentoring programme kick-off (10 August)
 * End of mentoring programme (21 September)
-
 # How can I apply?
 
 Interested applicants for the Talent @ SWITCH Mentorship Programme can apply along with the EES [here](https://bit.ly/EESapply).
 
-Limited slots are available - sign up fast to get a mentor! Applications close on **1 August 2021, 2359 (SGT)**.
+Limited slots are available - sign up fast to get a mentor! Applications close on **8 August 2021, 2359 (SGT)**.
 
 [Follow our Facebook page to get updates on the programme and mentors!](https://www.facebook.com/SwitchSingapore/)
+
+### Student-exclusive price to SWITCH 2021 and EES, of ~~USD50~~ SGD10
+
+As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES) (inclusive of Mentorship Programme)**!
+
+Don't miss this time-limited promotion only for students - sign up [here](https://bit.ly/EESapply) **by 8 August 2021, 2359 (SGT)** with your school email!
+
+Once you have signed up for EES, you will be onboarded to our always-on SWITCH platform that will stream both SWITCH 2021 and its year-long events, including EES.
