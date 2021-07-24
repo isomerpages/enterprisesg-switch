@@ -12,7 +12,7 @@ Deep dive into the startup and innovation ecosystems from the lens of different 
 
 The Talent @ SWITCH EES also has two complementary programmes - the [Talent @ SWITCH Mentorship Programme](https://www.switchsg.org/talent/ees/mentorship-programme) and [Talent @ SWITCH Youth Challenge](https://www.switchsg.org/talent/ees/youth-challenge). As part of EES, the former allows youths to get mentored by an experienced professional to gain one-to-one guidance on developing career-related skills as well as industry knowledge from their mentor, while the Youth Challenge provides youths with the opportunity to acquire valuable experience in solving real-world challenges issued by organisations.
 
-[Apply now to join the Talent @ SWITCH EES by 1 August 2021, 2359 (SGT) - limited slots available!](https://bit.ly/EESapply)
+[Apply now to join the Talent @ SWITCH EES by 8 August 2021, 2359 (SGT) - limited slots available!](https://bit.ly/EESapply)
 
 [Follow our Facebook page to get the latest updates when we release the speakers of each session.](https://www.facebook.com/SwitchSingapore/)
 
@@ -44,7 +44,7 @@ Get into the minds of **investors** to find out what they look for in startups a
 
 **Synopsis:** What are the unmissable boxes that different kinds of investors will check before deciding to invest in a startup? Acquire knowledge and tips from investors on what determines the success of different growth stages and milestones of a startup - from concept and product development to market validation and getting your startup idea funded.
 
-Find out more about this session [here](https://www.switchsg.org/events/ees-session-2).
+Find out more about this session and its speakers [here](https://www.switchsg.org/events/ees-session-2).
 
 #### Session 3: Learn about startup success in Singapore!
 *7 September 2021*
@@ -53,12 +53,16 @@ What makes the success of  **Singaporean startups**? Gain exclusive access to kn
 
 **Synopsis:** Learn the ropes of launching a startup from Singaporean founders who have treaded the path on what worked and did not work for them in their startup development journey - be it coming up with a good business idea or getting market validation and scaling their idea.
 
+Learn about the speakers of this session and more details [here](https://www.switchsg.org/events/ees-session-3).
+
 #### Session 4: Learn the tips to expanding beyond Singapore’s shores!
 *21 September 2021*
 
 How is it like to **launch a startup overseas**? Get deep insights from **international startups** on the differences of Singapore's startup ecosystem compared to other countries. 
 
 **Synopsis:** Find out from international startup founders on how a particular city's startup ecosystem differs from another, such as in terms of the support network and intermediaries it offers. This will determine the startups' access and cost to network building with other stakeholders.
+
+Discover the speakers of this fourth session and more details [here](https://www.switchsg.org/events/ees-session-4).
 
 #### Session 5: Entrepreneurship redefined at work
 *5 October 2021*
@@ -95,6 +99,6 @@ Participants of the Entrepreneurship Exposure Series (EES) are required to:
 3. Provide feedback to the organisers about the programme.
 
 # How can I apply?
-Apply to join the Talent @ SWITCH EES [here](https://bit.ly/EESapply) by **1 August 2021, 2359 (SGT)** - limited slots available!
+Apply to join the Talent @ SWITCH EES [here](https://bit.ly/EESapply) by **8 August 2021, 2359 (SGT)** - limited slots available!
 
 [Follow our Facebook page to get updated when we release the speakers of each session!](https://www.facebook.com/SwitchSingapore/)
