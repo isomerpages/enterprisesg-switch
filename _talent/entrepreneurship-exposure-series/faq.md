@@ -12,13 +12,13 @@ For instance, post-secondary education institutions in Singapore include, but no
 
 **2. How can I apply for the Entrepreneurship Exposure Series (EES), including the Mentorship Programme and Youth Challenge?**
 
-You can register for the EES including the Mentorship Programme and Youth Challenge [here](https://bit.ly/EESapply). Do take note of the 30-minute duration to complete the registration if you are also applying for other programmes i.e. the Mentorship Programme and/or Youth Challenge along with the EES.
+You can register for the EES including the Mentorship Programme and Youth Challenge [at this form](https://bit.ly/EESapply). Do take note of the 30-minute duration to complete the registration if you are also applying for other programmes i.e. the Mentorship Programme and/or Youth Challenge along with the EES.
 
 **3. When do applications for the Entrepreneurship Exposure Series (EES), including the Mentorship Programme and Youth Challenge close?**
 
 **Application deadlines of the programmes:**
-* Entrepreneurship Exposure Series (EES): **1 August 2021, 2359 (SGT)**
-* Mentorship Programme: **1 August 2021, 2359 (SGT)**
+* Entrepreneurship Exposure Series (EES): **8 August 2021, 2359 (SGT)**
+* Mentorship Programme: **8 August 2021, 2359 (SGT)**
 * Youth Challenge: **28 July 2021, 2359 (SGT)**
 
 **4. Can I apply for the Mentorship Programme and/or Youth Challenge in addition to the EES?**
