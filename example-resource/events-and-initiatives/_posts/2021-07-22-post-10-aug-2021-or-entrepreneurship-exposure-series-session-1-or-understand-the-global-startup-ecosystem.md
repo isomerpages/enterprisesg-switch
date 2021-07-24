@@ -15,10 +15,10 @@ Learn from industry practitioners and ecosystem builders speaking at the **first
 
 #### Session speakers:
 ![Alt text for image on Isomer site](/images/All%20social%20media%20posts%20revised-06.png)
-- Clara Chen, General Manager, XNode Pte Ltd
-- Brian Chan, Deputy Director, ACE (Action Community for Entrepreneurship)
-- Seng Woei Yuan, Deputy Director, SWITCH Programme Office (Enterprise Singapore)
-- Lee Jin Sheng, Deputy Director, Global Innovation Network, Enterprise Singapore 
+- Clara Chen, General Manager, **XNode Pte Ltd**
+- Brian Chan, Deputy Director, **ACE (Action Community for Entrepreneurship)**
+- Seng Woei Yuan, Deputy Director, **SWITCH Programme Office (Enterprise Singapore)**
+- Lee Jin Sheng, Deputy Director, **Global Innovation Network, Enterprise Singapore** 
 
 Find out more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available! 
 
