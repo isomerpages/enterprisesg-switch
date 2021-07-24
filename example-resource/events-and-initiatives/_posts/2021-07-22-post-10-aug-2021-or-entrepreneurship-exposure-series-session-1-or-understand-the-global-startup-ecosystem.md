@@ -11,7 +11,7 @@ layout: post
 
 Are you curious about what shapes the global startup and innovation landscape? Who are the different players within these ecosystems and what initiatives are helping the startup scene grow and enabling innovation? 
 
-Learn from industry practitioners and ecosystem builders speaking at the **first session of the Talent @ SWITCH Entrepreneurship Exposure Series (EES)** - “Understand the global startup ecosystem” on 10 August (7pm to 8.30pm). The EES **consists of 5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
+Learn from industry practitioners and ecosystem builders speaking at the **first session of the Talent @ SWITCH Entrepreneurship Exposure Series (EES) - “Understand the global startup ecosystem”** on 10 August (7pm to 8.30pm). The EES **consists of 5 bi-weekly sessions from August to October**, and is organised by SWITCH and in partnership with National Youth Council and *SCAPE. 
 
 #### Session speakers:
 ![Alt text for image on Isomer site](/images/All%20social%20media%20posts%20revised-06.png)
