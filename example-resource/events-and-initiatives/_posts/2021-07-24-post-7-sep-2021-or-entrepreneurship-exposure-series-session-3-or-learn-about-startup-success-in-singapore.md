@@ -34,10 +34,10 @@ Don’t miss the opportunity to also get an industry professional as your mentor
 
 #### Event details
 
-| **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES) Session 2/5: Get into the minds of investors!|
+| **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES) Session 3/5: Get into the minds of investors!|
 | -------- | -------- |
 |**Date** | Tuesday, 7 September 2021 
 | **Time**    | 7–8.30pm |
 |**Venue** | SWITCH Platform (Virtual), with limited slots to attend physically at SCAPE (first-come-first-serve basis). *Physical attendance is tentative and the number of pax will be determined by current SMM guidelines.*
 | **Register** | [Click here](https://bit.ly/EESapply) |
-|**Price for the 5-sessions EES** | SGD $10
+|**Student-exclusive price to EES and SWITCH 2021** | ~~USD50~~ SGD $10 
