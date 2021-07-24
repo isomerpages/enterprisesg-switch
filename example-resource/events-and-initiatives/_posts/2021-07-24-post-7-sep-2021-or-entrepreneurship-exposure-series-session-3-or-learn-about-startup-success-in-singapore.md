@@ -40,4 +40,4 @@ Don’t miss the opportunity to also get an industry professional as your mentor
 | **Time**    | 7–8.30pm |
 |**Venue** | SWITCH Platform (Virtual), with limited slots to attend physically at SCAPE (first-come-first-serve basis). *Physical attendance is tentative and the number of pax will be determined by current SMM guidelines.*
 | **Register** | [Click here](https://bit.ly/EESapply) |
-|**Student-exclusive price to EES and SWITCH 2021** | ~~USD50~~ SGD $10 
+|**Student-exclusive price to EES and SWITCH 2021** | ~~USD50~~ SGD10
