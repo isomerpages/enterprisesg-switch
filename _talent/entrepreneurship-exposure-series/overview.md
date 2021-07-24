@@ -103,4 +103,4 @@ As an exclusive promotion to students through 8 August 2021, both Singaporean an
 
 Grab this time-limited promotion only for students [here](https://bit.ly/EESapply) **by 8 August 2021, 2359 (SGT)** with your school email!
 
-[Follow our Facebook page to get updated when we release the speakers of each session!](https://www.facebook.com/SwitchSingapore/)
+[Follow our Facebook page to get updated when we release the speakers and details of each session!](https://www.facebook.com/SwitchSingapore/)
