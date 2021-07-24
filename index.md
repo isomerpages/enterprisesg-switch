@@ -27,6 +27,14 @@ sections:
         - title: SLINGSHOT
           description: Premier startup pitching event
           url: /highlights/slingshot/2021/overview
+  - infobar:
+      title: Your gateway to global innovation in Asia
+      subtitle: SWITCH Pass
+      description: The SWITCH Pass is your ticket to the SWITCH Platform where a
+        year-long innovation journey of networking opportunities and events
+        throughout 2021 await you.
+      button: Get "1-For-1" SWITCH Pass
+      url: https://bit.ly/2Uv69uy
   - infopic:
       title: SG Innovation Community Day
       subtitle: 4 Aug 2021
@@ -37,14 +45,6 @@ sections:
       url: /events/sg-innovation-community-day-2021
       image: /images/sg_innovation_community_day_2021_event_banner.jpg
       alt: SG Innovation Community Day
-  - infobar:
-      title: Your gateway to global innovation in Asia
-      subtitle: SWITCH Pass
-      description: The SWITCH Pass is your ticket to the SWITCH Platform where a
-        year-long innovation journey of networking opportunities and events
-        throughout 2021 await you.
-      button: Get "1-For-1" SWITCH Pass
-      url: https://bit.ly/2Uv69uy
   - infopic:
       title: The Global Innovation Movement
       subtitle: Be part of
