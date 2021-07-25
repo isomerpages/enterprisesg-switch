@@ -18,16 +18,15 @@ Gain exclusive knowledge from both international and Singaporean startup founder
 #### Some of our session speakers
 
 - Pham Van Anh, President, **ECO Vietnam Group**
+- Oswald Yeo, Chief Executive Officer and Co-founder, **Glints**
 - Carmen Low Jia Min, Co-founder, **Afterglow Concepts Private Limited**
 - Calvin Wee, Co-founder, **The Young SEAkers**
-
-and more!
 
 Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available!
 
 #### Gain knowledge on what it takes for a startup to expand globally
 
-How is starting up in various markets around the world different from starting up in Singapore? What does going global mean and what steps can startups take to bring their business to overseas markets? Understand the various ecosystems around the world from the perspective of both international and Singaporean founders from ECO Vietnam Group, Afterglow Concepts and more.
+How is starting up in various markets around the world different from starting up in Singapore? What does going global mean and what steps can startups take to bring their business to overseas markets? Understand the various ecosystems around the world from the perspective of both international and Singaporean founders from Glints, ECO Vietnam Group, Afterglow Concepts and more.
 
 #### Exclusive opportunity to get a mentor or take part in the Youth Challenge along with signing up for the series
 
