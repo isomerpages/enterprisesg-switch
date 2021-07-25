@@ -90,8 +90,8 @@ Interested in a startup or innovation career but not sure about how the ecosyste
 If you wish to pursue a startup career after the series, the sessions would have not only equipped you with the knowledge on entrepreneurship and innovation, but also the increased confidence and ability to sustain conversations and network with players in the ecosystem, bringing you nearer to starting your entrepreneurship journey.
 
 ![Alt text for image on Isomer site](/images/Youth4.jpg)
-### Connect with fellow future entrepreneurs
-Network with other youth attendees relevant to your projects and ventures. With virtual networking features like one-to-one meetings and networking lounge, Talent @ SWITCH EES will be where you make meaningful connections.
+### Connect with SWITCH delegates and fellow future entrepreneurs
+With access to SWITCH 2021 and its other year-long events, network with fellow SWITCH delegates including youths relevant to your projects and ventures on the always-on SWITCH platform throughout the year. With virtual networking features like one-to-one meetings and networking lounge, Talent @ SWITCH EES and SWITCH 2021 will be where you make meaningful connections.
 
 # What is involved?
 Participants of the Entrepreneurship Exposure Series (EES) are required to:
