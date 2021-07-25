@@ -15,15 +15,16 @@ Gain exclusive knowledge from Singaporean startup founders speaking at the **Tal
 
 #### Session speakers
 
+- Samuel Tey, Chief Executive Officer and Founder, **Axe Factor**
 - Muhd Shamir Abdul Rahim, Co-founder, **GotSurge**
-- Glen Lim, Senior Associate, Partnership Lead, **SWITCH Programme Office, Enterprise Singapore**
 - Ho Zhi Hui, Co-founder, **Skilio**
+- Glen Lim, Senior Associate, Partnership Lead, **SWITCH Programme Office, Enterprise Singapore**
 
 Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available!
 
 #### Gain exclusive access to knowledge on launching a startup from prominent local founders
 
-What does it take to start up, from coming up with a business plan and getting market validation to building your customer base and securing funding, from the perspective of founders? Learn directly from the founder of Glints, Skilio and GotSurge on how they grew their ideas into successful startups.
+What does it take to start up, from coming up with a business plan and getting market validation to building your customer base and securing funding, from the perspective of founders? Learn directly from the founder of Axe Factor, Skilio and GotSurge on how they grew their ideas into successful startups.
 
 #### Exclusive opportunity to get a mentor or take part in the Youth Challenge along with signing up for the series
 
