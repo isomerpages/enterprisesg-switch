@@ -35,7 +35,7 @@ Don’t miss the opportunity to also get an industry professional as your mentor
 
 #### Event details
 
-| **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES) Session 4/5: Get into the minds of investors!|
+| **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES) Session 4/5: Learn the tips to expanding beyond Singapore’s shores!|
 | -------- | -------- |
 |**Date** | Tuesday, 7 September 2021 
 | **Time**    | 7–8.30pm |
