@@ -4,7 +4,7 @@ permalink: /talent/entrepreneurship-exposure-series/overview
 third_nav_title: Entrepreneurship Exposure Series
 ---
 ![Alt text for image on Isomer site](/images/ees_banner.png)
-## Enjoy a student-exclusive price of ~~USD50~~ SGD10 to SWITCH 2021 and the EES, through 8 August 2021
+## Enjoy a student-exclusive price of ~~USD50~~ SGD10 to SWITCH 2021 and the Entrepreneurship Exposure Series, through 8 August 2021
 
 As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**!
 
