@@ -17,7 +17,6 @@ Gain exclusive knowledge from Singaporean startup founders speaking at the **Tal
 
 - Muhd Shamir Abdul Rahim, Co-founder, **GotSurge**
 - Glen Lim, Senior Associate, Partnership Lead, **SWITCH Programme Office, Enterprise Singapore**
-- Oswald Yeo, Chief Executive Officer and Co-founder, **Glints**
 - Ho Zhi Hui, Co-founder, **Skilio**
 
 Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available!
