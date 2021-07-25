@@ -4,6 +4,13 @@ permalink: /talent/entrepreneurship-exposure-series/overview
 third_nav_title: Entrepreneurship Exposure Series
 ---
 ![Alt text for image on Isomer site](/images/ees_banner.png)
+## Enjoy a student-exclusive price of ~~USD50~~ SGD10 to SWITCH 2021 and the EES, through 8 August 2021
+
+As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**!
+
+Don't miss this time-limited promotion only for students - sign up [here](https://bit.ly/EESapply) **by 8 August 2021, 2359 (SGT) with your school email!**
+
+Once you have signed up for the EES, you will be onboarded to **an always-on SWITCH platform** where you can access SWITCH 2021 and its other year-long events such as monthly webinars and connect with fellow delegates throughout 2021, on top of the EES.
 # Calling all youths: Hear from industry leaders on entrepreneurship
 
 The Talent @ SWITCH Entrepreneurship Exposure Series (EES), consists of **a series of bi-weekly industry-led sessions from August to October**, and seeks to increase youths’ knowledge in the global entrepreneurship ecosystem. The series is organised by SWITCH and in partnership with National Youth Council (NYC) and *SCAPE.
@@ -16,15 +23,7 @@ The Talent @ SWITCH EES also has two complementary programmes - the [Talent @ SW
 
 [Follow our Facebook page to get the latest updates when we release the speakers of each session.](https://www.facebook.com/SwitchSingapore/)
 
-***Read on to find out more about the student-exclusive promotion on tickets to SWITCH  2021 and EES, the details of the 5  EES sessions, how you can participate in the EES and its complementary programmes, what is in it for you, and the commitment required for the series.***
-
-### Student-exclusive price of ~~USD50~~ SGD10 to SWITCH 2021 and the EES, through 8 August 2021
-
-As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**!
-
-Don't miss this time-limited promotion only for students - sign up [here](https://bit.ly/EESapply) **by 8 August 2021, 2359 (SGT) with your school email!**
-
-Once you have signed up for the EES, you will be onboarded to **an always-on SWITCH platform** where you can access SWITCH 2021 and its other year-long events such as monthly webinars and connect with fellow delegates throughout 2021, on top of the EES.
+***Read on to find out more about the details of the 5  EES sessions, how you can participate in the EES and its complementary programmes, what is in it for you, and the commitment required for the series.***
 
 ### Overview of the 5-sessions series:
 ![Alt text for image on Isomer site](/images/ees%20schedule.png)
