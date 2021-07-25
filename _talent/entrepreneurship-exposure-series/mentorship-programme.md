@@ -10,7 +10,7 @@ Regardless of whether they decide to be intrapreneurs in a company or entreprene
 
 The Mentorship Programme consists of **4 mentoring sessions over 2.5 months and takes place right after each EES session.** Interested applicants for this programme are required to apply along with the EES. 
 
-[Sign up for the Talent @ SWITCH Mentorship Programme along with the EES to get a mentor, by 1 August 2021, 2359 (SGT).](https://bit.ly/EESapply)
+[Sign up for the Talent @ SWITCH Mentorship Programme along with the EES to get a mentor, by 8 August 2021, 2359 (SGT).](https://bit.ly/EESapply)
 
 Limited slots are available - sign up fast for a spot in the programme!
 
@@ -45,11 +45,18 @@ Once you are enrolled into this mentorship programme, you are required to be com
 * Briefing session and orientation for mentees (6 August)
 * Mentoring programme kick-off (10 August)
 * End of mentoring programme (21 September)
-
 # How can I apply?
 
-Interested applicants for the Talent @ SWITCH Mentorship Programme can apply along with the EES [here](https://bit.ly/EESapply).
+Interested applicants for the Talent @ SWITCH Mentorship Programme can apply along with the Entrepreneurship Exposure Series (EES) [here](https://bit.ly/EESapply).
 
-Limited slots are available - sign up fast to get a mentor! Applications close on **1 August 2021, 2359 (SGT)**.
+Limited slots are available - sign up fast to get a mentor! Applications close on **8 August 2021, 2359 (SGT)**.
 
 [Follow our Facebook page to get updates on the programme and mentors!](https://www.facebook.com/SwitchSingapore/)
+
+### Student-exclusive price of ~~USD50~~ SGD10 to SWITCH 2021 and the EES, through 8 August 2021
+
+As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**!
+
+Don't miss this time-limited promotion only for students - sign up [here](https://bit.ly/EESapply) **by 8 August 2021, 2359 (SGT) with your school email!**
+
+Once you have signed up for the EES, you will be onboarded to **an always-on SWITCH platform** where you can access SWITCH 2021 and its other year-long events such as monthly webinars and connect with fellow delegates throughout 2021, on top of the EES.
