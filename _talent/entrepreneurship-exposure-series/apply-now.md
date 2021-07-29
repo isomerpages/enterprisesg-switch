@@ -18,7 +18,7 @@ Interested youths can apply for the **Talent @ SWITCH Entrepreneurship Exposure 
 **Application deadlines of the programmes:**
 * Entrepreneurship Exposure Series (EES): **8 August 2021, 2359 (SGT)**
 * Mentorship Programme: **8 August 2021, 2359 (SGT)**
-* Youth Challenge: **28 July 2021, 2359 (SGT)**
+* Youth Challenge: **30 July 2021, 2359 (SGT)**
 
 
 If you have any questions regarding the EES or its complementary programmes, visit our FAQ page [here](https://www.switchsg.org/talent/ees/faq) or email talent@switchsg.org.
