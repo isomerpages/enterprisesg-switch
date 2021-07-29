@@ -4,7 +4,7 @@ permalink: /talent/ees/youth-challenge
 third_nav_title: Entrepreneurship Exposure Series
 ---
 # Are you a youth with a passion for sustainability and an interest to turn your ideas into actionable solutions?
-The Talent @ SWITCH Youth Challenge is **a 3-month programme taking place from August to October**, as part of the Talent @ SWITCH Entrepreneurship Exposure Series (EES). Centred around the theme of ‘Sustainability’, this immersive, project-based experience aims to provide you with an opportunity to tackle real-world challenges issued by organisations and related to one of the following topics: (i) Food Security and Resilience; (ii) Liveable Cities; or (iii) Impact Investing. 
+The Talent @ SWITCH Youth Challenge is **a 3-month programme taking place from August to October**, as part of the Talent @ SWITCH Entrepreneurship Exposure Series (EES) and in partnership with the [ASEAN Business Youth Association](https://www.aseanbusinessya.com/). Centred around the theme of ‘Sustainability’, this immersive, project-based experience aims to provide you with an opportunity to tackle real-world challenges issued by organisations and related to one of the following topics: (i) Food Security and Resilience; (ii) Liveable Cities; or (iii) Impact Investing. 
 
 You will work in small project teams with like-minded peers and be guided by an industry mentor. The journey will culminate in a demo day, where teams will pitch their ideas to organisations that are keen on supporting youth-led solutions. 
 
@@ -12,7 +12,7 @@ Apart from working on the challenge project, you will also undergo the 5-session
 
 This is the perfect chance to sharpen your technical and soft skills, while putting your newly acquired knowledge on innovation and entrepreneurship to the test. 
 
-[Apply for the Talent @ SWITCH Youth Challenge along with the EES, by 28 July 2021, 2359 (SGT). ](https://bit.ly/EESapply)
+[Apply for the Talent @ SWITCH Youth Challenge along with the EES, by 30 July 2021, 2359 (SGT). ](https://bit.ly/EESapply)
 
 ***Read on for more details on the theme, programme schedule and commitment required.***
 
@@ -47,7 +47,7 @@ Applicants for the Youth Challenge are required to:
 # How can I apply?
 Interested applicants for the Talent @ SWITCH Youth Challenge can sign up along with the EES [here](https://bit.ly/EESapply).
 
-Applications close on **28 July 2021, 2359 (SGT)**.
+Applications close on **30 July 2021, 2359 (SGT)**.
 
 ### Student-exclusive price of ~~USD50~~ SGD10 to SWITCH 2021 and the EES, through 8 August 2021
 
