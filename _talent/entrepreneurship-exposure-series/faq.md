@@ -19,7 +19,7 @@ You can register for the EES including the Mentorship Programme and Youth Challe
 **Application deadlines of the programmes:**
 * Entrepreneurship Exposure Series (EES): **8 August 2021, 2359 (SGT)**
 * Mentorship Programme: **8 August 2021, 2359 (SGT)**
-* Youth Challenge: **28 July 2021, 2359 (SGT)**
+* Youth Challenge: **30 July 2021, 2359 (SGT)**
 
 **4. Can I apply for the Mentorship Programme and/or Youth Challenge in addition to the EES?**
 
