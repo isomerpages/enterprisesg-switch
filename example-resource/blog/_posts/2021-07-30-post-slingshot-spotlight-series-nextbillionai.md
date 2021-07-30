@@ -57,7 +57,6 @@ Many times, when you are in the technology sector, you are mostly obsessed with 
 
 The advice I would give is this: Make the most of your three months in SLINGSHOT. The platform is fantastic. Participate in the different tracks. Do not just think of it as just a competition, but that it provides so many more opportunities than just prizes. Make the most of it! If you are invested, the rewards will show.
 
-
 ***
 
 *This article was brought to you by SLINGSHOT 2021. Applications for this year’s cohort is closing on 1 Aug 2021, so do not be late! Like NextBillion.ai, your startup journey could lead you to meeting countless corporate and investment opportunities, as well as pitching to the global innovation community.*
