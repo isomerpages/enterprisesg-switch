@@ -54,6 +54,7 @@ Many times, when you are in the technology sector, you are mostly obsessed with 
 **Q: After your experience at SLINGSHOT last year, do you have any words of advice or tips for startups who are thinking about applying this year?**
 
 **A:** I think SLINGSHOT is a lot of fun and is also a good challenge. It is an opportunity to have fun on the journey and learn a lot along the way. 
+
 The advice I would give is this: Make the most of your three months in SLINGSHOT. The platform is fantastic. Participate in the different tracks. Do not just think of it as just a competition, but that it provides so many more opportunities than just prizes. Make the most of it! If you are invested, the rewards will show.
 
 
