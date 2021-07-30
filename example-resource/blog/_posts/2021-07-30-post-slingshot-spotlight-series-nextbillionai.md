@@ -34,27 +34,24 @@ Essentially, we are trying to create a new era of mapping that allows enterprise
 
 **A:** It was a fascinating and beneficial experience for us. It helped us package the ideas and technology that our company offers in a way that more customers can understand, and communicate in a more engaging way to the audience and judges. It is a very exciting competition especially if you are in the deep space and want to go global. It was a great for us to meet many people. 
 
-**Q: For SLINGSHOT, how do you think it shaped your startup the way it is today? 
-**
+**Q: For SLINGSHOT, how do you think it shaped your startup the way it is today?**
 
 **A:** SLINGSHOT helped us craft our thought, vision and elevator-style pitch. Before this, we always had long technical pitches. SLINGSHOT pushed us to think about how to make a very large audience understand what we do, and that really helped us as we move into sales pitches. In fact, our current tagline–“one map doesn’t fit all”–is something that I came up with when we were doing the SLINGSHOT pitch. We still use that tagline in all our materials today because that is the best way to explain that you cannot use the same map for everyone! Overall, we benefitted greatly from several aspects–funding opportunities, customer connections, exposure to a wide range of judges, and helping us sharpen our pitch to investors and customers. 
 
-**Q: Did you make any meaningful connections, in terms of your mentor, collaborators overall? **
+**Q: Did you make any meaningful connections, in terms of your mentor, collaborators overall?**
 
-A: Absolutely. We did meet a few large companies who we had been intending to meet for a while. We met some great VCs who were a part of the judging panel or were a part of the wider community. This allowed us to build very connections with the VC networks in Singapore, as well as potential partners and customers. We also met some interesting startups who we could buy some software as well. 
+**A:** Absolutely. We did meet a few large companies who we had been intending to meet for a while. We met some great VCs who were a part of the judging panel or were a part of the wider community. This allowed us to build very connections with the VC networks in Singapore, as well as potential partners and customers. We also met some interesting startups who we could buy some software as well. 
 
 Many times, when you are in the technology sector, you are mostly obsessed with other tech companies and technologies in your field of interest. But SLINGSHOT opened our eyes to an array of companies because the verticals were so interesting. There was a prosthetic arm company, an eggs company and many more at the finals. These are startups and innovations that you would never have access to if you did not attend SLINGSHOT. I would say the experience is definitely worth it. 
 
 ![Alt text for image on Isomer site](/images/Article_SLINGSHOT_Spotlight_NextBillion_010.jpeg)
 <sub>(Caption: NextBillion.ai pitching to a hybrid audience at SLINGSHOT 2020)</sub>
 
-**Q: Do you find that being in Singapore helps you with your international expansion?
-**
+**Q: Do you find that being in Singapore helps you with your international expansion?**
 
 **A:** Absolutely. It had helped us since day one. I feel that the ease of doing business in Singapore is unparalleled. I have worked in six countries before I moved to Singapore, and [I] feel [that] Singapore is one of the best places to run your business and do your business. The government is very friendly – there’s Enterprise Singapore, Infocomm Media Development Authority, Economic Development Board, and Singapore Land Authority, all who are invested in your growth. The ecosystem around startups is also very friendly. I feel that it is one of the best places in the world to do business. 
 
-**Q: After your experience at SLINGSHOT last year, do you have any words of advice or tips for startups who are thinking about applying this year? 
-**
+**Q: After your experience at SLINGSHOT last year, do you have any words of advice or tips for startups who are thinking about applying this year?**
 
 **A:** I think SLINGSHOT is a lot of fun and is also a good challenge. It is an opportunity to have fun on the journey and learn a lot along the way. 
 The advice I would give is this: Make the most of your three months in SLINGSHOT. The platform is fantastic. Participate in the different tracks. Do not just think of it as just a competition, but that it provides so many more opportunities than just prizes. Make the most of it! If you are invested, the rewards will show.
@@ -62,7 +59,7 @@ The advice I would give is this: Make the most of your three months in SLINGSHOT
 
 ***
 
-*This article was brought to you by SLINGSHOT 2021. As we gear up towards this year’s edition, don’t miss your chance to apply for Asia’s most exciting deep tech pitching competition! Like Naluri, your SLINGSHOT journey could open doors to new corporate and investment opportunities!*
+*This article was brought to you by SLINGSHOT 2021. Applications for this year’s cohort is closing on 1 Aug 2021, so do not be late! Like NextBillion.ai, your startup journey could lead you to meeting countless corporate and investment opportunities, as well as pitching to the global innovation community.*
 
 *Ready to make the pitch of a lifetime?*
 
