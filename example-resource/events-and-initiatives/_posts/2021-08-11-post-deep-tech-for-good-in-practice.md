@@ -39,4 +39,4 @@ Hear from:
 | **Time**    | 4:00pm - 5:00pm (Singapore Time / UTC +8) |
 |**Venue** | SWITCH Platform (Virtual)
 | **Register** | [Click here](https://events.hubilo.com/switchsg/register) |
-|**Price** | USD $50
+|**Price of the SWITCH Pass** | USD50
