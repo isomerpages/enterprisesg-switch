@@ -6,7 +6,7 @@ layout: post
 ---
 *Presented by SGInnovate*
 *Partnered with Biotech Connection Singapore, Singapore Global Network, US Embassy in Singapore*
-*In support of Singapore Week of Innovation and Technology (SWITCH) 2021*
+*As part of Singapore Week of Innovation and Technology (SWITCH) 2021*
 
 #### About
 
@@ -17,9 +17,6 @@ Investments in BioTech hit an all-time low in the 2000s. This period that lasted
 To uncover whether the current BioTech investment boom will last, join our panel of expert leaders as they look to discuss the current BioTech landscape, their take on this boom in BioTech investments, and their outlook on what it takes to make this boom last.
 
 This event is part of SWITCH 2021’s year-long innovation journey, where the Global and Asian innovation ecosystems meet to discuss and collaborate on the most innovative technology trends and business opportunities.
-
-**Date: **17 Aug 2021, Tuesday
-**Time: **9:00am – 10:00am (Singapore Time / UTC +8)
  
 #### Programme:
 9:00am – 9:05am: Introduction and Welcome
