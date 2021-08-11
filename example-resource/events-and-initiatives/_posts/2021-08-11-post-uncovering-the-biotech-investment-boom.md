@@ -26,10 +26,10 @@ This event is part of SWITCH 2021’s year-long innovation journey, where the Gl
 9:05am – 10:00am: Panel Discussion and Q&A on Uncovering the BioTech Investment Boom
 
 Hear from:
-- Jeanne LeClair, Director - Business Development, Massachusetts Life Sciences Center
-- Jeffrey Lu, CEO & Co-founder, Engine Biosciences
-- Dr Jolene Ooi, Principal - Investments, EDBI
-- Dr Natasha Ng, President, Biotech Connection Singapore (Moderator)
+- Jeanne LeClair, Director - Business Development, **Massachusetts Life Sciences Center**
+- Jeffrey Lu, CEO & Co-founder, **Engine Biosciences**
+- Dr Jolene Ooi, Principal - Investments, **EDBI**
+- Dr Natasha Ng, President, **Biotech Connection Singapore** (Moderator)
 
 #### Event details
 
