@@ -21,7 +21,7 @@ Deep dive into the startup and innovation ecosystems from the lens of different 
 
 The Talent @ SWITCH EES also has two complementary programmes - the [Talent @ SWITCH Mentorship Programme](https://www.switchsg.org/talent/ees/mentorship-programme) and [Talent @ SWITCH Youth Challenge](https://www.switchsg.org/talent/ees/youth-challenge). As part of EES, the former allows youths to get mentored by an experienced professional to gain one-to-one guidance on developing career-related skills as well as industry knowledge from their mentor, while the Youth Challenge provides youths with the opportunity to acquire valuable experience in solving real-world challenges issued by organisations.
 
-[Apply now to join the Talent @ SWITCH EES by 22 August 2021, 2359 (SGT) - limited slots available!](https://bit.ly/EESapply)
+[Apply now to join the Talent @ SWITCH EES by 22 August 2021, 2359 (SGT)!](https://bit.ly/EESapply)
 
 [Follow our Facebook page to get the latest updates when we release the speakers of each session.](https://www.facebook.com/SwitchSingapore/)
 
