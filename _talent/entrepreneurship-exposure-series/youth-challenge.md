@@ -12,7 +12,7 @@ Apart from working on the challenge project, you will also undergo the 5-session
 
 This is the perfect chance to sharpen your technical and soft skills, while putting your newly acquired knowledge on innovation and entrepreneurship to the test. 
 
-[Apply for the Talent @ SWITCH Youth Challenge along with the EES, by 30 July 2021, 2359 (SGT). ](https://bit.ly/EESapply)
+[Registrations for the Talent @ SWITCH Youth Challenge has closed. However, you may still sign up the EES, by 22 August 2021, 2359 (SGT). ](https://bit.ly/EESapply)
 
 ***Read on for more details on the theme, programme schedule and commitment required.***
 
@@ -45,14 +45,12 @@ Applicants for the Youth Challenge are required to:
 3. Submit a reflection journal at the end of the Youth Challenge. 
 
 # How can I apply?
-Interested applicants for the Talent @ SWITCH Youth Challenge can sign up along with the EES [here](https://bit.ly/EESapply).
+Registrations for the Talent @ SWITCH Youth Challenge has closed. However, you may still sign up for the EES [here](https://bit.ly/EESapply), by **22 August 2021, 2359 (SGT)**.
 
-Applications close on **30 July 2021, 2359 (SGT)**.
+### Student-exclusive price of ~~USD50~~ SGD10 to SWITCH 2021 and the EES, through 22 August 2021
 
-### Student-exclusive price of ~~USD50~~ SGD10 to SWITCH 2021 and the EES, through 8 August 2021
+As an exclusive promotion to students through 22 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**!
 
-As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**!
-
-Don't miss this time-limited promotion only for students - sign up [here](https://bit.ly/EESapply) **by 8 August 2021, 2359 (SGT) with your school email!**
+Don't miss this time-limited promotion only for students - sign up [here](https://bit.ly/EESapply) **by 22 August 2021, 2359 (SGT) with your school email!**
 
 Once you have signed up for the EES, you will be onboarded to **an always-on SWITCH platform** where you can access SWITCH 2021 and its other year-long events such as monthly webinars and connect with fellow delegates throughout 2021, on top of the EES.
