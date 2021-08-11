@@ -14,9 +14,9 @@ As an exclusive promotion to students through 22 August 2021, both Singaporean a
 Once you have signed up for the EES, you will be onboarded to **an always-on SWITCH platform** where you can access SWITCH 2021 and its other year-long events such as monthly webinars and connect with fellow delegates throughout 2021, on top of the EES.
 
 **Read on to find out more about the Talent @ SWITCH Entrepreneurship Exposure Series (EES)!**
-# Calling all youths: Hear from industry leaders on entrepreneurship
+# Calling all budding startup founders: Hear from industry leaders on entrepreneurship
 
-The Talent @ SWITCH Entrepreneurship Exposure Series (EES), consists of **a series of bi-weekly industry-led sessions from August to October**, and seeks to increase youths’ knowledge in the global entrepreneurship ecosystem. The series is organised by SWITCH and in partnership with National Youth Council (NYC) and *SCAPE.
+The Talent @ SWITCH Entrepreneurship Exposure Series (EES), consists of **a series of bi-weekly industry-led sessions from August to October**, and seeks to increase the knowledge in the global entrepreneurship ecosystem among youths and aspiring startup founders. The series is organised by SWITCH and in partnership with National Youth Council (NYC) and *SCAPE.
 
 Deep dive into the startup and innovation ecosystems from the lens of different stakeholders speaking and mentoring at our series - Singaporean and International entrepreneurs, investors, government and corporate players.
 
