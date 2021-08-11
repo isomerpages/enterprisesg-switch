@@ -3,11 +3,9 @@ title: Overview
 permalink: /highlights/switch-beyond/2021/overview
 third_nav_title: Switch Beyond
 ---
-
-
 ![](/images/SWITCH%20Connect%205.jpg)
-# About SWITCH Connect
-SWITCH Connect is a conference channel that brings together global leaders and experts from diverse industries to must-attend conference sessions where discussions on groundbreaking and innovative ideas and technologies that are transforming the world today take place. 
+# About SWITCH Beyond
+SWITCH Beyond is a conference channel that brings together global leaders and experts from diverse industries to must-attend conference sessions where discussions on groundbreaking and innovative ideas and technologies that are transforming the world today take place. 
 
 [Register your interest for SWITCH 2021 here.](/interest)
 
@@ -22,4 +20,4 @@ Over 250 prestigious speakers from a variety of sectors spoke at SWITCH in 2020,
 ![Alt text for image on Isomer site](/images/ISOMER%20pages-SPEAKERS-01.jpg)
 
 ***
-**Click "Next" to learn more about what to expect at SWITCH Connect in 2021.**
+**Click "Next" to learn more about what to expect at SWITCH Beyond in 2021.**
