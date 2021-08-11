@@ -6,9 +6,7 @@ layout: post
 ---
 ![Alt text for image on Isomer site](/images/in-practice_2160x1080px_0.jpg)
 
-*Presented by SGInnovate*
-
-*As part of Singapore Week of Innovation and Technology (SWITCH) 2021 and In Support of Deep Tech for Good*
+*Presented by SGInnovate, as part of Singapore Week of Innovation and Technology (SWITCH) 2021 and In Support of Deep Tech for Good*
 
 #### About
 
