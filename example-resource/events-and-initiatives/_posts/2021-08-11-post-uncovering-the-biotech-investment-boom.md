@@ -5,7 +5,7 @@ permalink: /events/uncovering-the-biotech-investment-boom
 layout: post
 ---
 ![Alt text for image on Isomer site](/images/biotech_2160x1080px_V3_0.jpg)
-
+#### Uncovering the BioTech Investment Boom
 *Presented by SGInnovate, partnered with Biotech Connection Singapore, Singapore Global Network, US Embassy in Singapore*
 
 *As part of Singapore Week of Innovation and Technology (SWITCH) 2021*
