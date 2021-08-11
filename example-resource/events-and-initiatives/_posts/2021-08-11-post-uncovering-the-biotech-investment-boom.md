@@ -7,7 +7,9 @@ layout: post
 ![Alt text for image on Isomer site](/images/biotech_2160x1080px_V3_0.jpg)
 
 *Presented by SGInnovate*
+
 *Partnered with Biotech Connection Singapore, Singapore Global Network, US Embassy in Singapore*
+
 *As part of Singapore Week of Innovation and Technology (SWITCH) 2021*
 
 #### About
@@ -22,6 +24,7 @@ This event is part of SWITCH 2021’s year-long innovation journey, where the Gl
  
 #### Programme:
 9:00am – 9:05am: Introduction and Welcome
+
 9:05am – 10:00am: Panel Discussion and Q&A on Uncovering the BioTech Investment Boom
 
 Hear from:
