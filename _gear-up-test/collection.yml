@@ -1,0 +1,8 @@
+collections:
+  gear-up-test:
+    output: true
+    order:
+      - overview.md
+      - book-pitch-coaching.md
+      - book-mentor-clinics.md
+      - programme.md
