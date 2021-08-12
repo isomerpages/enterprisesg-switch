@@ -33,3 +33,33 @@ We’ve been working closely with a lot of partners to achieve our goal. Enterpr
 As a winner of the Huawei SPARK competition, we were also onboarded as a Huawei cloud partner and worked together to sign deals with Huawei’s clients to further close businesses in both Singapore and Asia. Through our partnership with Huawei, we were also able to work with them to develop new product offerings on their cloud platform. 
 
 ![Alt text for image on Isomer site](/images/Article_SLINGSHOT_Spotlight_CrayonData_4_web.JPG)
+<sub>(Caption: Judges at SLINGSHOT 2020 Grand Finals on 7 December 2020.)</sub>
+
+**Q: Has internationalisation been a key focus for Crayon Data, and do you have other markets you are keen on going into?**
+
+**A:** Crayon Data is currently expanding our footprint rapidly through an ecosystem of partners and advisors with strong connections in key markets that we would like to target.
+
+We have clients in Southeast Asia, Middle East and India which we call our home markets. We then have what we call growth markets which are countries like Australia, New Zealand, Latin America, and North America. Lastly, we look at reactive markets which are from Japan, China, Northern Europe as well as Europe. These are the three markets we look at for internationalisation.
+
+**Q: After SLINGSHOT, Crayon Data also participated in Enterprise Singapore’s Global Innovation Alliance programmme - could you tell us about that?**
+
+**A:** We first heard of it through Enterprise Singapore. We joined the Global Innovation Alliance programme organised by Plug &amp; Play, which provided networking and mentoring sessions. We had the chance to network directly with the attendees, and be connected to our target customers, including the top banks in the Southeast Asian region, and the heads of innovation of key corporates. The experience was seamless and well-oriented. After the programme, we received a lot of email introductions from the top funnel pipeline leads in Indonesia and Philippines which we found very helpful. 
+
+**Q: Moving forward in the next two to three years, what are Crayon Data’s key aspirations?**
+
+**A:** Our first step to achieving our 5x growth plan is to double the company and halve the friction. Doubling the company means doubling up everything from revenue to number of clients, annual recurring revenue and job presence. Halving the friction means to essentially reduce all operational time to onboard a partner and the time it takes to find new leads.
+
+**Q: What are some words of encouragement or advice would you give to the upcoming SLINGSHOT participants this year? Was there anything you wished you knew before joining the competition?**
+
+**A:** In my very honest opinion, the short answer is that SLINGSHOT is a no brainer for any startup, as it opens doors to many high-quality meetings to key connections that a startup needs.
+
+Going into the competition, one would assume that the competition would probably be Asia-focused but that was certainly not the case. Some of our greatest conversations came from partners in the European and Latin American market.
+
+So the advice I’d give would be that if you are looking to expand into new markets, this will be a great event to connect with relevant target audiences in their clients portfolio. It would be great if this was physically done, but there is no drop in the quality of the event even though it’s done virtually!
+
+---
+*This article was brought to you by SLINGSHOT 2021. Applications for this year’s cohort has been extended to 12 Aug 2021! Don’t miss your chance to expand your horizons and open the door to internationalisation opportunities for your startup just like Crayon Data did.*
+
+*[Apply now](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&amp;utm_source=www.switchsg.org&amp;utm_medium=referral&amp;utm_campaign=slingshot2021) and submit your pitch today.*
+
+*To learn more about SLINGSHOT, please [click here](/highlights/slingshot/2021/overview).*
