@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - overview.md
-      - programme.md
       - book-pitch-coaching.md
       - book-mentor-clinics.md
+      - programme.md
