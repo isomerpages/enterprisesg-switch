@@ -36,15 +36,15 @@ sections:
       button: Get "1-For-1" SWITCH Pass
       url: https://bit.ly/2Uv69uy
   - infopic:
-      title: SG Innovation Community Day
-      subtitle: 4 Aug 2021
-      description: Connect with the global innovation community as partners from our
-        networks converge at a half-day forum to discuss trends and
-        collaboration opportunities.
+      title: "Webinar: Uncovering the BioTech Investment Boom"
+      subtitle: 17 Aug 2021
+      description: Uncover whether the current BioTech investment boom will last with
+        a panel of expert leaders discussing the current BioTech landscape and
+        investment trends.
       button: Learn More
-      url: /events/sg-innovation-community-day-2021
-      image: /images/sg_innovation_community_day_2021_event_banner.jpg
-      alt: SG Innovation Community Day
+      url: /events/uncovering-the-biotech-investment-boom
+      image: /images/biotech_2160x1080px_V3_0.jpg
+      alt: BioTech Investment Boom Banner
   - infopic:
       title: The Global Innovation Movement
       subtitle: Be part of
