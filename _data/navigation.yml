@@ -12,3 +12,5 @@ links:
     url: /example-resource/blog/
   - title: Tickets
     url: https://bit.ly/2Uv69uy
+  - title: Gear Up Test
+    collection: gear-up-test
