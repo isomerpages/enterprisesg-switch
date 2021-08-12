@@ -22,7 +22,7 @@ Fast forward 8 years, Crayon Data was fast tracked from Huawei’s SPARK competi
 
 **A:** From 2020, we had planned to grow our company by five times, and to increase our footprint within the banking ecosystem, especially in Southeast Asia.
 
-Prior getting involved with SLINGSHOT, we had a couple of clients in Southeast Asia – a couple from India and Middle East. These were the three markets we had presence in, and we really wanted to scale up and expand our client interactions and market share.
+Prior to getting involved with SLINGSHOT, we had a couple of clients in Southeast Asia – a couple from India and Middle East. These were the three markets we had presence in, and we really wanted to scale up and expand our client interactions and market share.
 
 We’ve been working closely with a lot of partners to achieve our goal. Enterprise Singapore has been a key partner in opening up many doors with strategic clients as well as opportunities to collaborate with other startups.
 
