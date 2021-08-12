@@ -23,6 +23,33 @@ Also in this five-day Programme, find out more about our 4 pillars of focus (Pit
 
 ## Briefing to Top 100 Global Startups
 
+<center><iframe width="100%" height="480" src="https://www.youtube.com/embed/y7WknG7XgKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+## Resources
 
+Check out the exclusive "Gear" available to you below!
+
+### Pitch Coaching
+
+Schedule a mandatory 45-minute pitch coaching session with our Industry Mentors from 17 to 20 November to perfect your pitch of a lifetime at the Finals!
+
+LINK (Button format not available)
+
+### Mentor Clinics
+
+Schedule up to two 20-minute thematic consultations with Mentors on topics related to Financing, Business Development and Internationalisation
+
+LINK (Button format not available)
+
+### Auditorium
+
+View masterclasses held by marquee corporations, venture capitalists, and entrepreneurs on topics related to growing successful startups
+
+LINK (Button format not available)
+
+## Programme Schedule
+
+Stay tuned during 16 - 20 November with deep dives into our 4 pillars of focus (Pitching & Fundraising, Internationalisation, Growth and Marketing & Branding) through panel discussions and industry webinars from global giants such as Antler, Baker McKenzie and Weber Shandwick.
+
+![Alt text for image on Isomer site](/images/2020_slingshot_gear_up_schedule.png)
 
