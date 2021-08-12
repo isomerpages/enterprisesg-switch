@@ -17,9 +17,9 @@ You can register for the EES including the Mentorship Programme and Youth Challe
 **3. When do applications for the Entrepreneurship Exposure Series (EES), including the Mentorship Programme and Youth Challenge close?**
 
 **Application deadlines of the programmes:**
-* Entrepreneurship Exposure Series (EES): **8 August 2021, 2359 (SGT)**
-* Mentorship Programme: **8 August 2021, 2359 (SGT)**
-* Youth Challenge: **30 July 2021, 2359 (SGT)**
+* Entrepreneurship Exposure Series (EES): **22 August 2021, 2359 (SGT)**
+* Mentorship Programme: **Registrations has closed.**
+* Youth Challenge: **Registrations has closed.**
 
 **4. Can I apply for the Mentorship Programme and/or Youth Challenge in addition to the EES?**
 
@@ -35,15 +35,13 @@ You can refer to the below for the different combinations of programmes you can 
 
 ![Alt text for image on Isomer site](/images/EES_participation.jpeg)
 
-**5. What is the cost to participate in the EES, Mentorship Programme, Youth Challenge and SWITCH 2021 as a student?**
+**5. What is the cost to participate in the EES and SWITCH 2021 as a student?**
 
-As an exclusive promotion to students through 8 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**!
+As an exclusive promotion to students through 22 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**!
 
-Don't miss this time-limited promotion only for students - sign up [here](https://bit.ly/EESapply) **by 8 August 2021, 2359 (SGT) with your school email!**
+Don't miss this time-limited promotion only for students - sign up [here](https://bit.ly/EESapply) **by 22 August 2021, 2359 (SGT) with your school email!**
 
 Once you have signed up for the EES, you will be onboarded to **an always-on SWITCH platform** where you can access SWITCH 2021 and its other year-long events such as monthly webinars and connect with fellow delegates throughout 2021, on top of the EES.
-
-Youths may also apply for the Mentorship Programme and/or Youth Challenge at no additional cost along with the EES.
 
 
 If you have more questions, contact us at talent@switchsg.org.

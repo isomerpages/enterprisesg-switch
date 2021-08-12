@@ -3,15 +3,13 @@ title: What to expect in 2021
 permalink: /highlights/switch-beyond/2021/what-to-expect
 third_nav_title: Switch Beyond
 ---
-
-
 ![Alt text for image on Isomer site](/images/SWITCH%20Connect%203.jpg)
 # Transformation through Innovation
 Emerging from a year of huge global disruption, SWITCH 2021 will lead conversations on leveraging innovation to rebuild sustainably across industries and communities, address persistent global challenges, and advance towards a stronger and more inclusive future together.
 
 ![Alt text for image on Isomer site](/images/SWITCH%20Connect%206.jpg)
 # 3-Day Digital Conference
-SWITCH Connect 2021 will be a 3-day conference presenting thought-provoking panel discussions among experts across 10 broad sectors. With a horizontal focus on Sustainability and Tech for Good, experts will shine light on the role that technology will play in addressing our global issues. 
+SWITCH Beyond 2021 will be a 3-day conference presenting thought-provoking panel discussions among experts across 10 broad sectors. With a horizontal focus on Sustainability and Tech for Good, experts will shine light on the role that technology will play in addressing our global issues. 
 
 ## Day 1: Transforming Industries
 **8 Nov 2021**
