@@ -33,7 +33,7 @@ We’ve been working closely with a lot of partners to achieve our goal. Enterpr
 As a winner of the Huawei SPARK competition, we were also onboarded as a Huawei cloud partner and worked together to sign deals with Huawei’s clients to further close businesses in both Singapore and Asia. Through our partnership with Huawei, we were also able to work with them to develop new product offerings on their cloud platform. 
 
 ![Alt text for image on Isomer site](/images/Article_SLINGSHOT_Spotlight_CrayonData_4_web.JPG)
-<sub>(Caption: Judges at SLINGSHOT 2020 Grand Finals on 7 December 2020.)</sub>
+<sub>(Caption: Judges at SLINGSHOT 2020 Grand Finals on 9 December 2020.)</sub>
 
 **Q: Has internationalisation been a key focus for Crayon Data, and do you have other markets you are keen on going into?**
 
