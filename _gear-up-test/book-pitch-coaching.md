@@ -31,3 +31,5 @@ Pick the category you selected in your SLINGSHOT 2020 application and proceed to
 <a href="https://calendly.com/davidleongtl">Schedule time with me</a>
 
 <a href="https://calendly.com/davidleongtl">Schedule time with me (HTML Popup)</a>
+
+<a href="https://calendly.com/davidleongtl">Schedule time with me (HTML New Tab)</a>
