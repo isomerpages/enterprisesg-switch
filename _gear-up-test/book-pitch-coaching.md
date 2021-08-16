@@ -28,4 +28,6 @@ Pick the category you selected in your SLINGSHOT 2020 application and proceed to
 
 ## Calendly Widget Test
 
-<a href="">Schedule time with me</a>
+<a href="https://calendly.com/davidleongtl">Schedule time with me</a>
+
+<a href="https://calendly.com/davidleongtl">Schedule time with me (HTML Popup)</a>
