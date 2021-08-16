@@ -25,11 +25,3 @@ Pick the category you selected in your SLINGSHOT 2020 application and proceed to
 * **Room 1:** [Book your slot](https://calendly.com) | Mentor Information [PDF: 0.2MB]
 * **Room 2:** [Book your slot](https://calendly.com) | Mentor Information [PDF: 0.2MB]
 * **Room 3:** [Book your slot](https://calendly.com) | Mentor Information [PDF: 0.2MB]
-
-## Calendly Widget Test
-
-<a href="https://calendly.com/davidleongtl">Schedule time with me</a>
-
-<a href="https://calendly.com/davidleongtl">Schedule time with me (HTML Popup)</a>
-
-<a href="https://calendly.com/davidleongtl">Schedule time with me (HTML New Tab)</a>
