@@ -1,9 +1,10 @@
 ---
 title: "26 Aug 2021 | Deep Tech for Good: In Practice"
-date: 2021-08-11
+date: 2021-07-23
 permalink: /events/deep-tech-for-good-in-practice
 layout: post
 ---
+
 
 ![Alt text for image on Isomer site](/images/in-practice_2160x1080px_0.jpg)
 

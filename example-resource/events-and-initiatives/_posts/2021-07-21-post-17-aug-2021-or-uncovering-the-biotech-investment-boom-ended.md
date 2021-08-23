@@ -1,9 +1,11 @@
 ---
-title: 17 Aug 2021 | Uncovering the BioTech Investment Boom
-date: 2021-08-11
+title: 17 Aug 2021 | Uncovering the BioTech Investment Boom (ENDED)
+date: 2021-07-21
 permalink: /events/uncovering-the-biotech-investment-boom
 layout: post
 ---
+
+
 
 ![Alt text for image on Isomer site](/images/biotech_2160x1080px_V3_0.jpg)
 ### Uncovering the BioTech Investment Boom

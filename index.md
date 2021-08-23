@@ -15,9 +15,9 @@ sections:
       button: Buy SWITCH PASS
       url: https://bit.ly/2Uv69uy
       key_highlights:
-        - title: "4 Aug 2021 "
-          description: SG Innovation Community Day
-          url: /events/sg-innovation-community-day-2021
+        - title: Events & Initiatives
+          description: Year-long Innovation Journey
+          url: /example-resource/events-and-initiatives/
         - title: SWITCH Beyond
           description: Innovation & Technology Trends
           url: /highlights/switch-beyond/2021/overview
@@ -27,6 +27,16 @@ sections:
         - title: SLINGSHOT
           description: Premier startup pitching event
           url: /highlights/slingshot/2021/overview
+  - infopic:
+      title: "Deep Tech For Good: In Practice"
+      subtitle: "Upcoming: 26 Aug 201"
+      description: Learn how corporates, startups, and investors can work together to
+        create positive impact through sustainable and scalable deep
+        technology  solutions.
+      button: Learn More
+      url: /events/deep-tech-for-good-in-practice
+      image: /images/in-practice_2160x1080px_0.jpg
+      alt: Deep Tech For Good Event
   - infobar:
       title: Your gateway to global innovation in Asia
       subtitle: SWITCH Pass
@@ -35,16 +45,6 @@ sections:
         throughout 2021 await you.
       button: Get "1-For-1" SWITCH Pass
       url: https://bit.ly/2Uv69uy
-  - infopic:
-      title: "Webinar: Uncovering the BioTech Investment Boom"
-      subtitle: 17 Aug 2021
-      description: Uncover whether the current BioTech investment boom will last with
-        a panel of expert leaders discussing the current BioTech landscape and
-        investment trends.
-      button: Learn More
-      url: /events/uncovering-the-biotech-investment-boom
-      image: /images/biotech_2160x1080px_V3_0.jpg
-      alt: BioTech Investment Boom Banner
   - infopic:
       title: The Global Innovation Movement
       subtitle: Be part of

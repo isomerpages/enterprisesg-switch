@@ -1,9 +1,10 @@
 ---
-title: 4 Aug 2021 | SG Innovation Community Day
+title: 4 Aug 2021 | SG Innovation Community Day (ENDED)
 date: 2021-07-19
 permalink: /events/sg-innovation-community-day-2021
 layout: post
 ---
+
 ![Alt text for image on Isomer site](/images/sg_innovation_community_day_2021_event_banner.jpg)
 
 #### About
