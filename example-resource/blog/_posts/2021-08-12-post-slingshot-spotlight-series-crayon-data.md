@@ -12,7 +12,7 @@ layout: post
 ![Alt text for image on Isomer site](/images/Article_SLINGSHOT_Spotlight_CrayonData_1_web.JPG)
 <sub>(Caption: Crayon Data CEO and Founder, Suresh V Shankar, pitching at the SLINGSHOT 2020 Grand Finals)</sub>
 
-In the fourth edition of our SLINGSHOT Startup Spotlight series we had a chat with Rohit Gosh who handles the sales and business development efforts as well as partnerships in Southeast Asia, Australia and New Zealand regions for Crayon Data.
+In the fourth edition of our SLINGSHOT Startup Spotlight series we had a chat with Rohit Ghosh who handles the sales and business development efforts as well as partnerships in Southeast Asia, Australia and New Zealand regions for Crayon Data.
 
 Crayon Data started from a conversation which the three co-founders had at an airport, talking about how people today have an overwhelmingly large number of options to choose from. According to Barry Schwartz, “this makes you frustrated, less likely to choose, more likely to mess up, and less happy overall”. The founders wanted to combat this problem with the idea of “Less is more”, and so Crayon Data was born in 2012.
 
