@@ -17,7 +17,6 @@ layout: post
 | **Register:** | [Click here](https://events.hubilo.com/switchsg/register) |
 |**Price:** | ~~USD $50~~ **USD $25 each** when purchased as a pair (1-For-1 Promotion ends 30 Sep 2021)
 
----
 
 #### About
 
@@ -44,5 +43,3 @@ Get your **SWITCH Pass** for access to the SWITCH Platform and to attend this we
 This session is part of SWITCH 2021’s year-long innovation journey where the Global and Asia innovation ecosystems meet to discuss and collaborate on the most innovative technology trends and business opportunities.
 
 Look out for an [exciting calendar of events and initiatives](/example-resource/events-and-initiatives/), as well as the **[flagship SWITCH Festival](/about-us/switch-2021)** and **SLINGSHOT Grand Finals** in November 2021.
-
-
