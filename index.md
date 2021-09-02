@@ -4,8 +4,8 @@ title: Singapore Week of Innovation and Technology | SWITCH
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Early Bird 1-For-1 Promotion! Get your SWITCH Pass and be part of
-  a year-long innovation journey starting 4 Aug 2021! <a
+notification: 1-For-1 Promotion! Get your SWITCH Pass today and be part of a
+  year-long series of innovation-centric events and networking opportunities! <a
   href="https://bit.ly/2Uv69uy" target="_blank">Buy SWITCH Pass</a>
 sections:
   - hero:
@@ -28,14 +28,14 @@ sections:
           description: Premier startup pitching event
           url: /highlights/slingshot/2021/overview
   - infopic:
-      title: "Deep Tech For Good: In Practice"
-      subtitle: "Upcoming: 26 Aug 201"
-      description: Learn how corporates, startups, and investors can work together to
-        create positive impact through sustainable and scalable deep
-        technology  solutions.
+      title: An Exploration into SEA EdTech Investments
+      subtitle: "Upcoming: 9 Sep 201"
+      description: Join a panel of leading investors and EdTech founders as they
+        discuss the growth trends and  investment opportunities in this fast
+        growing technology vertical.
       button: Learn More
-      url: /events/deep-tech-for-good-in-practice
-      image: /images/in-practice_2160x1080px_0.jpg
+      url: /events/sea-edtech-investments
+      image: /images/SWITCH_Event_SEA_EdTech_Investments.jpg
       alt: Deep Tech For Good Event
   - infobar:
       title: Your gateway to global innovation in Asia
