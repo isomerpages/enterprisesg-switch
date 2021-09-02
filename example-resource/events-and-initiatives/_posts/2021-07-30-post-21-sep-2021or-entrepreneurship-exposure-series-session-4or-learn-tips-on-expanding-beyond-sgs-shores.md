@@ -1,10 +1,12 @@
 ---
 title: 21 Sep 2021| Entrepreneurship Exposure Series Session 4|  Learn tips on
   expanding beyond SG's shores
-date: 2021-07-25
+date: 2021-07-30
 permalink: /events/ees-session-4
 layout: post
 ---
+
+
 
 ![Alt text for image on Isomer site](/images/All%20social%20media%20posts%20revised_EDM%20header.png)
 

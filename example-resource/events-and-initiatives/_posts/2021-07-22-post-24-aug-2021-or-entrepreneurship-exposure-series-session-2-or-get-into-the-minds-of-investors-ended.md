@@ -1,10 +1,12 @@
 ---
 title: 24 Aug 2021 | Entrepreneurship Exposure Series Session 2 |  Get into the
-  minds of investors!
+  minds of investors! (ENDED)
 date: 2021-07-22
 permalink: /events/ees-session-2
 layout: post
 ---
+
+
 ![Alt text for image on Isomer site](/images/All%20social%20media%20posts%20revised_EDM%20header.png)
 
 #### About
