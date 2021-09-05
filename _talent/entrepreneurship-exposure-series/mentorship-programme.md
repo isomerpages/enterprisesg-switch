@@ -10,7 +10,7 @@ Regardless of whether they decide to be intrapreneurs in a company or entreprene
 
 The Mentorship Programme consists of **4 mentoring sessions over 2.5 months and takes place right after each EES session.** Interested applicants for this programme are required to apply along with the EES. 
 
-***Application for the Talent @ SWITCH Entrepreneurship Exposure Series (EES) has closed on 22 August 2021. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access all of SWITCH’s year-long webinars through 2022, including the EES!***
+***Registrations for the Talent @ SWITCH Mentorship Programme has closed. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access all of SWITCH’s year-long webinars through 2022, including the Talent @ SWITCH Entrepreneurship Exposure Series (EES)!***
 
 ***Read on to find out more about the Mentorship Programme structure, schedule and other information.***
 
