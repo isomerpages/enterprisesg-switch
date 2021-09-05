@@ -5,8 +5,6 @@ date: 2021-07-22
 permalink: /events/ees-session-2
 layout: post
 ---
-
-
 ![Alt text for image on Isomer site](/images/All%20social%20media%20posts%20revised_EDM%20header.png)
 
 #### About
@@ -22,7 +20,7 @@ Acquire exclusive knowledge and tips from experienced investors speaking at **th
 - Edward Tay, Chief Executive Officer, Sistema Asia Capital Pte Ltd 
 - Sang Shin, Director, Digital Innovation, Temasek
 
-Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available!
+Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 22 August 2021, 2359 (SGT) – limited slots available!
 
 #### Get into the minds of investors to find out what they look for in startups and the winning formula
 
