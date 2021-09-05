@@ -37,5 +37,5 @@ Don’t miss the opportunity to also get an industry professional as your mentor
 |**Date** | Tuesday, 7 September 2021 
 | **Time**    | 7–8.30pm |
 |**Venue** | SWITCH Platform (Virtual), with limited slots to attend physically at SCAPE (first-come-first-serve basis). *Physical attendance is tentative and the number of pax will be determined by current SMM guidelines.*
-| **Register** | [Grab your 1-For-1 SWITCH Pass to access all of SWITCH's year-long webinars through 2022, including the Talent @ SWITCH Entrepreneurship Exposure Series (EES)](https://events.hubilo.com/switchsg/register) |
+| **Register** | [Grab your 1-For-1 SWITCH Pass by 30 September to access all of SWITCH's year-long webinars through 2022, including the Talent @ SWITCH Entrepreneurship Exposure Series (EES)](https://events.hubilo.com/switchsg/register) |
 |**Price** | ~~USD $50~~ **USD $25 each** when purchased as a pair (1-For-1 Promotion ends 30 Sep 2021)
