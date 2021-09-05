@@ -39,5 +39,5 @@ Don’t miss the opportunity to also get an industry professional as your mentor
 |**Date** | Tuesday, 5 October 2021 
 | **Time**    | 7–8.30pm |
 |**Venue** | SWITCH Platform (Virtual), with limited slots to attend physically at SCAPE (first-come-first-serve basis). *Physical attendance is tentative and the number of pax will be determined by current SMM guidelines.*
-| **Register** | [Register here by 8 August 2021](https://bit.ly/EESapply) |
-|**Student-exclusive all-in price of SGD10 to access both SWITCH 2021 and the EES** | **~~USD50~~ SGD10** (Grab this student-exclusive promotion on tickets to access both **SWITCH 2021** and the **EES** at the Register link above, by 8 August 2021, 2359 (SGT)! **Once you have signed up for EES, you will be onboarded to our always-on SWITCH platform that will stream both SWITCH 2021 and its year-long events including the EES.**)
+| **Register** | [Grab your 1-For-1 SWITCH Pass by 30 September to access all of SWITCH's year-long webinars through 2022, including the Talent @ SWITCH Entrepreneurship Exposure Series (EES)](https://events.hubilo.com/switchsg/register) |
+|**Price** | ~~USD $50~~ **USD $25 each** when purchased as a pair (1-For-1 Promotion ends 30 Sep 2021)
