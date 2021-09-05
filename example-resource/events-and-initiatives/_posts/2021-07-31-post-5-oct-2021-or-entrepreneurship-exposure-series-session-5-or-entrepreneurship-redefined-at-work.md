@@ -28,10 +28,6 @@ Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurs
 
 When you pursue a career path outside of starting up or working in a startup, how can you apply the entrepreneurship mindset at work? What are some tips and skills you can hone to be that intrapreneur in your company who stands out and innovates with new projects? Learn from successful intrapreneurs and entrepreneurs from Padang & Co., MatcHub, Curious Core and Tiger Hall on what it takes to be an intrapreneur.
 
-#### Exclusive opportunity to get a mentor or take part in the Youth Challenge along with signing up for the series
-
-Don’t miss the opportunity to also get an industry professional as your mentor at the [Talent @ SWITCH Mentorship Programme](https://www.switchsg.org/talent/ees/mentorship-programme), and solve challenges issued by organisations at the [Talent @ SWITCH Youth Challenge](https://www.switchsg.org/talent/ees/youth-challenge), when you sign up for the EES.
-
 #### Event details
 
 | **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES) Session 5/5: Entrepreneurship redefined at work|
