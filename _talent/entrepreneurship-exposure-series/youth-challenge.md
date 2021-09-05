@@ -12,7 +12,7 @@ Apart from working on the challenge project, you will also undergo the 5-session
 
 This is the perfect chance to sharpen your technical and soft skills, while putting your newly acquired knowledge on innovation and entrepreneurship to the test. 
 
-[Registrations for the Talent @ SWITCH Youth Challenge has closed. However, you may still sign up the EES, by 22 August 2021, 2359 (SGT). ](https://bit.ly/EESapply)
+***Registrations for the Talent @ SWITCH Youth Challenge has closed. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access the Talent @ SWITCH Entrepreneurship Exposure Series (EES) and all of SWITCH’s year-long webinars through 2022!***
 
 ***Read on for more details on the theme, programme schedule and commitment required.***
 
