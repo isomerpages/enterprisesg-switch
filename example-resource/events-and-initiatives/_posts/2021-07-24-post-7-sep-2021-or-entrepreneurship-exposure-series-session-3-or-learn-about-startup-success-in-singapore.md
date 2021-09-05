@@ -20,7 +20,7 @@ Gain exclusive knowledge from Singaporean startup founders speaking at the **Tal
 - Ho Zhi Hui, Co-founder, **Skilio**
 - Glen Lim, Senior Associate, Partnership Lead, **SWITCH Programme Office, Enterprise Singapore**
 
-Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available!
+Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview)! Application for the EES has closed on 22 August 2021. However, you can get a SWITCH Pass to access SWITCH and all of its year-long webinars including the EES!
 
 #### Gain exclusive access to knowledge on launching a startup from prominent local founders
 
