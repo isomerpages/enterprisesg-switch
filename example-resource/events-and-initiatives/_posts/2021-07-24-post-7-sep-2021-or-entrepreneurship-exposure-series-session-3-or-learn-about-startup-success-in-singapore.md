@@ -15,7 +15,7 @@ Gain exclusive knowledge from Singaporean startup founders speaking at the **Tal
 
 #### Session speakers
 
-- Samuel Tey, Chief Executive Officer and Founder, **Axe Factor**
+- Leanne Robers, Co-Founder and Co-CEO, **She Loves Tech**
 - Muhd Shamir Abdul Rahim, Co-founder, **GotSurge**
 - Ho Zhi Hui, Co-founder, **Skilio**
 - Glen Lim, Senior Associate, Partnership Lead, **SWITCH Programme Office, Enterprise Singapore**
