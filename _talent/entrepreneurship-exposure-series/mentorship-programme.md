@@ -43,4 +43,4 @@ Once you are enrolled into this mentorship programme, you are required to be com
 * End of mentoring programme (21 September)
 # How can I apply?
 
-Application for the Talent @ SWITCH Entrepreneurship Exposure Series (EES) has closed on 22 August 2021. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access all of SWITCH’s year-long webinars through 2022, including the EES!
+Application for the Talent @ SWITCH Entrepreneurship Exposure Series (EES) has closed. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access all of SWITCH’s year-long webinars through 2022, including the EES!
