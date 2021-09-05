@@ -9,7 +9,7 @@ SWITCH Global is a conference channel that congregates global business and marke
 
 Through two curated session types–Market Access and Masterclasses–attendees will benefit from the deep knowledge and experiences of our invited speakers and international partner networks to build their business and internationalisation capabilities.
 
-[Get your 1-For-1 SWITCH Pass here by 30 September 2021.](https://events.hubilo.com/switchsg/register)
+[Grab your 1-For-1 promotion on the SWITCH Pass by 30 September 2021!](https://events.hubilo.com/switchsg/register)
 
 # Market Access Sessions
 Get to learn more on how to soft-land into 42 markets around the world. Learn about the nuance of local market cultures and business ecosystems, as well as global opportunities that are waiting to be tapped upon. 
