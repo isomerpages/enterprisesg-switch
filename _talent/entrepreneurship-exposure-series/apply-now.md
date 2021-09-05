@@ -3,7 +3,7 @@ title: Apply Now
 permalink: /talent/ees/apply-now
 third_nav_title: Entrepreneurship Exposure Series
 ---
-## Enjoy a student-exclusive price of ~~USD50~~ SGD10 to access both SWITCH 2021 and its Entrepreneurship Exposure Series, through 22 August 2021
+## Enjoy a student-exclusive price of ~~USD50~~ SGD10 to access both SWITCH 2021 and its Entrepreneurship Exposure Series, through 22 August 2021 (Promo ended)
 
 As an exclusive promotion to students through 22 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES) (inclusive of Mentorship Programme and Youth Challenge)**!
 
