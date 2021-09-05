@@ -24,7 +24,7 @@ Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurs
 
 #### Gain exclusive access to knowledge on launching a startup from prominent local founders
 
-What does it take to start up, from coming up with a business plan and getting market validation to building your customer base and securing funding, from the perspective of founders? Learn directly from the founder of Axe Factor, Skilio and GotSurge on how they grew their ideas into successful startups.
+What does it take to start up, from coming up with a business plan and getting market validation to building your customer base and securing funding, from the perspective of founders? Learn directly from the founder of She Loves Tech, Skilio and GotSurge on how they grew their ideas into successful startups.
 
 #### Exclusive opportunity to get a mentor or take part in the Youth Challenge along with signing up for the series
 
@@ -37,5 +37,5 @@ Don’t miss the opportunity to also get an industry professional as your mentor
 |**Date** | Tuesday, 7 September 2021 
 | **Time**    | 7–8.30pm |
 |**Venue** | SWITCH Platform (Virtual), with limited slots to attend physically at SCAPE (first-come-first-serve basis). *Physical attendance is tentative and the number of pax will be determined by current SMM guidelines.*
-| **Register** | [Register here by 8 August 2021](https://bit.ly/EESapply) |
-|**Student-exclusive all-in price of SGD10 to access both SWITCH 2021 and the EES** | **~~USD50~~ SGD10** (Grab this student-exclusive promotion on tickets to access both **SWITCH 2021** and the **EES** at the Register link above, by 8 August 2021, 2359 (SGT)! **Once you have signed up for EES, you will be onboarded to our always-on SWITCH platform that will stream both SWITCH 2021 and its year-long events including the EES.**)
+| **Register** | [Register for SWITCH to access all of SWITCH's year-long webinars through 2022, including the Talent @ SWITCH Entrepreneurship Exposure Series (EES)](https://events.hubilo.com/switchsg/register) |
+|**Student-exclusive all-in price of SGD10 to access both SWITCH 2021 and the EES** | **[This promotion has ended] ~~USD50~~ SGD10** (Grab this student-exclusive promotion on tickets to access both **SWITCH 2021** and the **EES** at the Register link above, by 8 August 2021, 2359 (SGT)! **Once you have signed up for EES, you will be onboarded to our always-on SWITCH platform that will stream both SWITCH 2021 and its year-long events including the EES.**)
