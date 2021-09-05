@@ -26,10 +26,6 @@ Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurs
 
 What does it take to start up, from coming up with a business plan and getting market validation to building your customer base and securing funding, from the perspective of founders? Learn directly from the founder of She Loves Tech, Skilio and GotSurge on how they grew their ideas into successful startups.
 
-#### Exclusive opportunity to get a mentor or take part in the Youth Challenge along with signing up for the series
-
-Don’t miss the opportunity to also get an industry professional as your mentor at the [Talent @ SWITCH Mentorship Programme](https://www.switchsg.org/talent/ees/mentorship-programme), and solve challenges issued by organisations at the [Talent @ SWITCH Youth Challenge](https://www.switchsg.org/talent/ees/youth-challenge), when you sign up for the EES.
-
 #### Event details
 
 | **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES) Session 3/5: Learn about startup success in Singapore!|
