@@ -12,9 +12,7 @@ For instance, post-secondary education institutions in Singapore include, but no
 
 **2. How can I apply for the Entrepreneurship Exposure Series (EES), including the Mentorship Programme and Youth Challenge?**
 
-You can register for the EES including the Mentorship Programme and Youth Challenge [at this form](https://bit.ly/EESapply). Do take note of the 30-minute duration to complete the registration if you are also applying for other programmes i.e. the Mentorship Programme and/or Youth Challenge along with the EES.
-
-***Update: Application for the EES and its complementary programmes has closed. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access the EES and all of SWITCH’s year-long webinars through 2022.***
+Application for the EES and its complementary programmes has closed. However, you may get your [1-For-1 SWITCH Pass (U.P.: USD50) by 30 September](https://events.hubilo.com/switchsg/register) to access all of SWITCH’s year-long webinars and events through 2022, including the EES.
 
 **3. When do applications for the Entrepreneurship Exposure Series (EES), including the Mentorship Programme and Youth Challenge close?**
 
@@ -37,7 +35,7 @@ You can refer to the below for the different combinations of programmes you can 
 
 ![Alt text for image on Isomer site](/images/EES_participation.jpeg)
 
-***Update: Application for the EES and its complementary programmes has closed. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access the EES and all of SWITCH’s year-long webinars through 2022.***
+***Application for the EES and its complementary programmes has closed. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access the EES and all of SWITCH’s year-long webinars through 2022.***
 
 **5. What is the current cost to participate in the EES and SWITCH 2021 as a student?**
 
