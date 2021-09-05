@@ -28,10 +28,6 @@ Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurs
 
 How is starting up in various markets around the world different from starting up in Singapore? What does going global mean and what steps can startups take to bring their business to overseas markets? Understand the various ecosystems around the world from the perspective of both international and Singaporean founders from Glints, ECO Vietnam Group, Afterglow Concepts and more.
 
-#### Exclusive opportunity to get a mentor or take part in the Youth Challenge along with signing up for the series
-
-Don’t miss the opportunity to also get an industry professional as your mentor at the [Talent @ SWITCH Mentorship Programme](https://www.switchsg.org/talent/ees/mentorship-programme), and solve challenges issued by organisations at the [Talent @ SWITCH Youth Challenge](https://www.switchsg.org/talent/ees/youth-challenge), when you sign up for the EES.
-
 #### Event details
 
 | **Title** | Talent @ SWITCH Entrepreneurship Exposure Series (EES) Session 4/5: Learn the tips to expanding beyond Singapore’s shores!|
