@@ -5,9 +5,6 @@ date: 2021-07-31
 permalink: /events/ees-session-5
 layout: post
 ---
-
-
-
 ![Alt text for image on Isomer site](/images/All%20social%20media%20posts%20revised_EDM%20header.png)
 
 #### About
@@ -25,7 +22,7 @@ Acquire exclusive knowledge and tips from intrapreneurs speaking at **the fifth 
 - Daryl Lim,Innovation & Partnerships Lead, **Padang & Co.**
 - Rayse Yeo, Co-founder, **MatcHub**
 
-Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 8 August 2021, 2359 (SGT) – limited slots available!
+Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview)! Application for the EES has closed on 22 August 2021. However, you can get a SWITCH Pass to access SWITCH and all of its year-long webinars including the EES!
 
 #### Learn from intrapreneurs on how to apply the entrepreneurship mindset at their respective companies
 
