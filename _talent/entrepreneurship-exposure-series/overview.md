@@ -4,14 +4,15 @@ permalink: /talent/entrepreneurship-exposure-series/overview
 third_nav_title: Entrepreneurship Exposure Series
 ---
 ![Alt text for image on Isomer site](/images/ees_banner.png)
-## Enjoy a student-exclusive price of ~~USD50~~ SGD10 to access both SWITCH 2021 and its Entrepreneurship Exposure Series, through 22 August 2021
+## Enjoy a student-exclusive price of ~~USD50~~ SGD10 to access both SWITCH 2021 and its Entrepreneurship Exposure Series, through 22 August 2021 (Promo ended)
 
 As an exclusive promotion to students through 22 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)** - a series of industry knowledge sessions on the startup ecosystem!
 
-[Don't miss this time-limited promotion only for students - sign up by 22 August 2021, 2359 (SGT) with your school email!
-](https://bit.ly/EESapply)
+Don't miss this time-limited promotion only for students - sign up by 22 August 2021, 2359 (SGT) with your school email!
 
 Once you have signed up for the EES, you will be onboarded to **an always-on SWITCH platform** where you can access SWITCH 2021 and its other year-long events such as monthly webinars and connect with fellow delegates throughout 2021, on top of the EES.
+
+***Update: Application for the EES has closed on 22 August 2021. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access all of SWITCH’s year-long webinars through 2022, including the Talent @ SWITCH Entrepreneurship Exposure Series (EES)!***
 
 **Read on to find out more about the Talent @ SWITCH Entrepreneurship Exposure Series (EES)!**
 # Calling all aspiring startup founders: Hear from industry leaders on entrepreneurship
@@ -22,7 +23,7 @@ Deep dive into the startup and innovation ecosystems from the lens of different 
 
 The Talent @ SWITCH EES also has two complementary programmes - the [Talent @ SWITCH Mentorship Programme](https://www.switchsg.org/talent/ees/mentorship-programme) and [Talent @ SWITCH Youth Challenge](https://www.switchsg.org/talent/ees/youth-challenge). As part of EES, the former allows youths to get mentored by an experienced professional to gain one-to-one guidance on developing career-related skills as well as industry knowledge from their mentor, while the Youth Challenge provides youths with the opportunity to acquire valuable experience in solving real-world challenges issued by organisations.
 
-[Apply now to join the Talent @ SWITCH EES by 22 August 2021, 2359 (SGT)!](https://bit.ly/EESapply)
+[Get your 1-For-1 SWITCH Pass by 30 September to access all of SWITCH’s year-long webinars through 2022, including the EES!](https://events.hubilo.com/switchsg/register)
 
 [Follow our Facebook page to get the latest updates when we release the speakers of each session.](https://www.facebook.com/SwitchSingapore/)
 
@@ -103,8 +104,6 @@ Participants of the Entrepreneurship Exposure Series (EES) are required to:
 3. Provide feedback to the organisers about the programme.
 
 # How can I apply?
-As an exclusive promotion to students through 22 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**.
-
-Grab this time-limited promotion only for students [here](https://bit.ly/EESapply) **by 22 August 2021, 2359 (SGT)** with your school email!
+Application for the EES has closed on 22 August 2021. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access all of SWITCH’s year-long webinars through 2022, including the EES!
 
 [Follow our Facebook page to get updated when we release the speakers and details of each session!](https://www.facebook.com/SwitchSingapore/)

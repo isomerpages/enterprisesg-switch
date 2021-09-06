@@ -10,7 +10,7 @@ Regardless of whether they decide to be intrapreneurs in a company or entreprene
 
 The Mentorship Programme consists of **4 mentoring sessions over 2.5 months and takes place right after each EES session.** Interested applicants for this programme are required to apply along with the EES. 
 
-[Registrations for the Talent @ SWITCH Mentorship Programme has closed. However, you may still sign up for the EES, by 22 August 2021, 2359 (SGT).](https://bit.ly/EESapply)
+***Registrations for the Talent @ SWITCH Mentorship Programme has closed. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access the Talent @ SWITCH Entrepreneurship Exposure Series (EES) and all of SWITCH’s year-long webinars through 2022!***
 
 ***Read on to find out more about the Mentorship Programme structure, schedule and other information.***
 
@@ -43,12 +43,4 @@ Once you are enrolled into this mentorship programme, you are required to be com
 * End of mentoring programme (21 September)
 # How can I apply?
 
-Registrations for the Talent @ SWITCH Mentorship Programme has closed. However, you may still sign up for the EES [here](https://bit.ly/EESapply), by 22 August 2021, 2359 (SGT). 
-
-### Student-exclusive price of ~~USD50~~ SGD10 to SWITCH 2021 and the EES, through 22 August 2021
-
-As an exclusive promotion to students through 22 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**!
-
-Don't miss this time-limited promotion only for students - sign up [here](https://bit.ly/EESapply) **by 22 August 2021, 2359 (SGT) with your school email!**
-
-Once you have signed up for the EES, you will be onboarded to **an always-on SWITCH platform** where you can access SWITCH 2021 and its other year-long events such as monthly webinars and connect with fellow delegates throughout 2021, on top of the EES.
+Application for the Talent @ SWITCH Entrepreneurship Exposure Series (EES) including its Mentorship Programme has closed. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access the EES and all of SWITCH’s year-long webinars through 2022!

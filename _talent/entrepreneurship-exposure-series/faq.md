@@ -12,12 +12,12 @@ For instance, post-secondary education institutions in Singapore include, but no
 
 **2. How can I apply for the Entrepreneurship Exposure Series (EES), including the Mentorship Programme and Youth Challenge?**
 
-You can register for the EES including the Mentorship Programme and Youth Challenge [at this form](https://bit.ly/EESapply). Do take note of the 30-minute duration to complete the registration if you are also applying for other programmes i.e. the Mentorship Programme and/or Youth Challenge along with the EES.
+Application for the EES and its complementary programmes has closed. However, you may get your [1-For-1 SWITCH Pass (U.P.: USD50) by 30 September](https://events.hubilo.com/switchsg/register) to access all of SWITCH’s year-long webinars and events through 2022, including the EES.
 
 **3. When do applications for the Entrepreneurship Exposure Series (EES), including the Mentorship Programme and Youth Challenge close?**
 
 **Application deadlines of the programmes:**
-* Entrepreneurship Exposure Series (EES): **22 August 2021, 2359 (SGT)**
+* Entrepreneurship Exposure Series (EES): **Registrations has closed on 22 August 2021.**
 * Mentorship Programme: **Registrations has closed.**
 * Youth Challenge: **Registrations has closed.**
 
@@ -35,13 +35,11 @@ You can refer to the below for the different combinations of programmes you can 
 
 ![Alt text for image on Isomer site](/images/EES_participation.jpeg)
 
-**5. What is the cost to participate in the EES and SWITCH 2021 as a student?**
+***Application for the EES and its complementary programmes has closed. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access the EES and all of SWITCH’s year-long webinars through 2022.***
 
-As an exclusive promotion to students through 22 August 2021, both Singaporean and international students get to enjoy **an all-in price of ~~USD50~~ SGD10 to access both SWITCH 2021 and the Entrepreneurship Exposure Series (EES)**!
+**5. What is the current cost to participate in the EES and SWITCH 2021 as a student?**
 
-Don't miss this time-limited promotion only for students - sign up [here](https://bit.ly/EESapply) **by 22 August 2021, 2359 (SGT) with your school email!**
-
-Once you have signed up for the EES, you will be onboarded to **an always-on SWITCH platform** where you can access SWITCH 2021 and its other year-long events such as monthly webinars and connect with fellow delegates throughout 2021, on top of the EES.
+Although applications for the EES has closed, you may get your [1-For-1 SWITCH Pass (U.P.: USD50) by 30 September](https://events.hubilo.com/switchsg/register) to access all of SWITCH’s year-long webinars through 2022, including its EES and the Flagship SWITCH Festival from 8-12 November.
 
 
 If you have more questions, contact us at talent@switchsg.org.

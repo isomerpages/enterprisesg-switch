@@ -15,20 +15,16 @@ Gain exclusive knowledge from Singaporean startup founders speaking at the **Tal
 
 #### Session speakers
 
-- Samuel Tey, Chief Executive Officer and Founder, **Axe Factor**
+- Leanne Robers, Co-Founder and Co-CEO, **She Loves Tech**
 - Muhd Shamir Abdul Rahim, Co-founder, **GotSurge**
 - Ho Zhi Hui, Co-founder, **Skilio**
 - Glen Lim, Senior Associate, Partnership Lead, **SWITCH Programme Office, Enterprise Singapore**
 
-Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview) and apply by 1 August 2021, 2359 (SGT) – limited slots available!
+Learn more about the series [here](https://www.switchsg.org/talent/entrepreneurship-exposure-series/overview)! Application for the EES has closed on 22 August 2021. However, you can get a SWITCH Pass to access SWITCH and all of its year-long webinars including the EES!
 
 #### Gain exclusive access to knowledge on launching a startup from prominent local founders
 
-What does it take to start up, from coming up with a business plan and getting market validation to building your customer base and securing funding, from the perspective of founders? Learn directly from the founder of Axe Factor, Skilio and GotSurge on how they grew their ideas into successful startups.
-
-#### Exclusive opportunity to get a mentor or take part in the Youth Challenge along with signing up for the series
-
-Don’t miss the opportunity to also get an industry professional as your mentor at the [Talent @ SWITCH Mentorship Programme](https://www.switchsg.org/talent/ees/mentorship-programme), and solve challenges issued by organisations at the [Talent @ SWITCH Youth Challenge](https://www.switchsg.org/talent/ees/youth-challenge), when you sign up for the EES.
+What does it take to start up, from coming up with a business plan and getting market validation to building your customer base and securing funding, from the perspective of founders? Learn directly from the founder of She Loves Tech, Skilio and GotSurge on how they grew their ideas into successful startups.
 
 #### Event details
 
@@ -37,5 +33,5 @@ Don’t miss the opportunity to also get an industry professional as your mentor
 |**Date** | Tuesday, 7 September 2021 
 | **Time**    | 7–8.30pm |
 |**Venue** | SWITCH Platform (Virtual), with limited slots to attend physically at SCAPE (first-come-first-serve basis). *Physical attendance is tentative and the number of pax will be determined by current SMM guidelines.*
-| **Register** | [Register here by 8 August 2021](https://bit.ly/EESapply) |
-|**Student-exclusive all-in price of SGD10 to access both SWITCH 2021 and the EES** | **~~USD50~~ SGD10** (Grab this student-exclusive promotion on tickets to access both **SWITCH 2021** and the **EES** at the Register link above, by 8 August 2021, 2359 (SGT)! **Once you have signed up for EES, you will be onboarded to our always-on SWITCH platform that will stream both SWITCH 2021 and its year-long events including the EES.**)
+| **Register** | [Grab your 1-For-1 SWITCH Pass by 30 September to access all of SWITCH's year-long webinars through 2022, including the Talent @ SWITCH Entrepreneurship Exposure Series (EES)](https://events.hubilo.com/switchsg/register) |
+|**Price** | ~~USD $50~~ **USD $25 each** when purchased as a pair (1-For-1 Promotion ends 30 Sep 2021)
