@@ -4,6 +4,7 @@ date: 2021-09-08
 permalink: /events/sustainable-future-with-advanced-materials
 layout: post
 ---
+![Alt text for image on Isomer site](/images/adv-materials_2160x1080px.jpg)
 #### Event details
 
 
