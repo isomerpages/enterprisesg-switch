@@ -15,7 +15,7 @@ This year’s SWITCH Global will be in the form of impactful and efficient bites
 ## Market Access Sessions
 Regions covered will include the Americas, Asia Pacific, China, Middle East and Africa, United Kingdom and Europe.
 
-## Masterclassess
+## Masterclasses
 Session topics will span *Tech-Up*, *Fundraising* and *Expanding to Asia*
 
 _Full agenda and details to be announced._
