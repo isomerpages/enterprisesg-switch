@@ -1,9 +1,10 @@
 ---
-title: 8–12 Nov 2021 | SWITCH 2021 Flagship Festival
+title: 8–12 Nov 2021 | Flagship SWITCH 2021 Conference
 date: 2021-09-02
 permalink: /events/switch-2021-flagship-festival
 layout: post
 ---
+
 
 
 ![Alt text for image on Isomer site](/images/switch_2021_launch_event_banner.jpg)
