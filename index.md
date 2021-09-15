@@ -28,14 +28,14 @@ sections:
           description: Premier startup pitching event
           url: /highlights/slingshot/2021/overview
   - infopic:
-      title: An Exploration into SEA EdTech Investments
-      subtitle: "Upcoming: 9 Sep 201"
-      description: Join a panel of leading investors and EdTech founders as they
-        discuss the growth trends and  investment opportunities in this fast
-        growing technology vertical.
+      title: Our Sustainable Future with Advanced Materials
+      subtitle: "Upcoming: 16 Sep 201"
+      description: Learn how advancements in material science are shaping the
+        technological innovations needed to reach a sustainable, climate-neutral
+        economy and society.
       button: Learn More
-      url: /events/sea-edtech-investments
-      image: /images/SWITCH_Event_SEA_EdTech_Investments.jpg
+      url: events/sustainable-future-with-advanced-materials
+      image: /images/adv-materials_2160x1080px.jpg
       alt: Deep Tech For Good Event
   - infobar:
       title: Your gateway to global innovation in Asia
