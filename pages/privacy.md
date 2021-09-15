@@ -83,4 +83,3 @@ This Privacy Statement may be revised and updated from time to time at SWITCH/En
 7.1	Please contact SWITCH at community@switchsg.org if you have any enquiries or feedback on our Privacy Statement, data protection policies and procedures. You may also contact us if you need more information on, or access to, data that you had previously provided to SWITCH/Enterprise Singapore.
  
 <sub>*Updated as at 15 September 2021.*</sub>
-
