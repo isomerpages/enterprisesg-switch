@@ -32,7 +32,6 @@ By highlighting innovative technologies and business ventures, these promising e
 ---
 <sub>*This article was brought to you by SLINGSHOT, Asia’s most exciting deep tech startup pitching competition. Catch innovative technology pitches and connect with the global startup community at the livestream of the SLINGSHOT 2021 Grand Finals from 8–10 November 2021, held at the Singapore Week of Innovation and Technology (SWITCH). [Tickets available here.](https://bit.ly/3o3X6ga)*</sub>
 
-<sub>*For more information about ProAgni, please visit www.proagni.com*</sub>
+<sub>*For more information about ProAgni, please visit [www.proagni.com](https://www.proagni.com)*</sub>
 
-<sub>*For more information about The Yield Lab, please visit www.theyieldlab.asia*</sub>
-
+<sub>*For more information about The Yield Lab, please visit [www.theyieldlab.asia](https://www.theyieldlab.asia)*</sub>
