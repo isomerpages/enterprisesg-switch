@@ -13,7 +13,7 @@ ProAgni won “The Yield Lab Asia Pacific 2nd Annual Agtech Innovation Award” 
 
 ProAgni ProTect contains proven methane-mitigating ingredients, including one certified by the Carbon Trust. This innovative management of the animal’s stomach helps reduce greenhouse gas emissions, while also improving the animal’s health by keeping it stable and lowering the incidence of acidosis and reducing the risk of liver abscess in cattle without resorting to antibiotics or ionophores. Product trials continue to prove performance: West Texas A&M University trials were successful; the Department of Agriculture and Fisheries Queensland is testing shelf stable probiotics to transition cattle from grass to grain and an Australian beef producer is conducting a large-scale commercial trial.
 
-![Alt text for image on Isomer site](/images/SWITCH_2021_The_Yield_Lab_ProAgni_2.jpg)
+![Lachlan Campbell, CEO of ProAgni receiving the 2nd Annual The Yield Lab Asia Pacific AgTech Innovation Award](/images/SWITCH_2021_The_Yield_Lab_ProAgni_2.jpg)
 
 <sub>*(Lachlan Campbell, CEO of ProAgni receiving the 2nd Annual The Yield Lab Asia Pacific AgTech Innovation Award)*</sub>
 
