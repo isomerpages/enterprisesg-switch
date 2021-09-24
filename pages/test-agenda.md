@@ -24,3 +24,4 @@ Topics include: Smart Cities; Mobility; Clean Energy; Sustainability; Maritime; 
 | 08:00–9.30am     | Smart Cities in Action: Enhancing Sustainable Living through Innovative Infrastructure | Panel |
 | 08:00–9.30am     | Renewable Energy: Why We Don't Need More Science to Solve Climate Change | Panel |
 | 08:00–9.30am     | Microgrids, Hydrogen, and the Future of Electric Power Delivery | Panel |
+| 01:00pm–04.00pm     | Deep Tech Summit (Hosted by SGInnovate) |  |
