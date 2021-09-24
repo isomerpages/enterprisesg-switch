@@ -38,11 +38,10 @@ Market Access Sessions and Masterclasses
 | -------- | -------- | -------- | 
 | 0900H–0910H     | Global Announcements | Keynote |
 | 0910H–0930H     | Opening Keynote | Keynote |
-| 0930H–1000H     | Market Access: Latin America (Hosted by Apex Brazil) | Market Access |
-| 1000H–1030H     | Market Access: Latin America (Hosted by Latin Leap) | Market Access |
-| 1030H–1100H     | Tech Up (Hosted by Google) | Masterclass |
-| 1100H–1130H     | Tech Up (Hosted by Facebook) | Masterclass |
-| 1130H–1200H     | Market Access: Japan (Hosted by JETRO) | Market Access |
+| 0930H–1000H     | Market Access: Latin America  | Market Access |
+| 1000H–1030H     | Market Access: Latin America  | Market Access |
+| 1030H–1100H     | Tech Up  | Masterclass |
+| 1100H–1130H     | Tech Up  | Masterclass |
+| 1130H–1200H     | Market Access: Japan  | Market Access |
 | 1200H–1230H     | Pending | Market Access |
-| 1230H–1300H     | Market Access: Philippines (Hosted by Enterprise Singapore Global Markets) | Market Access |
-
+| 1230H–1300H     | Market Access: Philippines  | Market Access |
