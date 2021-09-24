@@ -14,6 +14,8 @@ Learn how industries transform, innovating to create positive change. Plenty of 
 
 Topics include: Smart Cities; Mobility; Clean Energy; Sustainability; Maritime; etc...
 
+For the full conference agenda, visit our [virtual conference guide](https://paradoxmedia.readz.com/home-page-r837y?preview=146622)
+
 
 | **Time** | **Title** | **Format** |
 | -------- | -------- | -------- | 
