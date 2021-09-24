@@ -19,11 +19,12 @@ For the full conference agenda, visit our [virtual conference guide](https://par
 
 | **Time** | **Title** | **Format** |
 | -------- | -------- | -------- | 
-| 08:00–9.30am     | VIP Sessions | Keynote |
-| 08:00–9.30am     | The Future of Mobility: The Future of Electric Vehicles | Panel |
-| 08:00–9.30am     | The Future of Mobility: Fully Autonomous Vehicles | Panel |
-| 08:00–9.30am     | The Future of Maritime Shipping | Panel |
-| 08:00–9.30am     | Smart Cities in Action: Enhancing Sustainable Living through Innovative Infrastructure | Panel |
-| 08:00–9.30am     | Renewable Energy: Why We Don't Need More Science to Solve Climate Change | Panel |
-| 08:00–9.30am     | Microgrids, Hydrogen, and the Future of Electric Power Delivery | Panel |
-| 01:00pm–04.00pm     | Deep Tech Summit (Hosted by SGInnovate) |  |
+| 0800H–0930H     | VIP Sessions | Keynote |
+| 0800H–0930H     | The Future of Mobility: The Future of Electric Vehicles | Panel |
+| 0800H–0930H     | The Future of Mobility: Fully Autonomous Vehicles | Panel |
+| 0800H–0930H     | The Future of Maritime Shipping | Panel |
+| 0800H–0930H     | Smart Cities in Action: Enhancing Sustainable Living through Innovative Infrastructure | Panel |
+| 0800H–0930H     | Renewable Energy: Why We Don't Need More Science to Solve Climate Change | Panel |
+| 0800H–0930H     | Microgrids, Hydrogen, and the Future of Electric Power Delivery | Panel |
+| 1300H–1600H     | Deep Tech Summit (Hosted by SGInnovate) |  |
+
