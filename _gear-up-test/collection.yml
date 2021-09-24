@@ -1,5 +1,4 @@
 collections:
   gear-up-test:
     output: true
-    order:
-      - book-pitch-coaching.md
+    order: []
