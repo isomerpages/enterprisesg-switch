@@ -4,8 +4,7 @@ permalink: /channels/switch-global-2021/agenda-day-1
 third_nav_title: Switch Global
 ---
 #### SWITCH Global: Day 1 
-##### Markets in Focus
-
+Explore opportunities in over 40 markets with international business experts at SWITCH Global's *Market Access Sessions*. Scale your ventures and products at our *Masterclass sessions.* Learn the intricacies of expanding and innovating in Asia at our *Expand to Asia Series.*
 
 
 ##### Agenda // Day 1 // 8 Nov 2021
