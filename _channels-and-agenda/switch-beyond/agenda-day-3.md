@@ -6,12 +6,11 @@ third_nav_title: Switch Beyond
 #### SWITCH Beyond: Day 3 
 ##### Envisioning The Future
 
-How can technology revolutionise our existing systems and progress society? Dive into the ground-breaking innovations enhancing our everyday lives. Enter invigorating discussions on topics ranging from *BioTech; MedTech; Healthcare; AgriFood; Blockchain; Digital Economy; Entertainment*
+How will emerging technologies change the way we live, work and interact in the next 30 years? What will be the next breakthroughs for humanity? Gaze into the future with us as we enter thought-provoking sessions on Space Tech, Future of Work, Nanotechnology and other emergent topics. 
 
 <sub>Hosted by Enterprise Singapore; SGInnovate; Blockchain Accelerator; LEK Consulting; Tribe; etc...</sub>
 
-##### Agenda
-###### Day 3 // 10 Nov 2021
+##### Agenda // Day 3 // 10 Nov 2021
 
 | Time | Title | Format |
 | -------- | -------- | -------- |
