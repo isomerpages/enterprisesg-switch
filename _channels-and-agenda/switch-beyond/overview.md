@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /highlights/switch-beyond/2021/overview
+permalink: /channels-agenda/switch-beyond-2021/overview
 third_nav_title: Switch Beyond
 ---
+
 ![](/images/SWITCH%20Connect%205.jpg)
 # About SWITCH Beyond
 SWITCH Beyond is a conference channel that brings together global leaders and experts from diverse industries to must-attend conference sessions where discussions on groundbreaking and innovative ideas and technologies that are transforming the world today take place. 
