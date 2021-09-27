@@ -33,7 +33,5 @@ How will emerging technologies change the way we live, work and interact in the 
 |      | **End of Deep Tech Summit**     |      |
 | 1615H–1645H     | SEA e-Conomy 2021     | Panel    |
 | 1645H–1700H     | Keynote    | Keynote     |
-| 1705H–1735H     | Nature Co-design    | Panel     |
-| 1735H–1805H     | Nature Co-design     | Panel     |
-| 1805H–1835H     | Nature Co-design     | Panel   |
+| 1705H–1835H     | Nature Co-design    | Panel     |
 | 1840H–1900H     | Closing     |    |
