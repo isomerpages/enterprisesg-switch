@@ -12,11 +12,13 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 
 ##### Agenda // Day 1 // 8 Nov 2021
 
+<sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
+
 | Time | Title | Format |
 | -------- | -------- | -------- |
 | 0845H–0930H     | Opening Address     | Keynote     |
-| 0930H–1000H     | Future of Mobility: The Future of Electric Vehicles     | Panel     |
-| 1000H–1030H     | Future of Mobility: Fully Autonomous Vehicles (AVs). How Close Are We To That Reality?     | Panel     |
+| 0930H–1000H     | The Future of Electric Vehicles     | Panel     |
+| 1000H–1030H     | Fully Autonomous Vehicles (AVs). How Close Are We To That Reality?     | Panel     |
 | 1035H–1105H     | Future of Maritime Shipping     | Panel    |
 | 1105H–1135H     | Smart Cities In Action: Enhancing Sustainable Living Through Innovative Infrastructure     | Panel   |
 | 1140H–1210H     | Renewable Energy: Why We Don't Need More Science To Solve Climate Change–How Business Models Are Key Enablers In Sustainability      | Panel     |
