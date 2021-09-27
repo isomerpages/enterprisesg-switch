@@ -35,4 +35,4 @@ How can technology revolutionise our existing systems and progress society? Dive
 | 1640H–1710H     | Food Tech and Nutrition    | Panel     |
 | 1710H–1740H     | What's next for blockchain? – 2025    | Panel     |
 | 1740H–1810H     | Blockchain Venture Capital – Investment Landscape     | Panel     |
-| 1810H–1840H     | The Latest Tech Innovations in Games     | Panel
+| 1810H–1840H     | The Latest Tech Innovations in Games     | Panel   |
