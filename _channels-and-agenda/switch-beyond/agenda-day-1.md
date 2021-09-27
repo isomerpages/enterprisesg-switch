@@ -10,7 +10,7 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 
 <sub>Hosted by Enterprise Singapore; SGInnovate; Capitland; ENGIE Factory; IEEE; </sub>
 
-##### Agenda
+##### Agenda // Day 1 // 8 Nov 2021
 
 | Time | Title | Format |
 | -------- | -------- | -------- |
