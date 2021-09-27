@@ -4,7 +4,6 @@ collections:
     order:
       - switch-beyond/.keep
       - switch-beyond/overview.md
-      - switch-beyond/what-to-expect-in-2021.md
       - switch-beyond/agenda-day-1.md
       - switch-beyond/agenda-day-2.md
       - switch-beyond/agenda-day-3.md
