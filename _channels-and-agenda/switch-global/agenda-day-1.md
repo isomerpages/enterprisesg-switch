@@ -29,6 +29,6 @@ Explore opportunities in over 40 markets with international business experts at 
 | 1600H–1630H     | Market Access: Netherlands   | Panel     |
 | 1630H–1700H     | Market Access: Spain   | Panel     |
 | 1700H–1730H     | Market Access: Poland   | Panel     |
-| 1730H–1800H     | Expand to Asia   | Expand to Asia     |
-| 1800H–1830H     | Expand to Asia   | Expand to Asia     |
+| 1730H–1800H     | Expand to Asia   | Panel     |
+| 1800H–1830H     | Expand to Asia   | Panel     |
 | 1830H–1900H     | Closing   |      |
