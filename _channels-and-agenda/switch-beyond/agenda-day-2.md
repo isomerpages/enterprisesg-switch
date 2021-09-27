@@ -26,10 +26,10 @@ How can technology revolutionise our existing systems and progress society? Dive
 | 1240H–1300H     | Break     |     |
 |      | **Start of Deep Tech Summit**     |      |
 | 1300H–1330H     | Shaping Tomorrow's Leaders in Biomedical Innovation     | Panel     |
-| 1330H–1400H     | Enabling Culture for Health Science Innovation     | Panel     |
+| 1330H–1400H     | Enabling Culture for Health Science Innovation     | Fireside Chat     |
 | 1400–1430H     | Health Systems Transformation: Singapore Spotlight     | Panel     |
 | 1430H–1500H     | Current and Future Applications of Deep Learning in Health     | Panel     |
-| 1505H–1535H     | The Promise of AgriFood Science     | Panel    |
+| 1505H–1535H     | The Promise of AgriFood Science     | Fireside Chat    |
 | 1535H–1605H     | Global Agri-Food Tech Epicentres     | Panel     |
 |      | **End of Deep Tech Summit**     |      |
 | 1610H–1640H     | Tech for Good : Sustainable AgriFood Investment     | Panel    |
