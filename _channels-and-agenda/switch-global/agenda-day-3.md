@@ -11,25 +11,24 @@ Explore opportunities in over 40 markets with international business experts at 
 
 | Time | Title | Format |
 | -------- | -------- | -------- |
-| 0900H–0905H     | Opening Announcements  1 |      |
-| 0905H–0910H     | Opening Announcements 2    |     |
+| 0900H–0910H     | Opening Announcements   |      |
 | 09310H–0930H     | Opening Keynote    | Keynote     |
-| 0930H–1000H     | Market Access: Canada     | Market Access     |
-| 1000H–1030H     | Market Access: BRIC     | Market Access     |
-| 1030H–1100H     | Tech Up    | Masterclass    |
-| 1100H–1130H     | Tech Up     | Masterclass   |
-| 1130H–1200H     | Market Access: China       | Market Access     |
-| 1200H–1230H     | Market Access: China    | Market Access     |
-| 1230H–1300H     | Market Access: Malaysia     | Market Access     |
-| 1300H–1330H     | Market Access: Indonesia    | Market Access     |
-| 1330H–1400H     | Market Access: Bangladesh   | Market Access     |
-| 1400H–1430H     | Tech Up   | Masterclass     |
-| 1430H–1500H     | Tech Up   | Masterclass     |
-| 1500H–1530H     | Market Access: Middle East – UAE   | Market Access     |
-| 1530H–1600H     | Market Access: Middle East – Saudi Arabia   | Market Access     |
-| 1600H–1630H     | Market Access: Qatar   | Market Access     |
-| 1630H–1700H     | Market Access: Portugal   | Market Access     |
-| 1700H–1730H     | Market Access: Eurasia   | Market Access     |
-| 1730H–1800H     | Expand to Asia   | Expand to Asia     |
-| 1800H–1830H     | Expand to Asia   | Expand to Asia     |
+| 0930H–1000H     | Market Access: Canada     | Panel     |
+| 1000H–1030H     | Market Access: BRIC     | Panel     |
+| 1030H–1100H     | Masterclass: Tech Up    | Masterclass    |
+| 1100H–1130H     | Masterclass: Tech Up     | Masterclass   |
+| 1130H–1200H     | Market Access: China       | Panel     |
+| 1200H–1230H     | Market Access: China    | Panel     |
+| 1230H–1300H     | Market Access: Malaysia     | Panel     |
+| 1300H–1330H     | Market Access: Indonesia    | Panel     |
+| 1330H–1400H     | Market Access: Bangladesh   | Panel    |
+| 1400H–1430H     | Masterclass: Tech Up   | Masterclass     |
+| 1430H–1500H     | Masterclass: Tech Up   | Masterclass     |
+| 1500H–1530H     | Market Access: Middle East – UAE   | Panel     |
+| 1530H–1600H     | Market Access: Middle East – Saudi Arabia   | Panel     |
+| 1600H–1630H     | Market Access: Qatar   | Panel     |
+| 1630H–1700H     | Market Access: Portugal   | Panel     |
+| 1700H–1730H     | Market Access: Eurasia   | Panel     |
+| 1730H–1800H     | Expand to Asia   | Panel     |
+| 1800H–1830H     | Expand to Asia   | Panel     |
 | 1830H–1900H     | Closing   |      |
