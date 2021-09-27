@@ -3,7 +3,6 @@ title: "Agenda: Day 1"
 permalink: /channels/switch-beyond/agenda-day-1
 third_nav_title: Switch Beyond
 ---
-
 #### SWITCH Beyond: Day 1
 ##### Transforming Industries
 
@@ -12,8 +11,6 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 <sub>Hosted by [SGInnovate](https://sginnovate.com/), [ENGIE Factory](https://apac.engiefactory.com/), IEEE, and more.</sub>
 
 ##### Agenda
-
-
 
 | Time | Title | Format |
 | -------- | -------- | -------- |
@@ -25,7 +22,7 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 | 1105H–1135H     | Smart Cities In Action: Enhancing Sustainable Living Through Innovative Infrastructure     | Panel   |
 | 1140H–1210H     | Renewable Energy: Why We Don't Need More Science To Solve Climate Change–How Business Models Are Key Enablers In Sustainability      | Panel     |
 | 1210H–1240H     | Microgrids, Hydrogen, and the Future of Electric: Power Delivery      | Panel     |
-| 1240H–1300H     | **Break**     |     |
+| 1240H–1300H     | Break     |     |
 |      | **Start of Deep Tech Summit**     |      |
 | 1300H–1330H     | Deep Tech in 2050     | Panel     |
 | 1330H–1400H     | Towards a Low-Carbon Future     | Panel     |
