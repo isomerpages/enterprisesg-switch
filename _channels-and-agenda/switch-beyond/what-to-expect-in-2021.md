@@ -1,8 +1,9 @@
 ---
 title: What to expect in 2021
-permalink: /channels-agenda/switch-beyond-2021/what-to-expect
+permalink: /channels/switch-beyond-2021/what-to-expect
 third_nav_title: Switch Beyond
 ---
+
 
 ![Alt text for image on Isomer site](/images/SWITCH%20Connect%203.jpg)
 # Transformation through Innovation
