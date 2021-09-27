@@ -1,8 +1,9 @@
 ---
 title: What to expect in 2021
-permalink: /highlights/switch-beyond/2021/what-to-expect
+permalink: /channels-agenda/switch-beyond-2021/what-to-expect
 third_nav_title: Switch Beyond
 ---
+
 ![Alt text for image on Isomer site](/images/SWITCH%20Connect%203.jpg)
 # Transformation through Innovation
 Emerging from a year of huge global disruption, SWITCH 2021 will lead conversations on leveraging innovation to rebuild sustainably across industries and communities, address persistent global challenges, and advance towards a stronger and more inclusive future together.
