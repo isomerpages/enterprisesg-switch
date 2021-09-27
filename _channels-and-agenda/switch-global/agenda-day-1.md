@@ -4,8 +4,8 @@ permalink: /channels/switch-global-2021/agenda-day-1
 third_nav_title: Switch Global
 ---
 #### SWITCH Global: Day 1 
-##### Envisioning The Future
-Lorem ipsum.
+##### Markets in Focus
+
 
 
 ##### Agenda // Day 1 // 8 Nov 2021
