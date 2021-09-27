@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /highlights/slingshot/2021/overview
+permalink: /channels/slingshot-2021/overview
 third_nav_title: Slingshot
 ---
+
 ![SLINGSHOT Winners EKO.ai](/images/SLINGSHOT%202021.jpg)
 # Launch your startup into Asia!
 Calling all startups: Asia’s most exciting deep tech pitching competition is back!
