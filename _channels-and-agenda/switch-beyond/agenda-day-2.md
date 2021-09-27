@@ -6,7 +6,7 @@ third_nav_title: Switch Beyond
 #### SWITCH Beyond: Day 2
 ##### Impacting Lives
 
-How can technology revolutionise our existing systems and progress society? Dive into the ground-breaking innovations enhancing our everyday lives. Enter invigorating discussions on topics ranging from *Digital Economy to Healthcare and AgriFood, *
+How can technology revolutionise our existing systems and progress society? Dive into the ground-breaking innovations enhancing our everyday lives. Enter invigorating discussions on topics ranging from *BioTech; MedTech; Healthcare; AgriFood; Blockchain; Digital Economy; Entertainment*
 
 <sub>Hosted by Enterprise Singapore; SGInnovate; Blockchain Accelerator; LEK Consulting; Tribe; etc...</sub>
 
@@ -31,8 +31,8 @@ How can technology revolutionise our existing systems and progress society? Dive
 | 1505H–1535H     | The Promise of AgriFood Science     | Panel    |
 | 1535H–1605H     | Global Agri-Food Tech Epicentres     | Panel     |
 |      | **End of Deep Tech Summit**     |      |
-| 1615H–1630H     | Keynote Address     | Keynote     |
-| 1630H–1700H     | Tech for Sustainability     | Panel     |
-| 1700H–1730H     | Tech for Sustainability     | Panel     |
-| 1735H–1805H     | Future of Food      | Panel     |
-| 1805H–1835H     | Leveraging Technology and Innovation to Drive the Sustainability Agenda for Global Traders     | Pane
+| 1610H–1640H     | Tech for Good : Sustainable AgriFood Investment     | Panel    |
+| 1640H–1710H     | Food Tech and Nutrition    | Panel     |
+| 1710H–1740H     | What's next for blockchain? – 2025    | Panel     |
+| 1740H–1810H     | Blockchain Venture Capital – Investment Landscape     | Panel     |
+| 1810H–1840H     | The Latest Tech Innovations in Games     | Panel
