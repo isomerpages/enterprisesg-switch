@@ -31,6 +31,6 @@ Lorem ipsum.
 | 1600H–1630H     | Market Access: Netherlands   | Market Access     |
 | 1630H–1700H     | Market Access: Spain   | Market Access     |
 | 1700H–1730H     | Market Access: Poland   | Market Access     |
-| 1730H–1800H     | Expand to Asia   | Market Access     |
-| 1800H–1830H     | Expand to Asia   | Market Access     |
+| 1730H–1800H     | Expand to Asia   | Expand to Asia     |
+| 1800H–1830H     | Expand to Asia   | Expand to Asia     |
 | 1830H–1900H     | Closing   |      |
