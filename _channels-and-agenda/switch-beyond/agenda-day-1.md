@@ -25,10 +25,10 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 | 1210H–1240H     | Microgrids, Hydrogen, and the Future of Electric: Power Delivery      | Panel     |
 | 1240H–1300H     | Break     |     |
 |      | **Start of Deep Tech Summit**     |      |
-| 1300H–1330H     | Deep Tech in 2050     | Panel     |
+| 1300H–1330H     | Deep Tech in 2050     | Fireside Chat     |
 | 1330H–1400H     | Towards a Low-Carbon Future     | Panel     |
 | 1405H–1435H     | Open Innovation: Scaling Sustainable Development     | Panel     |
-| 1435H–1505H     | Green Hydrogen: Ready or Not?     | Panel     |
+| 1435H–1505H     | Green Hydrogen: A Possible Pathway to Net Zero     | Panel     |
 | 1510H–1540H     | The Circular Economy Marketplace     | Panel    |
 | 1540H–1610H     | Smart Futures with Deep Tech     | Panel     |
 |      | **End of Deep Tech Summit**     |      |
