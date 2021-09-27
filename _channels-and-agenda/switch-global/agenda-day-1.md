@@ -26,21 +26,11 @@ Lorem ipsum.
 | 1330H–1400H     | Market Access: India   | Market Access     |
 | 1400H–1430H     | Tech Up   | Masterclass     |
 | 1430H–1500H     | Tech Up   | Masterclass     |
-| 0000H–0000H     | Text   | Market Access     |
-| 0000H–0000H     | Text   | Market Access     |
-| 0000H–0000H     | Text   | Market Access     |
-| 0000H–0000H     | Text   | Market Access     |
-|      | **Start of Deep Tech Summit**     |      |
-| 1300H–1330H     | Next Ten Years of Industry 4.0    | Panel     |
-| 1330H–1400H     | 5G for Future Industries     | Panel     |
-| 1405–1435H     | The Global Quantum Race    | Panel     |
-| 1435H–1505H     | Chasing a Quantum Business Advantage    | Panel     |
-| 1505H–1535H     | Supporting Act: Eyes on Enabling Technologies     | Panel    |
-| 1535H–1605H     | Deep Tech for Good: From Principles to Practice     | Panel     |
-|      | **End of Deep Tech Summit**     |      |
-| 1615H–1645H     | SEA e-Conomy 2021     | Panel    |
-| 1645H–1700H     | Keynote    | Keynote     |
-| 1705H–1735H     | Nature Co-design    | Panel     |
-| 1735H–1805H     | Nature Co-design     | Panel     |
-| 1805H–1835H     | Nature Co-design     | Panel   |
-| 1840H–1900H     | Closing     |    |
+| 1500H–1530H     | Market Access: Russia   | Market Access     |
+| 1530H–1600H     | Market Access: The Nordics (Norway; Sweden; Finland; Iceland; Denmark)   | Market Access     |
+| 1600H–1630H     | Market Access: Netherlands   | Market Access     |
+| 1630H–1700H     | Market Access: Spain   | Market Access     |
+| 1700H–1730H     | Market Access: Poland   | Market Access     |
+| 1730H–1800H     | Expand to Asia   | Market Access     |
+| 1800H–1830H     | Expand to Asia   | Market Access     |
+| 1830H–1900H     | Closing   |      |
