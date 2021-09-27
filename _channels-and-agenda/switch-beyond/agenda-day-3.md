@@ -12,10 +12,11 @@ How will emerging technologies change the way we live, work and interact in the 
 
 ##### Agenda // Day 3 // 10 Nov 2021
 
+<sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
+
 | Time | Title | Format |
 | -------- | -------- | -------- |
-| 0900H–0910H     | Opening Announcements    |      |
-| 0910H–0930H     | Opening Keynote    | Keynote     |
+| 0900H–0930H     | Opening Address    |      |
 | 0930H–1000H     | Tech Predictions    | Fireside Chat     |
 | 1000H–1030H     | Future of Workforce     | Panel     |
 | 1035H–1105H     | Restructuring the Global Semi-Conductor Industry     | Panel    |
