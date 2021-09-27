@@ -6,9 +6,9 @@ third_nav_title: Switch Beyond
 #### SWITCH Beyond: Day 3 
 ##### Envisioning The Future
 
-How will emerging technologies change the way we live, work and interact in the next 30 years? What will be the next breakthroughs for humanity? Gaze into the future with us as we enter thought-provoking sessions on Space Tech, Future of Work, Nanotechnology and other emergent topics. 
+How will emerging technologies change the way we live, work and interact in the next 30 years? What will be the next breakthroughs for humanity? Gaze into the future with us as we enter thought-provoking sessions on *Future of Work, Semiconductors; SpaceTech; WaterTech; 5G; Quantum Technology; Nature Co-design Nanotechnology and other emergent topics.*
 
-<sub>Hosted by Enterprise Singapore; SGInnovate; Blockchain Accelerator; LEK Consulting; Tribe; etc...</sub>
+<sub>Hosted by Enterprise Singapore; SGInnovate; A*STAR; IEEE;  ImagineH2O; Google-Temasek-Bain; etc...</sub>
 
 ##### Agenda // Day 3 // 10 Nov 2021
 
