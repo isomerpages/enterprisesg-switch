@@ -24,8 +24,8 @@ Lorem ipsum.
 | 1230H–1300H     | Market Access: Philippines     | Market Access     |
 | 1300H–1330H     | Market Access: Vietnam    | Market Access     |
 | 1330H–1400H     | Market Access: India   | Market Access     |
-| 0000H–0000H     | Text   | Market Access     |
-| 0000H–0000H     | Text   | Market Access     |
+| 1400H–1430H     | Tech Up   | Masterclass     |
+| 1430H–1500H     | Tech Up   | Masterclass     |
 | 0000H–0000H     | Text   | Market Access     |
 | 0000H–0000H     | Text   | Market Access     |
 | 0000H–0000H     | Text   | Market Access     |
