@@ -33,7 +33,9 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 | 1510H–1540H     | The Circular Economy Marketplace     | Panel    |
 | 1540H–1610H     | Smart Futures with Deep Tech     | Panel     |
 |      | **End of Deep Tech Summit**     |      |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| 1615H–1630H     | Keynote Address     | Keynote     |
+| 1630H–1700H     | Tech for Sustainability     | Panel     |
+| 1700H–1730H     | Tech for Sustainability     | Panel     |
+| 1735H–1805H     | Future of Food      | Panel     |
+| 1805H–1835H     | Leveraging Technology and Innovation to Drive the Sustainability Agenda for Global Traders     | Panel     |
+| 1840–1900H     | Closing     |      |
