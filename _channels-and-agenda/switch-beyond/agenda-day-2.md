@@ -12,10 +12,11 @@ How can technology revolutionise our existing systems and progress society? Dive
 
 ##### Agenda // Day 2 // 9 Nov 2021
 
+<sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
+
 | Time | Title | Format |
 | -------- | -------- | -------- |
-| 0900H–0910H     | Opening Announcements    |      |
-| 0910H–0930H     | Opening Keynote    | Keynote     |
+| 0900H–0930H     | Opening Address    |      |
 | 0930H–1000H     | Plenary    |      |
 | 1000H–1030H     | Tech x Travel: The Future of Travel and Tourism     | Panel     |
 | 1035H–1105H     | Cybersecurity    | Panel    |
