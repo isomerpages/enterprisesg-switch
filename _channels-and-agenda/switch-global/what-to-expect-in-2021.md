@@ -1,8 +1,9 @@
 ---
 title: What to expect in 2021
-permalink: /highlights/switch-global/2021/what-to-expect
+permalink: /channels/switch-global-2021/what-to-expect
 third_nav_title: Switch Global
 ---
+
 ![Alt text for image on Isomer site](/images/Booths.jpg)
 # Global Gateway for Innovation and Collaboration
 SWITCH Global will allow attendees worldwide to tap on resources from the various local ecosystem builders around the world and build global connections through SWITCH.
