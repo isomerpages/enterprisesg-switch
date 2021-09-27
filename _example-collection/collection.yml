@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - example-page.md
+      - what-to-expect-in-2021.md
