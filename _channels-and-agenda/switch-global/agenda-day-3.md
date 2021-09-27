@@ -3,17 +3,16 @@ title: "Agenda Day: 3"
 permalink: /channels/switch-global-2021/agenda-day-3
 third_nav_title: Switch Global
 ---
-
 #### SWITCH Global: Day 3
-Explore opportunities in over 40 markets with international business experts at SWITCH Global's *Market Access Sessions*. Scale your ventures and products at our *Masterclass sessions.* Learn the intricacies of expanding and innovating in Asia at our *Expand to Asia Series.*
+Explore opportunities in over 40 markets with international business experts at SWITCH Global's *Market Access Sessions*. Scale your ventures and products at our *Tech Up Masterclasses.* Learn the intricacies of expanding and innovating in Asia at our *Expand to Asia Masterclasses*
 
 
 ##### Agenda // Day 3 // 10 Nov 2021
+<sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
 
 | Time | Title | Format |
 | -------- | -------- | -------- |
-| 0900H–0910H     | Opening Announcements   |      |
-| 09310H–0930H     | Opening Keynote    | Keynote     |
+| 0900H–0930H     | Opening Address   |      |
 | 0930H–1000H     | Market Access: Canada     | Panel     |
 | 1000H–1030H     | Market Access: BRIC     | Panel     |
 | 1030H–1100H     | Masterclass: Tech Up    | Masterclass    |
@@ -30,6 +29,6 @@ Explore opportunities in over 40 markets with international business experts at 
 | 1600H–1630H     | Market Access: Qatar   | Panel     |
 | 1630H–1700H     | Market Access: Portugal   | Panel     |
 | 1700H–1730H     | Market Access: Eurasia   | Panel     |
-| 1730H–1800H     | Expand to Asia   | Panel     |
-| 1800H–1830H     | Expand to Asia   | Panel     |
+| 1730H–1800H     | Masterclass: Expand to Asia   | Masterclass     |
+| 1800H–1830H     | Masterclass: Expand to Asia   | Masterclass     |
 | 1830H–1900H     | Closing   |      |
