@@ -6,11 +6,11 @@ third_nav_title: Switch Beyond
 #### SWITCH Beyond: Day 2
 ##### Impacting Lives
 
-How can technology revolutionise our existing systems and progress society? Dive into the ground-breaking innovations enhancing our everyday lives. Enter invigorating discussions on topics ranging from *BioTech; MedTech; Healthcare; AgriFood; Blockchain; Digital Economy; Entertainment*
+How can technology revolutionise our existing systems and progress society? Dive into the ground-breaking innovations enhancing our everyday lives. Enter invigorating discussions on topics ranging from *Travel Tech, Cybersecurity; BioTech; MedTech; Healthcare; AgriFood; Blockchain; Digital Economy; Entertainment*
 
 <sub>Hosted by Enterprise Singapore; SGInnovate; Blockchain Accelerator; LEK Consulting; Tribe; etc...</sub>
 
-##### Agenda
+##### Agenda // Day 2 // 9 Nov 2021
 
 | Time | Title | Format |
 | -------- | -------- | -------- |
