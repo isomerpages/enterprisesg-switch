@@ -6,9 +6,9 @@ third_nav_title: Switch Beyond
 #### SWITCH Beyond: Day 1
 ##### Transforming Industries
 
-How are companies disrupting the status quo to rebuild sustainably and meeting the planet’s evolving needs? Explore how technology can reshape industries beyond the new normal. Get exclusive insights on topics like Smart Cities, Circular Economy, Clean Energy, dozens more.
+How are companies disrupting the status quo to rebuild sustainably and meeting the planet’s evolving needs? Explore how technology can reshape industries beyond the new normal. Get exclusive insights on topics like *Smart Cities, Mobility, Clean Energy, Maritime, Sustainability, Circular Economy, etc...*
 
-<sub>Hosted by [SGInnovate](https://sginnovate.com/), [ENGIE Factory](https://apac.engiefactory.com/), IEEE, and more.</sub>
+<sub>Hosted by Enterprise Singapore; SGInnovate; Capitland; ENGIE Factory; IEEE; </sub>
 
 ##### Agenda
 
