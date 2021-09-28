@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /highlights/switch-global/2021/overview
+permalink: /channels/switch-global-2021/overview
 third_nav_title: Switch Global
 ---
+
 ![](/images/SWITCH%20Global%201.jpg)
 # About SWITCH Global
 SWITCH Global is a conference channel that congregates global business and market leaders to discuss and lead on global and local market trends, business strategy and expansion opportunities.

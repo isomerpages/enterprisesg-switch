@@ -1,8 +1,9 @@
 ---
 title: Competition Timeline
-permalink: /highlights/slingshot/2021/competition-timeline
+permalink: /channels/slingshot-2021/competition-timeline
 third_nav_title: Slingshot
 ---
+
 ![](/images/SLINGSHOT%203.jpg)
 
 # Application Phase

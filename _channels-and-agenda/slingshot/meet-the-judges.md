@@ -1,8 +1,9 @@
 ---
 title: Meet the judges
-permalink: /highlights/slingshot/2021/judges
+permalink: /channels/slingshot-2021/2021/judges
 third_nav_title: Slingshot
 ---
+
 # Meet the SLINGSHOT 2021 Judges
 ![SLINGSHOT 2021 Judges](/images/SLINGSHOT_2021-Social-Judges_1.jpg)
 
