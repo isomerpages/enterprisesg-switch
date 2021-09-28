@@ -8,7 +8,7 @@ third_nav_title: Switch Beyond
 
 How can technology revolutionise our existing systems and progress society? Dive into the ground-breaking innovations enhancing our everyday lives. Enter invigorating discussions on topics ranging from *Travel Tech, Cybersecurity; BioTech; MedTech; Healthcare; AgriFood; Blockchain; Digital Economy; Entertainment*
 
-<sub>Hosted by SWITCH, Enterprise Singapore; SGInnovate; Blockchain Accelerator, Tribe; LEK Consulting; etc...</sub>
+<sub>Hosted by SWITCH; Enterprise Singapore; SGInnovate; Blockchain Accelerator, Tribe; LEK Consulting; etc...</sub>
 
 ##### Agenda // Day 2 // 9 Nov 2021
 
