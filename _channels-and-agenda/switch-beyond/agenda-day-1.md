@@ -8,7 +8,7 @@ third_nav_title: Switch Beyond
 
 How are companies disrupting the status quo to rebuild sustainably and meeting the planet’s evolving needs? Explore how technology can reshape industries beyond the new normal. Get exclusive insights on topics like *Smart Cities, Mobility, Clean Energy, Maritime, Sustainability, Circular Economy, etc...*
 
-<sub>Hosted by SWITCH, Enterprise Singapore; SGInnovate; CapitaLand; ENGIE Factory; Institute of Electrical and Electronics Engineers (IEEE); </sub>
+<sub>Hosted by SWITCH; Enterprise Singapore; SGInnovate; CapitaLand; ENGIE Factory; Institute of Electrical and Electronics Engineers (IEEE); </sub>
 
 ##### Agenda // Day 1 // 8 Nov 2021
 
