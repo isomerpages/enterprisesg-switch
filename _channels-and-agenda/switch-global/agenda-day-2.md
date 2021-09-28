@@ -25,7 +25,7 @@ Explore opportunities in over 40 markets with international business experts at 
 | 1400H–1430H     | Masterclass: Tech Up   | Masterclass     |
 | 1430H–1500H     | Masterclass: Tech Up   | Masterclass     |
 | 1500H–1530H     | Market Access: Turkey   | Panel     |
-| 1530H–1600H     | Market Access: Sub-Sahra Africa   | Panel     |
+| 1530H–1600H     | Market Access: Sub-Saharan Africa   | Panel     |
 | 1600H–1630H     | Market Access: South Africa   | Panel     |
 | 1630H–1700H     | Market Access: Germany   | Panel     |
 | 1700H–1730H     | Market Access: UK   | Panel     |
