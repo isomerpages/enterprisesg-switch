@@ -20,13 +20,13 @@ sections:
           url: /example-resource/events-and-initiatives/
         - title: SWITCH Beyond
           description: Innovation & Technology Trends
-          url: /highlights/switch-beyond/2021/overview
+          url: /channels/switch-beyond-2021/overview
         - title: SWITCH Global
           description: Gateway to global markets
-          url: /highlights/switch-global/2021/overview
+          url: /channels/switch-global-2021/overview
         - title: SLINGSHOT
           description: Premier startup pitching event
-          url: /highlights/slingshot/2021/overview
+          url: /channels/slingshot-2021/overview
   - infopic:
       title: Sensor Data Quality in Smart Buildings
       subtitle: "Upcoming: 7 Oct 201"
@@ -60,7 +60,7 @@ sections:
       description: "Gain exclusive insights on cutting-edge innovations and growing
         trends that are transforming the world today. "
       button: Learn more
-      url: /highlights/switch-beyond/2021/overview
+      url: /channels/switch-beyond-2021/overview
       image: /images/SWITCH Connect 5.jpg
       alt: SWITCH Beyond
   - infopic:
@@ -70,19 +70,19 @@ sections:
         Market Access Sessions and Masterclasses tailored for business growth
         and internationalisation.
       button: Learn more
-      url: /highlights/switch-global/2021/overview
+      url: /channels/switch-global-2021/overview
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
   - infopic:
-      title: Startups Launch at SLINGSHOT!
+      title: Watch the Grand Finals at SWITCH!
       subtitle: SLINGSHOT 2021
-      description: " Join Asia’s most exciting deep tech startup pitching competition
-        and unlock access to global investors, startup resources and attractive
-        prizes!"
-      button: Apply today!
-      url: /highlights/slingshot/2021/overview
+      description: Cheer on and connect with promising deep tech startups with
+        innovative solutions and technologies, as well as unique business models
+        and high growth potential!
+      button: Learn more
+      url: /channels/slingshot-2021/overview
       image: /images/SLINGSHOT 2021.jpg
-      alt: Image alt text
+      alt: SLINGSHOT
   - resources:
       title: News and Happenings
       subtitle: Explore
