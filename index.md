@@ -4,16 +4,14 @@ title: Singapore Week of Innovation and Technology | SWITCH
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: 1-For-1 Promotion! Get your SWITCH Pass today and be part of a
-  year-long series of innovation-centric events and networking opportunities! <a
-  href="https://bit.ly/2Uv69uy" target="_blank">Buy SWITCH Pass</a>
+notification: ""
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
       subtitle: Asia's leading innovation and technology festival | 8–12 November 2021
       background: /images/SWITCH_2021_Hero_Banner_3e.jpg
       button: Buy SWITCH PASS
-      url: https://bit.ly/2Uv69uy
+      url: https://bit.ly/registerforswitch2021_web
       key_highlights:
         - title: Events & Initiatives
           description: Year-long Innovation Journey
@@ -40,11 +38,11 @@ sections:
   - infobar:
       title: Your gateway to global innovation in Asia
       subtitle: SWITCH Pass
-      description: The SWITCH Pass is your ticket to the SWITCH Platform where a
-        year-long innovation journey of networking opportunities and events
-        throughout 2021 await you.
-      button: Get "1-For-1" SWITCH Pass
-      url: https://bit.ly/2Uv69uy
+      description: Your SWITCH Pass is your passport to a global community of
+        innovators, the Flagship SWITCH Conference, and a year-long programme of
+        innovation-forward meetups.
+      button: Get your "SWITCH Pass" today!
+      url: https://bit.ly/registerforswitch2021_web
   - infopic:
       title: The Global Innovation Movement
       subtitle: Be part of
