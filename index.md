@@ -11,7 +11,7 @@ sections:
       subtitle: Asia's leading innovation and technology festival | 8–12 November 2021
       background: /images/SWITCH_2021_Hero_Banner_3e.jpg
       button: Buy SWITCH PASS
-      url: https://bit.ly/registerforswitch2021_web
+      url: https://bit.ly/switch2021reg_web
       key_highlights:
         - title: Events & Initiatives
           description: Year-long Innovation Journey
@@ -42,7 +42,7 @@ sections:
         innovators, the Flagship SWITCH Conference, and a year-long programme of
         innovation-forward meetups.
       button: Get your "SWITCH Pass" today!
-      url: https://bit.ly/registerforswitch2021_web
+      url: https://bit.ly/switch2021reg_web
   - infopic:
       title: The Global Innovation Movement
       subtitle: Be part of
