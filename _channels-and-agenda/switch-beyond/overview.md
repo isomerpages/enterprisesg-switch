@@ -7,7 +7,7 @@ third_nav_title: Switch Beyond
 # About SWITCH Beyond
 SWITCH Beyond is a conference channel that brings together global leaders and experts from diverse industries to must-attend conference sessions where discussions on groundbreaking and innovative ideas and technologies that are transforming the world today take place. 
 
-[Get your SWITCH Pass today!](https://bit.ly/registerforswitch2021_web)
+[Get your SWITCH Pass today!](https://bit.ly/switch2021reg_web)
 
 # Innovation Insights across key emerging sectors
 Stay ahead of the latest trends and developments in key sectors like Smart Cities & Urban Solutions, Healthcare & Biomedical Sciences, as well as Artificial Intelligence, Robotics & Deep Tech innovations.
