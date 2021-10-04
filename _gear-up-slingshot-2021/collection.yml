@@ -2,4 +2,5 @@ collections:
   gear-up-slingshot-2021:
     output: true
     order:
+      - programme/.keep
       - overview.md
