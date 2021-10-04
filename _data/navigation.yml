@@ -10,5 +10,7 @@ links:
     collection: talent
   - title: Blog
     url: /example-resource/blog/
+  - title: Newsletter
+    url: http://eepurl.com/hErQjX
   - title: GET TICKETS
     url: https://bit.ly/switch2021reg_web
