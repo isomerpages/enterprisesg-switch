@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - programme/.keep
+      - programme/full-agenda.md
       - programme/day-1.md
       - programme/day-2.md
       - programme/day-3.md
-      - programme/full-agenda.md
       - overview.md
