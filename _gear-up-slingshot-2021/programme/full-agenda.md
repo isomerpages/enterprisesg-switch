@@ -19,6 +19,6 @@ third_nav_title: Programme
 
 ##### More Links
 
-Learn more about Pitch Coaching Sessions. Click here.
+Learn more about Pitch Coaching Sessions. [Click here](/gear-up-slingshot-2021/pitch-coaching).
 
-Learn more about Mentor Clinics. Click here.
+Learn more about Mentor Clinics. [Click here](/gear-up-slingshot-2021/mentor-clinics).
