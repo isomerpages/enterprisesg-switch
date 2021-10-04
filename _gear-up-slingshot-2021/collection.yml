@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - programme/.keep
+      - programme/day-1.md
       - overview.md
