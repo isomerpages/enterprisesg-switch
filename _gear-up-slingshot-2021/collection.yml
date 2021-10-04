@@ -4,4 +4,5 @@ collections:
     order:
       - programme/.keep
       - programme/day-1.md
+      - programme/day-2.md
       - overview.md
