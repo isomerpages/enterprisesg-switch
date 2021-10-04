@@ -1,4 +1,5 @@
 collections:
   gear-up-slingshot-2021:
     output: true
-    order: []
+    order:
+      - overview.md
