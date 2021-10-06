@@ -38,9 +38,7 @@ In this session, the panel will discuss the evolution and challenges of sensors 
 
 Get your **SWITCH Pass** for access to the SWITCH Platform and to attend this webinar session!
 
-[Register here](https://bit.ly/2Uv69uy)
-
-<sub>(Exclusive 1-For-1 promotion for SWITCH Pass till 30 Sep 2021)</sub>
+[Register here](https://community.switchsg.org/register/?utm_source=switchsg.org&utm_medium=switchsg.org&utm_campaign=switch2021)
 
 #### Embark on a year-long calendar of events and community check-ins
 
