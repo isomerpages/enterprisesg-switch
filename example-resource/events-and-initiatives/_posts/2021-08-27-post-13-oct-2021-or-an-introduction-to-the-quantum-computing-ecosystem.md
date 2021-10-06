@@ -42,8 +42,6 @@ Get your **SWITCH Pass** for access to the SWITCH Platform and to attend this we
 
 [Register here](https://community.switchsg.org/register)
 
-<sub>(Exclusive 1-For-1 promotion for SWITCH Pass till 30 Sep 2021)</sub>
-
 #### Embark on a year-long calendar of events and community check-ins
 
 This session is part of SWITCH 2021’s year-long innovation journey where the Global and Asia innovation ecosystems meet to discuss and collaborate on the most innovative technology trends and business opportunities. Connect with an active community who care about innovation on the SWITCH platform for your partnership and investment needs.
