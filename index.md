@@ -26,6 +26,24 @@ sections:
           description: Premier startup pitching event
           url: /channels/slingshot-2021/overview
   - infopic:
+      title: She Loves Tech Conference
+      subtitle: "PARTNER EVENT: 12 Nov"
+      description: SWITCH is proud to partner with She Loves Tech to bring the annual
+        thought leaderswhip summit for women and technology to all attendees of
+        SWITCH this year!
+      button: Learn more
+      url: /she-loves-tech-2021
+      image: /images/SLT_Opt05_1200x900_R019.jpg
+      alt: She Loves Tech Conference
+  - infobar:
+      title: Your gateway to global innovation in Asia
+      subtitle: SWITCH Pass
+      description: Your SWITCH Pass is your passport to a global community of
+        innovators, the Flagship SWITCH Conference, and a year-long programme of
+        innovation-forward meetups.
+      button: Get your "SWITCH Pass" today!
+      url: https://bit.ly/switch2021reg_web
+  - infopic:
       title: Sensor Data Quality in Smart Buildings
       subtitle: "Upcoming: 7 Oct 201"
       description: Learn about the evolution and challenges of sensors in built
@@ -35,14 +53,6 @@ sections:
       url: /events/the-promise-of-deep-tech
       image: /images/SWITCH_webinars_SGInnovate_Sensor_Data_Quality_Event_Banner.jpg
       alt: Webinar Banner
-  - infobar:
-      title: Your gateway to global innovation in Asia
-      subtitle: SWITCH Pass
-      description: Your SWITCH Pass is your passport to a global community of
-        innovators, the Flagship SWITCH Conference, and a year-long programme of
-        innovation-forward meetups.
-      button: Get your "SWITCH Pass" today!
-      url: https://bit.ly/switch2021reg_web
   - infopic:
       title: The Global Innovation Movement
       subtitle: Be part of
