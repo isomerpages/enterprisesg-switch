@@ -4,6 +4,7 @@ permalink: /gear-up-slingshot-2021/programme/day-1
 third_nav_title: Programme
 ---
 #### Programme Schedule
+Gear Up will be conducted on the SWITCH Platform. Please [visit community.switchsg.org](https://community.switchsg.org/)
 
 ##### 19 October, Tuesday, Day 1: Pitching & Fundraising
 

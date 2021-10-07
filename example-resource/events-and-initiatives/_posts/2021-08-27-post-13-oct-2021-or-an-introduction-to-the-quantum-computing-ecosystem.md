@@ -8,13 +8,13 @@ layout: post
 #### Event details
 
 
-| **Title:** | The Promise of Deep Tech: Sensors Data Quality in Smart Buildings |
+| **Title:** | An Introduction to the Quantum Computing Ecosystem |
 | -------- | -------- |
 |**Date:** | Wednesday, 13 October 2021 
-| **Time:**    | 10:00am–12:00pm (Singapore Time / UTC +8) |
+| **Time:**    | 10:00am–11:00am (Singapore Time / UTC +8) |
 |**Venue:** | SWITCH Platform (Virtual)
-| **Register:** | [Click here](https://events.hubilo.com/switchsg/register) |
-|**Price:** | ~~USD50~~ **USD25 each** when purchased as a pair (1-For-1 Promotion ends 30 Sep 2021)
+| **Register:** | [Click here](https://community.switchsg.org/register/?utm_source=switchsg.org&utm_medium=switchsg.org&utm_campaign=switch2021) |
+|**Price:** | USD50 (Get your SWITCH Pass to access this webinar and other events in our year-long calendar!)
 
 #### About
 
@@ -40,9 +40,7 @@ Join us as our panellists share their unique insights into how emerging business
 
 Get your **SWITCH Pass** for access to the SWITCH Platform and to attend this webinar session!
 
-[Register here](https://bit.ly/2Uv69uy)
-
-<sub>(Exclusive 1-For-1 promotion for SWITCH Pass till 30 Sep 2021)</sub>
+[Register here](https://community.switchsg.org/register/?utm_source=switchsg.org&utm_medium=switchsg.org&utm_campaign=switch2021)
 
 #### Embark on a year-long calendar of events and community check-ins
 

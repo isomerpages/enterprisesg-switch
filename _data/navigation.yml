@@ -1,16 +1,31 @@
 logo: /images/SWITCH logo.png
 links:
-  - title: Channels And Agenda
-    collection: channels-and-agenda
-  - title: Events & Initiatives
-    url: /example-resource/events-and-initiatives
-  - title: About Us
-    collection: about-us
-  - title: Talent
+  - title: ABOUT US
+    url: /
+    sublinks:
+      - title: OVERVIEW
+        url: /about-us/switch-2021
+      - title: SWITCH 2020 IMPACT
+        url: /about-us/switch-2020
+  - title: CHANNELS AND AGENDA
+    url: /
+    sublinks:
+      - title: SWITCH Beyond (8–10 Nov)
+        url: /channels/switch-beyond-2021/overview
+      - title: SWITCH Global (8–10 Nov)
+        url: /channels/switch-global-2021/overview
+      - title: SLINGSHOT 2021
+        url: /channels/slingshot-2021/overview
+  - title: COMMUNITY
+    url: /
+    sublinks:
+      - title: EVENTS & INITIATIVES
+        url: /example-resource/events-and-initiatives/
+      - title: BLOG
+        url: /example-resource/blog/
+      - title: JOIN NEWSLETTER
+        url: http://eepurl.com/hErQjX
+  - title: TALENT
     collection: talent
-  - title: Blog
-    url: /example-resource/blog/
-  - title: Newsletter
-    url: http://eepurl.com/hErQjX
   - title: GET TICKETS
     url: https://bit.ly/switch2021reg_web
