@@ -5,6 +5,7 @@ third_nav_title: Switch Beyond
 ---
 ![Alt text for image on Isomer site](/images/SLT_Opt05_1200x900_R019.jpg)
 
+#### Day 5 // 12 Nov 2021
 ##### SHE LOVES TECH @ SWITCH
 
 The annual She Loves Tech Conference on 12 November 2021 will be held at SWITCH as part of our Day 5 programme. 
