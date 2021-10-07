@@ -11,16 +11,16 @@ links:
         url: /channels/switch-global-2021/overview
       - title: SLINGSHOT 2021
         url: /channels/slingshot-2021/overview
-  - title: Events & Initiatives
-    url: /example-resource/events-and-initiatives
-  - title: Talent
-    collection: talent
-  - title: Blog
-    url: /example-resource/blog/
-  - title: Newsletter
-    url: http://eepurl.com/hErQjX
-  - title: GET TICKETS
-    url: https://bit.ly/switch2021reg_web
   - title: Community
     url: /
-    sublinks: []
+    sublinks:
+      - title: EVENTS & INITIATIVES
+        url: /example-resource/events-and-initiatives/
+      - title: BLOG
+        url: /example-resource/blog/
+      - title: JOIN NEWSLETTER
+        url: http://eepurl.com/hErQjX
+  - title: Talent
+    collection: talent
+  - title: GET TICKETS
+    url: https://bit.ly/switch2021reg_web
