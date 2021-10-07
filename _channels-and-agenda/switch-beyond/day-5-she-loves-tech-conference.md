@@ -1,8 +1,9 @@
 ---
 title: "Day 5: She Loves Tech Conference"
-permalink: /channels/switch-beyond-2021/day5-she-loves-tech
+permalink: /channels/switch-beyond-2021/day-5-she-loves-tech
 third_nav_title: Switch Beyond
 ---
+
 
 ![Alt text for image on Isomer site](/images/SLT_Opt05_1200x900_R019.jpg)
 
