@@ -37,9 +37,6 @@ World’s most valuable online education company
 Founder, NIO
 The Elon Musk of China
 
-**Jacqueline Poh**
-Deputy Secretary at Prime Minister’s Office, Singapore
-
 **Sundaa Bridgett-Jones**
 Managing Director of Policy and Coalitions at The Rockefeller Foundation
 
