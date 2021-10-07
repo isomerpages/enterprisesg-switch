@@ -16,7 +16,7 @@ Gear Up will be conducted on the SWITCH Platform. Please [visit community.switch
 
 ##### 21 October, Thursday, Day 3: Internationalisation
 
-![Alt text for image on Isomer site](/images/SLINGSHOT_011021_GUP_Prog_Day_3_v1.png)
+![Alt text for image on Isomer site](/images/SLINGSHOT_051021_GUP_Prog_Day%203_Oct21_v2.png)
 
 ##### More Links
 
