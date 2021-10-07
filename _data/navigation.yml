@@ -14,3 +14,12 @@ links:
     url: http://eepurl.com/hErQjX
   - title: GET TICKETS
     url: https://bit.ly/switch2021reg_web
+  - title: Channels and Agenda
+    url: /
+    sublinks:
+      - title: SWITCH Beyond (8–10 Nov)
+        url: /channels/switch-beyond-2021/overview
+      - title: SWITCH Global (8–10 Nov)
+        url: /channels/switch-global-2021/overview
+      - title: SLINGSHOT 2021
+        url: /channels/slingshot-2021/overview
