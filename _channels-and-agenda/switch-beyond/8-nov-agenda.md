@@ -1,8 +1,9 @@
 ---
-title: "Agenda: Day 1"
+title: "8 Nov: Agenda"
 permalink: /channels/switch-beyond/agenda-day-1
 third_nav_title: Switch Beyond
 ---
+
 #### SWITCH Beyond: Day 1
 ##### Transforming Industries
 

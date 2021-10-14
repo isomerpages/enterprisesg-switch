@@ -25,16 +25,6 @@ sections:
         - title: SLINGSHOT
           description: Premier startup pitching event
           url: /channels/slingshot-2021/overview
-  - infopic:
-      title: Sensor Data Quality in Smart Buildings
-      subtitle: "Upcoming: 7 Oct 201"
-      description: Learn about the evolution and challenges of sensors in built
-        environments. Join our panelists as they discuss how to improve data
-        quality in this vertical.
-      button: Learn More
-      url: /events/the-promise-of-deep-tech
-      image: /images/SWITCH_webinars_SGInnovate_Sensor_Data_Quality_Event_Banner.jpg
-      alt: Webinar Banner
   - infobar:
       title: Your gateway to global innovation in Asia
       subtitle: SWITCH Pass

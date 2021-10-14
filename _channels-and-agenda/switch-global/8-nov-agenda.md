@@ -1,5 +1,5 @@
 ---
-title: "Agenda: Day 1"
+title: "8 Nov: Agenda"
 permalink: /channels/switch-global-2021/agenda-day-1
 third_nav_title: Switch Global
 ---
@@ -25,10 +25,10 @@ Explore opportunities in over 40 markets with international business experts at 
 | 1400H–1430H     | Masterclass: Tech Up   | Masterclass     |
 | 1430H–1500H     | Masterclass: Tech Up   | Masterclass     |
 | 1500H–1530H     | Market Access: Russia   | Panel     |
-| 1530H–1600H     | Market Access: Poland   | Panel     |
+| 1530H–1600H     | Market Access: The Nordics (Norway; Sweden; Finland; Iceland; Denmark)    | Panel     |
 | 1600H–1630H     | Market Access: Netherlands   | Panel     |
 | 1630H–1700H     | Market Access: Spain   | Panel     |
-| 1700H–1730H     | Market Access: The Nordics (Norway; Sweden; Finland; Iceland; Denmark)   | Panel     |
+| 1700H–1730H     | Market Access: Poland   | Panel     |
 | 1730H–1800H     | Masterclass: Expand to Asia   | Masterclass     |
 | 1800H–1830H     | Masterclass: Expand to Asia   | Masterclass     |
 | 1830H–1900H     | Closing   |      |

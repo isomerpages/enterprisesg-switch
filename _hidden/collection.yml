@@ -1,0 +1,5 @@
+collections:
+  hidden:
+    output: true
+    order:
+      - test-agenda.md

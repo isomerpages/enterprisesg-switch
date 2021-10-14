@@ -1,5 +1,5 @@
 ---
-title: SHE LOVES TECH CONFERENCE
+title: "DAY 5 Partner Event: SHE LOVES TECH CONFERENCE (12 Nov)"
 permalink: /she-loves-tech-2021
 ---
 ![Alt text for image on Isomer site](/images/SLT_Opt05_1200x900_R019.jpg)

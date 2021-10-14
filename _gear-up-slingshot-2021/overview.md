@@ -7,7 +7,7 @@ This is an exclusive opportunity for the TOP 100 Global Startups of SLINGSHOT 20
 ![Alt text for image on Isomer site](/images/SLINGSHOT_011021_GUP_Overview_v1.png)
 
 #### Corporate Content Partners
-![Alt text for image on Isomer site](/images/SLINGSHOT_011021_GUP_Overview_Corporates_v1.png)
+![Alt text for image on Isomer site](/images/SLINGSHOT_121021_GUP%20Corporate%20Logos_Oct21_v2_20211012.png)
 
 #### Event platform
 Gear Up will be conducted on the SWITCH Platform. Please [visit community.switchsg.org](https://community.switchsg.org)
