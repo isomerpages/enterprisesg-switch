@@ -8,4 +8,4 @@ Gear Up will be conducted on the SWITCH Platform. Please [visit community.switch
 
 ##### 20 October, Wednesday, Day 2: Branding & Growth
 
-![Alt text for image on Isomer site](/images/SLINGSHOT_011021_GUP_Prog_Day_2_v1.png)
+![Alt text for image on Isomer site](/images/SLINGSHOT_131021_GUP_Prog_Day_2_Oct21_v2_20211013.png)
