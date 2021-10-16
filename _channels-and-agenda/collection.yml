@@ -4,7 +4,7 @@ collections:
     order:
       - switch-beyond/.keep
       - switch-beyond/overview.md
-      - switch-beyond/8-nov-agenda.md
+      - "switch-beyond/Day 1 Agenda: SWITCH Beyond (8 Nov).md"
       - switch-beyond/9-nov-agenda.md
       - switch-beyond/10-nov-agenda.md
       - switch-global/.keep
