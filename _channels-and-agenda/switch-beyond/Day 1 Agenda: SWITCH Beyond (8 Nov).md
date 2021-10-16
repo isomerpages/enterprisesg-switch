@@ -3,7 +3,6 @@ title: "Day 1 Agenda: SWITCH Beyond (8 Nov)"
 permalink: /channels/switch-beyond/agenda-day-1
 third_nav_title: Switch Beyond
 ---
-#### SWITCH Beyond: Day 1
 ##### Transforming Industries
 
 How are companies disrupting the status quo to rebuild sustainably and meeting the planet’s evolving needs? Explore how technology can reshape industries beyond the new normal. Get exclusive insights on topics like *Smart Cities, Mobility, Clean Energy, Maritime, Sustainability, Circular Economy, etc...*
@@ -34,6 +33,9 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 |      | **End of Deep Tech Summit**     |      |
 | 1615H–1630H     | Keynote Address     | Keynote     |
 | 1630H–1730H     | Tech for Sustainability     | Panel     |
-| 1735H–1805H     | Future of Food      | Panel     |
+| 1735H–1805H     | The Growing Urban Food Ecosystem: Turning Old Limitations Into New Strengths _(Hosted by EDB x Deloitte)_      | Panel     |
 | 1805H–1835H     | Leveraging Technology and Innovation to Drive the Sustainability Agenda for Global Traders     | Panel     |
 | 1840–1900H     | Closing     |      |
+
+##### Highlight Speakers
+![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Beyond_Day1_Highlights_v1.png)
