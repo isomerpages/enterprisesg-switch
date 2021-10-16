@@ -3,9 +3,6 @@ title: "Day 2 Agenda: SWITCH Beyond (9 Nov)"
 permalink: /channels/switch-beyond/agenda-day-2
 third_nav_title: Switch Beyond
 ---
-
-
-#### SWITCH Beyond: Day 2
 ##### Impacting Lives
 
 How can technology revolutionise our existing systems and progress society? Dive into the ground-breaking innovations enhancing our everyday lives. Enter invigorating discussions on topics ranging from *Travel Tech, Cybersecurity; BioTech; MedTech; Healthcare; AgriFood; Blockchain; Digital Economy; Entertainment*
@@ -40,3 +37,6 @@ How can technology revolutionise our existing systems and progress society? Dive
 | 1740H–1810H     | Blockchain Venture Capital – Investment Landscape     | Panel     |
 | 1810H–1840H     | The Latest Tech Innovations in Games     | Panel   |
 | 1845H–1900H     | Closing     |    |
+
+##### Highlight Speakers
+![Alt text for image on Isomer site](/images/SWITCH_2021_Speakers_Beyond_Day2_Highlights_v1.png)
