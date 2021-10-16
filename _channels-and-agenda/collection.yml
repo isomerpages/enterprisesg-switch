@@ -2,7 +2,6 @@ collections:
   channels-and-agenda:
     output: true
     order:
-      - "Day 5 Partner Event: SHE LOVES TECH CONFERENCE (12 Nov).md"
       - switch-beyond/.keep
       - switch-beyond/overview.md
       - "switch-beyond/Day 1 Agenda: SWITCH Beyond (8 Nov).md"
@@ -18,3 +17,4 @@ collections:
       - slingshot/competition-timeline.md
       - slingshot/disrupt-and-gear-up.md
       - slingshot/meet-the-judges.md
+      - "Day 5 Partner Event: SHE LOVES TECH CONFERENCE (12 Nov).md"
