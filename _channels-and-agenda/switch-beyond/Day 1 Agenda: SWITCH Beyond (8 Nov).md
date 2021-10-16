@@ -3,8 +3,6 @@ title: "Day 1 Agenda: SWITCH Beyond (8 Nov)"
 permalink: /channels/switch-beyond/agenda-day-1
 third_nav_title: Switch Beyond
 ---
-
-
 #### SWITCH Beyond: Day 1
 ##### Transforming Industries
 
@@ -27,12 +25,12 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 | 1210H–1240H     | Microgrids, Hydrogen, and the Future of Electric: Power Delivery      | Panel     |
 | 1240H–1300H     | Break     |     |
 |      | **Start of Deep Tech Summit**     |      |
-| 1300H–1330H     | Deep Tech in 2050     | Fireside Chat     |
-| 1330H–1400H     | Towards a Low-Carbon Future     | Panel     |
-| 1405H–1435H     | Open Innovation: Scaling Sustainable Development     | Panel     |
-| 1435H–1505H     | Green Hydrogen: A Possible Pathway to Net Zero     | Panel     |
-| 1510H–1540H     | The Circular Economy Marketplace     | Panel    |
-| 1540H–1610H     | Smart Futures with Deep Tech     | Panel     |
+| 1300H–1330H     | Deep Tech in 2050  _(Hosted by SGInnovate)_   | Fireside Chat     |
+| 1330H–1400H     | Towards a Low-Carbon Future  _(Hosted by SGInnovate)_   | Panel     |
+| 1405H–1435H     | Open Innovation: Scaling Sustainable Development  _(Hosted by SGInnovate)_    | Panel     |
+| 1435H–1505H     | Green Hydrogen: A Possible Pathway to Net Zero _(Hosted by SGInnovate)_    | Panel     |
+| 1510H–1540H     | The Circular Economy Marketplace _(Hosted by SGInnovate)_    | Panel    |
+| 1540H–1610H     | Smart Futures with Deep Tech _(Hosted by SGInnovate)_    | Panel     |
 |      | **End of Deep Tech Summit**     |      |
 | 1615H–1630H     | Keynote Address     | Keynote     |
 | 1630H–1730H     | Tech for Sustainability     | Panel     |
