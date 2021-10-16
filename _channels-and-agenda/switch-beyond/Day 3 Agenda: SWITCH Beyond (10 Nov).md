@@ -23,13 +23,13 @@ How will emerging technologies change the way we live, work and interact in the 
 | 1140H–1210H     | The Sky's the Limit: Where SpaceTech meets WaterTech in an Era of Climate Disruption **_(Hosted by ImagineH2O)_**       | Panel     |
 | 1210H–1240H     | Biomanufacturing 4.0: How Close Are We And What Are The Challenges Ahead? **_(Hosted by A*STAR)_**     | Panel     |
 | 1240H–1300H     | Break     |     |
-|      | **Start of Deep Tech Summit**     |      |
-| 1300H–1330H     | Next Ten Years of Industry 4.0 **_(Hosted by SGInnovate)_**    | Panel     |
-| 1330H–1400H     | 5G for Future Industries **_(Hosted by SGInnovate)_**     | Panel     |
-| 1405–1435H     | The Global Quantum Race **_(Hosted by SGInnovate)_**    | Panel     |
-| 1435H–1505H     | Chasing a Quantum Business Advantage **_(Hosted by SGInnovate)_**    | Panel     |
-| 1505H–1535H     | Supporting Act: Eyes on Enabling Technologies **_(Hosted by SGInnovate)_**     | Panel    |
-| 1535H–1605H     | Deep Tech for Good: From Principles to Practice **_(Hosted by SGInnovate)_**     | Panel     |
+|      | **Start of Deep Tech Summit** **_(Hosted by SGInnovate)_**     |      |
+| 1300H–1330H     | Next Ten Years of Industry 4.0     | Panel     |
+| 1330H–1400H     | 5G for Future Industries     | Panel     |
+| 1405–1435H     | The Global Quantum Race   | Panel     |
+| 1435H–1505H     | Chasing a Quantum Business Advantage    | Panel     |
+| 1505H–1535H     | Supporting Act: Eyes on Enabling Technologies    | Panel    |
+| 1535H–1605H     | Deep Tech for Good: From Principles to Practice     | Panel     |
 |      | **End of Deep Tech Summit**     |      |
 | 1615H–1645H     | SEA e-Conomy 2021 **_(Hosted by Google-Bain-Temasek)_**     | Panel    |
 | 1645H–1700H     | Keynote    | Keynote     |
