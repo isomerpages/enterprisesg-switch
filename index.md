@@ -25,6 +25,16 @@ sections:
         - title: SLINGSHOT
           description: Premier startup pitching event
           url: /channels/slingshot-2021/overview
+  - infopic:
+      title: SHE LOVES TECH Conference
+      subtitle: "PARTNER EVENT: 12 Nov"
+      description: SWITCH is proud to partner with She Loves Tech to bring the annual
+        thought leaderswhip summit for women and technology to all attendees of
+        SWITCH this year!
+      button: Learn more
+      url: /she-loves-tech-2021
+      image: /images/SLT_Opt05_1200x900_R019.jpg
+      alt: She Loves Tech Conference
   - infobar:
       title: Your gateway to global innovation in Asia
       subtitle: SWITCH Pass
