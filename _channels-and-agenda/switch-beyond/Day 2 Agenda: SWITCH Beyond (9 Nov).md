@@ -9,7 +9,7 @@ How can technology revolutionise our existing systems and progress society? Dive
 
 <sub>Hosted by SWITCH; Enterprise Singapore; SGInnovate; Blockchain Accelerator, Tribe; LEK Consulting; etc...</sub>
 
-##### Agenda // Day 2 // 9 Nov 2021
+##### SWITCH Beyond Agenda - Day 2 // 9 Nov 2021
 
 <sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
 
