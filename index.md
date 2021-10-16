@@ -25,6 +25,26 @@ sections:
         - title: SLINGSHOT
           description: Premier startup pitching event
           url: /channels/slingshot-2021/overview
+  - infopic:
+      title: "Meet the speakers at SWITCH Beyond "
+      subtitle: SWITCH BEYOND
+      description: Connect with over 300 international speakers from vanguard and
+        emergent industries and research institutes at the SWITCH Beyond
+        conference channel.
+      button: Learn more
+      url: /channels/switch-beyond-2021/overview
+      image: /images/SWITCH Connect 5.jpg
+      alt: SWITCH Beyond
+  - infopic:
+      title: SHE LOVES TECH Conference
+      subtitle: "PARTNER EVENT: 12 Nov"
+      description: SWITCH is proud to partner with She Loves Tech to bring the annual
+        thought leaderswhip summit for women and technology to all attendees of
+        SWITCH this year!
+      button: Learn more
+      url: /she-loves-tech-2021
+      image: /images/SLT_Opt05_1200x900_R019.jpg
+      alt: She Loves Tech Conference
   - infobar:
       title: Your gateway to global innovation in Asia
       subtitle: SWITCH Pass
@@ -33,24 +53,6 @@ sections:
         innovation-forward meetups.
       button: Get your "SWITCH Pass" today!
       url: https://bit.ly/switch2021reg_web
-  - infopic:
-      title: The Global Innovation Movement
-      subtitle: Be part of
-      description: SWITCH brings together leaders, entrepreneurs, creators,
-        accelerators and investors from the Global-Asia innovation ecosystem.
-      button: Learn more
-      url: /about-us/switch-2021
-      image: /images/SWITCH_Main.jpg
-      alt: SWITCH Connects you globally
-  - infopic:
-      title: Where the brightest gather
-      subtitle: SWITCH BEYOND
-      description: "Gain exclusive insights on cutting-edge innovations and growing
-        trends that are transforming the world today. "
-      button: Learn more
-      url: /channels/switch-beyond-2021/overview
-      image: /images/SWITCH Connect 5.jpg
-      alt: SWITCH Beyond
   - infopic:
       title: Market access and opportunity
       subtitle: SWITCH Global
@@ -75,4 +77,13 @@ sections:
       title: News and Happenings
       subtitle: Explore
       button: See all
+  - infopic:
+      title: The Global Innovation Movement
+      subtitle: Be part of
+      description: SWITCH brings together leaders, entrepreneurs, creators,
+        accelerators and investors from the Global-Asia innovation ecosystem.
+      button: Learn more
+      url: /about-us/switch-2021
+      image: /images/SWITCH_Main.jpg
+      alt: SWITCH Connects you globally
 ---

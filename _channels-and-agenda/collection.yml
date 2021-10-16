@@ -4,16 +4,17 @@ collections:
     order:
       - switch-beyond/.keep
       - switch-beyond/overview.md
-      - switch-beyond/8-nov-agenda.md
-      - switch-beyond/9-nov-agenda.md
-      - switch-beyond/10-nov-agenda.md
+      - "switch-beyond/Day 1 Agenda: SWITCH Beyond (8 Nov).md"
+      - "switch-beyond/Day 2 Agenda: SWITCH Beyond (9 Nov).md"
+      - "switch-beyond/Day 3 Agenda: SWITCH Beyond (10 Nov).md"
       - switch-global/.keep
       - switch-global/overview.md
-      - switch-global/8-nov-agenda.md
-      - switch-global/9-nov-agenda.md
-      - switch-global/10-nov-agenda.md
+      - "switch-global/Day 1 Agenda: SWITCH Global (8 Nov).md"
+      - "switch-global/Day 2 Agenda: SWITCH Global (9 Nov).md"
+      - "switch-global/Day 3 Agenda: SWITCH Global (10 Nov).md"
       - slingshot/.keep
       - slingshot/overview.md
       - slingshot/competition-timeline.md
       - slingshot/disrupt-and-gear-up.md
       - slingshot/meet-the-judges.md
+      - "Day 5 Partner Event: SHE LOVES TECH CONFERENCE (12 Nov).md"
