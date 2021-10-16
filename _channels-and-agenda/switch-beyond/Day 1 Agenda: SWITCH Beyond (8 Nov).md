@@ -17,7 +17,7 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 | Time | Title | Format |
 | -------- | -------- | -------- |
 | 0845H–0930H     | Opening Address     | Keynote     |
-| 0930H–1000H     | The Future of Electric Vehicles     | Panel     |
+| 0930H–1000H     | The Future of Electric Vehicles  _(Hosted by IEEE)_    | Panel     |
 | 1000H–1030H     | Fully Autonomous Vehicles (AVs). How Close Are We To That Reality?     | Panel     |
 | 1035H–1105H     | Future of Maritime Shipping     | Panel    |
 | 1105H–1135H     | Smart Cities In Action: Enhancing Sustainable Living Through Innovative Infrastructure     | Panel   |
@@ -29,8 +29,8 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 | 1330H–1400H     | Towards a Low-Carbon Future  _(Hosted by SGInnovate)_   | Panel     |
 | 1405H–1435H     | Open Innovation: Scaling Sustainable Development  _(Hosted by SGInnovate)_    | Panel     |
 | 1435H–1505H     | Green Hydrogen: A Possible Pathway to Net Zero _(Hosted by SGInnovate)_    | Panel     |
-| 1510H–1540H     | The Circular Economy Marketplace _(Hosted by SGInnovate)_    | Panel    |
-| 1540H–1610H     | Smart Futures with Deep Tech _(Hosted by SGInnovate)_    | Panel     |
+| 1510H–1540H     | The Circular Economy Marketplace  _(Hosted by SGInnovate)_    | Panel    |
+| 1540H–1610H     | Smart Futures with Deep Tech  _(Hosted by SGInnovate)_    | Panel     |
 |      | **End of Deep Tech Summit**     |      |
 | 1615H–1630H     | Keynote Address     | Keynote     |
 | 1630H–1730H     | Tech for Sustainability     | Panel     |
