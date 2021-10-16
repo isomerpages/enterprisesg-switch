@@ -17,12 +17,12 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 | Time | Title | Format |
 | -------- | -------- | -------- |
 | 0845H–0930H     | Opening Address     | Keynote     |
-| 0930H–1000H     | The Future of Electric Vehicles  _(Hosted by IEEE)_    | Panel     |
+| 0930H–1000H     | The Future of Electric Vehicles     | Panel     |
 | 1000H–1030H     | Fully Autonomous Vehicles (AVs). How Close Are We To That Reality?     | Panel     |
-| 1035H–1105H     | Future of Maritime Shipping     | Panel    |
-| 1105H–1135H     | Smart Cities In Action: Enhancing Sustainable Living Through Innovative Infrastructure     | Panel   |
-| 1140H–1210H     | Renewable Energy: Why We Don't Need More Science To Solve Climate Change–How Business Models Are Key Enablers In Sustainability      | Panel     |
-| 1210H–1240H     | Microgrids, Hydrogen, and the Future of Electric: Power Delivery      | Panel     |
+| 1035H–1105H     | Future of Maritime Shipping _(Hosted by IEEE)_     | Panel    |
+| 1105H–1135H     | Smart Cities In Action: Enhancing Sustainable Living Through Innovative Infrastructure _(Hosted by CapitaLand)_     | Panel   |
+| 1140H–1210H     | Renewable Energy: Why We Don't Need More Science To Solve Climate Change–How Business Models Are Key Enablers In Sustainability _(Hosted by ENGIE Factory)_      | Panel     |
+| 1210H–1240H     | Microgrids, Hydrogen, and the Future of Electric: Power Delivery _(Hosted by IEEE)_      | Panel     |
 | 1240H–1300H     | Break     |     |
 |      | **Start of Deep Tech Summit**     |      |
 | 1300H–1330H     | Deep Tech in 2050  _(Hosted by SGInnovate)_   | Fireside Chat     |
