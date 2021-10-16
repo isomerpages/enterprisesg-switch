@@ -3,13 +3,11 @@ title: "Day 3 Agenda: SWITCH Global (10 Nov)"
 permalink: /channels/switch-global-2021/agenda-day-3
 third_nav_title: Switch Global
 ---
-
-
 #### SWITCH Global: Day 3
 Explore opportunities in over 40 markets with international business experts at SWITCH Global's *Market Access Sessions*. Scale your ventures and products at our *Tech Up Masterclasses.* Learn the intricacies of expanding and innovating in Asia at our *Expand to Asia Masterclasses*
 
 
-##### Agenda // Day 3 // 10 Nov 2021
+##### SWITCH Global Agenda - Day 3 // 10 Nov 2021
 <sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
 
 | Time | Title | Format |
