@@ -10,12 +10,24 @@ permalink: /partner-events-2021
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ##### Details
-| **Date** | Thursday, 11 November 2021 |
+
+| **Title** | CultureTech |
 | -------- | -------- |
-| **Time**     | 12:00pm–02:00pm    |
+| **Date** | Thursday, 11 November 2021 |
+| **Time**     | 12:00pm–02:00pm    
 | **Venue**    | [SWITCH Platform (Virtual)](https://community.switchsg.org)     |
 | **Register**     | [Click here](https://bit.ly/switch2021reg_web)    |
 | **Price**     | USD$50.00 *(Get your SWITCH Pass to access this event and all the other events in flagship conference and year-long programming!)*    |
+
+E.g.
+
+| **Title:** | An Introduction to the Quantum Computing Ecosystem |
+| -------- | -------- |
+|**Date:** | Wednesday, 13 October 2021 
+| **Time:**    | 10:00am–11:00am (Singapore Time / UTC +8) |
+|**Venue:** | SWITCH Platform (Virtual)
+| **Register:** | [Click here](https://community.switchsg.org/register/?utm_source=switchsg.org&utm_medium=switchsg.org&utm_campaign=switch2021) |
+|**Price:** | USD50 (Get your SWITCH Pass to access this webinar and other events in our year-long calendar!)
 
 
 
@@ -27,9 +39,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ##### Details
-| **Date** | Thursday, 11 November 2021 |
+
+| **Title** | CultureTech |
 | -------- | -------- |
-| **Time**     | 12:00pm–02:00pm    |
+| **Date** | Thursday, 11 November 2021 |
+| **Time**     | 12:00pm–02:00pm    
 | **Venue**    | [SWITCH Platform (Virtual)](https://community.switchsg.org)     |
 | **Register**     | [Click here](https://bit.ly/switch2021reg_web)    |
 | **Price**     | USD$50.00 *(Get your SWITCH Pass to access this event and all the other events in flagship conference and year-long programming!)*    |
