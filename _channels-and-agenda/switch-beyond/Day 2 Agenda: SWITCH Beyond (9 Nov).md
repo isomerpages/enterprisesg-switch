@@ -43,4 +43,4 @@ How can technology revolutionise our existing systems and progress society? Dive
 | 1900H–1915H     | Closing     |    |
 
 ##### Highlight Speakers
-![Alt text for image on Isomer site](/images/SWITCH_2021_Speakers_Beyond_Day2_Highlights_v1.png)
+![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Beyond_Day2_Highlights_v2.png)
