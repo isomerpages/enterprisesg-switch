@@ -15,7 +15,7 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 
 | Time | Title | Format |
 | -------- | -------- | -------- |
-| 0745H–0815H     | Opening Address by Mr Heng Swee Keat, Deputy Prime Minister and Coordinating Minister for Economic Policies    | Keynote     |
+| 0745H–0815H     | Opening Address by Heng Swee Keat, Deputy Prime Minister and Coordinating Minister for Economic Policies    | Keynote     |
 | 0815H–0830H     | Cargil Keynote      | Keynote     |
 | 0830H–0900H     | TBC      | Panel    |
 | 0900H–0930H     | Where Districts Come Alive: Use of Data and Deep Tech to Drive Change **_(Hosted by JTC Corporation)_**    | Panel     |
