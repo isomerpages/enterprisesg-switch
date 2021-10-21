@@ -21,92 +21,93 @@ Shortlisted startups will be given the opportunity to develop corporate partners
 #### SLINGSHOT 2021 Top 100
 Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Finals that will be held at SWITCH from 8–10 November 2021.
 
-* Fountain9, Inc.
-* Typewise
-* Augmented Human Technologies Pte Ltd
-* Hashstacs Pte Ltd
-* Protos Labs
-* IPification
-* Tide Foundation
-* HK Decoman Technology Ltd
-* B Data Solutions Inc.
-* CYFIRMA
-* VisualCamp
+* 3Bee
+* Adiuvo Diagnostics Pvt Ltd
+* Advanced Robotics Corp.
 * Aeroport AI
+* AETA
 * AlgoDriven
+* AlgoDx AB
+* Alterpacks
+* Amy.app
+* Augmented Human Technologies Pte Ltd
+* AVA Information Systems GmbH
+* Azooka labs 
+* B Data Solutions Inc.
+* BackyardCreators
+* Biovitae
+* BRAINGRADE INC
+* BRIO MRS
+* Cell4D Pte Ltd
+* CleanHeights Robotics Pte Ltd
+* "ClearLeaf
+* CMCL Innovations
+* Cogniable
+* Cosm Medical
+* CYFIRMA
+* Datakrew
+* Decomer Technology
+* DeepCare
+* Eden Agritech Co., Ltd.
+* EIKO TECHNO
+* FathomX 
+* Forte Biotech Pte Ltd
+* Fountain9, Inc.
+* GoodWAN
+* Hashstacs Pte Ltd
+* Hexadrive Engineering
+* HK Decoman Technology Ltd
+* Hubly Surgical
+* Hydrumedical
+* Infoseed
+* InnovaFeed
+* IPification
+* IXON
+* JEFF
+* Kraftblock GmbH
+* Lifetrack Medical Systems
+* LitmusEye Labs Private Limited
+* Lucent BioSciences Inc.
+* Matisoft Cyber Security Labs
+* Mediktor
+* MicroQuin
+* NetObjex
+* Nextar Chempharma Solutions 
+* Niral Networks
+* Nutrenno
+* "Predictiv
+* Protos Labs
+* Qidni Labs Inc.
+* Quantum-South
+* Quantumcyte Inc.
+* Qure.ai
+* Radiobotics
+* RetinaRisk 
+* RoadMetrics
+* RoPlus Pte Ltd
+* Senior Deli
+* Serket B.V.
+* SoMin.ai | AI Marketing
+* SOURCE Global PBC
+* STYLUMIA
+* SunGreenH2
+* Takachar
+* TechNovator-UK Ltd.
+* Throne Biotechnologies
+* Tide Foundation
 * Touchless ID
 * TransSiP Inc.
-* AVA Information Systems GmbH
-* VRJAM
-* Hydrumedical
-* Throne Biotechnologies
-* Qure.ai
-* Qidni Labs Inc.
-* Zeta Surgical
-* Lifetrack Medical Systems
-* MicroQuin
-* Hubly Surgical
-* Adiuvo Diagnostics Pvt Ltd
-* Cosm Medical
-* FathomX 
-* Biovitae
-* AlgoDx AB
-* X-ZELL
-* Serket B.V.
-* BackyardCreators
-* viAct
-* Hexadrive Engineering
-* Datakrew
-* RoPlus Pte Ltd
-* EIKO TECHNO
-* Vixsystem - Soluções em Tecnologia da Informação
-* RoadMetrics
-* CMCL Innovations
-* BRIO MRS
-* Valkyrie Industries Ltd
-* Niral Networks
-* Infoseed
-* CleanHeights Robotics Pte Ltd
-* GoodWAN
-* Quantum-South
-* Eden Agritech Co., Ltd.
-* Forte Biotech Pte Ltd
+* Typewise
 * Umami Meats
-* IXON
-* Kraftblock GmbH
-* Senior Deli
-* InnovaFeed
-* Volt14 Solutions
-* SOURCE Global PBC
-* Takachar
-* WEGoT Utility Solutions
-* Decomer Technology
-* SunGreenH2
-* Nutrenno
-* ClearLeaf
-* Alterpacks
-* Lucent BioSciences Inc.
-* 3Bee
-* JEFF
-* STYLUMIA
-* Amy.app
-* Matisoft Cyber Security Labs
-* LitmusEye Labs Private Limited
-* SoMin.ai AI Marketing
-* NetObjex
-* AETA
-* Nextar Chempharma Solutions 
-* Advanced Robotics Corp.
-* RetinaRisk 
-* Cogniable
-* Azooka labs 
-* Predictiv
-* TechNovator-UK Ltd.
-* Vulcan Augmetics
-* Cell4D Pte Ltd
-* Radiobotics
-* Quantumcyte Inc.
-* DeepCare
-* BRAINGRADE INC
-* Mediktor
+* Valkyrie Industries Ltd
+* viAct
 * Vidcare Innovations
+* VisualCamp
+* Vixsystem - Soluções em Tecnologia da Informação
+* Volt14 Solutions
+* VRJAM
+* Vulcan Augmetics
+* WEGoT Utility Solutions
+* X-ZELL
+* Zeta Surgical
+
