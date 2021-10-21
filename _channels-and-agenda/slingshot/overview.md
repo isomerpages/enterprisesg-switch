@@ -92,7 +92,7 @@ Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Fi
 * Amy.app
 * Matisoft Cyber Security Labs
 * LitmusEye Labs Private Limited
-* SoMin.ai | AI Marketing
+* SoMin.ai AI Marketing
 * NetObjex
 * AETA
 * Nextar Chempharma Solutions 
