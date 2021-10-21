@@ -42,7 +42,6 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 | 1615H–1715H     | Tech for Sustainability     | Panel     |
 | 1720H–1750H     | The Growing Urban Food Ecosystem: Turning Old Limitations Into New Strengths **_(Hosted by EDB x Deloitte)_**      | Panel     |
 | 1750H–1820H     | Leveraging Technology and Innovation to Drive the Sustainability Agenda for Global Traders     | Panel     |
-|1820H–1825H     | **Innovation Insights**     |      |
 | 1825H–1840H     | Closing     |      |
 
 ##### Highlight Speakers
