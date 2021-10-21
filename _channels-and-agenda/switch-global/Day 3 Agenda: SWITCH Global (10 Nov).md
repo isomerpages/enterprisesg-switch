@@ -14,7 +14,7 @@ Explore opportunities in over 40 markets with international business experts at 
 | -------- | -------- | -------- |
 | 0900H–0930H     | Opening Address   |      |
 | 0930H–1000H     | Expand to Canada     | Panel     |
-| 1000H–1030H     | An Era of BRICS Nation Cooperation: Singapore as a gateway to Asia     | Fireside     |
+| 1000H–1030H     | An Era of BRICS Nation Cooperation: Singapore as a gateway to Asia     | Fireside Chat     |
 | 1030H–1100H     | Masterclass: Tech Up    | Masterclass    |
 | 1100H–1130H     | Masterclass: Tech Up     | Masterclass   |
 | 1130H–1200H     | Accelerate your journey to China       | Keynote    |
@@ -26,7 +26,7 @@ Explore opportunities in over 40 markets with international business experts at 
 | 1430H–1500H     | Masterclass: Tech Up   | Masterclass     |
 | 1500H–1530H     | Market Access: Middle East – UAE   | Panel     |
 | 1530H–1600H     | Market Access: Middle East – Saudi Arabia   | Panel     |
-| 1600H–1630H     | Driving Innovation from Qatar   | Fireside     |
+| 1600H–1630H     | Driving Innovation from Qatar   | Fireside Chat     |
 | 1630H–1700H     | Expand to Portugal   | Panel     |
 | 1700H–1730H     | Transforming Argiculture with Technology with Eurasian Community   | Panel     |
 | 1730H–1800H     | Masterclass: Expand to Asia   | Masterclass     |
