@@ -40,7 +40,7 @@ How will emerging technologies change the way we live, work and interact in the 
 | 1620H–1650H     | SEA e-Conomy 2021 **_(Hosted by Google-Bain-Temasek)_**     | Panel    |
 |1650H–1655H     | **Innovation Insights: Rhodium x JW Marriot**     |      |
 | 1700H–1720H     | Panel    | Panel     |
-| 1720H–1855H     | Co-Designing our Future with Nature  **_(Hosted by HelloTomorrow)_**    | Keynotes     |
+| 1720H–1855H     | Co-Designing our Future with Nature  **_(Hosted by HelloTomorrow)_**    |      |
 |1855H–1900H     | **Innovation Insights: Unilever**     |      |
 | 1900H–1930H     | Closing     |    |
 
