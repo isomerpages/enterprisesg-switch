@@ -17,7 +17,7 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 | -------- | -------- | -------- |
 | 0745H–0815H     | Opening Address by Heng Swee Keat, Deputy Prime Minister and Coordinating Minister for Economic Policies    | Keynote     |
 | 0815H–0830H     | Cargil Keynote      | Keynote     |
-| 0830H–0900H     | TBC      | Panel    |
+| 0830H–0900H     | Towards A New Concept of Smart Cities **_(Hosted by UNDP)_**     | Panel    |
 | 0900H–0930H     | Where Districts Come Alive: Use of Data and Deep Tech to Drive Change **_(Hosted by JTC Corporation)_**    | Panel     |
 | 0930H–0935H    | **Innovation Insights: Hyundai**     |      |
 | 0935H–1005H     | The Future of Electric Vehicles     | Panel     |
