@@ -15,7 +15,7 @@ How can technology revolutionise our existing systems and progress society? Dive
 
 | Time | Title | Format |
 | -------- | -------- | -------- |
-| 0900H–0920H     | Opening Keynote by Forest Li    |      |
+| 0900H–0920H     | Opening Keynote by Forest Li, Founder, Chairman and Group CEO, Sea    | Keynote     |
 | 0920H–0950H     | Sustainability Session    |      |
 |0950H–0955H     | **Innovation Insights: Changi Airport Group**     |      |
 | 0955H–1025H     | Tech x Travel: The Future of Travel and Tourism     | Panel     |
