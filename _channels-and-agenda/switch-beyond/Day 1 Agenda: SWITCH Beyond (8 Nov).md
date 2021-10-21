@@ -27,7 +27,7 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 |1110H–1115H     | **Innovation Insights: CapitaLand**     |      |
 | 1115H–1145H     | Smart Cities In Action: Enhancing Sustainable Living Through Innovative Infrastructure **_(Hosted by CapitaLand)_**     | Panel   |
 |1145H–1150H     | **Innovation Insights: Sunseap**     |      |
-| 1150H–1220H     | Renewable Energy: Why We Don't Need More Science To Solve Climate Change–How Business Models Are Key Enablers In Sustainability** _(Hosted by ENGIE Factory)_**      | Panel     |
+| 1150H–1220H     | Renewable Energy: Why We Don't Need More Science To Solve Climate Change–How Business Models Are Key Enablers In Sustainability **_(Hosted by ENGIE Factory)_**      | Panel     |
 | 1225H–1255H     | Microgrids, Hydrogen, and the Future of Electric: Power Delivery **_(Hosted by IEEE)_**      | Panel     |
 | 1255H–1300H     | Break     |     |
 |      | **Start of Deep Tech Summit** **_(Hosted by SGInnovate)_**     |      |
