@@ -15,7 +15,7 @@ How will emerging technologies change the way we live, work and interact in the 
 
 | Time | Title | Format |
 | -------- | -------- | -------- |
-| 0900H–0920H     | Opening Keynote by Mrs Josephine Teo, Minister for Communications and Information, Minister-in-charge of Smart Nation & Cybersecurity, and Second Minister for Home Affairs    | Keynote     |
+| 0900H–0920H     | Opening Keynote by Josephine Teo, Minister for Communications and Information, Minister-in-charge of Smart Nation & Cybersecurity, and Second Minister for Home Affairs    | Keynote     |
 |0920H–0925H     | **Innovation Insights: IEEE**     |      |
 | 0925H–0955H     | How Will Technology Shape Our Tomorrow? **_(Hosted by IEEE x NRF)_**    | Fireside Chat     |
 | 0955H–1025H     | Future of Workforce **_(Hosted by IEEE)_**     | Panel     |
