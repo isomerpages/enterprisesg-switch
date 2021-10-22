@@ -12,7 +12,7 @@ SWITCH Beyond is a conference channel that brings together global leaders and ex
 ### Over 300 leaders innovation and technology
 Engage with vanguard leaders from industries, governments, and institutions all across the world! SWITCH attracts the brightest minds to lead on emergent topics that shape the future of our communities and economies.
 
-![Alt text for image on Isomer site](/images/SWITCH_2021_Speakers_Beyond_Overview_Highlights_v1.png)
+![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Beyond_Overview_Highlights_v3.png)
 
 **Learn more about our SWITCH Beyond agenda and speakers below!**
 * [SWITCH Beyond Day 1](/channels/switch-beyond/agenda-day-1)
