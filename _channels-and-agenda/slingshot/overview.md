@@ -87,7 +87,7 @@ Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Fi
 * RoPlus Pte Ltd
 * Senior Deli
 * Serket B.V.
-* SoMin.ai | AI Marketing
+* SoMin.ai AI Marketing
 * SOURCE Global PBC
 * STYLUMIA
 * SunGreenH2
@@ -110,4 +110,3 @@ Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Fi
 * WEGoT Utility Solutions
 * X-ZELL
 * Zeta Surgical
-
