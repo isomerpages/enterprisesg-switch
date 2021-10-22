@@ -40,7 +40,7 @@ Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Fi
 * BRIO MRS
 * Cell4D Pte Ltd
 * CleanHeights Robotics Pte Ltd
-* "ClearLeaf
+* ClearLeaf
 * CMCL Innovations
 * Cogniable
 * Cosm Medical
@@ -75,7 +75,7 @@ Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Fi
 * Nextar Chempharma Solutions 
 * Niral Networks
 * Nutrenno
-* "Predictiv
+* Predictiv
 * Protos Labs
 * Qidni Labs Inc.
 * Quantum-South
