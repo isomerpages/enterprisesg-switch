@@ -24,7 +24,7 @@ Explore opportunities in over 40 markets with international business experts at 
 | 1330H–1400H     | Market Access: India   | Keynotes     |
 | 1400H–1430H     | Masterclass: Tech Up   | Masterclass     |
 | 1430H–1500H     | Masterclass: Tech Up   | Masterclass     |
-| 1500H–1530H     | Russia’s Innovation Opportunities for Entreprenuers & Enterprises   | Keynotes     |
+| 1500H–1530H     | Russia’s Innovation Opportunities for Entrepreneurs & Enterprises   | Keynotes     |
 | 1530H–1600H     | Building Scale & Speed in the Nordics    | Keynotes     |
 | 1600H–1630H     | The Netherlands, your European Gateway for startups   | Panel     |
 | 1630H–1700H     | Market Access: Spain   | Panel     |
