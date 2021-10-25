@@ -28,7 +28,7 @@ Explore opportunities in over 40 markets with international business experts at 
 | 1530H–1600H     | Market Access: Middle East – Saudi Arabia   | Panel     |
 | 1600H–1630H     | Driving Innovation from Qatar   | Fireside Chat     |
 | 1630H–1700H     | Expand to Portugal   | Panel     |
-| 1700H–1730H     | Transforming Argiculture with Technology with Eurasian Community   | Panel     |
+| 1700H–1730H     | Transforming Agriculture with Technology with Eurasian Community   | Panel     |
 | 1730H–1800H     | Masterclass: Expand to Asia   | Masterclass     |
 | 1800H–1830H     | Masterclass: Expand to Asia   | Masterclass     |
 | 1830H–1900H     | Closing   |      |
