@@ -19,7 +19,7 @@ SME Day 2021 is organised by the Agency for Science, Technology and Research (A*
 We celebrate the grit and successes of Singapore SMEs who have scaled up and transformed to reach new heights. Highlights of our SME Day 2021 include the annual award ceremony for T-Up winners and talks featuring companies who have pivoted their business successfully during the pandemic.
 
 ##### Agenda
-| Time |Programme |
+| Time | Programme |
 | -------- | -------- |
 | 09:00am     | Opening Address by Guest-of-Honour     |
 | 09:15am     | T-Up Award Ceremony     |
@@ -27,4 +27,3 @@ We celebrate the grit and successes of Singapore SMEs who have scaled up and tra
 | 09:45am     | Staying Alive in Unprecedented Times   |
 | 10:00am     | Innovate and Stay Relevant in Times of Change and Uncertainty     |
 | 10:30am     | End of programme     |
-
