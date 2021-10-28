@@ -2,6 +2,7 @@ collections:
   channels-and-agenda:
     output: true
     order:
+      - "Day 4 Partner Events/Day 4 Partner Event: SME Day 2021.md"
       - "Day 4 Partner Events/Day 4 Partner Event: Introducing Culture Tech.md"
       - Day 4 Partner Events/.keep
       - switch-beyond/.keep
