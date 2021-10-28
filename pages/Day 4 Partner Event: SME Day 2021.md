@@ -7,11 +7,11 @@ permalink: /sme-day-2021
 
 | Title: | SME Day 2021 |
 | -------- | -------- |
-| Date:     | Thursday, 11 November 2021     |
-| Time:     | 09:00am–10:30am     |
-| Venue:     | SWITCH Platform (Virtual)     |
-| Register:     | [Click here](https://bit.ly/switch2021reg_web)     |
-| Price:     | USD$50     |
+| Date: | Thursday, 11 November 2021     |
+| Time: | 09:00am–10:30am     |
+| Venue: | SWITCH Platform (Virtual)     |
+| Register: | [Click here](https://bit.ly/switch2021reg_web)     |
+| Price: | USD$50     |
 
 ##### New World, New Rules: Innovate and Thrive
 SME Day 2021 is organised by the Agency for Science, Technology and Research (A*STAR), in partnership with Enterprise Singapore (ESG).
