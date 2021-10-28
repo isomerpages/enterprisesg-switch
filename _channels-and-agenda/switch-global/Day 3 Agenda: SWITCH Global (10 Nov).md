@@ -32,3 +32,7 @@ Explore opportunities in over 40 markets with international business experts at 
 | 1730H–1800H     | Masterclass: Expand to Asia   | Masterclass     |
 | 1800H–1830H     | Masterclass: Expand to Asia   | Masterclass     |
 | 1830H–1900H     | Closing   |      |
+
+#### Highlight Speakers
+
+![SWITCH Global Speakers](/images/SWITCH_2021_Speakers_Global_Day3_Highlights_v1.png)
