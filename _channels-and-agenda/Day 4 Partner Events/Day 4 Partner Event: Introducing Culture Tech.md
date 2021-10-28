@@ -3,9 +3,10 @@ title: "Day 4 Partner Event: Introducing Culture Tech"
 permalink: /culture-tech-2021
 third_nav_title: Day 4 Partner Events
 ---
-
 #### INTRODUCING CULTURE TECH
 ![Alt text for image on Isomer site](/images/switch-culture-tech-2021_web.png)
+
+##### Event Details
 
 | Title: | Introducing Culture Tech |
 | -------- | -------- |
