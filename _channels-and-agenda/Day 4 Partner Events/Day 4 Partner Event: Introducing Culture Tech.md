@@ -12,9 +12,6 @@ third_nav_title: Day 4 Partner Events
 | -------- | -------- |
 | Date: | Thursday, 11 November 2021     |
 | Time: | 03:00pm to 04:30pm (+8 GMT)     |
-| Venue: | SWITCH Platform (Virtual)     |
-| Register: | [Click here](https://bit.ly/switch2021reg_web)     |
-| Price: | USD$50 (Get your SWITCH Pass to access this webinar and other events in our year-long calendar!)    |
 
 ##### About the webinar
 What is CultureTech? Covering the realms of art, culture and heritage, the Singapore government is investing in cultural innovations to explore the opportunities it presents to Singapore as a modern society. Join us to hear from CultureTech professionals innovate in this space, as they unpack the possibilities and new frontiers that CultureTech offers. 
