@@ -15,3 +15,4 @@ third_nav_title: Slingshot
 | 0900H–1245H     | **Health & Wellness Sector Finals**     | Pitch Competition     |
 | 1300H–1330H     | **Raising Your Seed Round** by **• Rajan Anandan**, Managing Director, Sequoia Capital India     | Masterclass     |
 | 1330H–1600H     | **Sustainability Sector Finals**    | Pitch Competition     |
+| 1615H–1815H     | **Partner Competition: SECOM**    | Pitch Competition     |
