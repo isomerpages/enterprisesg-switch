@@ -16,5 +16,5 @@ third_nav_title: Slingshot
 | 1330H–1545H     | **SLINGSHOT Grand Finals**     | Pitch Competition     |
 | 1600H–1700H     | **Sustainability as the key to long term Growth/Sustainability: Why it Matters for Small Businesses** with **• Jonathan Wong**, Chief of Technology & Innovation, United Nations Economic & Social Commission, Asia and the Pacific; **• Mousumi Bhat**, Senior Director, External Manufacturing, Micron;  **• Eric Lian**, Managing Director & Deputy Head of Group Commercial Banking, UOB; **• Moderator: Naomi Vowels**, Director, Givvable      | Panel     |
 | 1715H–1745H     | **SLINGSHOT Grand Finals Prize Ceremony**     |      |
-| 1800H–1820H     | **Unilever Startups & Mentors Sharing Session** with Marissa Sugianto, Asia Business Development Manager, Unilever, Pukka Herbs; featuring Seadling, Moreloop, Emmay, Crust, Umbalena, Vulcan Augmentics     |      |
+| 1800H–1820H     | **Unilever Startups & Mentors Sharing Session** with **• Marissa Sugianto**, Asia Business Development Manager, Unilever, Pukka Herbs; featuring • Seadling, • Moreloop, • Emmay, • Crust, • Umbalena, • Vulcan Augmentics     |      |
 | 1840H–1945H     | **Unilever Appreciation Ceremony**     |      |
