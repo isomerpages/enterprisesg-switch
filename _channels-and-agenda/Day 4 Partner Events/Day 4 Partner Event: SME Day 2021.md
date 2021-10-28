@@ -3,9 +3,10 @@ title: "Day 4 Partner Event: SME Day 2021"
 permalink: /sme-day-2021
 third_nav_title: Day 4 Partner Events
 ---
-
 #### SME Day 2021
 ![Alt text for image on Isomer site](/images/switch_day_4_sme_day_2021_banner.png)
+
+##### Event Details
 
 | Title: | SME Day 2021 |
 | -------- | -------- |
@@ -30,4 +31,3 @@ We celebrate the grit and successes of Singapore SMEs who have scaled up and tra
 | 09:45am     | Staying Alive in Unprecedented Times   |
 | 10:00am     | Innovate and Stay Relevant in Times of Change and Uncertainty     |
 | 10:30am     | End of programme     |
-
