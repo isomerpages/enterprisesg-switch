@@ -2,9 +2,6 @@ collections:
   channels-and-agenda:
     output: true
     order:
-      - "Day 4 Partner Events/Day 4 Partner Event: SME Day 2021.md"
-      - "Day 4 Partner Events/Day 4 Partner Event: Introducing Culture Tech.md"
-      - Day 4 Partner Events/.keep
       - switch-beyond/.keep
       - switch-beyond/overview.md
       - "switch-beyond/Day 1 Agenda: SWITCH Beyond (8 Nov).md"
@@ -23,4 +20,7 @@ collections:
       - slingshot/competition-timeline.md
       - slingshot/disrupt-and-gear-up.md
       - slingshot/meet-the-judges.md
+      - Day 4 Partner Events/.keep
+      - "Day 4 Partner Events/Day 4 Partner Event: SME Day 2021.md"
+      - "Day 4 Partner Events/Day 4 Partner Event: Introducing Culture Tech.md"
       - "Day 5 Partner Event: SHE LOVES TECH CONFERENCE (12 Nov).md"
