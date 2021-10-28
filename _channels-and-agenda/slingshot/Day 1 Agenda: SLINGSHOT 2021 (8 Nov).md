@@ -9,8 +9,8 @@ third_nav_title: Slingshot
 
 | Time | Title | Format |
 | -------- | -------- | -------- |
-| 0745H–0815H     | **Opening Address** by Heng Swee Keat, Deputy Prime Minister and Coordinating Minister for Economic Policies    | Keynote     |
-| 0820H–0830H     | **SLINGSHOT Opening Address** by Jeffery Siow, Managing Director & Chief Operating Officer     | Keynote     |
+| 0745H–0815H     | **Opening Address** by **• Heng Swee Keat**, Deputy Prime Minister and Coordinating Minister for Economic Policies    | Keynote     |
+| 0820H–0830H     | **SLINGSHOT Opening Address** by **• Jeffery Siow**, Managing Director & Chief Operating Officer     | Keynote     |
 | 0830H–0900H     | The SLINGSHOT Experience     | Panel     |
 | 0900H–1050H     | Health & Wellness Sector Finals (1st Half)     | Pitch Competition     |
 | 1105H–1245H     | Health & Wellness Sector Finals (2nd Half)     | Pitch Competition     |
