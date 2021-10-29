@@ -3,7 +3,6 @@ title: Introducing Culture Tech
 permalink: /culture-tech-2021
 third_nav_title: Day 4 Partner Events
 ---
-
 #### INTRODUCING CULTURE TECH
 ![Alt text for image on Isomer site](/images/switch-culture-tech-2021_web.png)
 
@@ -13,6 +12,7 @@ third_nav_title: Day 4 Partner Events
 | -------- | -------- |
 | Date: | Thursday, 11 November 2021     |
 | Time: | 03:00pm to 04:30pm (+8 GMT)     |
+| Channel: | SWITCH Beyond     |
 
 ##### About the webinar
 What is CultureTech? Covering the realms of art, culture and heritage, the Singapore government is investing in cultural innovations to explore the opportunities it presents to Singapore as a modern society. Join us to hear from CultureTech professionals innovate in this space, as they unpack the possibilities and new frontiers that CultureTech offers. 
