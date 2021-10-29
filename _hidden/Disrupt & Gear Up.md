@@ -1,8 +1,8 @@
 ---
 title: Disrupt & Gear Up
 permalink: /channels/slingshot-2021/disrupt-gear-up
-third_nav_title: Slingshot
 ---
+
 ![Alt text for image on Isomer site](/images/Connections%202.jpg)
 ### About SLINGSHOT Disrupt & Gear Up
 Beyond being a global stage for startups to pitch for attractive prizes and deal-making opportunities, selected startups will get the chance to connect with corporates and investors for co-innovation opportunities, and get mentors who can guide them in growing their businesses and expanding into international markets. This takes place through two key events in the lead up to the SLINGSHOT Finals. 

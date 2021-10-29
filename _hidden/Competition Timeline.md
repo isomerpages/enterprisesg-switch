@@ -1,7 +1,6 @@
 ---
 title: Competition Timeline
 permalink: /channels/slingshot-2021/competition-timeline
-third_nav_title: Slingshot
 ---
 
 ![](/images/SLINGSHOT%203.jpg)
