@@ -3,7 +3,6 @@ title: SME Day 2021
 permalink: /sme-day-2021
 third_nav_title: Day 4 Partner Events
 ---
-
 #### SME Day 2021
 ![Alt text for image on Isomer site](/images/switch_day_4_sme_day_2021_banner.png)
 
@@ -18,6 +17,8 @@ third_nav_title: Day 4 Partner Events
 SME Day 2021 is organised by the Agency for Science, Technology and Research (A*STAR), in partnership with Enterprise Singapore (ESG).
 
 We celebrate the grit and successes of Singapore SMEs who have scaled up and transformed to reach new heights. Highlights of our SME Day 2021 include the annual award ceremony for T-Up winners and talks featuring companies who have pivoted their business successfully during the pandemic.
+
+Please visit [a-star.edu.sg/switch](https://www.a-star.edu.sg/switch) to find out more information and to register.
 
 ##### Agenda
 
