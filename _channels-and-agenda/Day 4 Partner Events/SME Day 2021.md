@@ -12,6 +12,7 @@ third_nav_title: Day 4 Partner Events
 | -------- | -------- |
 | Date: | Thursday, 11 November 2021     |
 | Time: | 09:00am–10:30am     |
+| Channel: | SWITCH Beyond     |
 
 ##### New World, New Rules: Innovate and Thrive
 SME Day 2021 is organised by the Agency for Science, Technology and Research (A*STAR), in partnership with Enterprise Singapore (ESG).
