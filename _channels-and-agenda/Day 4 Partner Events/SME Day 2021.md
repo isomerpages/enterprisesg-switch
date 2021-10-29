@@ -11,7 +11,7 @@ third_nav_title: Day 4 Partner Events
 | Title: | SME Day 2021 |
 | -------- | -------- |
 | Date: | Thursday, 11 November 2021     |
-| Time: | 09:00am–10:30am     |
+| Time: | 09:00am–10:30am (+8 GMT)    |
 | Channel: | SWITCH Beyond     |
 
 ##### New World, New Rules: Innovate and Thrive
