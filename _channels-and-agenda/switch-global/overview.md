@@ -23,4 +23,4 @@ Acquire actionable knowledge to propel your organisation’s ability to secure f
 
 SWITCH Global is entirely unique in bringing together leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors. Whatever your business need, find the right connection here!
 
-![SWITCH Global Speakers](/images/SWITCH_2021_Speakers_Global_Overview_Highlights_v1.png)
+![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Global_Overview_Highlights_v2.png)
