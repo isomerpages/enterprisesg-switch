@@ -34,4 +34,4 @@ Explore opportunities in over 40 markets with international business experts at 
 
 #### Highlight Speakers
 
-![SWITCH Global Speakers](/images/SWITCH_2021_Speakers_Global_Day2_Highlights_v1.png)
+![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Global_Day2_Highlights_v2.png)
