@@ -18,4 +18,4 @@ permalink: /sponsors-partners-2021
 ![SWITCH 2021 Sponsors and Partners](/images/switch_2021_sponsors_ipp_v1.jpg)
 
 ##### Community Partners
-![SWITCH 2021 Sponsors and Partners](/images/SWITCH%20Community%20Partners.png)
+![Alt text for image on Isomer site](/images/CommunityPartner.png)
