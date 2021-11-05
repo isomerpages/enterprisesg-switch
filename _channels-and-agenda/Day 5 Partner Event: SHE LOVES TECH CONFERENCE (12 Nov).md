@@ -12,7 +12,7 @@ The She Loves Tech Conference is an annual thought leadership summit for women a
 
 It brings together influencers, entrepreneurs, technologists and executives on an international stage to inspire action for current and future generations.
 
-For more information about the agenda and speakers, please visit [shelovestech.org/conference](https://www.shelovestech.org/conference)
+For more information about the agenda and speakers, please visit [shelovestech.org/2021-conference](https://www.shelovestech.org/2021-conference)
 
 #### Past Speakers
 

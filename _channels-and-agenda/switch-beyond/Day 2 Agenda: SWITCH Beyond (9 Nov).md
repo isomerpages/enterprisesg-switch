@@ -25,7 +25,7 @@ How can technology revolutionise our existing systems and progress society? Dive
 | 1105H–1135H     | Six Ways to Win 350 MIlion Southeast Asian Digital Consumers  **_(Hosted by Bain & Company)_**     | Panel   |
 | 1135H–1205H     | Improving Acute Care with Data and AI  **_(Hosted by LEK Consulting)_**       | Panel     |
 | 1210H–1240H     | Future of Biotech **_(Hosted by LEK Consulting)_**      | Panel     |
-| 1240H–1300H     | Keynote by Barbara Lavernos     | Keynote    |
+| 1240H–1300H     | Coffee Break     |     |
 |      | **Start of Deep Tech Summit** **_(Hosted by SGInnovate)_**    |      |
 | 1300H–1330H     | Shaping Tomorrow's Leaders in Biomedical Innovation   | Panel     |
 | 1335H–1405H     | Enabling Culture for Health Science Innovation **_(Hosted by SGInnovate x SingHealth)_**    | Fireside Chat     |
