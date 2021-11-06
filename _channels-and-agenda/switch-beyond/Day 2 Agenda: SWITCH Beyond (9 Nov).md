@@ -29,7 +29,7 @@ How can technology revolutionise our existing systems and progress society? Dive
 |      | **Start of Deep Tech Summit** **_(Hosted by SGInnovate)_**    |      |
 | 1300H–1330H     | Shaping Tomorrow's Leaders in Biomedical Innovation   | Panel     |
 | 1335H–1405H     | Enabling Culture for Health Science Innovation **_(Hosted by SGInnovate x SingHealth)_**    | Fireside Chat     |
-| 1405–1435H     | Health Systems Transformation: Singapore Spotlight **_(Hosted by SGInnovate x SingHealth)_**    | Panel     |
+| 1405–1435H     | Digital Transformation in Health Systems: Singapore Spotlight **_(Hosted by SGInnovate x SingHealth)_**    | Panel     |
 | 1440H–1510H     | Current and Future Applications of Deep Learning in Health **_(Hosted by SGInnovate x SingHealth)_**     | Panel     |
 |1510H–1515H     | **Innovation Insights: Growthwell**     |      |
 | 1515H–1545H     | The Promise of AgriFood Science    | Fireside Chat    |

@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Week of Innovation and Technology | SWITCH
-description: Brief site description here
+description: Asia's leading Innovation and Technology Festival
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
