@@ -3,7 +3,7 @@ title: Sponsors & Partners
 permalink: /sponsors-partners-2021
 ---
 ##### Brought to you by
-![SWITCH 2021 Sponsors and Partners](/images/SWITCH_2021_Partners_Premier_v1.png)
+![SWITCH 2021 Sponsors and Partners](/images/web_switch_2021_organised_by_v2.jpg)
 
 ##### Platinum Sponsor
 ![SWITCH 2021 Sponsors and Partners](/images/SWITCH_2021_Sponsors_Platinum_v1.png)
