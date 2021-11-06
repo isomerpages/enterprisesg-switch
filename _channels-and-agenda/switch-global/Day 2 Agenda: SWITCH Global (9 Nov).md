@@ -24,10 +24,10 @@ Explore opportunities in over 40 markets with international business experts at 
 | 1400H–1430H     | Masterclass: Tech Up   | Masterclass     |
 | 1430H–1500H     | Masterclass: Tech Up   | Masterclass     |
 | 1500H–1530H     | Expand to Turkey: Full of Opportunities  | Panel     |
-| 1530H–1600H     | Market Access: East-West Africa   | Panel     |
+| 1530H–1600H     | Achieving the double bottom line in Africa   | Panel     |
 | 1600H–1630H     | The Compelling Case of Expanding to South Africa   | Panel     |
 | 1630H–1700H     | Expand your business to Germany   | Panel     |
-| 1700H–1730H     | Market Access: UK   | Panel     |
+| 1700H–1730H     | The UK - GREAT Opportunities Through A Culture of Innovation   | Panel     |
 | 1730H–1800H     | Masterclass: Expand to Asia   | Masterclass     |
 | 1800H–1830H     | Masterclass: Expand to Asia   | Masterclass     |
 | 1830H–1900H     | Closing   |      |
