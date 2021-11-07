@@ -26,6 +26,15 @@ sections:
           description: Premier startup pitching event
           url: /channels/slingshot-2021/overview
   - infopic:
+      title: SWITCH 2021 Show Directory
+      subtitle: SHOWCASES & AGENDA
+      description: Visit the Show Directory to see more than 160 innovative companies
+        that are showcasing the solutions and services on the SWITCH Platform!
+      button: Visit
+      url: https://directory.switchsg.org
+      image: /images/Website_Banner_Show_Directory_var_2.png
+      alt: SWITCH 2021 Show Directory
+  - infopic:
       title: "Meet the speakers at SWITCH Beyond "
       subtitle: SWITCH BEYOND
       description: Connect with over 300 international speakers from vanguard and
@@ -35,15 +44,6 @@ sections:
       url: /channels/switch-beyond-2021/overview
       image: /images/SWITCH Connect 5.jpg
       alt: SWITCH Beyond
-  - infopic:
-      title: SWITCH 2021 Show Directory
-      subtitle: SHOWCASES & AGENDA
-      description: Visit the Show Directory to see more than 160 innovative companies
-        that are showcasing the solutions and services on the SWITCH Platform!
-      button: Visit
-      url: https://directory.switchsg.org
-      image: /images/Website_Banner_Show_Directory_var_2.png
-      alt: SWITCH 2021 Show Directory
   - infobar:
       title: Your gateway to global innovation in Asia
       subtitle: SWITCH Pass
