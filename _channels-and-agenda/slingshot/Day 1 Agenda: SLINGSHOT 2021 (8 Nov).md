@@ -3,10 +3,11 @@ title: "Day 1 Agenda: SLINGSHOT 2021 (8 Nov)"
 permalink: /channels/slingshot-2021/agenda-day-1
 third_nav_title: Slingshot
 ---
-
 ##### SLINGSHOT 2021 Agenda - Day 1 // 8 Nov 2021
 
 <sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
+
+[![SWITCH 2021 Show Directory](/images/Platform_Banner_SWITCH_2021_Show_Directory_var_2.png)](https://directory.switchsg.org)
 
 | Time | Title | Format |
 | -------- | -------- | -------- |
