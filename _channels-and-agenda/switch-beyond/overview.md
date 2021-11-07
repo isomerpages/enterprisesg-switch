@@ -19,6 +19,8 @@ Engage with vanguard leaders from industries, governments, and institutions all 
 * [SWITCH Beyond Day 2](/channels/switch-beyond/agenda-day-2)
 * [SWITCH Beyond Day 3](/channels/switch-beyond/agenda-day-3)
 
+[![SWITCH 2021 Show Directory](/images/Website_Banner_Show_Directory_var_1.png)](https://directory.switchsg.org)
+
 ### Innovation Insights across key emerging sectors
 Stay ahead of the latest trends and developments in key sectors like Smart Cities & Urban Solutions, Healthcare & Biomedical Sciences, as well as Artificial Intelligence, Robotics & Deep Tech innovations.
 
