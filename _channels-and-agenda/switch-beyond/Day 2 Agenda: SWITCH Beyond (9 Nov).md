@@ -11,7 +11,7 @@ How can technology revolutionise our existing systems and progress society? Dive
 
 ##### SWITCH Beyond Agenda - Day 2 // 9 Nov 2021
 
-[![SWITCH 2021 Show Directory](/images/Website_Banner_Show_Directory_var_1.png)](https://directory.switchsg.org)
+[![SWITCH 2021 Show Directory](/images/Platform_Banner_SWITCH_2021_Show_Directory_var_2.png)](https://directory.switchsg.org)
 
 <sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
 
