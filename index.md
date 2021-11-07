@@ -36,15 +36,14 @@ sections:
       image: /images/SWITCH Connect 5.jpg
       alt: SWITCH Beyond
   - infopic:
-      title: SHE LOVES TECH Conference
-      subtitle: "PARTNER EVENT: 12 Nov"
-      description: SWITCH is proud to partner with She Loves Tech to bring the annual
-        thought leaderswhip summit for women and technology to all attendees of
-        SWITCH this year!
-      button: Learn more
-      url: /she-loves-tech-2021
-      image: /images/SLT_Opt05_1200x900_R019.jpg
-      alt: She Loves Tech Conference
+      title: SWITCH 2021 Show Directory
+      subtitle: SHOWCASES & AGENDA
+      description: Visit the Show Directory to see more than 160 innovative companies
+        that are showcasing the solutions and services on the SWITCH Platform!
+      button: Visit
+      url: https://directory.switchsg.org
+      image: /images/Website_Banner_Show_Directory_var_2.png
+      alt: SWITCH 2021 Show Directory
   - infobar:
       title: Your gateway to global innovation in Asia
       subtitle: SWITCH Pass
@@ -63,6 +62,16 @@ sections:
       url: /channels/switch-global-2021/overview
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
+  - infopic:
+      title: SHE LOVES TECH Conference
+      subtitle: "PARTNER EVENT: 12 Nov"
+      description: SWITCH is proud to partner with She Loves Tech to bring the annual
+        thought leaderswhip summit for women and technology to all attendees of
+        SWITCH this year!
+      button: Learn more
+      url: /she-loves-tech-2021
+      image: /images/SLT_Opt05_1200x900_R019.jpg
+      alt: She Loves Tech Conference
   - infopic:
       title: Watch the Grand Finals at SWITCH!
       subtitle: SLINGSHOT 2021
