@@ -35,12 +35,7 @@ links:
     collection: talent
   - title: SPONSORS & PARTNERS
     url: /sponsors-partners-2021
-  - title: PLATFORM
-    url: https://community.switchsg.org
-    sublinks:
-      - title: LOGIN
-        url: https://community.switchsg.org
-      - title: GET SWITCH PASS
-        url: https://bit.ly/switch2021reg_web
   - title: GET TICKETS
     url: https://bit.ly/switch2021reg_web
+  - title: LOGIN
+    url: https://community.switchsg.org
