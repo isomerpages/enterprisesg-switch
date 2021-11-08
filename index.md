@@ -28,8 +28,8 @@ sections:
   - infopic:
       title: SWITCH 2021 Show Directory
       subtitle: SHOWCASES & AGENDA
-      description: Visit the Show Directory to see more than 160 innovative companies
-        that are showcasing the solutions and services on the SWITCH Platform!
+      description: Visit the Show Directory to see more than 160 companies that are
+        showcasing the solutions and services on the SWITCH Platform!
       button: Visit
       url: https://directory.switchsg.org
       image: /images/Website_Banner_Show_Directory_var_2.png
