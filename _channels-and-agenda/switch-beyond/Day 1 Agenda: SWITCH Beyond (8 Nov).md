@@ -11,7 +11,10 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 
 ##### SWITCH Beyond Agenda - Day 1 // 8 Nov 2021
 
+[![SWITCH 2021 Show Directory](/images/Platform_Banner_SWITCH_2021_Show_Directory_var_2.png)](https://directory.switchsg.org)
+
 <sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
+
 
 | Time | Title | Format |
 | -------- | -------- | -------- |
