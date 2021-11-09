@@ -49,4 +49,4 @@ How are companies disrupting the status quo to rebuild sustainably and meeting t
 
 ##### Highlight Speakers
 
-![Alt text for image on Isomer site](/images/SWITCH_2021_Speakers_Beyond_Day1_Highlights_v4.png)
+![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Beyond_Day1_Highlights_v5.png)
