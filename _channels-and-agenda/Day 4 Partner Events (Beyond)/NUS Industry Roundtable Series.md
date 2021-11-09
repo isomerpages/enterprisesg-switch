@@ -1,19 +1,16 @@
 ---
-title: "NUS IRS: Food For Thought"
-permalink: /nus-irs-food-for-thought
+title: NUS Industry Roundtable Series
+permalink: /nus-industry-roundtable-series
 description: ""
 third_nav_title: Day 4 Partner Events (Beyond)
 ---
-
-
-
-#### NUS Industry Roundtable Series
+#### NUS Industry Roundtable Series - Food For Thought: The Impact of Agrifood in Southeast Asia
 
 ![Alt text for image on Isomer site](/images/SWITCH_2021_NUS_Enterprise_Day_4_Event.png)
 
 ##### Event Details
 
-| Title: | Food For Thought: The Impact of Agrifood in Southeast Asia |
+| Title: | NUS Industry Roundtable Series - Food For Thought: The Impact of Agrifood in Southeast Asia |
 | -------- | -------- |
 | Date: | Thursday, 11 November 2021     |
 | Time: | 11:00am–12:30pm (+8 GMT)    |
