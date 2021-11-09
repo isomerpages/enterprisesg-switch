@@ -3,9 +3,8 @@ title: SME Day 2021
 permalink: /sme-day-2021
 third_nav_title: Day 4 Partner Events (Beyond)
 ---
-
 #### SME Day 2021
-![Alt text for image on Isomer site](/images/switch_day_4_sme_day_2021_banner.png)
+![SWITCH ASTAR SME Day 2021](/images/switch_day_4_sme_day_2021_banner.png)
 
 ##### Event Details
 
