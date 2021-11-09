@@ -2,6 +2,7 @@ collections:
   channels-and-agenda:
     output: true
     order:
+      - Day 4 Partner Events (Global)/.keep
       - switch-beyond/.keep
       - switch-beyond/overview.md
       - "switch-beyond/Day 1 Agenda: SWITCH Beyond (8 Nov).md"
