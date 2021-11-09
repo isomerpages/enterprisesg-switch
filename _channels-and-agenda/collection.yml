@@ -2,6 +2,7 @@ collections:
   channels-and-agenda:
     output: true
     order:
+      - "switch-beyond/NUS IRS: Food For Thought.md"
       - switch-beyond/.keep
       - switch-beyond/overview.md
       - "switch-beyond/Day 1 Agenda: SWITCH Beyond (8 Nov).md"
