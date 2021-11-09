@@ -2,9 +2,11 @@
 title: MENA Singapore DEAL DAY
 permalink: /mena-singapore-deal-day-2021
 ---
+![SWITCH 2021 MENA Deal Day](/images/SWITCH_2021_Day_4_MENA_Deal_Day.png)
+
 ##### Event Details
 
-| Title: | SME Day 2021 |
+| Title: | MENA SIngapore Deal Day |
 | -------- | -------- |
 | Date: | Thursday, 11 November 2021     |
 | Time: | 02:30pm–04:00pm     |
