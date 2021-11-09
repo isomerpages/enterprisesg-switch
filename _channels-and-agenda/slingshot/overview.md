@@ -26,15 +26,19 @@ Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Fi
 * Advanced Robotics Corp.
 * Aeroport AI
 * AETA
+* Aevice Health
 * AlgoDriven
 * AlgoDx AB
+* Alloyzymes
 * Alterpacks
 * Amy.app
 * Augmented Human Technologies Pte Ltd
 * AVA Information Systems GmbH
+* Aevice Health
 * Azooka labs 
 * B Data Solutions Inc.
 * BackyardCreators
+* Biorithm
 * Biovitae
 * BRAINGRADE INC
 * BRIO MRS
@@ -59,12 +63,14 @@ Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Fi
 * HK Decoman Technology Ltd
 * Hubly Surgical
 * Hydrumedical
+* Hyperganic
 * Infoseed
 * InnovaFeed
 * IPification
 * IXON
 * JEFF
 * Kraftblock GmbH
+* KYAN Therapeutics
 * Lifetrack Medical Systems
 * LitmusEye Labs Private Limited
 * Lucent BioSciences Inc.
@@ -74,6 +80,7 @@ Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Fi
 * NetObjex
 * Nextar Chempharma Solutions 
 * Niral Networks
+* NUProtein
 * Nutrenno
 * Predictiv
 * Protos Labs
@@ -82,6 +89,7 @@ Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Fi
 * Quantumcyte Inc.
 * Qure.ai
 * Radiobotics
+* ReverseADs
 * RetinaRisk 
 * RoadMetrics
 * RoPlus Pte Ltd
@@ -89,6 +97,7 @@ Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Fi
 * Serket B.V.
 * SoMin.ai AI Marketing
 * SOURCE Global PBC
+* Stayr
 * STYLUMIA
 * SunGreenH2
 * Takachar
@@ -108,5 +117,6 @@ Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Fi
 * VRJAM
 * Vulcan Augmetics
 * WEGoT Utility Solutions
+* Wittaya Aqua
 * X-ZELL
 * Zeta Surgical
