@@ -4,7 +4,7 @@ permalink: /future-mobility-innovation-forum-2021
 ---
 ##### Event Details
 
-| Title: | SME Day 2021 |
+| Title: | Future Mobility Innovation Forum |
 | -------- | -------- |
 | Date: | Thursday, 11 November 2021     |
 | Time: | 09:30am–11:00am     |
