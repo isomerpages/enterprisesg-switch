@@ -47,4 +47,5 @@ How will emerging technologies change the way we live, work and interact in the 
 | 1900H–1930H     | Closing     |    |
 
 ##### Highlight Speakers
-![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Beyond_Day3_Highlights_v2.png)
+
+![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Beyond_Day3_Highlights_v3.png)
