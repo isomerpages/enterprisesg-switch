@@ -70,7 +70,7 @@ sections:
         SWITCH this year!
       button: Learn more
       url: /she-loves-tech-2021
-      image: /images/SLT_Opt05_1200x900_R019.jpg
+      image: /images/she_loves_tech_web_homepage_banner.png
       alt: She Loves Tech Conference
   - infopic:
       title: Watch the Grand Finals at SWITCH!
