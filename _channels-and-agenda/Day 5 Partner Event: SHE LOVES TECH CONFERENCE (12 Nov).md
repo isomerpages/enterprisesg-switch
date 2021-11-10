@@ -14,6 +14,26 @@ It brings together influencers, entrepreneurs, technologists and executives on a
 
 For more information about the agenda and speakers, please visit [shelovestech.org/2021-conference](https://www.shelovestech.org/2021-conference)
 
+#### She Loves Tech @ SWITCH Agenda // 12 Nov 2021
+
+| Time | Title | Format |
+| -------- | -------- | -------- |
+| 0800H–0845H     | Registration & Networking within zones    |      |
+| 0845H–0900H     | Seat Everyone & Welcome     |      |
+| 0905H–0945H     | Opening Keynote: Supercharging the Ecosystem for Women and Tech    | Keynote    |
+| 0945H–0955H     | She Loves Tech & Microsoft Announcement    |      |
+| 1000H–1030H    | Brave New World: How the NextGen are leading in wellness and sustainability     | Panel     |
+| 1030H–1115H     | Grooming Female Leaders In Tech     | Panel     |
+|1115H–1130H     | Coffee Break     |      |
+| 1130H–1150H     | Bridging East & West: Making Waves in Silicon Valley     | Fireside Chat     |
+| 1130H–1230H     | Building Environments for Creativity and Innovation to Thrive     | Panel    |
+|1230H–1300H     | ONE’s Fight for Gender Equality     | Fireside Chat     |
+| 1300H–1350H     | Lunch     |    |
+|1350H–1430H     | Women Entrepreneurs Diaries    | Panel     |
+| 1430H–1500H     | Food for Thought: Finding Purpose in a Tech-enabled economy       | Fireside Chat    |
+| 1500H–1510H     | She Loves Tech Global Virtual Conference: what to expect      |      |
+| 1515H     | End     |     |
+
 #### Past Speakers
 
 **Arianna Huffington**
