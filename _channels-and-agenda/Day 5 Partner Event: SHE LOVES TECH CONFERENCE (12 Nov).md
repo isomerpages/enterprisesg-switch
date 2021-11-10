@@ -2,7 +2,7 @@
 title: "Day 5 Partner Event: SHE LOVES TECH CONFERENCE (12 Nov)"
 permalink: /she-loves-tech-2021
 ---
-![Alt text for image on Isomer site](/images/SLT_Opt05_1200x900_R019.jpg)
+[![She Loves Tech @ SWITCH](/images/she_loves_tech_2021_web_banner.png)](https://www.shelovestech.org/conference)
 
 ##### SHE LOVES TECH @ SWITCH
 
@@ -34,31 +34,4 @@ For more information about the agenda and speakers, please visit [shelovestech.o
 | 1500H–1510H     | She Loves Tech Global Virtual Conference: what to expect      |      |
 | 1515H     | End     |     |
 
-#### Past Speakers
-
-**Arianna Huffington**
-Founder & CEO of Thrive Global
-
-**Jane Sun**
-CEO, Trip.com Group
-First woman to lead tech giant in China
-
-**Ann Cairns**
-Executive Vice-Chair of Mastercard
-
-**Lesly Goh**
-First-ever CTO of the World Bank
-
-**Cindy Mi**
-Founder & CEO, VIPKID
-World’s most valuable online education company
-
-**William Li**
-Founder, NIO
-The Elon Musk of China
-
-**Sundaa Bridgett-Jones**
-Managing Director of Policy and Coalitions at The Rockefeller Foundation
-
-**Anne Dwane**
-Co-Founder & Partner at Village Global
+[![She Loves Tech @ SWITCH](/images/she_loves_tech_2021_speakers_portrait_v1.png)](https://www.shelovestech.org/conference)
