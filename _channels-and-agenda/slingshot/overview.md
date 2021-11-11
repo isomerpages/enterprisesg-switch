@@ -4,21 +4,48 @@ permalink: /channels/slingshot-2021/overview
 third_nav_title: Slingshot
 ---
 ![SLINGSHOT Winners EKO.ai](/images/SLINGSHOT%202021.jpg)
-# Launch your startup into Asia!
+### Launch your startup into Asia!
 Calling all startups: Asia’s most exciting deep tech pitching competition is back!
 
 This is your chance to anchor yourself in Singapore – one of the world’s top innovation nodes – and compete for over S$1.1M (US$800,000) in attractive prizes
 
 In our fifth edition, we are looking for startups in four emerging challenge sectors to showcase your game-changing solutions and products. Make the pitch of a lifetime to a global audience of major investors, industry leaders, and thought leaders! 
 
-Shortlisted startups will be given the opportunity to develop corporate partnerships and join us at Singapore Week of Innovation and TeCHnology 2021 (SWITCH 2021).
+***
+#### SLINGSHOT 2021 Grand Winner
 
-[Your idea might just kick start a journey of a lifetime!](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021)
+After 3 days of intensive pitching, our SLINGSHOT Grand Winner has emerged! We would like to congratulate **Quantumcyte**, an artificial intelligence-integrated tissue dissection solution that provides more accurate test results for cancer patients.
 
-[亚洲最受注目的深科创业大赛， 您准备好了吗](https://slingshot-cn.agorize.com/zh/challenges/2021-edition?t=fX5LOg7F8fnaJvgACrUEbg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021)
+Quantumcyte walks away with a Startup SG Grant of S$200,000 (in addition to the Startup SG Grant of S$50,000 for being a Sector winner), and 18 months worth of rent-free space at JTC Launchpad.
+
+***
+#### SLINGSHOT 2021 Top 12 Grand Finalists
+
+Congratulations to the following startups who were selected as the Grand Finalists through the sector finals:
+
+**Health and Wellness**
+* **Biorithm** - Integrated maternity care solution to improve perinatal outcomes
+* **Braingrade** - Implantable neurostimulator to treat Alzheimer's disease
+* **Quantumcyte** - Artificial Intelligence-integrated tissue dissection solution
+
+**Sustainability**
+* **Allozymes** - Microfluidic technology that develops custom-designed enzymes for sustainable manufacturing of complex natural products
+* **SOURCE Global** - Hydropanels that make drinking water from only sunlight and air
+* **SunGreenH2** - High performance electrolysters fro green hydrogen production
+
+**Frontier Digital Technology**
+* **ReverseAds** - Keyword advertising platform built to compete against Google Ads
+* **TransSIP** - Technology to reduce electronic noise to improve performance of devices
+* **VisualCamp** - AI based eye tracking technology that allows you to better understand users
+
+**Smart Cities**
+* **Datakrew** - No-code IoT platform to allow companies to deploy enterprise IoT solutions rapidly
+* **ViAct** - AI solution to automate construction monitoring to improve safety and productivity
+* **Vixsystem** - Assistive technology for visually impaired
 
 ***
 #### SLINGSHOT 2021 Top 100
+
 Congratulations to the Top 100 startups who will be pitching at the SLINGSHOT Finals that will be held at SWITCH from 8–10 November 2021.
 
 * 3Bee
