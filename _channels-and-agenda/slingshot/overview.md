@@ -4,6 +4,9 @@ permalink: /channels/slingshot-2021/overview
 third_nav_title: Slingshot
 ---
 ### Launch your startup into Asia!
+
+![SLINGSHOT 2021 Grand Finalists](/images/slingshot_2021_finalists_web.jpeg)
+
 Calling all startups: Asia’s most exciting deep tech pitching competition is back!
 
 This is your chance to anchor yourself in Singapore – one of the world’s top innovation nodes – and compete for over S$1.1M (US$800,000) in attractive prizes
@@ -21,8 +24,6 @@ Quantumcyte walks away with a Startup SG Grant of S$200,000 (in addition to the 
 
 ***
 #### SLINGSHOT 2021 Top 12 Grand Finalists
-
-![SLINGSHOT 2021 Grand Finalists](/images/slingshot_2021_finalists_web.jpeg)
 
 Congratulations to the following startups who were selected as the Grand Finalists through the sector finals:
 
