@@ -3,7 +3,6 @@ title: Overview
 permalink: /channels/slingshot-2021/overview
 third_nav_title: Slingshot
 ---
-![SLINGSHOT Winners EKO.ai](/images/SLINGSHOT%202021.jpg)
 ### Launch your startup into Asia!
 Calling all startups: Asia’s most exciting deep tech pitching competition is back!
 
@@ -14,12 +13,16 @@ In our fifth edition, we are looking for startups in four emerging challenge sec
 ***
 #### SLINGSHOT 2021 Grand Winner
 
+![SLINGSHOT 2021 Grand Winner](/images/slingshot_2021_winner_quantumcyte_web.jpeg)
+
 After 3 days of intensive pitching, our SLINGSHOT Grand Winner has emerged! We would like to congratulate **Quantumcyte**, an artificial intelligence-integrated tissue dissection solution that provides more accurate test results for cancer patients.
 
 Quantumcyte walks away with a Startup SG Grant of S$200,000 (in addition to the Startup SG Grant of S$50,000 for being a Sector winner), and 18 months worth of rent-free space at JTC Launchpad.
 
 ***
 #### SLINGSHOT 2021 Top 12 Grand Finalists
+
+![SLINGSHOT 2021 Grand Finalists](/images/slingshot_2021_finalists_web.jpeg)
 
 Congratulations to the following startups who were selected as the Grand Finalists through the sector finals:
 
