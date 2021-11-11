@@ -22,6 +22,8 @@ After 3 days of intensive pitching, our SLINGSHOT Grand Winner has emerged! We w
 
 Quantumcyte walks away with a Startup SG Grant of S$200,000 (in addition to the Startup SG Grant of S$50,000 for being a Sector winner), and 18 months worth of rent-free space at JTC Launchpad.
 
+To learn more about the SLINGSHOT 2021 competition and programme, please [click here.](https://slingshot.agorize.com/en/challenges/2021-edition/pages/final-results?lang=en)
+
 ***
 #### SLINGSHOT 2021 Top 12 Grand Finalists
 
