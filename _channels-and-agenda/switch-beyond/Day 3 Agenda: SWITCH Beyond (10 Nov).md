@@ -42,7 +42,12 @@ How will emerging technologies change the way we live, work and interact in the 
 | 1620H–1650H     | SEA e-Conomy 2021 **_(Hosted by Google-Bain-Temasek)_**     | Panel    |
 |1650H–1655H     | **Innovation Insights: Rhodium x JW Marriot**     |      |
 | 1700H–1720H     | Panel    | Panel     |
-| 1720H–1855H     | Co-Designing our Future with Nature  **_(Hosted by Hello Tomorrow Asia Pacific)_**    | Panels     |
+| 1720H–1855H     | Co-Designing our Future with Nature  **_(Hosted by Hello Tomorrow Asia Pacific)_**    |      |
+|      | **Nature Co-Design: A Revolution in the Making** by Massimo Portincaso, Chairman, Hello Tomorrow     |      |
+|      | **Biology Would Free Manufacturers from Petrochemicals** by Jens Klein, Chief Executive Officer, Origin Bio     |      |
+|      | **Solving Global Problems by Revolutionising Material Development** by Aaike van Vugt, Chief Executive Officer, VSPARTICLE     |      |
+|      | **Intelligent Bio-Materials for a Regenerative Future** by Maurizio Montalti, Co-founder and Chairman, Mogu     |      |
+|      | **An Alternative to Palm Oil Exists** by Shara Ticku, Co-founder and Chief Executive Officer, C16 Biosciences     |      |
 |1855H–1900H     | **Innovation Insights: Unilever**     |      |
 | 1900H–1930H     | Closing     |    |
 
