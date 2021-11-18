@@ -63,16 +63,6 @@ sections:
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
   - infopic:
-      title: SHE LOVES TECH Conference
-      subtitle: "PARTNER EVENT: 12 Nov"
-      description: SWITCH is proud to partner with She Loves Tech to bring the annual
-        thought leaderswhip summit for women and technology to all attendees of
-        SWITCH this year!
-      button: Learn more
-      url: /she-loves-tech-2021
-      image: /images/she_loves_tech_web_homepage_banner.png
-      alt: She Loves Tech Conference
-  - infopic:
       title: Watch the Grand Finals at SWITCH!
       subtitle: SLINGSHOT 2021
       description: Cheer on and connect with promising deep tech startups with
