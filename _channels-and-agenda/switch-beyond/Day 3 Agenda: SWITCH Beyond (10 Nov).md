@@ -41,8 +41,14 @@ How will emerging technologies change the way we live, work and interact in the 
 |1615H–1620H     | **Innovation Insights: Carro**     |      |
 | 1620H–1650H     | SEA e-Conomy 2021 **_(Hosted by Google-Bain-Temasek)_**     | Panel    |
 |1650H–1655H     | **Innovation Insights: Rhodium x JW Marriot**     |      |
-| 1700H–1720H     | Panel    | Panel     |
-| 1720H–1855H     | Co-Designing our Future with Nature  **_(Hosted by Hello Tomorrow Asia Pacific)_**    | Panels     |
+| 1700H–1720H     | Mind Your Materials: 2D & Graphene    | Panel     |
+| 1720H–1855H     | **Start of Hello Tomorrow Asia Pacific Summit: Co-Designing our Future with Nature  _(Hosted by Hello Tomorrow Asia Pacific)_**   |      |
+|      | Nature Co-Design: A Revolution in the Making      |      |
+|      | Biology Would Free Manufacturers from Petrochemicals     |      |
+|      | Solving Global Problems by Revolutionising Material Development    |      |
+|      | Intelligent Bio-Materials for a Regenerative Future      |      |
+|      | An Alternative to Palm Oil Exists    |      |
+|      | **End of Hello Tomorrow Asia Pacific Summit: Co-Designing our Future with Nature  _(Hosted by Hello Tomorrow Asia Pacific)_**    |      |
 |1855H–1900H     | **Innovation Insights: Unilever**     |      |
 | 1900H–1930H     | Closing     |    |
 
