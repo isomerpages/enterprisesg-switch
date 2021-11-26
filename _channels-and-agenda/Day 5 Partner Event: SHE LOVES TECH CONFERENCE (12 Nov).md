@@ -2,7 +2,7 @@
 title: "Day 5 Partner Event: SHE LOVES TECH CONFERENCE (12 Nov)"
 permalink: /she-loves-tech-2021
 ---
-[![She Loves Tech @ SWITCH](/images/she_loves_tech_2021_web_banner.png)](https://www.shelovestech.org/conference)
+![Alt text for image on Isomer site](/images/she_loves_tech_web_homepage_banner.png)
 
 ##### SHE LOVES TECH @ SWITCH
 
