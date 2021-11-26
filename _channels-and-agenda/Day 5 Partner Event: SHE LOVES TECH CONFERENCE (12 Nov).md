@@ -33,5 +33,3 @@ For more information about the agenda and speakers, please visit [shelovestech.o
 | 1430H–1500H     | **Food for Thought: Finding Purpose in a Tech-enabled economy**       | Fireside Chat    |
 | 1500H–1510H     | **She Loves Tech Global Virtual Conference: what to expect**      |      |
 | 1515H     | **End**     |     |
-
-[![She Loves Tech @ SWITCH](/images/she_loves_tech_2021_speakers_portrait_v1.png)](https://www.shelovestech.org/conference)
