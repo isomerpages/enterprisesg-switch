@@ -9,7 +9,7 @@ permalink: /sponsors-partners-2021
 ![SWITCH 2021 Sponsors and Partners](/images/SWITCH_2021_Sponsors_Platinum_v1.png)
 
 ##### Gold Sponsors
-![SWITCH 2021 Sponsors and Partners](/images/SWITCH_2021_Sponsors_Platinum_Foundry_Only_v1.png)
+![SWITCH 2021 Sponsors and Partners](/images/SWITCH_2021_Sponsors_Gold_v2.png)
 
 ##### Silver Sponsors
 ![SWITCH 2021 Sponsors and Partners](/images/SWITCH_2021_Sponsors_Gold_v1.png)
