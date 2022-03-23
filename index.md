@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
-      subtitle: Asia's leading innovation and technology festival | 8–12 November 2021
+      subtitle: Asia's leading innovation and technology festival
       background: /images/SWITCH_2021_Hero_Banner_3e.jpg
-      button: Buy SWITCH PASS
-      url: https://bit.ly/switch2021reg_web
+      button: Get SWITCH PASS
+      url: https://go.gov.sg/switch-events-mar-2022
       key_highlights:
         - title: Events & Initiatives
           description: Year-long Innovation Journey
