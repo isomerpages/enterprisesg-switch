@@ -11,7 +11,7 @@ sections:
       subtitle: Asia's leading innovation and technology festival
       background: /images/SWITCH_2021_Hero_Banner_3e.jpg
       button: Get SWITCH PASS
-      url: https://go.gov.sg/switch-events-mar-2022
+      url: https://go.gov.sg/switch-community-interest-web
       key_highlights:
         - title: Events & Initiatives
           description: Year-long Innovation Journey
@@ -25,6 +25,28 @@ sections:
         - title: SLINGSHOT
           description: Premier startup pitching event
           url: /channels/slingshot-2021/overview
+  - resources:
+      title: News and Happenings
+      subtitle: Explore
+      button: See all
+  - infobar:
+      title: Your gateway to global innovation in Asia
+      subtitle: SWITCH Pass
+      description: Your SWITCH Pass is your passport to a global community of
+        innovators, a year-long programme of innovation-forward meetups, and
+        SWITCH content on-demand
+      button: Get your "SWITCH Pass" today!
+      url: https://go.gov.sg/switch-community-interest-web
+  - infopic:
+      title: Watch the Grand Finals at SWITCH!
+      subtitle: SLINGSHOT 2021
+      description: Cheer on and connect with promising deep tech startups with
+        innovative solutions and technologies, as well as unique business models
+        and high growth potential!
+      button: Learn more
+      url: /channels/slingshot-2021/overview
+      image: /images/SLINGSHOT 2021.jpg
+      alt: SLINGSHOT
   - infopic:
       title: SWITCH 2021 Show Directory
       subtitle: SHOWCASES & AGENDA
@@ -44,14 +66,6 @@ sections:
       url: /channels/switch-beyond-2021/overview
       image: /images/SWITCH Connect 5.jpg
       alt: SWITCH Beyond
-  - infobar:
-      title: Your gateway to global innovation in Asia
-      subtitle: SWITCH Pass
-      description: Your SWITCH Pass is your passport to a global community of
-        innovators, the Flagship SWITCH Conference, and a year-long programme of
-        innovation-forward meetups.
-      button: Get your "SWITCH Pass" today!
-      url: https://bit.ly/switch2021reg_web
   - infopic:
       title: Market access and opportunity
       subtitle: SWITCH Global
@@ -62,20 +76,6 @@ sections:
       url: /channels/switch-global-2021/overview
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
-  - infopic:
-      title: Watch the Grand Finals at SWITCH!
-      subtitle: SLINGSHOT 2021
-      description: Cheer on and connect with promising deep tech startups with
-        innovative solutions and technologies, as well as unique business models
-        and high growth potential!
-      button: Learn more
-      url: /channels/slingshot-2021/overview
-      image: /images/SLINGSHOT 2021.jpg
-      alt: SLINGSHOT
-  - resources:
-      title: News and Happenings
-      subtitle: Explore
-      button: See all
   - infopic:
       title: The Global Innovation Movement
       subtitle: Be part of
