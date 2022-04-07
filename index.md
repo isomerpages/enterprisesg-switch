@@ -25,6 +25,10 @@ sections:
         - title: SLINGSHOT
           description: Premier startup pitching event
           url: /channels/slingshot-2021/overview
+  - resources:
+      title: News and Happenings
+      subtitle: Explore
+      button: See all
   - infopic:
       title: SWITCH 2021 Show Directory
       subtitle: SHOWCASES & AGENDA
@@ -72,10 +76,6 @@ sections:
       url: /channels/slingshot-2021/overview
       image: /images/SLINGSHOT 2021.jpg
       alt: SLINGSHOT
-  - resources:
-      title: News and Happenings
-      subtitle: Explore
-      button: See all
   - infopic:
       title: The Global Innovation Movement
       subtitle: Be part of
