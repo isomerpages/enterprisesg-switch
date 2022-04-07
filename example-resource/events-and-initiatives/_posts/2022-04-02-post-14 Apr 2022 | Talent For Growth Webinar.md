@@ -19,7 +19,7 @@ image: /images/20220414_Session_Banner-Talent_Webinar.png
 |**Date:** | Thursday, 14 April 2022 
 | **Time:**    | 3:00pm–4:30pm (Singapore Time / UTC +8) |
 |**Venue:** | [community.switchsg.org](https://community.switchsg.org) (Virtual)
-|**Notes:** | This session is available for SWITCH Community participants with a valid SWITCH Pass. Need a Pass? [Click here](https://go.gov.sg/switch-community-interest-web)
+|**Register** | [Click here](https://switchsg.hubilo.com/ticketing/#/ticket)
 
 #### About
 
