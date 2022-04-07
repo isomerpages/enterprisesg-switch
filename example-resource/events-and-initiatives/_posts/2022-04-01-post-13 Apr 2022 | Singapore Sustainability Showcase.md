@@ -10,7 +10,6 @@ description: Looking to know more about innovation opportunities and
   solutions for the Eureka Clusters Sustainability Call!
 image: /images/20220413_Session_Banner-Sustainability_Showcase.png
 ---
-
 ![Singapore Sustainability Showcase (13 Apr 2022)](/images/20220413_Session_Banner-Sustainability_Showcase.png)
 #### Event details
 
@@ -20,7 +19,7 @@ image: /images/20220413_Session_Banner-Sustainability_Showcase.png
 |**Date:** | Wednesday, 13 April 2022 
 | **Time:**    | 4:00pm–6:00pm (Singapore Time / UTC +8) |
 |**Venue:** | [community.switchsg.org](https://community.switchsg.org) (Virtual)
-|**Notes:** | This session is available for SWITCH Community participants with a valid SWITCH Pass. Need a Pass? [Click here](https://go.gov.sg/switch-community-interest-web)
+|**Register:** | [Click here](https://switchsg.hubilo.com/ticketing/#/ticket)
 
 #### About
 
