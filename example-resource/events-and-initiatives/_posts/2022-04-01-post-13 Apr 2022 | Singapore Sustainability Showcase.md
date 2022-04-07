@@ -1,6 +1,6 @@
 ---
 title: 13 Apr 2022 | Singapore Sustainability Showcase
-permalink: /events/permalink
+permalink: /events/singapore-sustainability-showcase
 date: 2022-04-01
 layout: post
 description: Looking to know more about innovation opportunities and
@@ -10,6 +10,7 @@ description: Looking to know more about innovation opportunities and
   solutions for the Eureka Clusters Sustainability Call!
 image: /images/20220413_Session_Banner-Sustainability_Showcase.png
 ---
+
 ![Singapore Sustainability Showcase (13 Apr 2022)](/images/20220413_Session_Banner-Sustainability_Showcase.png)
 #### Event details
 
