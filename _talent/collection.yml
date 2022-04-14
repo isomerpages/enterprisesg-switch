@@ -2,6 +2,7 @@ collections:
   talent:
     output: true
     order:
+      - job-shadowing-internship/overview.md
       - job-shadowing-internship/.keep
       - job-shadowing-internship/join-us.md
       - job-shadowing-internship/faq.md
