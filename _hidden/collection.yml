@@ -2,7 +2,6 @@ collections:
   hidden:
     output: true
     order:
-      - overview.md
       - Competition Timeline.md
       - Disrupt & Gear Up.md
       - test-agenda.md
