@@ -10,7 +10,7 @@ description: Interested to expand your business overseas and considering India
   workforce in!
 image: /images/20220421_Session_Banner-SKUAD_Webinar.png
 ---
-![SKUAD Webinar (21 Apr 2022)](/images/20220421_Session_Banner-SKUAD_Webinar.png)
+![Skuad's event: India becoming a magnet for ambitious Singaporean and South East Asian companies.](/images/Skuad%20(new)%20PSB_2%20(3).png)
 #### Event details
 
 
@@ -30,4 +30,4 @@ Interested to expand your business overseas and considering India as your destin
 
 * **Tulika Tripathi**, Founder & CEO, **Snaphunt**
 * **Suresh Vasudevan**, Sr. Director of Engineering, **Carousell**
-* **Koh Jing How**, Head of Sales, **Skuad** (Moderator)
+* **Koh Jing How**, Head of Sales, **Skuad** (Moderator) 
