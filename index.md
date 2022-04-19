@@ -25,6 +25,10 @@ sections:
         - title: SLINGSHOT
           description: Premier startup pitching event
           url: /channels/slingshot-2021/overview
+  - resources:
+      title: News and Happenings
+      subtitle: Explore
+      button: See all
   - infobar:
       title: Your gateway to global innovation in Asia
       subtitle: SWITCH Pass
@@ -33,10 +37,6 @@ sections:
         SWITCH content on-demand
       button: Get your "SWITCH Pass" today!
       url: https://go.gov.sg/switch-community-interest-web
-  - resources:
-      title: News and Happenings
-      subtitle: Explore
-      button: See all
   - infopic:
       title: Watch the Grand Finals at SWITCH!
       subtitle: SLINGSHOT 2021
