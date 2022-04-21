@@ -12,16 +12,12 @@ links:
   - title: CHANNELS AND AGENDA
     url: /
     sublinks:
-      - title: SWITCH Beyond (8–10 Nov)
+      - title: SWITCH Beyond
         url: /channels/switch-beyond-2021/overview
-      - title: SWITCH Global (8–10 Nov)
+      - title: SWITCH Global
         url: /channels/switch-global-2021/overview
-      - title: SLINGSHOT 2021 (8–10 Nov)
+      - title: SLINGSHOT
         url: /channels/slingshot-2021/overview
-      - title: "DAY 4: Partner Events (11 Nov)"
-        url: /sme-day-2021
-      - title: "DAY 5: SHE LOVES TECH (12 Nov)"
-        url: /she-loves-tech-2021
   - title: COMMUNITY
     url: /
     sublinks:
