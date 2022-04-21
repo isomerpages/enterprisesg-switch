@@ -25,10 +25,6 @@ sections:
         - title: SLINGSHOT
           description: Premier startup pitching event
           url: /channels/slingshot-2021/overview
-  - resources:
-      title: News and Happenings
-      subtitle: Explore
-      button: See all
   - infobar:
       title: Your gateway to global innovation in Asia
       subtitle: SWITCH Pass
@@ -37,8 +33,12 @@ sections:
         SWITCH content on-demand
       button: Get your "SWITCH Pass" today!
       url: https://go.gov.sg/switch-community-interest-web
+  - resources:
+      title: News and Happenings
+      subtitle: Explore
+      button: See all
   - infopic:
-      title: Watch the Grand Finals at SWITCH!
+      title: Re-watch Watch the SLINGSHOT 2021 Grand Finals
       subtitle: SLINGSHOT 2021
       description: Cheer on and connect with promising deep tech startups with
         innovative solutions and technologies, as well as unique business models
@@ -47,6 +47,15 @@ sections:
       url: /channels/slingshot-2021/overview
       image: /images/SLINGSHOT 2021.jpg
       alt: SLINGSHOT
+  - infopic:
+      title: The Global Innovation Movement
+      subtitle: Be part of
+      description: SWITCH brings together leaders, entrepreneurs, creators,
+        accelerators and investors from the Global-Asia innovation ecosystem.
+      button: Learn more
+      url: /about-us/switch-2021
+      image: /images/SWITCH_Main.jpg
+      alt: SWITCH Connects you globally
   - infopic:
       title: SWITCH 2021 Show Directory
       subtitle: SHOWCASES & AGENDA
@@ -76,13 +85,4 @@ sections:
       url: /channels/switch-global-2021/overview
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
-  - infopic:
-      title: The Global Innovation Movement
-      subtitle: Be part of
-      description: SWITCH brings together leaders, entrepreneurs, creators,
-        accelerators and investors from the Global-Asia innovation ecosystem.
-      button: Learn more
-      url: /about-us/switch-2021
-      image: /images/SWITCH_Main.jpg
-      alt: SWITCH Connects you globally
 ---
