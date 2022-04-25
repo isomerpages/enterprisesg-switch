@@ -30,18 +30,30 @@ Learn more any apply at the [SLINGSHOT 2022 challenge page](https://slingshot.ag
 * Health and Biomedical
 * Manufacturing, Trade and Connectivity
 
+
+
+| ![SLINGSHOT Domain Transformative Digital Technology](/images/SLINGSHOT_Thumbnail_Domain_Transformative_Digital_Tech.jpg) | ![SLINGSHOT Domain Environment Energy and Green Technology](/images/SLINGSHOT_Thumbnail_Domain_Environment_Energy_Green_Tech.jpg) |
+| -------- | -------- |
+| ![SLINGSHOT Domain Consumer Media Goods and Services](/images/SLINGSHOT_Thumbnail_Domain_Consumer_Media_Goods_Services.jpg)     | ![SLINGSHOT Domain Health and Biomedical](/images/SLINGSHOT_Thumbnail_Domain_Health_Biomedical.jpg)     |
+| ![SLINGSHOT Domain Manufacturing Trade Connectivity](/images/SLINGSHOT_Thumbnail_Domain_Manufacturing_Trade_Connectivity.jpg)     |      |
+
 ***
 ##### Why Join?
 
 Vie for a chance to be part of SLINGSHOT Top 50 Global Startups and get immersed in Asia’s leading startup community here in Singapore.
 
-Join us for the SLINGSHOT Experience!
+**Join us for the SLINGSHOT Experience!**
 
+***
 
-
-| Column 1 | **Pitch and win**. Present to a global audience at the Finals and win up to S$1.2 million (US$800,000) worth of grant prizes |
+| ![SLINGSHOT Pitch and Win](/images/SLINGSHOT_Icon_Pitch_and_Win.png) | **Pitch and win**. Present to a global audience at the Finals and win up to S$1.2 million (US$800,000) worth of grant prizes |
 | -------- | -------- |
-| Text     | **Network.** Meet global leading investors, accelerators and corporates from regional demo days, deal-mixers, and qualifiers through to the finals     |
-| Text     | Text     |
-| Text     | Text     |
+| ![SLINGSHOT Network](/images/SLINGSHOT_Icon_Network.png)     | **Network.** Meet global leading investors, accelerators and corporates from regional demo days, deal-mixers, and qualifiers through to the finals     |
+| ![SLINGSHOT Immerse](/images/SLINGSHOT_Icon_Immerse.png)     | **Immerse.** Exclusive pitch-coaching, corporate site visits, lab crawls in the vibrant Singapore startup ecosystem    |
+| ![SLINGSHOT Collaborate](/images/SLINGSHOT_Icon_Collaborate.png)     | **Collaborate.** Ideate and co-innovate with MNCs and homegrown players to fast-track your ideas into the market     |
 
+***
+
+Learn more any apply at the [SLINGSHOT 2022 challenge page](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022).
+
+*Applications are open from 25 Apr–24 Jul 2022.*
