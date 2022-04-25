@@ -28,9 +28,9 @@ sections:
   - infopic:
       title: SLINGSHOT 2022 is open for applications
       subtitle: Startup Pitching Competition
-      description: Compete for exciting prizes, meet investors and accelerators, and
-        anchor your startup in Singapore–one of the world’s top innovation
-        nodes!
+      description: Compete for exciting opportunities, meet investors and
+        accelerators, and anchor your startup in Singapore–one of the world’s
+        top innovation nodes!
       button: Learn more
       url: /slingshot-2022
       image: /images/slingshot_2021_winner_quantumcyte_web.jpeg
