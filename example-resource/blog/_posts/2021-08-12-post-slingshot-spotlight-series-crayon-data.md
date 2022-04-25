@@ -4,7 +4,7 @@ date: 2021-08-12
 permalink: /blog/slingshot-spotlight-series-crayon-data
 layout: post
 ---
-*The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2021, please [click here.](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&amp;utm_source=www.switchsg.org&amp;utm_medium=referral&amp;utm_campaign=slingshot2021)*
+*The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2022, please [click here.](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022)*
 
 # Crayon Data
 ### A big data and artificial intelligence (AI) startup with a mission to help businesses provide personalization experiences to their customers through their flagship product maya.ai 
