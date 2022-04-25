@@ -1,5 +1,5 @@
 collections:
-  channels-and-agenda:
+  channels:
     output: true
     order:
       - SWITCH Beyond.md
