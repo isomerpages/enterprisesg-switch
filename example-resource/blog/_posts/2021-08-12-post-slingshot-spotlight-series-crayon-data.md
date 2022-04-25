@@ -58,8 +58,6 @@ Going into the competition, one would assume that the competition would probably
 So the advice I’d give would be that if you are looking to expand into new markets, this will be a great event to connect with relevant target audiences in their clients portfolio. It would be great if this was physically done, but there is no drop in the quality of the event even though it’s done virtually!
 
 ---
-*This article was brought to you by SLINGSHOT 2021. Applications for this year’s cohort has been extended to 12 Aug 2021! Don’t miss your chance to expand your horizons and open the door to internationalisation opportunities for your startup just like Crayon Data did.*
+*This article was brought to you by SLINGSHOT 2022. Don’t miss your chance to expand your horizons and open the door to internationalisation opportunities for your startup just like Crayon Data did.*
 
-*[Apply now](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&amp;utm_source=www.switchsg.org&amp;utm_medium=referral&amp;utm_campaign=slingshot2021) and submit your pitch today.*
-
-*To learn more about SLINGSHOT, please [click here](/highlights/slingshot/2021/overview).*
+*Applications for this year’s cohort is from 25 Apr–24 Jul 2022. [Click here](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022) to visit the challenge page to learn more and apply.*
