@@ -9,7 +9,7 @@ third_nav_title: SLINGSHOT
 ![SLINGSHOT 2022 deep tech startup competitions applications are open](/images/SLINGSHOT/SLINGSHOT%202022/Slingshot2022_Banner_Rectangle_with_closing_date.jpg)
 
 # Asia's most exciting deep tech startup competition is back!
-Calling all startups: Singapore is looking for new and innovative startups to compete in SLINGSHOT 2022. Stand a chance to win over **S$1.2 million (US $800,000)** in attractive prizes and make Singapore the next destination to expand your business.
+Calling all startups: Singapore is looking for new and innovative startups to compete in SLINGSHOT 2022. Stand a chance to win over **S$1.2m (US $800,000)** in attractive prizes and make Singapore the next destination to expand your business.
 
 In its sixth addition, SLINGSHOT is looking for startups in **five emerging challenge domains** to showcase your game-changing solutions and products.
 
