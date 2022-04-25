@@ -4,7 +4,7 @@ date: 2021-07-16
 permalink: /blog/slingshot-spotlight-series-clobotics
 layout: post
 ---
-*The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the SLINGSHOT alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2022, please [click here.](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021)*
+*The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the SLINGSHOT alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2022, please [click here.](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022)*
 
 # Clobotics
 ### The computer vision startup that wants to digitize the physical world and turn sight into insight.
