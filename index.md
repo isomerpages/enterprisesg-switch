@@ -25,18 +25,6 @@ sections:
         - title: SLINGSHOT
           description: Premier startup pitching event
           url: /channels/slingshot-2021/overview
-  - infobar:
-      title: Your gateway to global innovation in Asia
-      subtitle: SWITCH Pass
-      description: Your SWITCH Pass is your passport to a global community of
-        innovators, a year-long programme of innovation-forward meetups, and
-        SWITCH content on-demand
-      button: Get your "SWITCH Pass" today!
-      url: https://go.gov.sg/switch-community-interest-web
-  - resources:
-      title: News and Happenings
-      subtitle: Explore
-      button: See all
   - infopic:
       title: Re-watch Watch the SLINGSHOT 2021 Grand Finals
       subtitle: SLINGSHOT 2021
@@ -57,14 +45,24 @@ sections:
       image: /images/SWITCH_Main.jpg
       alt: SWITCH Connects you globally
   - infopic:
-      title: SWITCH 2021 Show Directory
-      subtitle: SHOWCASES & AGENDA
-      description: Visit the Show Directory to see more than 160 companies that are
-        showcasing their solutions and services on the SWITCH Platform!
-      button: Visit
-      url: https://directory.switchsg.org
-      image: /images/Website_Banner_Show_Directory_var_2.png
-      alt: SWITCH 2021 Show Directory
+      title: "SLINGSHOT 2021 Grand Winner: QuantumCyte"
+      subtitle: SLINGSHOT Feature
+      description: Biotech startup, QuantumCyte, have been busy growing, developing,
+        and meeting investors since SLINGSHOT. Find out how the competition
+        opened doors for them.
+      button: Read more
+      url: /blog/slingshot-spotlight-series-quantumcyte
+      image: /images/Article Images/Article
+        QuantumCyte/SLINGSHOT_QuantumCyte_Team_Picture.jpg
+      alt: SLINGSHOT 2021 QuantumCyte
+  - infobar:
+      title: Your gateway to global innovation in Asia
+      subtitle: SWITCH Pass
+      description: Your SWITCH Pass is your passport to a global community of
+        innovators, a year-long programme of innovation-forward meetups, and
+        SWITCH content on-demand
+      button: Get your "SWITCH Pass" today!
+      url: https://go.gov.sg/switch-community-interest-web
   - infopic:
       title: "Meet the speakers at SWITCH Beyond "
       subtitle: SWITCH BEYOND
@@ -85,4 +83,8 @@ sections:
       url: /channels/switch-global-2021/overview
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
+  - resources:
+      title: News and Happenings
+      subtitle: Explore
+      button: See all
 ---
