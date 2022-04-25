@@ -2,6 +2,7 @@ collections:
   channels-and-agenda:
     output: true
     order:
+      - SLINGSHOT 2021 Recap.md
       - SLINGSHOT 2022.md
       - SWITCH Global.md
       - SWITCH Beyond.md
