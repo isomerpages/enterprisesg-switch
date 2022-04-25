@@ -4,7 +4,7 @@ date: 2021-07-30
 permalink: /blog/slingshot-spotlight-series-nextbillionai
 layout: post
 ---
-*The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2021, please [click here.](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021)*
+*The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2022, please [click here.](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021)*
 # NextBillion.ai
 ### This startup wants to use their spatial data and AI expertise to help enterprises build high performance and configurable maps to create more operational saving and time efficiencies. 
 
@@ -59,10 +59,8 @@ The advice I would give is this: Make the most of your three months in SLINGSHOT
 
 ***
 
-*This article was brought to you by SLINGSHOT 2021. Applications for this year’s cohort is closing on 1 Aug 2021, so do not be late! Like NextBillion.ai, your startup journey could lead you to meeting countless corporate and investment opportunities, as well as pitching to the global innovation community.*
+*This article was brought to you by SLINGSHOT 2022. Like NextBillion.ai, your startup journey could lead you to meeting countless corporate and investment opportunities, as well as pitching to the global innovation community.*
 
 *Ready to make the pitch of a lifetime?*
 
-*[Apply now](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021) and submit your pitch today.*
-
-*To learn more about SLINGSHOT, please [click here](/highlights/slingshot/2021/overview).*
+*Applications for this year’s cohort is from 25 Apr–24 Jul 2022. [Click here](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022) to visit the challenge page to learn more and apply.*
