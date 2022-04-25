@@ -56,7 +56,7 @@ sections:
         QuantumCyte/SLINGSHOT_QuantumCyte_Team_Picture.jpg
       alt: SLINGSHOT 2021 QuantumCyte
   - infobar:
-      title: Your gateway to global innovation in Asia
+      title: Year-long innovation movement
       subtitle: SWITCH Pass
       description: Your SWITCH Pass is your passport to a global community of
         innovators, a year-long programme of innovation-forward meetups, and
@@ -64,8 +64,8 @@ sections:
       button: Get your "SWITCH Pass" today!
       url: https://go.gov.sg/switch-community-interest-web
   - infopic:
-      title: "Meet the speakers at SWITCH Beyond "
-      subtitle: SWITCH BEYOND
+      title: Ideas that shape tomorrow
+      subtitle: "Channel: SWITCH BEYOND"
       description: Connect with over 300 international speakers from vanguard and
         emergent industries and research institutes at the SWITCH Beyond
         conference channel.
@@ -74,8 +74,8 @@ sections:
       image: /images/SWITCH Connect 5.jpg
       alt: SWITCH Beyond
   - infopic:
-      title: Market access and opportunity
-      subtitle: SWITCH Global
+      title: Connect to market access and opportunities
+      subtitle: "Channel: SWITCH Global"
       description: Expand your network into the global market at SWITCH Global’s
         Market Access Sessions and Masterclasses tailored for business growth
         and internationalisation.
