@@ -32,7 +32,7 @@ sections:
         anchor your startup in Singapore–one of the world’s top innovation
         nodes!
       button: Learn more
-      url: /slingshot2022
+      url: /slingshot-2022
       image: /images/slingshot_2021_winner_quantumcyte_web.jpeg
       alt: SLINGSHOT
   - infopic:
