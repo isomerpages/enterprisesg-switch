@@ -84,4 +84,4 @@ However, when you continue to hold onto that vision, you will soon attract like-
 
 *This article was brought to you by SLINGSHOT 2022. Don’t miss your chance to expand your startup horizons and earn countless investment opportunities, just like QuantumCyte.* 
  
-*Applications for this year’s cohort is from 25 Apr–24 Jul 2022. [Click here](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022) to visit the challenge page to learn more and apply.
+*Applications for this year’s cohort is from 25 Apr–24 Jul 2022. [Click here](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022) to visit the challenge page to learn more and apply.*
