@@ -1,5 +1,5 @@
 collections:
-  channels-and-agenda-2021:
+  2021-channels-and-agenda:
     output: true
     order:
       - switch-beyond/.keep
