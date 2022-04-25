@@ -26,11 +26,11 @@ sections:
           description: Premier startup pitching event
           url: /channels/slingshot-2021/overview
   - infopic:
-      title: Re-watch Watch the SLINGSHOT 2021 Grand Finals
-      subtitle: SLINGSHOT 2021
-      description: Cheer on and connect with promising deep tech startups with
-        innovative solutions and technologies, as well as unique business models
-        and high growth potential!
+      title: SLINGSHOT 2022 is open for applications
+      subtitle: Startup Pitching Competition
+      description: Compete for exciting prizes, meet investors and accelerators, and
+        anchor your startup in Singapore–one of the world’s top innovation
+        nodes!
       button: Learn more
       url: /channels/slingshot-2021/overview
       image: /images/SLINGSHOT 2021.jpg
