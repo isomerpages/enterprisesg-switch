@@ -17,20 +17,12 @@ Regardless of where you're from, this is your chance to showcase your solution i
 *** 
 ##### The Application Phase for SLINGSHOT 2022 is now OPEN!
 
-Learn more any apply at the [SLINGSHOT 2022 challenge page](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022).
+Learn more and apply at the [SLINGSHOT 2022 challenge page](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022).
 
 *Applications are open from 25 Apr–24 Jul 2022.*
 
 ***
 ##### 2022 Challenge Domains
-
-* Transformative Digital Technologies
-* Environment, Energy and Green Technology
-* Consumer Media, Good and Services
-* Health and Biomedical
-* Manufacturing, Trade and Connectivity
-
-
 
 | ![SLINGSHOT Domain Transformative Digital Technology](/images/SLINGSHOT_Thumbnail_Domain_Transformative_Digital_Tech.jpg) | ![SLINGSHOT Domain Environment Energy and Green Technology](/images/SLINGSHOT_Thumbnail_Domain_Environment_Energy_Green_Tech.jpg) |
 | -------- | -------- |
@@ -54,6 +46,6 @@ Vie for a chance to be part of SLINGSHOT Top 50 Global Startups and get immersed
 
 ***
 
-Learn more any apply at the [SLINGSHOT 2022 challenge page](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022).
+Learn more and apply at the [SLINGSHOT 2022 challenge page](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022).
 
 *Applications are open from 25 Apr–24 Jul 2022.*
