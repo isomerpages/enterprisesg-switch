@@ -2,6 +2,7 @@ collections:
   channels-and-agenda:
     output: true
     order:
+      - SLINGSHOT/SLINGSHOT 2022.md
       - SLINGSHOT/.keep
       - Judges and Mentors.md
       - SLINGSHOT 2021 Recap.md
