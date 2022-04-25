@@ -1,0 +1,4 @@
+collections:
+  channels-and-agenda:
+    output: true
+    order: []
