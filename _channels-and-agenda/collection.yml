@@ -2,4 +2,5 @@ collections:
   channels-and-agenda:
     output: true
     order:
+      - SWITCH Global.md
       - SWITCH Beyond.md
