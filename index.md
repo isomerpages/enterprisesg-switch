@@ -41,7 +41,7 @@ sections:
       description: SWITCH brings together leaders, entrepreneurs, creators,
         accelerators and investors from the Global-Asia innovation ecosystem.
       button: Learn more
-      url: /about-us/switch-2021
+      url: /about
       image: /images/SWITCH_Main.jpg
       alt: SWITCH Connects you globally
   - infopic:
