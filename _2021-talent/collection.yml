@@ -1,5 +1,5 @@
 collections:
-  talent:
+  2021-talent:
     output: true
     order:
       - job-shadowing-internship/overview.md

@@ -1,7 +1,9 @@
 ---
-title: SWITCH 2020
+title: SWITCH 2020 Impact
 permalink: /about-us/switch-2020
+description: ""
 ---
+
 # The SWITCH Impact
 ![](/images/impact-02.jpg)
 

@@ -1,5 +1,5 @@
 collections:
-  gear-up-slingshot-2021:
+  2021-gear-up-slingshot:
     output: true
     order:
       - overview.md

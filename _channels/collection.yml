@@ -1,0 +1,10 @@
+collections:
+  channels:
+    output: true
+    order:
+      - SWITCH Beyond.md
+      - SWITCH Global.md
+      - SLINGSHOT/.keep
+      - SLINGSHOT/SLINGSHOT 2022.md
+      - SLINGSHOT/SLINGSHOT 2021 Recap.md
+      - SLINGSHOT/Judges and Mentors.md

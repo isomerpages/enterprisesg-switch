@@ -8,6 +8,8 @@ description: Learn more about the innovation of SLINGSHOT 2021 Grand Winner,
 image: /images/Article Images/Article
   QuantumCyte/SLINGSHOT_QuantumCyte_Team_Picture.jpg
 ---
+*The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the SLINGSHOT alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2022, please [click here](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022).*
+
 ![SLINGSHOT 2021 Grand Winner QuantumCyte](/images/Article%20Images/Article%20QuantumCyte/SLINGSHOT_QuantumCyte_2022_Grand_Prize_Winner.png)
 <sub>QuantumCyte being crowned Grand Winner at SLINGSHOT 2021. Image courtesy of SLINGSHOT</sub>
 
@@ -82,7 +84,4 @@ However, when you continue to hold onto that vision, you will soon attract like-
 
 *This article was brought to you by SLINGSHOT 2022. Don’t miss your chance to expand your startup horizons and earn countless investment opportunities, just like QuantumCyte.* 
  
-*Applications for this year’s cohort will begin in end April 2022! Registration of interest for SLINGSHOT 2022 is now open. [Click here](https://web.micepad.co/slingshot-2022-interest/registration?promoCode=StartupInterest) to register and stay in the loop for our launch in April.* 
- 
- 
-
+*Applications for this year’s cohort is from 25 Apr–24 Jul 2022. [Click here](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022) to visit the challenge page to learn more and apply.*

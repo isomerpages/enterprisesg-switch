@@ -4,7 +4,7 @@ date: 2021-07-02
 permalink: /blog/slingshot-spotlight-series-naluri
 layout: post
 ---
-*The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2021, please [click here.](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021)*
+*The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2021, please [click here.](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022)*
 # Naluri
 ### The startup that wants to provide effective, affordable, and accessible chronic disease and mental healthcare to all.
 
@@ -51,10 +51,8 @@ During Azran’s time at iflix, he faced rejection more than 115 times before fi
 
 ***
 
-*This article was brought to you by SLINGSHOT 2021. As we gear up towards this year’s edition, don’t miss your chance to apply for Asia’s most exciting deep tech pitching competition! Like Naluri, your SLINGSHOT journey could open doors to new corporate and investment opportunities!*
+*This article was brought to you by SLINGSHOT 2022. As we gear up towards this year’s edition, don’t miss your chance to apply for Asia’s most exciting deep tech pitching competition! Like Naluri, your SLINGSHOT journey could open doors to new corporate and investment opportunities!*
 
 *Ready to make the pitch of a lifetime?*
 
-*[Apply now](https://slingshot.agorize.com/2021-edition?t=Wpdpp6Sn_r24kjBBmPXsUg&utm_source=www.switchsg.org&utm_medium=referral&utm_campaign=slingshot2021) and submit your pitch today.*
-
-*To learn more about SLINGSHOT, please [click here](/highlights/slingshot/2021/overview).*
+*Applications for this year’s cohort is from 25 Apr–24 Jul 2022. [Click here](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022) to visit the challenge page to learn more and apply.*

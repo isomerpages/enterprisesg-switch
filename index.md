@@ -25,27 +25,15 @@ sections:
         - title: SLINGSHOT
           description: Premier startup pitching event
           url: /channels/slingshot-2021/overview
-  - infobar:
-      title: Your gateway to global innovation in Asia
-      subtitle: SWITCH Pass
-      description: Your SWITCH Pass is your passport to a global community of
-        innovators, a year-long programme of innovation-forward meetups, and
-        SWITCH content on-demand
-      button: Get your "SWITCH Pass" today!
-      url: https://go.gov.sg/switch-community-interest-web
-  - resources:
-      title: News and Happenings
-      subtitle: Explore
-      button: See all
   - infopic:
-      title: Re-watch Watch the SLINGSHOT 2021 Grand Finals
-      subtitle: SLINGSHOT 2021
-      description: Cheer on and connect with promising deep tech startups with
-        innovative solutions and technologies, as well as unique business models
-        and high growth potential!
+      title: SLINGSHOT 2022 is open for applications
+      subtitle: Startup Pitching Competition
+      description: Compete for exciting opportunities, meet investors and
+        accelerators, and anchor your startup in Singapore–one of the world’s
+        top innovation nodes!
       button: Learn more
-      url: /channels/slingshot-2021/overview
-      image: /images/SLINGSHOT 2021.jpg
+      url: /slingshot-2022
+      image: /images/slingshot_2021_winner_quantumcyte_web.jpeg
       alt: SLINGSHOT
   - infopic:
       title: The Global Innovation Movement
@@ -57,17 +45,27 @@ sections:
       image: /images/SWITCH_Main.jpg
       alt: SWITCH Connects you globally
   - infopic:
-      title: SWITCH 2021 Show Directory
-      subtitle: SHOWCASES & AGENDA
-      description: Visit the Show Directory to see more than 160 companies that are
-        showcasing their solutions and services on the SWITCH Platform!
-      button: Visit
-      url: https://directory.switchsg.org
-      image: /images/Website_Banner_Show_Directory_var_2.png
-      alt: SWITCH 2021 Show Directory
+      title: "SLINGSHOT 2021 Grand Winner: QuantumCyte"
+      subtitle: SLINGSHOT Feature
+      description: Biotech startup, QuantumCyte, have been busy growing, developing,
+        and meeting investors since SLINGSHOT. Find out how the competition
+        opened doors for them.
+      button: Read more
+      url: /blog/slingshot-spotlight-series-quantumcyte
+      image: /images/Article Images/Article
+        QuantumCyte/SLINGSHOT_QuantumCyte_Team_Picture.jpg
+      alt: SLINGSHOT 2021 QuantumCyte
+  - infobar:
+      title: Year-long innovation movement
+      subtitle: SWITCH Pass
+      description: Your SWITCH Pass is your passport to a global community of
+        innovators, a year-long programme of innovation-forward meetups, and
+        SWITCH content on-demand
+      button: Get your "SWITCH Pass" today!
+      url: https://go.gov.sg/switch-community-interest-web
   - infopic:
-      title: "Meet the speakers at SWITCH Beyond "
-      subtitle: SWITCH BEYOND
+      title: Ideas that shape tomorrow
+      subtitle: "Channel: SWITCH BEYOND"
       description: Connect with over 300 international speakers from vanguard and
         emergent industries and research institutes at the SWITCH Beyond
         conference channel.
@@ -76,8 +74,8 @@ sections:
       image: /images/SWITCH Connect 5.jpg
       alt: SWITCH Beyond
   - infopic:
-      title: Market access and opportunity
-      subtitle: SWITCH Global
+      title: Connect to market access and opportunities
+      subtitle: "Channel: SWITCH Global"
       description: Expand your network into the global market at SWITCH Global’s
         Market Access Sessions and Masterclasses tailored for business growth
         and internationalisation.
@@ -85,4 +83,8 @@ sections:
       url: /channels/switch-global-2021/overview
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
+  - resources:
+      title: News and Happenings
+      subtitle: Explore
+      button: See all
 ---

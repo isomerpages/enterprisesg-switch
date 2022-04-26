@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - SFFxSWITCH.md
       - Competition Timeline.md
       - Disrupt & Gear Up.md
       - test-agenda.md
