@@ -18,13 +18,13 @@ sections:
           url: /example-resource/events-and-initiatives/
         - title: SWITCH Beyond
           description: Innovation & Technology Trends
-          url: /channels/switch-beyond-2021/overview
+          url: /switch-beyond-2022
         - title: SWITCH Global
           description: Gateway to global markets
-          url: /channels/switch-global-2021/overview
+          url: /switch-global-2022
         - title: SLINGSHOT
           description: Premier startup pitching event
-          url: /channels/slingshot-2021/overview
+          url: /slingshot-2022
   - infopic:
       title: SLINGSHOT 2022 is open for applications
       subtitle: Startup Pitching Competition
