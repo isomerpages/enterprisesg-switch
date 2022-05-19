@@ -5,9 +5,7 @@ date: 2022-04-06
 layout: post
 description: ""
 ---
-
-
-![Skuad's event: India becoming a magnet for ambitious Singaporean and South East Asian companies.](/images/Skuad%20(new)%20PSB_2%20(3).png)
+![ASTAR Singapore-Chongqing 3D Printing Event Session ](/images/CHINA%20EVENT%20SESSSION%20BANNER.png)
 #### Event details
 
 
@@ -20,11 +18,13 @@ description: ""
 
 #### About
 
-Interested to expand your business overseas and considering India as your destination? Learn from industry practitioners in this session on why India is an ideal location to expand your business to or build a global workforce in!
+Calling all Additive Manufacturing and 3D Printing solution providers seeking collaboration opportunities in China!
 
-#### Hear from:
-* **Sundeep Sahi**, Founder & CEO, **Skuad**
+Catch this virtual Additive 3D Printing Business networking event organised by A*Star Collaborative Commerce Marketplace (ACCM) in collaboration with Chongqing Connectivity Bureau (CCIB) and Technology Service Market Chongqing (TSMC)!
 
-* **Tulika Tripathi**, Founder & CEO, **Snaphunt**
+#### Programmes:
+* **Industry Expert Insights** - HP Inc. (Greater China) covering Singapore-Chongqing cross-border business opportunities
+
+* **Singapore and Chongqing companies tech/business pitch** 
 * **Suresh Vasudevan**, Sr. Director of Engineering, **Carousell**
 * **Koh Jing How**, Head of Sales, **Skuad** (Moderator)
