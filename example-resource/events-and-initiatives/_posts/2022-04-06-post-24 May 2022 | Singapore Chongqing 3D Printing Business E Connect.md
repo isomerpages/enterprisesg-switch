@@ -22,9 +22,13 @@ Calling all Additive Manufacturing and 3D Printing solution providers seeking co
 
 Catch this virtual Additive 3D Printing Business networking event organised by A*Star Collaborative Commerce Marketplace (ACCM) in collaboration with Chongqing Connectivity Bureau (CCIB) and Technology Service Market Chongqing (TSMC)!
 
+Hear from experts and learn more about Chongqing-Singapore cross-border business opportunities, available cross-border grant schemes and networking opportunities.
+
+Note: This session is available for SWITCH Pass Holders to attend and mostly conducted in Mandarin. English translations will not be provided.
+
 #### Programmes:
 * **Industry Expert Insights** - HP Inc. (Greater China) covering Singapore-Chongqing cross-border business opportunities
 
 * **Singapore and Chongqing companies tech/business pitch** 
-* **Suresh Vasudevan**, Sr. Director of Engineering, **Carousell**
-* **Koh Jing How**, Head of Sales, **Skuad** (Moderator)
+* **Singapore-Chongqing grants and policy sharing**
+* **Tech/business matchmaking event follow-up**
