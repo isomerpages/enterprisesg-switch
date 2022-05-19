@@ -5,7 +5,7 @@ date: 2022-04-05
 layout: post
 description: ""
 ---
-![Skuad's event: India becoming a magnet for ambitious Singaporean and South East Asian companies.](/images/Skuad%20(new)%20PSB_2%20(3).png)
+![NUS Industry Roundtable - Sustainability in the Innovation Economy](/images/NUS%20Sustainability%20Roundtable.png)
 #### Event details
 
 
