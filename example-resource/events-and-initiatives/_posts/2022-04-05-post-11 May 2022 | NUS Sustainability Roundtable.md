@@ -5,7 +5,6 @@ date: 2022-04-05
 layout: post
 description: ""
 ---
-
 ![NUS Industry Roundtable - Sustainability in the Innovation Economy](/images/NUS%20Sustainability%20Roundtable.png)
 #### Event details
 
