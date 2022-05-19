@@ -27,5 +27,6 @@ Organised by NUS enterprise, join us for the NUS Enterprise Industry Roundtable,
 
 * **Brian Koh**,  Director,  **NUS Enterprise** (Moderator)
 * **Adi Reza**, Co-founder & Chief Executive Officer, **Mycotech Labs**
-* **Koh Jing How**, Head of Sales, **Skuad** (Moderator
-*
+* **Michelle Ng**, Head, Environmental, Social & Governance, **Quest Ventures** 
+* **Sang Shin**, Director, **Digital Innovation, Temasek**
+* **Wan Chun Feng**, Co-founder & Cheif Executive Officer, **SOLV8 Technology**
