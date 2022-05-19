@@ -15,6 +15,7 @@ permalink: /sponsors-partners-2021
 ##### Silver Sponsors
 ![SWITCH 2021 Silver Sponsors](/images/Sponsor%20Cards/Sponsor%20Cards%20(2021)/web_switch_2021_sponsors_silver_v2.jpg)
 
+
 ##### Content Partners
 ![SWITCH 2021 Sponsors and Partners](/images/Sponsor%20Cards/Sponsor%20Cards%20(2021)/web_switch_2021_content_hosts_v1.jpg)
 
