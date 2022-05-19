@@ -23,9 +23,9 @@ Have you ever wondered how technology and innovation can aid our pursuit of sust
 Organised by NUS enterprise, join us for the NUS Enterprise Industry Roundtable, as a distinguished and experienced panel of experts help us to navigate through the sustainability opportunities and challenges found in the innovation economy.
 
 #### Hear from:
-* **Brian Koh**, Founder & CEO, **Skuad**
+
 
 * **Brian Koh**,  Director,  **NUS Enterprise** (Moderator)
-* **Suresh Vasudevan**, Sr. Director of Engineering, **Carousell**
+* **Adi Reza**, Co-founder & Chief Executive Officer, **Mycotech Labs**
 * **Koh Jing How**, Head of Sales, **Skuad** (Moderator
-* 
+*
