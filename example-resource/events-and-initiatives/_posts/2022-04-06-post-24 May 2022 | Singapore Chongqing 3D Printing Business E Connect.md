@@ -5,18 +5,18 @@ date: 2022-04-06
 layout: post
 description: ""
 ---
-ANNA to edit.
+
 
 ![Skuad's event: India becoming a magnet for ambitious Singaporean and South East Asian companies.](/images/Skuad%20(new)%20PSB_2%20(3).png)
 #### Event details
 
 
-| **Title:** | India is becoming a magnet for ambitious South East Asian companies |
+| **Title:** | A*STAR Singapore-Chongqing 3D Printing Business E-Connect 2022 |
 | -------- | -------- |
-|**Date:** | Thursday, 21 April 2022 
-| **Time:**    | 10:30am–12:00noon (Singapore Time / UTC +8) |
+|**Date:** | Tuesday, 24 May 2022 
+| **Time:**    | 2:30pm–4:45pm (Singapore Time / UTC +8) |
 |**Venue:** | [community.switchsg.org](https://community.switchsg.org) (Virtual)
-|**Register** | [Click here](https://switchsg.hubilo.com/ticketing/#/ticket)
+|**Register** | [Click here](https://forms.office.com/pages/responsepage.aspx?id=P_nIomsSlkWjYIlBqJhLCAjqHo9LqchBihN3-XiYSyBUNzBMRElENzZHNzNRNVlWUTlRRk9JMzBHTS4u&web=1&wdLOR=c4B7343F6-30C0-40FE-B24B-850E11156621)
 
 #### About
 
