@@ -39,8 +39,7 @@ Get to learn more on how to soft-land into 42 markets around the world. Learn ab
 #### Masterclass Sessions
 Acquire actionable knowledge to propel your organisation’s ability to secure funding and develop business capabilities in technology and digitalisation, as well as business expansion opportunities in Singapore and Asia. Our 2020’s Masterclasses saw sessions being hosted by companies like Google, Facebook, Amazon Web Services (AWS) and more!
 
-#### Connect with international trade and business leaders
-
-SWITCH Global is entirely unique in bringing together leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors. Whatever your business need, find the right connection here!
+#### Connect With International Trade and Business Leaders
+In 2021, SWITCH Global convened established leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors. Whatever your business needs, find the right connections here!
 
 ![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Global_Overview_Highlights_v2.png)
