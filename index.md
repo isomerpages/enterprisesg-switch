@@ -36,11 +36,11 @@ sections:
       alt: SWITCH Connects you globally
   - infobar:
       title: Year-long innovation movement
-      subtitle: SWITCH Pass
+      subtitle: Be Part Of
       description: SWITCH is a community of innovators with a year-long programme of
         knowledge sharing and networking, featuring a flagship conference and
         access to our platform.
-      button: Learn more
+      button: See our 2021 Impact
       url: /about
   - infopic:
       title: SLINGSHOT 2022 is open for applications
