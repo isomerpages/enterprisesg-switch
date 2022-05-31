@@ -28,30 +28,6 @@ SWITCH Global 2022 will focus on key industry and expansion opportunities across
 If you are looking to expand your business abroad, SWITCH Global will connect you directly with our partners overseas. Be sure to catch free consultation sessions at the Global Pavilions to gain new networks and connections with these in-market experts! 
 
 
---------
-
-Insert 2021 logos for Global pavilions to show the markets that the can gain access to with 2021 as a refere
-
----------------------------------------HAHAHAH AKLOWN
-#### About SWITCH Global
-SWITCH Global is a conference channel that congregates business and market leaders to champion conversations on business strategies, emerging growth opportunities and expansion approaches across different regions.
-
-Learn more about how to soft-land into new markets around the world. Get in touch with the nuances of local business cultures and ecosystems to tap global opportunities that await you.  
-
-If you have a 2021 SWITCH Pass, [log on and watch](https://community.switchsg.org/sessions) over 100 cutting edge discussion from SWITCH 2021 on-demand. If you wish to get a SWITCH pass, get connected with us [here](https://go.gov.sg/switch-community-interest-web).
-
-
-----
-#### SWITCH Global 2022 (25 – 27 Oct) 
-SWITCH Global 2022 will focus on key industry and business opportunities across different markets and regions, including:
-* The Americas
-* Europe
-* Middle East & Africa 
-* Asia 
-* Oceania  
-
-Be sure to catch the exhibitors at their booths to gain new networks and connections with these in-mar
-
 #### Market Access Sessions
 Get to learn more on how to soft-land into 42 markets around the world. Learn about the nuance of local market cultures and business ecosystems, as well as global opportunities that are waiting to be tapped upon. 
 
