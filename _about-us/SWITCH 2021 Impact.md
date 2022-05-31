@@ -19,9 +19,12 @@ image: /images/SWITCH_Main.jpg
 ![](/images/SWITCH%202021/4-SWTICH_Beyond.png)
 
 
-### Our Markets 
+### SWITCH Global Channel
 ![](/images/SWITCH%202021/5-Markets.png)
 
 
-### SLINGSHOT 
+### SLINGSHOT
+**From 2017–2021**
 ![](/images/SWITCH%202021/7-SLINGSHOT_stats2%20-%20Copy-1200w.png)
+
+Interested in SWITCH 2022? Register your interest [here](https://go.gov.sg/switch-community-interest-web).
