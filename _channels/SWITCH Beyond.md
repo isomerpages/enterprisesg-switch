@@ -15,7 +15,7 @@ If you have a 2021 SWITCH Pass, [log on and watch](https://community.switchsg.or
 ### SWITCH Beyond 2022 (25 – 27 Oct) 
 SWITCH Beyond 2022 will continue to bring together global business leaders, innovation champions and academic industry experts to discuss the latest trends, industry challenges and new opportunities in various sectors.
 
-#### Day 1 – 25 Oct (Health & Biomedicine) 
+#### Day 1 – 25 Oct (Health & Biomedical Sciences) 
 Hear from our esteemed healthcare and biomedical corporates and professionals as they discuss the next wave of healthcare advancements in areas such as genomics and mobile health. Understand upcoming innovation foci within these industries that will continue to bring about positive impact to healthcare demands and the role of supporting digital solutions such as artificial intelligence, blockchain and 3D printing that will drive rapid evolution and accessible healthcare for everyone.
 
 
