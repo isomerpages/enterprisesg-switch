@@ -23,7 +23,7 @@ Hear from our esteemed healthcare and biomedical corporates and professionals as
 What are the emerging roles of sustainability and green solutions that will continue to drive disruption in the urban solutions and trade & connectivity sectors? Explore how technologies will reshape these industries and get insights into topics such as supply chain innovation, technologies in commodities and more!  
 
 
-#### Day 3 – 27 Oct (Future of Enterprise Innovation & Solutions
+#### Day 3 – 27 Oct (Future of Enterprise Innovation & Solutions)
 How will emerging technologies such as the Metaverse, microelectronics, Web 3.0, supercomputing and digital trust change  traditional businesses and new growth sectors in the future? Explore how these new technologies will change the way people live, work and interact as we gaze into the future of immense opportunities these disruption will bring to our lives.  
 
 
