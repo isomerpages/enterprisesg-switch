@@ -9,15 +9,19 @@ image: /images/SWITCH_Main.jpg
 ### SWITCH Community 
 ![](/images/SWITCH%202021/1-Stong_community.png)
 
+
 ### SWITCH Flagship Conference 
 ![](/images/SWITCH%202021/3-Attendees-seniority.png)
 ![](/images/SWITCH%202021/2-Exhibitor_Speakers.png)
 
+
 ### SWITCH Beyond Channel 
 ![](/images/SWITCH%202021/4-SWTICH_Beyond.png)
 
+
 ### Our Markets 
 ![](/images/SWITCH%202021/5-Markets.png)
+
 
 ### SLINGSHOT 
 ![](/images/SWITCH%202021/7-SLINGSHOT_stats2.png)
