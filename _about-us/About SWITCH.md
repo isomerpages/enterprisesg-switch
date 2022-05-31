@@ -16,4 +16,4 @@ In 2021, SWITCH saw over 15,000 participants from 42 markets, with more than 600
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/MNNaTAO6dMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In its seventh edition in 2022, SWITCH will return as a full physical conference, featuring various innovation programmes including the SLINGSHOT Startup Pitching Sector Finals and Grand Finals, a Sectoral Thought Leadership Stage, Market Access Sessions as well as Industry Exhibition Showcases and Roundtable sessions.  
+In its seventh edition in 2022, SWITCH will return as a fully physical conference, featuring various innovation programmes including the SLINGSHOT Startup Pitching Sector Finals and Grand Finals, a Sectoral Thought Leadership Stage, Market Access Sessions as well as Industry Exhibition Showcases and Roundtable sessions.
