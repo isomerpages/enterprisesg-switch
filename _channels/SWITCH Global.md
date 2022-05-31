@@ -10,22 +10,24 @@ image: /images/SWITCH Global 3.JPG
 #### About SWITCH Global
 SWITCH Global is a conference channel that congregates business and market leaders to champion conversations on business strategies, emerging growth opportunities and expansion approaches across different regions.
 
- 
 Learn more about how to soft-land into new markets around the world. Get in touch with the nuances of local business cultures and ecosystems to tap global opportunities that await you.  
 
-  
+If you have a 2021 SWITCH Pass, [log on and watch](https://community.switchsg.org/sessions) over 100 cutting edge discussion from SWITCH 2021 on-demand. If you wish to get a SWITCH pass, get connected with us [here](https://go.gov.sg/switch-community-interest-web).
 
-If you have a 2021 SWITCH Pass, log on and watch over 100 cutting edge discussion from SWITCH 2021 on-demand. If you wish to get a SWITCH pass, get connected with us [here](https://go.gov.sg/switch-community-interest-web).
+#### SWITCH Global 2022 (25 – 27 Oct) 
+SWITCH Global 2022 will focus on key industry and business opportunities across different markets and regions, including:
+* The Americas
+* Europe
+* Middle East & Africa 
+* Asia 
+* Oceania  
 
+Be sure to catch the exhibitors at their booths to gain new networks and connections with these in-market experts!
 
+> (confusing: why are there booths at the conference??)
 
-
-----
-SWITCH Global is a conference channel that congregates global business and market leaders to discuss and lead on global and local market trends, business strategy and expansion opportunities.
-
-Through two curated session types–Market Access and Masterclasses–attendees will benefit from the deep knowledge and experiences of our invited speakers and international partner networks to build their business and internationalisation capabilities.
-
-[![SWITCH 2021 Show Directory](/images/Website_Banner_Show_Directory_var_1.png)](https://directory.switchsg.org)
+---
+> question for Brian: the  below two headers were 2021 event sections, delete?
 
 #### Market Access Sessions
 Get to learn more on how to soft-land into 42 markets around the world. Learn about the nuance of local market cultures and business ecosystems, as well as global opportunities that are waiting to be tapped upon. 
@@ -37,7 +39,7 @@ Get to learn more on how to soft-land into 42 markets around the world. Learn ab
 #### Masterclass Sessions
 Acquire actionable knowledge to propel your organisation’s ability to secure funding and develop business capabilities in technology and digitalisation, as well as business expansion opportunities in Singapore and Asia. Our 2020’s Masterclasses saw sessions being hosted by companies like Google, Facebook, Amazon Web Services (AWS) and more!
 
-##### Connect with international trade and business leaders
+#### Connect with international trade and business leaders
 
 SWITCH Global is entirely unique in bringing together leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors. Whatever your business need, find the right connection here!
 
