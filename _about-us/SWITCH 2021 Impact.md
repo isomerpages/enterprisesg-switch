@@ -24,4 +24,4 @@ image: /images/SWITCH_Main.jpg
 
 
 ### SLINGSHOT 
-![](/images/SWITCH%202021/7-SLINGSHOT_stats2.png)
+![](/images/SWITCH%202021/7-SLINGSHOT_stats2%20-%20Copy-1200w.png)
