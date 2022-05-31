@@ -6,9 +6,21 @@ description: The Singapore Week of Innovation and Technology (SWITCH) brings
   Global-Asia innovation ecosystem.
 image: /images/SWITCH Global 3.JPG
 ---
-
 ![](/images/SWITCH%20Global%201.jpg)
 #### About SWITCH Global
+SWITCH Global is a conference channel that congregates business and market leaders to champion conversations on business strategies, emerging growth opportunities and expansion approaches across different regions.
+
+ 
+Learn more about how to soft-land into new markets around the world. Get in touch with the nuances of local business cultures and ecosystems to tap global opportunities that await you.  
+
+  
+
+If you have a 2021 SWITCH Pass, log on and watch over 100 cutting edge discussion from SWITCH 2021 on-demand. If you wish to get a SWITCH pass, get connected with us [here](https://go.gov.sg/switch-community-interest-web).
+
+
+
+
+----
 SWITCH Global is a conference channel that congregates global business and market leaders to discuss and lead on global and local market trends, business strategy and expansion opportunities.
 
 Through two curated session types–Market Access and Masterclasses–attendees will benefit from the deep knowledge and experiences of our invited speakers and international partner networks to build their business and internationalisation capabilities.
