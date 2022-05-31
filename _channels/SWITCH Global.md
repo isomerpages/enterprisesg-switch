@@ -21,8 +21,8 @@ SWITCH Global 2022 will focus on key industry and expansion opportunities across
 * Europe 
 * Middle East & Africa 
 * North America 
-* South America
 * Oceania
+* South America
 
 If you are looking to expand your business abroad, SWITCH Global will connect you directly with our partners overseas. Be sure to catch free consultation sessions at the Global Pavilions to gain new networks and connections with these in-market experts! 
 
