@@ -40,4 +40,8 @@ Acquire actionable knowledge to propel your organisation’s ability to secure f
 #### Connect With International Trade and Business Leaders
 In 2021, SWITCH Global convened established leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors. Whatever your business needs, find the right connections here!
 
+#### SWITCH 2021 Global Partners
+![SWITCH 2021 Global Partners](/images/Sponsor%20Cards/Sponsor%20Cards%20(2021)/switch_2021_sponsors_ipp_v1.jpg)
+
+#### Speakers from SWITCH Global 2021
 ![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Global_Overview_Highlights_v2.png)
