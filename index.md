@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
-      subtitle: 25–28 Oct 2022 | Resorts World Sentosa
+      subtitle: 25–28 Oct 2022 | Resorts World Sentosa Convention Centre
       background: /images/SWITCH_2021_Hero_Banner_3e.jpg
       button: Register Interest
       url: https://go.gov.sg/switch-community-interest-web
