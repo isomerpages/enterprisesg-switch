@@ -4,6 +4,7 @@ permalink: /about-us/switch-2020
 description: ""
 ---
 
+
 # The SWITCH Impact
 ![](/images/impact-02.jpg)
 

@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - SWITCH 2020 Impact.md
       - SFFxSWITCH.md
       - Competition Timeline.md
       - Disrupt & Gear Up.md
