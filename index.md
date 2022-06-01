@@ -66,8 +66,8 @@ sections:
       title: Connect to market access and opportunities
       subtitle: "Channel: SWITCH Global"
       description: Expand your network into the global market at SWITCH Global’s
-        Market Access Sessions and Masterclasses tailored for business growth
-        and internationalisation.
+        Market Access Sessions tailored for business growth and
+        internationalisation.
       button: Learn more
       url: /switch-global-2022
       image: /images/SWITCH Global 1.jpg
