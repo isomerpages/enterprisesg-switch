@@ -9,26 +9,26 @@ description: ""
 #### Event details
 
 
-| **Title:** | A*STAR Singapore-Chongqing 3D Printing Business E-Connect 2022 |
+| **Title:** | Eurostars X Singapore Tech Showcase Day 2022 |
 | -------- | -------- |
-|**Date:** | Tuesday, 24 May 2022 
-| **Time:**    | 2:30pm–4:45pm (Singapore Time / UTC +8) |
+|**Date:** | Wednesday, 15 June 2022 
+| **Time:**    | 4pm–6pm (Singapore Time / UTC +8) |
 |**Venue:** | [community.switchsg.org](https://community.switchsg.org) (Virtual)
 |**Register** | [Click here](https://forms.office.com/pages/responsepage.aspx?id=P_nIomsSlkWjYIlBqJhLCAjqHo9LqchBihN3-XiYSyBUNzBMRElENzZHNzNRNVlWUTlRRk9JMzBHTS4u&web=1&wdLOR=c4B7343F6-30C0-40FE-B24B-850E11156621)
 
 #### About
 
-Calling all Additive Manufacturing and 3D Printing solution providers seeking collaboration opportunities in China!
+Join the Eurostars x Singapore Tech Showcase Day to pitch your ideas and meet overseas partners, supported by the Global Innovation Alliance!
 
-Catch this virtual Additive 3D Printing Business networking event organised by A*Star Collaborative Commerce Marketplace (ACCM) in collaboration with Chongqing Connectivity Bureau (CCIB) and Technology Service Market Chongqing (TSMC)!
+The aim of this event is to build mindshare on the innovation landscape and opportunities in Singapore and other European countries; and provide a platform to connect Singapore and overseas companies to discuss co-innovation opportunities. 
 
-Hear from experts and learn more about Chongqing-Singapore cross-border business opportunities, available cross-border grant schemes and networking opportunities.
+Moreover, companies can gain business insights from guest speakers of innovation agencies from Germany, Hungary, Netherlands, Spain and Turkey, as well as network with like-minded companies for R&D projects! Should successful business matches and partnerships be formed, companies can jointly apply for the [Eureka Eurostars call](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/international-co-innovation-programmes/eureka-network/eureka-eurostars) and receive funding support!
 
-Note: This session is available for SWITCH Pass Holders to attend and mostly conducted in Mandarin. English translations will not be provided.
+Your SWITCH Pass entitles you to access to this event. Log onto the SWITCH Platform on 15 June 2022!
+
 
 #### Programmes:
-* **Industry Expert Insights** - HP Inc. (Greater China) covering Singapore-Chongqing cross-border business opportunities
+* **Singapore companies pitch on innovative ideas/solutions for the Eureka Eurostars Call** 
 
-* **Singapore and Chongqing companies tech/business pitch** 
-* **Singapore-Chongqing grants and policy sharing**
-* **Tech/business matchmaking event follow-up**
+* **Business insights from guest speakers of innovation agencies** - from Germany, Hungary, Netherlands, Spain and Turkey
+* **Networking & connecting with like-minded overseas enteprises from Europe** - to explore joint innovation/R&D collaboration and receive funding support
