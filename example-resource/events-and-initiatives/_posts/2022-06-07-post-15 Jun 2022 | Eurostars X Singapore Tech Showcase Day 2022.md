@@ -5,7 +5,6 @@ date: 2022-06-07
 layout: post
 description: ""
 ---
-
 ![Eurostars X Singapore Tech Showcase Day](/images/Eurostars%20X%20Singapore%20Tech%20Showcase%20Day.png)
 #### Event details
 
@@ -15,7 +14,7 @@ description: ""
 |**Date:** | Wednesday, 15 June 2022 
 | **Time:**    | 4pm–6pm (Singapore Time / UTC +8) |
 |**Venue:** | [community.switchsg.org](https://community.switchsg.org) (Virtual)
-|**Register** | [Click here](https://forms.office.com/pages/responsepage.aspx?id=P_nIomsSlkWjYIlBqJhLCAjqHo9LqchBihN3-XiYSyBUNzBMRElENzZHNzNRNVlWUTlRRk9JMzBHTS4u&web=1&wdLOR=c4B7343F6-30C0-40FE-B24B-850E11156621)
+|**Register** | [[Click here](https://form.gov.sg/#!/627c9ff99b668a001242e5a2)]
 
 #### About
 
