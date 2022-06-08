@@ -20,9 +20,9 @@ description: ""
 
 Join the Eurostars x Singapore Tech Showcase Day to pitch your ideas and meet overseas partners, supported by the Global Innovation Alliance!
 
-The aim of this event is to build mindshare on the innovation landscape and opportunities in Singapore and other European countries; and provide a platform to connect Singapore and overseas companies to discuss co-innovation opportunities. 
+The aim of this event is to build mindshare on the innovation landscape and opportunities in Singapore and other European markets, and provide opportunities to connect with different partners for co-innovation opportunities.
 
-Moreover, companies can gain business insights from guest speakers of innovation agencies from Germany, Hungary, Netherlands, Spain and Turkey, as well as network with like-minded companies for R&D projects! Should successful business matches and partnerships be formed, companies can jointly apply for the [Eureka Eurostars call](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/international-co-innovation-programmes/eureka-network/eureka-eurostars) and receive funding support!
+Viewers can gain business insights from guest speakers of innovation agencies from Germany, Hungary, Netherlands, Spain and Turkey, as well as network with like-minded companies for R&D projects! Should successful business matches and partnerships be formed, companies can jointly apply for the [Eureka Eurostars call](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/international-co-innovation-programmes/eureka-network/eureka-eurostars) and receive funding support!
 
 Your SWITCH Pass entitles you to access to this event. Log onto the SWITCH Platform on 15 June 2022!
 
