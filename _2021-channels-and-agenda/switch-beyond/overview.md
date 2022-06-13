@@ -9,6 +9,8 @@ SWITCH Beyond is a conference channel that brings together global leaders and ex
 
 [Get your SWITCH Pass today!](https://bit.ly/switch2021reg_web)
 
+<a href="#Tickets">Learn about tickets</a>
+
 ### Over 300 leaders innovation and technology
 Engage with vanguard leaders from industries, governments, and institutions all across the world! SWITCH attracts the brightest minds to lead on emergent topics that shape the future of our communities and economies.
 
@@ -28,3 +30,7 @@ Stay ahead of the latest trends and developments in key sectors like Smart Citie
 
 ***
 **Click "Next" to view the agenda at SWITCH Beyond in 2021.**
+
+<h1 id="Tickets">Tickets</h1>
+
+This is the section for tickets
