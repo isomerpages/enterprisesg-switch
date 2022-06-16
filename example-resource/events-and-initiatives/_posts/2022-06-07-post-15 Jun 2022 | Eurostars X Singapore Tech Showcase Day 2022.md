@@ -31,4 +31,4 @@ Your SWITCH Pass entitles you to access to this event. Log onto the SWITCH Platf
 * **Singapore companies pitch on innovative ideas/solutions for the Eureka Eurostars Call** 
 
 * **Business insights from guest speakers of innovation agencies** - from Germany, Hungary, Netherlands, Spain and Turkey
-* **Networking & connecting with like-minded overseas enteprises from Europe** - to explore joint innovation/R&D collaboration and receive funding support
+* **Networking & connecting with like-minded overseas enterprises from Europe** - to explore joint innovation/R&D collaboration and receive funding support
