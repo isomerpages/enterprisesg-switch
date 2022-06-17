@@ -32,7 +32,7 @@ Get to learn more on how to soft-land into 42 markets around the world. Learn ab
 
 2021’s sessions saw an assembly of market experts from organisations like Enterprise Singapore, JETRO, UK Department of International Trade, Canada High Commission and more!
 
-*If you have a 2021 SWITCH Pass, [log on and watch](https://community.switchsg.org/sessions) over 100 cutting-edge discussions from SWITCH 2021 on demand!*
+*If you have a 2021 SWITCH Pass, [log on and watch](https://events.hubilo.com/switchsg) over 100 cutting-edge discussions from SWITCH 2021 on demand!*
 
 
 #### Connect With International Trade and Business Leaders
