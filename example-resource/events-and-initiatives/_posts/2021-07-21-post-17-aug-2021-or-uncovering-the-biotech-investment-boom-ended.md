@@ -4,9 +4,6 @@ date: 2021-07-21
 permalink: /events/uncovering-the-biotech-investment-boom
 layout: post
 ---
-
-
-
 ![Alt text for image on Isomer site](/images/biotech_2160x1080px_V3_0.jpg)
 ### Uncovering the BioTech Investment Boom
 *Presented by SGInnovate, partnered with Biotech Connection Singapore, Singapore Global Network, US Embassy in Singapore*
@@ -41,6 +38,6 @@ Hear from:
 | -------- | -------- |
 |**Date** | Tuesday, 17 August 2021 
 | **Time**    | 9:00am – 10:00am (Singapore Time / UTC +8) |
-|**Venue** | SWITCH Platform (Virtual)
+|**Venue** | SWITCH Platform
 | **Register** | [Click here](https://events.hubilo.com/switchsg/register) |
 |**Price of the SWITCH Pass** | USD50
