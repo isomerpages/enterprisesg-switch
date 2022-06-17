@@ -12,7 +12,7 @@ layout: post
 | -------- | -------- |
 |**Date:** | Wednesday, 13 October 2021 
 | **Time:**    | 10:00am–11:00am (Singapore Time / UTC +8) |
-|**Venue:** | SWITCH Platform (Virtual)
+|**Venue:** | SWITCH Platform
 | **Register:** | [Click here](https://community.switchsg.org/register/?utm_source=switchsg.org&utm_medium=switchsg.org&utm_campaign=switch2021) |
 |**Price:** | USD50 (Get your SWITCH Pass to access this webinar and other events in our year-long calendar!)
 
