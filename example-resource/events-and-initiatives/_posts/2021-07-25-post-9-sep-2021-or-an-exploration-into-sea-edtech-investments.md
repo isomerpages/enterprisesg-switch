@@ -4,7 +4,6 @@ date: 2021-07-25
 permalink: /events/sea-edtech-investments
 layout: post
 ---
-
 ![Alt text for image on Isomer site](/images/SWITCH_Event_SEA_EdTech_Investments.jpg)
 
 #### Event details
@@ -14,7 +13,7 @@ layout: post
 | -------- | -------- |
 |**Date:** | Thursday, 9 September 2021 
 | **Time:**    | 12noon–1pm (+8GMT) |
-|**Venue:** | SWITCH Platform (Virtual)
+|**Venue:** | SWITCH Platform 
 | **Register:** | [Click here](https://events.hubilo.com/switchsg/register) |
 |**Price:** | ~~USD $50~~ **USD $25 each** when purchased as a pair (1-For-1 Promotion ends 30 Sep 2021)
 
