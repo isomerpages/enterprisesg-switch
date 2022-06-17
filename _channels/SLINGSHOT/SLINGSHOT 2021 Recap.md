@@ -6,16 +6,13 @@ description: SLINGSHOT is Asia’s most exciting deep tech pitching competition
 image: /images/slingshot_2021_finalists_web.jpeg
 third_nav_title: SLINGSHOT
 ---
-
-
-
 ### SLINGSHOT 2021 ON DEMAND
 
 ![SLINGSHOT 2021 Grand Finalists](/images/slingshot_2021_finalists_web.jpeg)
 
 Relive the thrills and excitement from the SLINGSHOT 2021 Grand Finals as 12 promising and innovative startups vie for the spot of Grand Winner. 
 
-If you have a 2021 SWITCH Pass, watch the finals on demand. [Log on to the SWITCH Platform here](https://community.switchsg.org/session/106558)!
+If you have a 2021 SWITCH Pass, watch the finals on demand. [Log on to the SWITCH Platform here](https://events.hubilo.com/switchsg)!
 
 ***
 ##### SLINGSHOT 2021 Grand Winner
