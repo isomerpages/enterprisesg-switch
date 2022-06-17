@@ -4,10 +4,6 @@ date: 2021-10-28
 permalink: /events/switch-2021-flagship-festival
 layout: post
 ---
-
-
-
-
 ![Alt text for image on Isomer site](/images/switch_2021_launch_event_banner.jpg)
 
 #### About
@@ -35,6 +31,6 @@ The first event hosted on the SWITCH Platform will be **SG Innovation Community 
 | -------- | -------- |
 |**Date** | Mon–Fri, 8–12 November 2021 
 | **Time**    | All day |
-|**Venue** | SWITCH Platform (Virtual)
+|**Venue** | SWITCH Platform 
 | **Register** | [Click here](https://events.hubilo.com/switchsg/register) |
 |**Price** | USD $50
