@@ -13,7 +13,7 @@ description: ""
 | -------- | -------- |
 |**Date:** | Tuesday, 24 May 2022 
 | **Time:**    | 2:30pm–4:45pm (Singapore Time / UTC +8) |
-|**Venue:** | [community.switchsg.org](https://community.switchsg.org) (Virtual)
+|**Venue:** | SWITCH Platform 
 |**Register** | [Click here](https://forms.office.com/pages/responsepage.aspx?id=P_nIomsSlkWjYIlBqJhLCAjqHo9LqchBihN3-XiYSyBUNzBMRElENzZHNzNRNVlWUTlRRk9JMzBHTS4u&web=1&wdLOR=c4B7343F6-30C0-40FE-B24B-850E11156621)
 
 #### About
