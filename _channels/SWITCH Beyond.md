@@ -10,7 +10,7 @@ image: /images/SWITCH Connect 5.jpg
 ### About SWITCH Beyond
 SWITCH Beyond is the sectoral thought leadership channel that brings together global leaders and industry experts from diverse industries to must-attend conference sessions, where groundbreaking innovative ideas and technologies that are transforming the world take place.
 
-If you have a 2021 SWITCH Pass, [log on and watch](https://community.switchsg.org/sessions) over a hundred cutting edge discussions from SWITCH 2021 on-demand. If you wish to get a SWITCH pass, get connected with us [here](https://go.gov.sg/switch-community-interest-web).
+If you have a 2021 SWITCH Pass, [log on and watch](https://events.hubilo.com/switchsg) over a hundred cutting edge discussions from SWITCH 2021 on-demand. If you wish to get a SWITCH pass, get connected with us [here](https://go.gov.sg/switch-community-interest-web).
 
 ### SWITCH Beyond 2022 (25 – 27 Oct) 
 SWITCH Beyond 2022 will continue to bring together global business leaders, innovation champions and academic industry experts to discuss the latest trends, industry challenges and new opportunities in various sectors.
