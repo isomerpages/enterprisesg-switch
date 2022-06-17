@@ -36,6 +36,6 @@ Don’t miss the opportunity to also get an industry professional as your mentor
 | -------- | -------- |
 |**Date** | Tuesday, 10 August 2021 
 | **Time**    | 7–8.30pm |
-|**Venue** | SWITCH Platform (Virtual), with limited slots to attend physically at SCAPE (first-come-first-serve basis). *Physical attendance is tentative and the number of pax will be determined by current SMM guidelines.*
+|**Venue** | SWITCH Platform 
 | **Register** | [Register here by 22 August 2021](https://bit.ly/EESapply) |
 |**Student-exclusive all-in price of SGD10 to access both SWITCH 2021 and the EES** | **~~USD50~~ SGD10** (Grab this student-exclusive promotion on tickets to access both **SWITCH 2021** and the **EES** at the Register link above, by 22 August 2021, 2359 (SGT)! **Once you have signed up for EES, you will be onboarded to our always-on SWITCH platform that will stream both SWITCH 2021 and its year-long events including the EES.**)
