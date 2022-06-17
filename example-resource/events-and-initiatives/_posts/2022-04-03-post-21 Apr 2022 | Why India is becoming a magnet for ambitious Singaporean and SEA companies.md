@@ -18,7 +18,7 @@ image: /images/20220421_Session_Banner-SKUAD_Webinar.png
 | -------- | -------- |
 |**Date:** | Thursday, 21 April 2022 
 | **Time:**    | 10:30am–12:00noon (Singapore Time / UTC +8) |
-|**Venue:** | [community.switchsg.org](https://community.switchsg.org) (Virtual)
+|**Venue:** | SWITCH Platform 
 |**Register** | [Click here](https://switchsg.hubilo.com/ticketing/#/ticket)
 
 #### About
@@ -30,4 +30,4 @@ Interested to expand your business overseas and considering India as your destin
 
 * **Tulika Tripathi**, Founder & CEO, **Snaphunt**
 * **Suresh Vasudevan**, Sr. Director of Engineering, **Carousell**
-* **Koh Jing How**, Head of Sales, **Skuad** (Moderator) 
+* **Koh Jing How**, Head of Sales, **Skuad** (Moderator)
