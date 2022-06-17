@@ -13,7 +13,7 @@ description: ""
 | -------- | -------- |
 |**Date:** | Wednesday, 15 June 2022 
 | **Time:**    | 4pm–6pm (Singapore Time / UTC +8) |
-|**Venue:** | [community.switchsg.org](https://community.switchsg.org) (Virtual)
+|**Venue:** | SWITCH Platform 
 |**Register** | [[Click here](https://form.gov.sg/#!/627c9ff99b668a001242e5a2)]
 
 #### About

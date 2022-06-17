@@ -4,9 +4,6 @@ date: 2021-07-23
 permalink: /events/deep-tech-for-good-in-practice
 layout: post
 ---
-
-
-
 ![Alt text for image on Isomer site](/images/in-practice_2160x1080px_0.jpg)
 
 ### Deep Tech for Good: In Practice
@@ -40,6 +37,6 @@ Hear from:
 | -------- | -------- |
 |**Date** | Thursday, 26 August 2021 
 | **Time**    | 4:00pm - 5:00pm (Singapore Time / UTC +8) |
-|**Venue** | SWITCH Platform (Virtual)
+|**Venue** | SWITCH Platform 
 | **Register** | [Click here](https://events.hubilo.com/switchsg/register) |
 |**Price of the SWITCH Pass** | USD50

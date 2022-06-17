@@ -4,9 +4,6 @@ date: 2021-08-13
 permalink: /events/sustainable-future-with-advanced-materials
 layout: post
 ---
-
-
-
 ![Alt text for image on Isomer site](/images/adv-materials_2160x1080px.jpg)
 #### Event details
 
@@ -15,7 +12,7 @@ layout: post
 | -------- | -------- |
 |**Date:** | Thursday, 16 September 2021 
 | **Time:**    | 11:00am - 12:00pm (Singapore Time / UTC +8) |
-|**Venue:** | SWITCH Platform (Virtual)
+|**Venue:** | SWITCH Platform 
 | **Register:** | [Click here](https://events.hubilo.com/switchsg/register) |
 |**Price:** | ~~USD50~~ **USD25 each** when purchased as a pair (1-For-1 Promotion ends 30 Sep 2021)
 

@@ -10,7 +10,6 @@ description: Building offshore tech teams has become an increasingly viable
   local teams.
 image: /images/20220414_Session_Banner-Talent_Webinar.png
 ---
-
 ![Talent For Growth Webinar (14 Apr 2022)](/images/20220414_Session_Banner-Talent_Webinar.png)
 #### Event details
 
@@ -19,7 +18,7 @@ image: /images/20220414_Session_Banner-Talent_Webinar.png
 | -------- | -------- |
 |**Date:** | Thursday, 14 April 2022 
 | **Time:**    | 3:00pm–4:30pm (Singapore Time / UTC +8) |
-|**Venue:** | [community.switchsg.org](https://community.switchsg.org) (Virtual)
+|**Venue:** | SWITCH Platform 
 |**Register** | [Click here](https://switchsg.hubilo.com/ticketing/#/ticket)
 
 #### About

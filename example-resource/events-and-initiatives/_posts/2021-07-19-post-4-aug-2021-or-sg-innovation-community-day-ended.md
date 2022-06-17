@@ -4,7 +4,6 @@ date: 2021-07-19
 permalink: /events/sg-innovation-community-day-2021
 layout: post
 ---
-
 ![Alt text for image on Isomer site](/images/sg_innovation_community_day_2021_event_banner.jpg)
 
 #### About
@@ -35,6 +34,6 @@ SG Innovation Community Day is the first stop of SWITCH 2021’s year-long innov
 | -------- | -------- |
 |**Date** | Wednesday, 4 August 2021 
 | **Time**    | 2–6pm |
-|**Venue** | SWITCH Platform (Virtual)
+|**Venue** | SWITCH Platform
 | **Register** | [Click here](https://events.hubilo.com/switchsg/register) |
 |**Price** | USD $50
