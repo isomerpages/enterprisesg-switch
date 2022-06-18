@@ -13,3 +13,4 @@ Join SWITCH today and be part of a network of innovators, investors, entrepreneu
 ### A Year-Long Innovation Programme 
 
 Since 2021, SWITCH has included a year-long innovation programme that brings leaders, entrepreneurs, accelerators and investors to together to create a vibrant Global-Asia innovation ecosystem that celebrates international cooperation.
+
