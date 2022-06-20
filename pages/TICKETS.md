@@ -3,7 +3,7 @@ title: TICKETS
 permalink: /tickets
 description: ""
 ---
-### **GET YOUR TICKETS TO SWITCH** ![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20Register%20Now%20Button%20(1).png)
+### **GET YOUR TICKETS TO SWITCH** 
 The SWITCH 2022 Flagship Conference will be happening from the **25th to 28th October**! It will be a hybrid event, with the In-Person venue being Resorts World Sentosa and the digital venue will be from the comforts of your home or wherever you are across the world! 
 
 Please take note that tickets to the Flagship Conference are split into In-Person and Digital tickets, with each category having a Premium and Free version that entitles you access to different programmes of the whole event. Below is the information that lays down each type of ticket and what access you are entitled to.
@@ -31,6 +31,5 @@ Can’t make it to Singapore physically? Join us as a virtual attendee with full
 With this ticket, you are entitled to **Only Digital** access to:![](/images/SWITCH%202022%20Landing%20Page/Free%20Digital%20Trade%20Pass%20$0%20.png)
 Join us at the main event of SWITCH, the Flagship Conference, happening from 25 to 28 October 2022. 
 
-Grab your tickets to the event at [Insert the link] now!
-
+Grab your tickets to the event at now!![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20Register%20Now%20Button%20(2).png)
 We hope to see you there! If you need clarification on the ticketing details, get in touch at our **Contact Us** section at the bottom of this page.
