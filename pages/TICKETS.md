@@ -10,12 +10,12 @@ Please take note that tickets to the Flagship Conference are split into In-Perso
 
 #### **IN-PERSON TICKETS**
 #### **In-Person Premium Conference + Trade Pass Ticket: USD$299**
-Fully immerse yourself in the SWITCH experience. This ticket lets you physically enter all content sessions and trade floors at the SWITCH Flagship Conference, as well as year-long access to our virtual SWITCH Platform and Innovation programming, where you can attend events like the 2022 Singapore Innovation Community Day! With this ticket, you are entitled to **both Digital and In-Person access to:**
-![](/images/SWITCH%202022%20Landing%20Page/Premium%20Conference%20&%20Trade%20Pass%20Ticket%20$299%20.png)
+Fully immerse yourself in the SWITCH experience. This ticket lets you physically enter all content sessions and trade floors at the SWITCH Flagship Conference, as well as year-long access to our virtual SWITCH Platform and Innovation programming, where you can attend events like the 2022 Singapore Innovation Community Day! With this ticket, you are entitled to **both Digital and In-Person access to:**![](/images/SWITCH%202022%20Landing%20Page/Premium%20Conference%20and%20Trade%20Pass%20Ticket%20$299.png)
 *These events are only available with the Premium Conference + Trade Pass Ticket.
 
 The Premium Conference + Trade Pass Ticket has different price tiering dependent on the day you attend the Flagship Conference. However, regardless of the price differences, you will still gain access to the events as stated in the table above.
-**Below is the information on the pricing:**![](/images/SWITCH%202022%20Landing%20Page/Premium%20Conference%20&%20Trade%20Pass%20Ticket%20$299%20Price%20Breakdown.png)
+**Below is the information on the pricing:**
+
 #### **Free In-Person Trade Pass Ticket: USD$0**
 With this ticket, you are entitled to both **Digital and Physical Access to:**![](/images/SWITCH%202022%20Landing%20Page/Free%20In-person%20Trade%20Pass%20Ticket%20$0%20.png)
 #### **WHY PREMIUM?** 
