@@ -17,6 +17,7 @@ Fully immerse yourself in the SWITCH experience. This ticket lets you physically
 
 The Premium Conference + Trade Pass Ticket has different price tiering dependent on the day you attend the Flagship Conference. However, regardless of the price differences, you will still gain access to the events as stated in the table above.
 **Below is the information on the pricing:**
+![](/images/SWITCH%202022%20Landing%20Page/Price%20Breakdown%20ver%202.png)
 
 #### **Free In-Person Trade Pass Ticket: USD$0**
 With this ticket, you are entitled to both **Digital and Physical Access to:**![](/images/SWITCH%202022%20Landing%20Page/Free%20In-person%20Trade%20Pass%20Ticket%20$0.png)
