@@ -24,4 +24,10 @@ With SWITCH being a hub for the innovation community, it is THE event for startu
 #### **Startups/SMEs**
 ![](/images/SWITCH%202022%20Landing%20Page/Startups.png)
 #### **Investors**
-
+![](/images/SWITCH%202022%20Landing%20Page/investors.png)
+#### **Governments**
+![](/images/SWITCH%202022%20Landing%20Page/government.png)
+#### **Corporates/Innovation Departments**
+![](/images/SWITCH%202022%20Landing%20Page/innovation%20departments.png)
+#### **Research/Institute of Higher Learning**
+![](/images/SWITCH%202022%20Landing%20Page/IHL.png)
