@@ -35,6 +35,8 @@ With SWITCH being a hub for the innovation community, it is THE event for startu
 ![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20Audiences%203.png)
 
 ### GET YOUR TICKETS TO SWITCH 
+![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20Ticketing%20Info%20.png)
+
 The SWITCH 2022 Flagship Conference will be happening from the **25th to 28th October**! It will be a hybrid event, with the physical venue being Resorts World Sentosa and the digital venue will be from the comforts of your home or wherever you are across the world! 
 
   
@@ -58,7 +60,7 @@ The Premium Conference + Trade Pass Ticket has different price tiering dependent
 With this ticket, you are entitled to both **Online and Physical Access to:**
 ![](/images/SWITCH%202022%20Landing%20Page/Free%20In-person%20Trade%20Pass%20Ticket%20$0%20.png)
 
-##### WHY PREMIUM? 
+#### WHY PREMIUM? 
 With the Premium Conference + Trade Pass Ticket, you are able to access to the SWITCH Beyond Conference, which includes these programmes: 
 ![](/images/SWITCH%202022%20Landing%20Page/Why%20Premium.png)
 This gives you more opportunities to make the most of SWITCH 2022! Don't miss out on the Beyond Conference, and get the Premium Conference + Trade Pass ticket now! 
