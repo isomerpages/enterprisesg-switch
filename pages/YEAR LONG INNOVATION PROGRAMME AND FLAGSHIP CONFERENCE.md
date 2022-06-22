@@ -16,8 +16,8 @@ Since 2021, SWITCH has included a year-long innovation programme that brings lea
 SWITCH 2022’s Flagship Conference will be in-person and held from 25–28 October 2022 at Resorts World Convention Centre, Singapore. 
 
 The flagship conference features 3 tracks that are carefully curated to showcase exciting new frontier technologies, as well as promising business opportunities and collaborations. Learn more below:
-![](/images/SWITCH%202022%20Landing%20Page/pillar%201.png)
-![](/images/SWITCH%202022%20Landing%20Page/pillar%202.png)
+![](/images/SWITCH%202022%20Landing%20Page/pillars%20ver%203.png)
+
 
 ### **WHO SHOULD COME?**
 With SWITCH being a hub for the innovation community, it is THE event for startups and SMEs, investors, corporates and innovation departments, government bodies both local and international, as well as research and development. If you belong to any of these groups, this event is sure to benefit you!
