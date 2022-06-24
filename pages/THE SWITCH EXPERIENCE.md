@@ -27,4 +27,4 @@ With SWITCH being a hub for the innovation community, it is THE event for startu
 ### **Research/Institute of Higher Learning**
 ![](/images/SWITCH%202022%20Landing%20Page/73D42A3E-F340-4725-B60C-12511E2E3628_1_201_a.jpeg)
 
-What are you waiting for? Grab your tickets **here** now and fully immerse yourself in the SWITCH Experience today! 
+What are you waiting for? Grab your tickets **here** now and fully immerse yourself in the SWITCH Experience today!
