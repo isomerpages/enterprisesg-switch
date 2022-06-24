@@ -3,13 +3,15 @@ title: THE SWITCH EXPERIENCE
 permalink: /the-switch-experience
 description: ""
 ---
-### **GLOBAL GATEWAY TO INNOVATION IN ASIA**
-The Singapore Week of Innovation and Technology (SWITCH) returns in 2022! Featuring a year-long programme of innovation-centric community events and opportunities starting from July 2022, as well as our signature Flagship Conference from 25–28 October 2022 at Resorts World Convention Centre, Singapore. 
+### **WHAT IS THE SWITCH EXPERIENCE?**
+The Singapore Week of Innovation and Technology (SWITCH) returns in 2022! The SWITCH Experience features two components; a **Year-long Programme** of innovation-centric community events and opportunities starting from July 2022, as well as our signature **Flagship Conference** from **25–28 October 2022 at Resorts World Convention Centre, Singapore.** 
 ![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20Components%20Infographic%20(2400%20×%201600%20px).png)
-Join SWITCH today and be part of a network of innovators, investors, entrepreneurs, leaders and collaborators!
-### **A YEAR-LONG INNOVATION PROGRAMME**
-Since 2021, SWITCH has included a year-long innovation programme that brings leaders, entrepreneurs, accelerators and investors to together to create a vibrant Global-Asia innovation ecosystem that celebrates international cooperation.
+#### **Timeline of SWITCH 2022**
 ![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20Timeline%20(4).png)
+
+**We invite YOU** to the SWITCH Experience and be part of a network of innovators, investors, entrepreneurs, leaders and collaborators!
+### **WHAT IS THE YEAR-LONG INNOVATION PROGRAMME?**
+Since 2021, SWITCH has included a year-long innovation programme that brings leaders, entrepreneurs, accelerators and investors together to create a vibrant Global-Asia innovation ecosystem that celebrates international cooperation. 
 ### **THE SWITCH FLAGSHIP CONFERENCE**
 SWITCH 2022’s Flagship Conference will be in-person and held from 25–28 October 2022 at Resorts World Convention Centre, Singapore. 
 
