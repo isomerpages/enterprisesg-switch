@@ -5,7 +5,7 @@ description: ""
 ---
 ### **GET YOUR TICKETS TO SWITCH**
 ![](/images/SWITCH%202022%20Landing%20Page/ticketing%20table%20ver%202%20with%20cross.png)
-The SWITCH 2022 Flagship Conference will be happening from the **25th to 28th October**! It will be a hybrid event, with the In-Person venue being Resorts World Sentosa and the digital venue will be from the comforts of your home or wherever you are across the world! 
+The second component of the SWITCH Experience, the Flagship Conference will be happening from the **25th to 28th October**! It will be a hybrid event, with the In-Person venue being Resorts World Sentosa and the digital venue will be from the comforts of your home or wherever you are across the world! 
 
 Please take note that tickets to the Flagship Conference are split into In-Person and Digital tickets, with each category having a Premium and Free version that entitles you access to different programmes of the whole event. Below is the information that lays down each type of ticket and what access you are entitled to.
 #### **IN-PERSON TICKETS**
@@ -29,8 +29,11 @@ Can’t make it to Singapore physically? Join us as a virtual attendee with full
 
 #### **Free Digital Trade Pass: FREE**
 With this ticket, you are entitled to **Only Digital** access to:![](/images/SWITCH%202022%20Landing%20Page/Free%20Digital%20Trade%20Pass%20$0%20.png)
-Join us at the main event of SWITCH, the Flagship Conference, happening from 25 to 28 October 2022. 
+Join us at the Flagship Conference, happening from 25 to 28 October 2022. 
 Grab your tickets to the event at now!
 ![](/images/SWITCH%202022%20Landing%20Page/9A4143BC-2774-4B6D-9DD9-B545DFFA6242_1_201_a.jpeg)
+(how to embed link into image?)
 
-We hope to see you there! If you need clarification on the ticketing details, get in touch at our **Contact Us** section at the bottom of this page.
+We hope to see you there! To learn more about the SWITCH Experience, click here. (add link to SWITCH Experience landing page)
+
+If you need clarification on the ticketing details, get in touch at our **Contact Us** section at the bottom of this page.
