@@ -10,6 +10,9 @@ The Singapore Week of Innovation and Technology (SWITCH) returns in 2022! The SW
 ![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20Timeline%20(4).png)
 
 **We invite YOU** to the SWITCH Experience and be part of a network of innovators, investors, entrepreneurs, leaders and collaborators!
+
+### **HOW DO YOU ACCESS THE YEAR-LONG INNOVATION PROGRAMME?**
+As mentioned above, the Year-Long Innovation Programme is one of the two main components of the SWITCH Experience. The innovation-centric sessions in the programme is hosted throughout the year at our **[SWITCH Community](https://community.switchsg.org/)** Platform, where they are both live and on-demand. To access this community, you will need to register for a SWITCH Pass **[here](https://form.gov.sg/#!/624d5568045bce00127c096c)**! 
 ### **WHAT IS THE SWITCH FLAGSHIP CONFERENCE?**
 Held from **25-28 October at Resorts World Convention Centre,** the Flagship Conference features 3 tracks that are carefully curated to showcase exciting new frontier technologies, as well as promising business opportunities and collaborations. Learn more below:
 ![](/images/SWITCH%202022%20Landing%20Page/pillars%20ver%203.png)
