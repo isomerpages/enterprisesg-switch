@@ -41,7 +41,7 @@ sections:
         knowledge sharing and networking, featuring a flagship conference and
         access to our platform.
       button: See our 2021 Impact
-      url: /about
+      url: /about/2021
   - infopic:
       title: SLINGSHOT 2022 is open for applications
       subtitle: Startup Pitching Competition
