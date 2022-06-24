@@ -32,5 +32,7 @@ Can’t make it to Singapore physically? Join us as a virtual attendee with full
 #### **Free Digital Trade Pass: USD$0**
 With this ticket, you are entitled to **Only Digital** access to:![](/images/SWITCH%202022%20Landing%20Page/Free%20Digital%20Trade%20Pass%20$0%20.png)
 Join us at the main event of SWITCH, the Flagship Conference, happening from 25 to 28 October 2022. 
-Grab your tickets to the event at now!![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20Register%20Now%20Button%20(3).png)
+Grab your tickets to the event at now!
+![](/images/SWITCH%202022%20Landing%20Page/9A4143BC-2774-4B6D-9DD9-B545DFFA6242_1_201_a.jpeg)
+
 We hope to see you there! If you need clarification on the ticketing details, get in touch at our **Contact Us** section at the bottom of this page.
