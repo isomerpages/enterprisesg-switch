@@ -21,7 +21,7 @@ With this ticket, you are entitled to both **Digital and Physical Access to:**![
 
 #### **Digital Premium Conference + Trade Pass: USD$199**
 Can’t make it to Singapore physically? Join us as a virtual attendee with full year-long access to our virtual SWITCH Platform and Innovation programming, where you can attend the 2022 Singapore Innovation Community Day online. The full content from the Flagship Conference will be available to you On-Demand two weeks after. With this ticket, you are entitled to **Only Digital** access to:![](/images/SWITCH%202022%20Landing%20Page/Digital%20Premium%20Conference%20and%20Trade%20Pass%20$199%20.png)
-**There is an option to access In-Person Trade Floor on B1 @ RWS by indicating on SWITCH 2022 Registration Form. This means there is a top-up of $100. Default is Digital-only access.** 
+**There is an option to access the In-Person Trade Floor by indicating on SWITCH 2022 Registration Form. Default is Digital-only access.** 
 
 #### **Free Digital Trade Pass: FREE**
 With this ticket, you are entitled to **Only Digital** access to:![](/images/SWITCH%202022%20Landing%20Page/Free%20Digital%20Trade%20Pass%20$0%20.png)
