@@ -4,7 +4,7 @@ permalink: /tickets
 description: ""
 ---
 ### **GET YOUR TICKETS TO SWITCH**
-![](/images/SWITCH%202022%20Landing%20Page/PDF%20hyperlink%20(2).png)
+
 
 The SWITCH 2022 Flagship Conference will be happening from the **25th to 28th October**! It will be a hybrid event, with the In-Person venue being Resorts World Sentosa and the digital venue will be from the comforts of your home or wherever you are across the world! 
 
