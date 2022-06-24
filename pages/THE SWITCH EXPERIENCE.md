@@ -14,7 +14,7 @@ The Singapore Week of Innovation and Technology (SWITCH) returns in 2022! The SW
 Onboard to the SWITCH Community Platform **[here](https://form.gov.sg/#!/624d5568045bce00127c096c)** to access the Year-Long Innovation Programme! 
 
 Register for your tickets to the SWITCH Experience **[here](https://community.switchsg.org/register)** now! 
-To learn more about the ticketing information, read **here**. (add link to the tickets landing page)
+To know more about what tickets are offered and what access you will be entitled to, read **here**. (add link to the tickets landing page)
 
 ### **HOW DO YOU ACCESS THE YEAR-LONG INNOVATION PROGRAMME?**
 As mentioned above, the Year-Long Innovation Programme is one of the two main components of the SWITCH Experience. The innovation-centric sessions in the programme is hosted throughout the year at our **[SWITCH Community](https://community.switchsg.org/)** Platform, where they are both live and on-demand. To access this community, you will need to register for a SWITCH Pass **[here](https://form.gov.sg/#!/624d5568045bce00127c096c)**! 
