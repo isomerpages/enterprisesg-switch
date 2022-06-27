@@ -16,12 +16,6 @@ Onboard to the SWITCH Community Platform **[here](https://form.gov.sg/#!/624d556
 Register for your tickets to the Flagship Conference **[here](https://community.switchsg.org/register)** now! 
 To know more about what tickets are offered and what access you will be entitled to, read **here**. (add link to the tickets landing page)
 
-### **HOW DO YOU ACCESS THE YEAR-LONG INNOVATION PROGRAMME?**
-As mentioned above, the Year-Long Innovation Programme is one of the two main components of the SWITCH Experience. The live and on-demand innovation-centric sessions in the programme are hosted throughout the year at our **[SWITCH Community Platform](https://community.switchsg.org/)**.
-
-Look forward to a series of online seminars, workshops, discussion panels, fireside chats, as well as networking opportunities where you can reach out directly to your desired connections. 
-
-To access these platform features, you will need to register for a SWITCH Pass **[here](https://form.gov.sg/#!/624d5568045bce00127c096c)**! 
 ### **WHAT IS THE SWITCH FLAGSHIP CONFERENCE?**
 Held from **25-28 October at Resorts World Convention Centre,** the Flagship Conference features 3 tracks that are carefully curated to showcase exciting new frontier technologies, as well as promising business opportunities and collaborations. Learn more below:
 ![](/images/SWITCH%202022%20Landing%20Page/pillars%20ver%203.png)
