@@ -1,4 +1,5 @@
 collections:
   switch-experience:
     output: true
-    order: []
+    order:
+      - THE SWITCH EXPERIENCE.md
