@@ -5,6 +5,7 @@ description: ""
 ---
 ### **SHOULD YOU COME?**
 ![Networking](/images/Networking.jpg)
+
 With SWITCH being a hub for the innovation community, it is THE event for startups and SMEs, investors, corporates and innovation departments, government bodies both local and international, as well as research and development. Therefore, SWITCH is a gateway to the Global-Asia Innovation Ecosystem that links you to your desired stakeholder that can accelerate the growth and development of your establishment. Thus, if you belong to any of these groups, this event is sure to benefit you!
 ### **Startups/SMEs**
 ![](/images/SWITCH%202022%20Landing%20Page/20497C47-29E4-4829-A238-D492A908B5AC_1_201_a.jpeg)
