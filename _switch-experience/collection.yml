@@ -2,7 +2,7 @@ collections:
   switch-experience:
     output: true
     order:
-      - SHOULD YOU COME?.md
-      - FLAGSHIP CONFERENCE.md
-      - YEAR LONG INNOVATION PROGRAMME.md
       - THE SWITCH EXPERIENCE.md
+      - YEAR LONG INNOVATION PROGRAMME.md
+      - FLAGSHIP CONFERENCE.md
+      - SHOULD YOU COME?.md
