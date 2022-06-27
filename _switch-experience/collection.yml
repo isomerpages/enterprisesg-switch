@@ -2,5 +2,6 @@ collections:
   switch-experience:
     output: true
     order:
+      - FLAGSHIP CONFERENCE.md
       - YEAR LONG INNOVATION PROGRAMME.md
       - THE SWITCH EXPERIENCE.md
