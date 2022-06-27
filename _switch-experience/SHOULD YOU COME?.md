@@ -17,4 +17,4 @@ With SWITCH being a hub for the innovation community, it is THE event for startu
 ![](/images/SWITCH%202022%20Landing%20Page/73D42A3E-F340-4725-B60C-12511E2E3628_1_201_a.jpeg)
 What are you waiting for? Grab your tickets **[here](https://community.switchsg.org/register)** now and fully immerse yourself in the SWITCH Experience today!
 
-If you want to know more details about the tickets, click **here**! (add link to tickets landing page)
+If you want to know more details about the tickets, click **[here](https://enterprisesg-switch-staging.netlify.app/tickets)**! (add link to tickets landing page)
