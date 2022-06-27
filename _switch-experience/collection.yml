@@ -2,4 +2,5 @@ collections:
   switch-experience:
     output: true
     order:
+      - YEAR LONG INNOVATION PROGRAMME.md
       - THE SWITCH EXPERIENCE.md
