@@ -1,0 +1,4 @@
+collections:
+  switch-experience:
+    output: true
+    order: []
