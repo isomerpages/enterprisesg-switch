@@ -3,6 +3,7 @@ title: YEAR LONG INNOVATION PROGRAMME
 permalink: /year-long
 description: ""
 ---
+**This page is better viewed on landscape mode*
 ### **HOW DO YOU ACCESS THE YEAR-LONG INNOVATION PROGRAMME?**
 ![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20social%20banner%202.png)
 
