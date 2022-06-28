@@ -3,6 +3,7 @@ title: SHOULD YOU COME?
 permalink: /should-you-come
 description: ""
 ---
+**This page is better viewed on landscape mode*
 ### **SHOULD YOU COME?**
 ![Networking](/images/Networking.jpg)
 
