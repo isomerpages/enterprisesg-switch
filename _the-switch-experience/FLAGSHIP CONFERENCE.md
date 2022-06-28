@@ -3,6 +3,7 @@ title: FLAGSHIP CONFERENCE
 permalink: /flagship
 description: ""
 ---
+**This page is better viewed on landscape mode*
 ### **WHAT IS THE SWITCH FLAGSHIP CONFERENCE?**
 Held from **25-28 October at Resorts World Convention Centre,** the Flagship Conference features 3 tracks that are carefully curated to showcase exciting new frontier technologies, as well as promising business opportunities and collaborations. Learn more below:
 ![](/images/SWITCH%202022%20Landing%20Page/pillars%20ver%203.png)
