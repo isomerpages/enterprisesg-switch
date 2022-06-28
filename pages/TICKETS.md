@@ -14,15 +14,15 @@ Fully immerse yourself in the SWITCH experience. This ticket lets you physically
 
 **The Premium Conference + Trade Pass Ticket** has different price tiering dependent on the day you attend the Flagship Conference. However, regardless of the price differences, you will still gain access to the events as stated in the table above.
 **Below is the information on the pricing:**
-![](/images/SWITCH%202022%20Landing%20Page/DFEFB720-DDC0-482C-B405-6EB8C9FA285F_1_201_a.jpeg)
+![](/images/SWITCH%202022%20Landing%20Page/DFEFB720-DDC0-482C-B405-6EB8C9FA285F_1_201_a%20ver2.jpeg)
 #### **Free In-Person Trade Pass Ticket: FREE**
-With this ticket, you are entitled to both **Digital and Physical Access to:**![](/images/SWITCH%202022%20Landing%20Page/Free%20In-person%20Trade%20Pass%20Ticket%20$0%20.png)
+With this ticket, you are entitled to both **Digital and Physical Access to:**![](/images/SWITCH%202022%20Landing%20Page/Free%20In-person%20Trade%20Pass%20Ticket%20$0%20purple%20ver%20.png)
 #### **Digital Premium Conference + Trade Pass: USD$199**
-Can’t make it to Singapore physically? Join us as a virtual attendee with full year-long access to our virtual SWITCH Platform and Innovation programming, where you can attend the 2022 Singapore Innovation Community Day online. The full content from the Flagship Conference will be available to you On-Demand two weeks after. With this ticket, you are entitled to **Only Digital** access to:![](/images/SWITCH%202022%20Landing%20Page/Digital%20Premium%20Conference%20and%20Trade%20Pass%20$199%20.png)
+Can’t make it to Singapore physically? Join us as a virtual attendee with full year-long access to our virtual SWITCH Platform and Innovation programming, where you can attend the 2022 Singapore Innovation Community Day online. The full content from the Flagship Conference will be available to you On-Demand two weeks after. With this ticket, you are entitled to **Only Digital** access to:![](/images/SWITCH%202022%20Landing%20Page/Digital%20Premium%20Conference%20Trade%20Pass%20$199%20.png)
 **There is an option to access the In-Person Trade Floor by indicating on SWITCH 2022 Registration Form. Default is Digital-only access.** 
-
 #### **Free Digital Trade Pass: FREE**
-With this ticket, you are entitled to **Only Digital** access to:![](/images/SWITCH%202022%20Landing%20Page/Free%20Digital%20Trade%20Pass%20$0%20.png)
+With this ticket, you are entitled to **Only Digital** access.
+![](/images/SWITCH%202022%20Landing%20Page/Free%20Digital%20Trade%20Pass%20$0%20purple%20ver.png)
 Join us at the Flagship Conference, happening from **25 to 28 October 2022**. 
 Grab your tickets to the event at now!
 ![](/images/SWITCH%202022%20Landing%20Page/9A4143BC-2774-4B6D-9DD9-B545DFFA6242_1_201_a.jpeg)
