@@ -14,4 +14,5 @@ The Singapore Week of Innovation and Technology (SWITCH) returns in 2022! The SW
 Onboard to the SWITCH Community Platform **[here](https://form.gov.sg/#!/624d5568045bce00127c096c)** to access the Year-Long Innovation Programme! 
 
 Register for your tickets to the Flagship Conference **[here](https://community.switchsg.org/register)** now! 
+
 To know more about what tickets are offered and what access you will be entitled to, read **[here](https://enterprisesg-switch-staging.netlify.app/tickets)**.
