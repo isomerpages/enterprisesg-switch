@@ -1,5 +1,5 @@
 collections:
-  the-switch-experience:
+  switch-experience:
     output: true
     order:
       - THE SWITCH EXPERIENCE.md
