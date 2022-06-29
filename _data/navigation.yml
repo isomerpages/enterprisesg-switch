@@ -5,17 +5,28 @@ links:
     sublinks:
       - title: About SWITCH
         url: /about
+      - title: The SWITCH Experience
+        url: /the-switch-experience
       - title: SWITCH 2021 IMPACT
         url: /about/2021
   - title: FLAGSHIP
     url: /
     sublinks:
+      - title: About
+        url: /flagship
       - title: SWITCH Beyond
         url: /switch-beyond-2022
       - title: SWITCH Global
         url: /switch-global-2022
       - title: SLINGSHOT
         url: /slingshot-2022
+  - title: YEAR-LONG
+    url: /
+    sublinks:
+      - title: About
+        url: /year-long
+      - title: Events & Initiatives
+        url: /example-resource/events-and-initiatives/
   - title: COMMUNITY
     url: /
     sublinks:
