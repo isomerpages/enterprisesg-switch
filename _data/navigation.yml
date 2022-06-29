@@ -32,13 +32,11 @@ links:
   - title: COMMUNITY
     url: /
     sublinks:
-      - title: EVENTS & INITIATIVES
-        url: /example-resource/events-and-initiatives/
       - title: BLOG
         url: /example-resource/blog/
       - title: JOIN NEWSLETTER
         url: http://eepurl.com/hErQjX
-  - title: LOGIN
-    url: https://events.hubilo.com/switchsg
   - title: GET TICKETS
     url: /tickets
+  - title: LOGIN
+    url: https://events.hubilo.com/switchsg
