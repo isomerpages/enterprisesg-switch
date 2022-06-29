@@ -2,6 +2,7 @@ collections:
   the-switch-experience:
     output: true
     order:
+      - TICKETS.md
       - THE SWITCH EXPERIENCE.md
       - YEAR LONG INNOVATION PROGRAMME.md
       - FLAGSHIP CONFERENCE.md
