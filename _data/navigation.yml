@@ -9,7 +9,7 @@ links:
         url: /the-switch-experience
       - title: SWITCH 2021 IMPACT
         url: /about/2021
-  - title: FLAGSHIP
+  - title: FLAGSHIP CONFERENCE
     url: /
     sublinks:
       - title: About
@@ -20,13 +20,15 @@ links:
         url: /switch-global-2022
       - title: SLINGSHOT
         url: /slingshot-2022
-  - title: YEAR-LONG
+  - title: YEAR-LONG PROGRAMME
     url: /
     sublinks:
       - title: About
         url: /year-long
       - title: Events & Initiatives
         url: /example-resource/events-and-initiatives/
+  - title: SPONSORS & PARTNERS
+    url: /sponsors-partners-2021
   - title: COMMUNITY
     url: /
     sublinks:
@@ -36,7 +38,7 @@ links:
         url: /example-resource/blog/
       - title: JOIN NEWSLETTER
         url: http://eepurl.com/hErQjX
-  - title: SPONSORS & PARTNERS
-    url: /sponsors-partners-2021
   - title: LOGIN
     url: https://events.hubilo.com/switchsg
+  - title: GET TICKETS
+    url: /tickets
