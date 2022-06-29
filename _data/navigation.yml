@@ -29,13 +29,6 @@ links:
         url: /example-resource/events-and-initiatives/
   - title: SPONSORS & PARTNERS
     url: /sponsors-partners-2021
-  - title: COMMUNITY
-    url: /
-    sublinks:
-      - title: BLOG
-        url: /example-resource/blog/
-      - title: JOIN NEWSLETTER
-        url: http://eepurl.com/hErQjX
   - title: GET TICKETS
     url: /tickets
   - title: LOGIN
