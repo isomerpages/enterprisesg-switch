@@ -26,7 +26,7 @@ With this ticket, you are entitled to **Only Digital** access.
 ![](/images/SWITCH%202022%20Landing%20Page/Free%20Digital%20Trade%20Pass%20$0%20purple%20ver.png)
 Join us at the Flagship Conference, happening from **25 to 28 October 2022**. 
 
-[➞ Grab your tickets to the event at now!](https://community.switchsg.org/register)
+[➞ Grab your tickets to the event now!](https://community.switchsg.org/register)
 
 We hope to see you there! To learn more about the SWITCH Experience, as well as the difference between the Premium vs Free tickets, click **[here](https://enterprisesg-switch-staging.netlify.app/the-switch-experience)**. 
 
