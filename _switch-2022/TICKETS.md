@@ -22,7 +22,7 @@ Fully immerse yourself in the SWITCH experience. This ticket lets you physically
 *These events are only available with the Premium Conference + Trade Pass Ticket.*
 
 **The Premium Conference + Trade Pass Ticket** has different price tiering dependent on the day you attend the Flagship Conference. However, regardless of the price differences, you will still gain access to the events as stated in the table above. **Below is the information on the pricing:**
-![](/images/SWITCH%202022%20Landing%20Page/DFEFB720-DDC0-482C-B405-6EB8C9FA285F_1_201_a%20ver2.jpeg)
+
 
 **[➞ Get your Premium IN-PERSON Conference + Trade Pass now!](https://community.switchsg.org/register)**
 
