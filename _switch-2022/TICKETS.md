@@ -6,7 +6,7 @@ description: ""
 *This page is better viewed on landscape mode*
 
 # **GET YOUR TICKETS TO SWITCH**
-
+![](/images/SWITCH%202022%20Landing%20Page/TICKETING%20INFO%20TABLE%20ONLY%202.png)
 ![](/images/SWITCH%202022%20Landing%20Page/Digital%20Ticket%20Table.png)
 The second component of the SWITCH Experience, the Flagship Conference will be happening from the **25th to 28th October**! It will be a hybrid event, with the In-Person venue being Resorts World Sentosa and the digital venue will be from the comforts of your home or wherever you are across the world! 
 
