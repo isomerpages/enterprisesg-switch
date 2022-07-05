@@ -5,15 +5,12 @@ description: ""
 ---
 *This page is better viewed on landscape mode*
 
-# **GET YOUR TICKETS TO SWITCH**
+# **CONNECT WITH THE GLOBAL-ASIA INNOVATION COMMUNITY**
+Get your tickets to attend the SWITCH 2022 Flagship Event from 25 - 28 October 2022 at Resorts World Convention Center, Singapore, and unlock access to our Year-long Innovation Programme as well!
+
 ![](/images/SWITCH%202022%20Landing%20Page/TICKETING%20INFO%20TABLE%20ONLY%202.png)
 
-The second component of the SWITCH Experience, the Flagship Conference will be happening from the **25th to 28th October**! It will be an in-person event at Resorts World Convention Center.  
-
 **[➞ Get your ticket to SWITCH now!](https://community.switchsg.org/register)**
-
-## **WHICH TICKET SHOULD YOU BUY?** 
-Please take note that tickets to the Flagship Conference are split into In-Person and Digital tickets, with each category having a Premium and Free version that entitles you access to different programmes of the whole event. Below is the information that lays down each type of ticket and what access you are entitled to.
 
 ### **PREMIUM IN-PERSON CONFERENCE + TRADE PASS**
 
@@ -34,6 +31,7 @@ With this ticket, you are entitled to both **Digital and Physical Access to:**
 **[➞ Get your Free IN-PERSON Trade Pass now!](https://community.switchsg.org/register)**
 
 ## DIGITAL ACCESS OPTIONS
+Not able to join us at the SWITCH 2022 Flagship Event in-person? Our digital access options unlock content and access for our flagship event, as well as the rest of the year-long programme. 
 
 ![](/images/SWITCH%202022%20Landing%20Page/Digital%20Ticket%20Table.png)
 
