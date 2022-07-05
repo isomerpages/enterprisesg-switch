@@ -3,12 +3,23 @@ links:
   - title: ABOUT US
     url: /about
     sublinks:
+      - title: SWITCH 2022 Experience
+        url: /experience-2022
+      - title: SWITCH 2021 Impact
+        url: /about/2021
       - title: About SWITCH
         url: /about
-      - title: The SWITCH Experience
-        url: /experience-2022
-      - title: SWITCH 2021 IMPACT
-        url: /about/2021
+  - title: FLAGSHIP EVENT
+    url: /flagship-event-2022
+    sublinks:
+      - title: About
+        url: /flagship-event-2022
+      - title: SWITCH Beyond
+        url: /switch-beyond-2022
+      - title: SWITCH Global
+        url: /switch-global-2022
+      - title: SLINGSHOT
+        url: /slingshot-2022
   - title: YEAR-LONG PROGRAMME
     url: /year-long-innovation-2022
     sublinks:
@@ -16,17 +27,6 @@ links:
         url: /year-long-innovation-2022
       - title: Events & Initiatives
         url: /example-resource/events-and-initiatives/
-  - title: FLAGSHIP CONFERENCE
-    url: /flagship-conference-2022
-    sublinks:
-      - title: About
-        url: /flagship-conference-2022
-      - title: SWITCH Beyond
-        url: /switch-beyond-2022
-      - title: SWITCH Global
-        url: /switch-global-2022
-      - title: SLINGSHOT
-        url: /slingshot-2022
   - title: SPONSORS & PARTNERS
     url: /sponsors-partners-2021
   - title: GET TICKETS
