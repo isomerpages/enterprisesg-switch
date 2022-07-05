@@ -3,9 +3,8 @@ title: FLAGSHIP CONFERENCE
 permalink: /flagship-conference-2022
 description: ""
 ---
-
 **This page is better viewed on landscape mode*
-### **WHAT IS THE SWITCH FLAGSHIP CONFERENCE?**
+### **WHAT IS THE SWITCH FLAGSHIP EVENT?**
 Held from **25-28 October at Resorts World Convention Centre,** the Flagship Conference features 3 tracks that are carefully curated to showcase exciting new frontier technologies, as well as promising business opportunities and collaborations. Learn more below:
 ![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20Pillars%20Infographic%20%20(1).png)
 ![](/images/SWITCH%202022%20Landing%20Page/pillars%20ver%204.jpeg)
@@ -23,4 +22,4 @@ SLINGSHOT 2022 opens its doors to 6 challenge domains! Catch the intense competi
 ![SLINGSHOT ](/images/slingshot_2021_winner_quantumcyte_web.jpeg)
 ##### **Join SWITCH at the Flagship Conference!**
 Register for your tickets to the Flagship Conference **[here](https://community.switchsg.org/register)** now! 
-To know more about which ticket will entitle you access to SWITCH Beyond, read **[here](https://enterprisesg-switch-staging.netlify.app/tickets)**. 
+To know more about which ticket will entitle you access to SWITCH Beyond, read **[here](https://enterprisesg-switch-staging.netlify.app/tickets)**.
