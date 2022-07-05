@@ -4,7 +4,7 @@ permalink: /should-you-come
 description: ""
 ---
 **This page is better viewed on landscape mode*
-### **SHOULD YOU COME?**
+### **WHY YOU SHOULD ATTEND**
 ![Networking](/images/Networking.jpg)
 
 With SWITCH being a hub for the innovation community, it is THE event for startups and SMEs, investors, corporates and innovation departments, government bodies both local and international, as well as research and development. 
