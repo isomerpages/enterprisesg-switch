@@ -3,8 +3,6 @@ title: WHY YOU SHOULD ATTEND
 permalink: /why-attend-2022
 description: ""
 ---
-
-
 **This page is better viewed on landscape mode*
 ### **WHY YOU SHOULD ATTEND**
 ![Networking](/images/Networking.jpg)
@@ -22,6 +20,6 @@ Thus, SWITCH is a gateway to the Global-Asia Innovation Ecosystem that links you
 ![](/images/SWITCH%202022%20Landing%20Page/80FDEF8E-E507-4AC0-ABA0-2BD62B7744CC_1_201_a.jpeg)
 ### **Research/Institute of Higher Learning**
 ![](/images/SWITCH%202022%20Landing%20Page/73D42A3E-F340-4725-B60C-12511E2E3628_1_201_a.jpeg)
-What are you waiting for? Grab your tickets **[here](https://community.switchsg.org/register)** now and fully immerse yourself in the SWITCH Experience today!
+What are you waiting for? Click to purchase your tickets **[here](https://community.switchsg.org/register)** now and fully immerse yourself in the SWITCH Experience today!
 
 If you want to know more details about the tickets, click **[here](https://enterprisesg-switch-staging.netlify.app/tickets)**!
