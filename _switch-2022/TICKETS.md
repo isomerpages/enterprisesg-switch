@@ -7,19 +7,16 @@ description: ""
 
 # **CONNECT WITH THE GLOBAL-ASIA INNOVATION COMMUNITY**
 Get your tickets to attend the SWITCH 2022 Flagship Event from 25 - 28 October 2022 at Resorts World Convention Center, Singapore, and unlock access to our Year-long Innovation Programme as well!
-
-![](/images/SWITCH%202022%20Landing%20Page/TICKETING%20INFO%20TABLE%20ONLY%202.png)
-
+![](/images/SWITCH%202022%20Landing%20Page/(GREY)%20PRICE%20CHART.jpeg)
+![](/images/SWITCH%202022%20Landing%20Page/67E91C64-975D-445B-A0D8-7F77EED6D668_1_201_a.jpeg)
 **[➞ Get your ticket to SWITCH now!](https://community.switchsg.org/register)**
-
 ### **PREMIUM IN-PERSON CONFERENCE + TRADE PASS**
-
 Fully immerse yourself in the SWITCH experience. This ticket lets you physically enter all content sessions and trade floors at the SWITCH Flagship Conference, as well as year-long access to our virtual SWITCH Platform and Innovation programming, where you can attend events like the 2022 Singapore Innovation Community Day! With this ticket, you are entitled to **both Digital and In-Person access to:**
-![](/images/SWITCH%202022%20Landing%20Page/Premium%20Conference%20Trade%20Pass%20Ticket%20$299%20purple%20ver%20.png)
+![](/images/SWITCH%202022%20Landing%20Page/(GREY)%20In-person%20Premium%20Conference%20Trade%20Pass%20Ticket%20$299.png)
 *These events are only available with the Premium Conference + Trade Pass Ticket.*
 
 **The Premium Conference + Trade Pass Ticket** has different price tiering dependent on the day you attend the Flagship Conference. However, regardless of the price differences, you will still gain access to the events as stated in the table above. **Below is the information on the pricing:**
-![](/images/SWITCH%202022%20Landing%20Page/99FBBEFE-7311-4A04-9287-30E51571F2FE_1_201_a.jpeg)
+
 
 **[➞ Get your Premium IN-PERSON Conference + Trade Pass now!](https://community.switchsg.org/register)**
 
