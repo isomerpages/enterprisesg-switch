@@ -23,5 +23,5 @@ SLINGSHOT 2022 opens its doors to 6 challenge domains! Catch the intense competi
 
 ![SLINGSHOT ](/images/slingshot_2021_winner_quantumcyte_web.jpeg)
 ##### **Join SWITCH at the Flagship Conference!**
-Register for your tickets to the Flagship Conference **[here](https://community.switchsg.org/register)** now! 
+Click here to purchase your tickets to the Flagship Conference **[here](https://community.switchsg.org/register)** now! 
 To know more about which ticket will entitle you access to SWITCH Beyond, read **[here](https://enterprisesg-switch-staging.netlify.app/tickets)**.
