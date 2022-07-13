@@ -8,7 +8,6 @@ description: ""
 # **CONNECT WITH THE GLOBAL-ASIA INNOVATION COMMUNITY**
 Get your tickets to attend the SWITCH 2022 Flagship Event from 25 - 28 October 2022 at Resorts World Convention Center, Singapore, and unlock access to our Year-long Innovation Programme as well!
 ![](/images/SWITCH%202022%20Landing%20Page/(GREY)%20PRICE%20CHART.jpeg)
-![](/images/SWITCH%202022%20Landing%20Page/67E91C64-975D-445B-A0D8-7F77EED6D668_1_201_a.jpeg)
 **[➞ Get your ticket to SWITCH now!](https://community.switchsg.org/register)**
 ### **PREMIUM IN-PERSON CONFERENCE + TRADE PASS**
 Fully immerse yourself in the SWITCH experience. This ticket lets you physically enter all content sessions and trade floors at the SWITCH Flagship Conference, as well as year-long access to our virtual SWITCH Platform and Innovation programming, where you can attend events like the 2022 Singapore Innovation Community Day! With this ticket, you are entitled to **both Digital and In-Person access to:**
@@ -29,9 +28,7 @@ With this ticket, you are entitled to both **Digital and Physical Access to:**
 
 ## DIGITAL ACCESS OPTIONS
 Not able to join us at the SWITCH 2022 Flagship Event in-person? Our digital access options unlock content and access for our flagship event, as well as the rest of the year-long programme. 
-
-![](/images/SWITCH%202022%20Landing%20Page/Digital%20Ticket%20Table.png)
-
+![](/images/SWITCH%202022%20Landing%20Page/67E91C64-975D-445B-A0D8-7F77EED6D668_1_201_a.jpeg)
 ### **PREMIUM DIGITAL CONFERENCE + TRADE PASS**
 
 Can’t make it to Singapore physically? Join us as a virtual attendee with full year-long access to our virtual SWITCH Platform and Innovation programming, where you can attend the 2022 Singapore Innovation Community Day online. The full content from the Flagship Conference will be available to you On-Demand two weeks after. With this ticket, you are entitled to **Only Digital** access to:![](/images/SWITCH%202022%20Landing%20Page/Digital%20Premium%20Conference%20Trade%20Pass%20$199%20.png)
