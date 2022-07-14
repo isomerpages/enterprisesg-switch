@@ -12,4 +12,4 @@ The Singapore Week of Innovation and Technology (SWITCH) returns in 2022! The SW
 ## **SWITCH 2022 Timeline** ![](/images/SWITCH%202022%20Landing%20Page/E69C2E6D-96DB-4215-BB85-8DC3C766AA67_1_201_a.jpeg)
 **We invite YOU** to the SWITCH Experience to be part of a network of innovators, investors, entrepreneurs, leaders and collaborators! 
 
-To learn more about the SWITCH 2022 Flagship Event, **[click here](/flagship-2022)**. 
+To learn more about the SWITCH 2022 Flagship Event, **[click here](/flagship-2022)**.
