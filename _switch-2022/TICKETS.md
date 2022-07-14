@@ -31,7 +31,7 @@ Not able to join us at the SWITCH 2022 Flagship Event in-person? Our digital acc
 ![](/images/SWITCH%202022%20Landing%20Page/67E91C64-975D-445B-A0D8-7F77EED6D668_1_201_a.jpeg)
 ### **PREMIUM DIGITAL CONFERENCE + TRADE PASS**
 
-Can’t make it to Singapore physically? Join us as a virtual attendee with full year-long access to our virtual SWITCH Platform and Innovation programming, where you can attend the 2022 Singapore Innovation Community Day online. The full content from the Flagship Conference will be available to you On-Demand two weeks after. With this ticket, you are entitled to **Only Digital** access to:![](/images/SWITCH%202022%20Landing%20Page/Digital%20Premium%20Conference%20Trade%20Pass%20$199%20.png)
+Can’t make it to Singapore physically? Join us as a virtual attendee with full year-long access to our virtual SWITCH Platform and Innovation programming, where you can attend the 2022 Singapore Innovation Community Day online. The full content from the Flagship Conference will be available to you On-Demand two weeks after. With this ticket, you are entitled to **Only Digital** access to:![](/images/SWITCH%202022%20Landing%20Page/(GREY)%20Digital%20Premium%20Conference%20Trade%20Pass%20$199.png)
 
 **There is an option to access the In-Person Trade Floor by indicating on SWITCH 2022 Registration Form. Default is Digital-only access.**
 
@@ -39,7 +39,7 @@ Can’t make it to Singapore physically? Join us as a virtual attendee with full
 
 ### **FREE DIGITAL TRADE PASS**
 With this ticket, you are entitled to **Only Digital** access.
-![](/images/SWITCH%202022%20Landing%20Page/Free%20Digital%20Trade%20Pass%20$0%20purple%20ver.png)
+![](/images/SWITCH%202022%20Landing%20Page/(GREY)%20Digital%20Trade%20Pass%20$0.png)
 Join us at the Flagship Conference, happening from **25 to 28 October 2022**. 
 
 **[➞ Get your Free DIGITAL Trade Pass now!](https://community.switchsg.org/register)**
