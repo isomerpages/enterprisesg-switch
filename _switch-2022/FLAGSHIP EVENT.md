@@ -7,11 +7,11 @@ description: ""
 ### **WHAT IS THE SWITCH FLAGSHIP EVENT?**
 The SWITCH Flagship Event consists of a multitude of programmes spread out across 4 days: 
 ![](/images/SWITCH%202022%20Landing%20Page/GREY%20Events%20Overview.png)
-Held from **25-28 October at Resorts World Convention Centre,** the Flagship Conference features 3 tracks that are carefully curated to showcase exciting new frontier technologies, as well as promising business opportunities and collaborations. Learn more below:
+Held from **25-28 October at Resorts World Convention Centre,** the Flagship Event features 3 tracks that are carefully curated to showcase exciting new frontier technologies, as well as promising business opportunities and collaborations. Learn more below:
 ![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20Pillars%20Infographic%20%20(1).png)
 ![](/images/SWITCH%202022%20Landing%20Page/pillars%20ver%204.jpeg)
 #### **WHAT CAN YOU EXPECT FROM SWITCH BEYOND?**
-SWITCH Beyond spans across the first 3 days of the Flagship Conference and these are the industry focuses for each day. Look forward to industry leaders sharing more about their field of work and find out what you can stand to benefit from their innovations and findings.
+SWITCH Beyond spans across the first 3 days of the Flagship Event and these are the industry focuses for each day. Look forward to industry leaders sharing more about their field of work and find out what you can stand to benefit from their innovations and findings.
 
 ![](/images/SWITCH%202022%20Landing%20Page/(GREY)%20Why%20Premium.png)
 #### **WHAT IS HAPPENING FOR SWITCH GLOBAL?**
@@ -23,5 +23,5 @@ SLINGSHOT 2022 opens its doors to 6 challenge domains! Catch the intense competi
 
 ![SLINGSHOT ](/images/slingshot_2021_winner_quantumcyte_web.jpeg)
 ##### **Join SWITCH at the Flagship Conference!**
-Click here to purchase your tickets to the Flagship Conference **[here](https://community.switchsg.org/register)** now! 
+Click here to purchase your tickets to the Flagship Event **[here](https://community.switchsg.org/register)** now! 
 To know more about which ticket will entitle you access to SWITCH Beyond, read **[here](https://enterprisesg-switch-staging.netlify.app/tickets)**.
