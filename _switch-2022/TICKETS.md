@@ -17,5 +17,3 @@ Not able to join us at the SWITCH 2022 Flagship Event in-person? Our digital acc
 We hope to see you there! To learn more about the SWITCH Experience, as well as the difference between the Premium vs Free tickets, click **[here](https://enterprisesg-switch-staging.netlify.app/the-switch-experience)**. 
 
 If you need clarification on the ticketing details, get in touch at our **Contact Us** section at the bottom of this page.
-
-[Test UTM link](https://www.switchsg.org/?utm_source=instagram&utm_medium=social&utm_campaign=switch2022)
