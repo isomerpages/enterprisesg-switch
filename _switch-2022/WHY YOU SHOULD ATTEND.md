@@ -4,7 +4,7 @@ permalink: /why-attend-2022
 description: ""
 ---
 **This page is better viewed on landscape mode*
-### **WHY YOU SHOULD ATTEND**
+# **WHY YOU SHOULD ATTEND**
 ![Networking](/images/Networking.jpg)
 
 With SWITCH being a hub for the innovation community, it is THE event for startups and SMEs, investors, corporates and innovation departments, government bodies both local and international, as well as research and development. 
