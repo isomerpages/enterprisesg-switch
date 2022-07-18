@@ -10,13 +10,13 @@ Get your tickets to attend the SWITCH 2022 Flagship Event from 25 - 28 October 2
 ## **IN-PERSON ACCESS OPTIONS**
 ![](/images/SWITCH%202022%20Landing%20Page/CONFIRMED%20PRICE%20CHART.jpeg)
 
-![](/images/SWITCH%202022%20Landing%20Page/6DC7AF4E-C1F1-4A25-BA49-2BEE355BE481_1_201_a.jpeg)
+![](/images/SWITCH%202022%20Landing%20Page/CONFIRMED%20PRICE%20BREAKDOWN.jpeg)
 
-**[➞ Get your ticket to SWITCH now!](https://community.switchsg.org/register)**
+**[➞ Get your tickets to SWITCH now!](https://community.switchsg.org/register)**
 
 ## **DIGITAL ACCESS OPTIONS**
 Not able to join us at the SWITCH 2022 Flagship Event in-person? Our digital access options unlock content and access for our flagship event, as well as the rest of the year-long programme. ![](/images/SWITCH%202022%20Landing%20Page/Digital%20Access.jpeg)
 
-We hope to see you there! To learn more about the SWITCH Experience, as well as the difference between the Premium vs Free tickets, click **[here](https://enterprisesg-switch-staging.netlify.app/the-switch-experience)**. 
+We hope to see you there! To learn more about the SWITCH Experience, as well as the difference between the Premium vs Free tickets, **[click here](https://enterprisesg-switch-staging.netlify.app/the-switch-experience)**. 
 
 If you need clarification on the ticketing details, get in touch at our **Contact Us** section at the bottom of this page.
