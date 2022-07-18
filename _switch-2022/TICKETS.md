@@ -8,7 +8,7 @@ description: ""
 # **CONNECT WITH THE GLOBAL-ASIA INNOVATION COMMUNITY**
 Get your tickets to attend the SWITCH 2022 Flagship Event from 25 - 28 October 2022 at Resorts World Convention Center, Singapore, and unlock access to our Year-long Innovation Programme as well!
 ## **IN-PERSON ACCESS OPTIONS**
-![](/images/SWITCH%202022%20Landing%20Page/In-Person%20Price%20Chart.png)
+
 **[➞ Get your ticket to SWITCH now!](https://community.switchsg.org/register)**
 
 ## **DIGITAL ACCESS OPTIONS**
