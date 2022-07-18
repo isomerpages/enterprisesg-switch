@@ -39,10 +39,12 @@ Across the three days, these concepts will be covered.
 SWITCH Global introduces global expansion opportunities to you! Discover and connect with in-market experts from across 6 continents at the Market Access Sessions and Global Pavilions as they share on region cultures and expansion tactics. 
 
 ![SWITCH Global](/images/SWITCH%20Global%203.JPG)
+
 ### **WHAT CAN YOU EXPECT FOR SLINGSHOT?**
 SLINGSHOT 2022 opens its doors to 6 challenge domains! Catch the intense competition between highly innovative and promising global startups, and be inspired by novel solutions at SWITCH 2022.
 
 ![SLINGSHOT ](/images/slingshot_2021_winner_quantumcyte_web.jpeg)
+
 ### **Join SWITCH at the Flagship Conference!**
 **[Click here](https://community.switchsg.org/register)** to purchase your tickets to the Flagship Event now! 
 To know more about which ticket will entitle you access to SWITCH Beyond, **[read here](https://enterprisesg-switch-staging.netlify.app/tickets)**.
