@@ -11,9 +11,9 @@ With SWITCH being a hub for the innovation community, it is THE event for startu
 
 Thus, SWITCH is a gateway to the Global-Asia Innovation Ecosystem that links you to your desired stakeholder that can accelerate the growth and development of your establishment. If you belong to any of these groups, this event is sure to benefit you!
 ### **Startups/SMEs**
-![](/images/SWITCH%202022%20Landing%20Page/20497C47-29E4-4829-A238-D492A908B5AC_1_201_a.jpeg)
+![](/images/SWITCH%202022%20Landing%20Page/Corporate%20Builders.png)
 ### **Investors**
-![](/images/SWITCH%202022%20Landing%20Page/2D29616B-4A6A-4309-BCAC-D0C844D4DEE6_1_201_a.jpeg)
+![](/images/SWITCH%202022%20Landing%20Page/Governments%20&%20Regulators.png)
 ### **Governments**
 ![](/images/SWITCH%202022%20Landing%20Page/A2B25822-8879-48FE-9BB2-2BBC70FA0AE1_1_201_a.jpeg)
 ### **Corporates/Innovation Departments**
