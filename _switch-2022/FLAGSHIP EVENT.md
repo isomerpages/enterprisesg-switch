@@ -19,6 +19,7 @@ SWITCH Beyond spans across the first 3 days of the Flagship Event and these are 
 
 ### **VERTICALS**
 Each day from Day 1 to Day 3 of the Flagship Event will each feature a specific topic , as shown below. 
+
 ![](/images/SWITCH%202022%20Landing%20Page/HEALTH%20&%20BIOMED.png)
 
 ![](/images/SWITCH%202022%20Landing%20Page/TRADE%20&%20CONNECTIVITY.png)
@@ -27,6 +28,10 @@ Each day from Day 1 to Day 3 of the Flagship Event will each feature a specific 
 
 ### **HORIZONTALS**
 Across the three days, these concepts will be covered.
+
+![](/images/SWITCH%202022%20Landing%20Page/SUSTAINABILITY.jpeg)
+
+![](/images/SWITCH%202022%20Landing%20Page/TECH%20FOR%20GOOD.jpeg)
 
 
 #### **WHAT IS HAPPENING FOR SWITCH GLOBAL?**
