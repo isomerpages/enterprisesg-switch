@@ -21,6 +21,6 @@ Thus, SWITCH is a gateway to the Global-Asia Innovation Ecosystem that links you
 ### **Research/Institute of Higher Learning**
 ![](/images/SWITCH%202022%20Landing%20Page/E5F7B52B-B3E6-4F4B-9587-27CA71133F17_1_201_a.jpeg)
 
-What are you waiting for? Click to purchase your tickets **[here](https://community.switchsg.org/register)** now and fully immerse yourself in the SWITCH Experience today!
+What are you waiting for? **[Click here](https://community.switchsg.org/register)** to purchase your tickets now and fully immerse yourself in the SWITCH Experience today!
 
-If you want to know more details about the tickets, click **[here](https://enterprisesg-switch-staging.netlify.app/tickets)**!
+If you want to know more details about the tickets, **[click here](https://enterprisesg-switch-staging.netlify.app/tickets)**!
