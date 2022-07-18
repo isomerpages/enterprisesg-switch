@@ -10,8 +10,8 @@ sections:
       title: Singapore Week of Innovation & Technology
       subtitle: 25–28 Oct 2022 | Resorts World Convention Centre, Singapore
       background: /images/SWITCH_2021_Hero_Banner_3e.jpg
-      button: Register Interest
-      url: https://go.gov.sg/switch-community-interest-web
+      button: purchase your tickets now!
+      url: https://community.switchsg.org/register
       key_highlights:
         - title: Events & Initiatives
           description: Year-long Innovation Journey
