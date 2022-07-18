@@ -35,7 +35,6 @@ Across the three days, these concepts will be covered.
 
 ![](/images/SWITCH%202022%20Landing%20Page/TECH%20FOR%20GOOD.jpeg)
 
-
 ### **WHAT IS HAPPENING FOR SWITCH GLOBAL?**
 SWITCH Global introduces global expansion opportunities to you! Discover and connect with in-market experts from across 6 continents at the Market Access Sessions and Global Pavilions as they share on region cultures and expansion tactics. 
 
