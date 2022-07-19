@@ -25,14 +25,6 @@ Each day from Day 1 to Day 3 of the Flagship Event will each feature a specific 
 ![](/images/SWITCH%202022%20Landing%20Page/HEALTH%20&%20BIOMED.png)
 ![](/images/SWITCH%202022%20Landing%20Page/TRADE%20&%20CONNECTIVITY.png)
 ![](/images/SWITCH%202022%20Landing%20Page/FRONTIER%20TECHNOLOGIES.png)
-
-### **HORIZONTALS**
-Across the three days, these concepts will be covered.
-
-![](/images/SWITCH%202022%20Landing%20Page/SUSTAINABILITY.jpeg)
-
-![](/images/SWITCH%202022%20Landing%20Page/TECH%20FOR%20GOOD.jpeg)
-
 ### **WHAT IS HAPPENING FOR SWITCH GLOBAL?**
 SWITCH Global introduces global expansion opportunities to you! Discover and connect with in-market experts from across 6 continents at the Market Access Sessions and Global Pavilions as they share on region cultures and expansion tactics. 
 
