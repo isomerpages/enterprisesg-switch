@@ -12,15 +12,16 @@ SWITCH is your gateway to the global-Asia innovation ecosystem that connects you
 We will bring together startups and SMEs, investors, corporates and innovation departments, local and international government bodies and research & development organisations. 
 
 ### **Startups/Small & Medium Enterprises (SMEs)**
-![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Audiences%205%20slides/Startups.png)
-### **Investors**
-![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Audiences%205%20slides/Investors.png)
-### **Governments**
 
+### **Investors**
+![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Why%20Attend/Investors.png)
+### **Governments**
+![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Why%20Attend/Governments%20&%20Regulators.png)
 ### **Corporates/Innovation Departments**
-![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Audiences%205%20slides/Corporate%20Builders.png)
+
 ### **Researchers/Institutes of Higher Learning (IHLs)**
-![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Audiences%205%20slides/Research%20Institutes%20and%20Higher%20Learning.png)
+![]()
+
 What are you waiting for? **[Click here](https://community.switchsg.org/register)** to purchase your tickets now and fully immerse yourself in the SWITCH Experience today!
 
 If you want to know more details about the tickets, **[click here](https://enterprisesg-switch-staging.netlify.app/tickets)**!
