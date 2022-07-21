@@ -3,29 +3,33 @@ links:
   - title: ABOUT US
     url: /about
     sublinks:
+      - title: SWITCH 2022 Experience
+        url: /experience-2022
+      - title: SWITCH 2021 Impact
+        url: /about/2021
       - title: About SWITCH
         url: /about
-      - title: SWITCH 2021 IMPACT
-        url: /about/2021
-  - title: CHANNELS
-    url: /
+  - title: FLAGSHIP EVENT
+    url: /flagship-2022
     sublinks:
+      - title: About
+        url: /flagship-2022
       - title: SWITCH Beyond
         url: /switch-beyond-2022
       - title: SWITCH Global
         url: /switch-global-2022
       - title: SLINGSHOT
         url: /slingshot-2022
-  - title: COMMUNITY
-    url: /
+  - title: YEAR-LONG PROGRAMME
+    url: /year-long-innovation-2022
     sublinks:
-      - title: EVENTS & INITIATIVES
+      - title: About
+        url: /year-long-innovation-2022
+      - title: Events & Initiatives
         url: /example-resource/events-and-initiatives/
-      - title: BLOG
-        url: /example-resource/blog/
-      - title: JOIN NEWSLETTER
-        url: http://eepurl.com/hErQjX
   - title: SPONSORS & PARTNERS
     url: /sponsors-partners-2021
+  - title: GET TICKETS
+    url: /tickets
   - title: LOGIN
     url: https://events.hubilo.com/switchsg

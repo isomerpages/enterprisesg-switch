@@ -1,0 +1,9 @@
+collections:
+  switch-2022:
+    output: true
+    order:
+      - THE SWITCH EXPERIENCE.md
+      - FLAGSHIP EVENT.md
+      - YEAR LONG INNOVATION PROGRAMME.md
+      - WHY YOU SHOULD ATTEND.md
+      - TICKETS.md

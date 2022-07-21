@@ -10,8 +10,8 @@ sections:
       title: Singapore Week of Innovation & Technology
       subtitle: 25–28 Oct 2022 | Resorts World Convention Centre, Singapore
       background: /images/SWITCH_2021_Hero_Banner_3e.jpg
-      button: Register Interest
-      url: https://go.gov.sg/switch-community-interest-web
+      button: get tickets
+      url: https://community.switchsg.org/register
       key_highlights:
         - title: Events & Initiatives
           description: Year-long Innovation Journey
@@ -41,7 +41,7 @@ sections:
         knowledge sharing and networking, featuring a flagship conference and
         access to our platform.
       button: See our 2021 Impact
-      url: /about
+      url: /about/2021
   - infopic:
       title: SLINGSHOT 2022 is open for applications
       subtitle: Startup Pitching Competition
