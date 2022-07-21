@@ -11,6 +11,7 @@ IMPACT+ is a Closed Door, Invite-only 2-day meeting consisting of intimate Safe-
 *The meeting will be strictly held under the Chatham House Rule. No recording or photos of the event will be allowed.*
 
 # Details
+
 | **Title:** | IMPACT+ 2022 |
 | -------- | -------- |
 |**Date:** | Thu–Fri, 27–28 Oct 2022 |
