@@ -3,7 +3,6 @@ title: IMPACT Plus 2022
 permalink: /impactplus
 description: ""
 ---
-
 # About
 IMPACT+ brings together Family Office Investors, Fund Managers and Policy Makers from the Global-Asia ecosystem to make better decisions and to shape positive outcomes for our shared future.
 
@@ -14,7 +13,7 @@ IMPACT+ is a Closed Door, Invite-only 2-day meeting consisting of intimate Safe-
 # Details
 | **Title:** | IMPACT+ 2022 |
 | -------- | -------- |
-|**Date:** | Thu–Fri, 27–28 Oct 2022
+|**Date:** | Thu–Fri, 27–28 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
 |**Price:** | S$999 (Early-bird) / S$1,499 |
