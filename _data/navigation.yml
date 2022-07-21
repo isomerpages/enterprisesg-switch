@@ -34,5 +34,7 @@ links:
     sublinks:
       - title: TICKET INFO
         url: /tickets
+      - title: GET TICKETS
+        url: https://community.switchsg.org/register
   - title: LOGIN
     url: https://community.switchsg.org/home
