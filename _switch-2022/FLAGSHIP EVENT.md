@@ -9,9 +9,7 @@ Held in Singapore from **25–28 October at Resorts World Convention Centre,** t
 
 ![SWITCH 2022 Flagship Event at a glance](/images/SWITCH%202022%20Landing%20Page/SWITCH_2022_Flagship_Glance_v2.png)
 
-![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20BEYOND.jpeg)
-![](/images/SWITCH%202022%20Landing%20Page/SWITCH%20GLOBAL.jpeg)
-![](/images/SWITCH%202022%20Landing%20Page/SLINGSHOT.jpeg)
+insert pillars
 
 ## **SWITCH Beyond Innovation Conference**
 
