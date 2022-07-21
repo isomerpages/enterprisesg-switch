@@ -12,7 +12,7 @@ SWITCH is your gateway to the global-Asia innovation ecosystem that connects you
 We will bring together startups and SMEs, investors, corporates and innovation departments, local and international government bodies and research & development organisations. 
 
 ### **Startups/Small & Medium Enterprises (SMEs)**
-
+![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Why%20Attend/Startups.png)
 ### **Investors**
 ![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Why%20Attend/Investors.png)
 ### **Governments**
