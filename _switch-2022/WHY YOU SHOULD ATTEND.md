@@ -18,9 +18,9 @@ We will bring together startups and SMEs, investors, corporates and innovation d
 ### **Governments**
 ![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Why%20Attend/Governments%20&%20Regulators.png)
 ### **Corporates/Innovation Departments**
-
+![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Why%20Attend/Corporate%20Builders.png)
 ### **Researchers/Institutes of Higher Learning (IHLs)**
-![]()
+![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Why%20Attend/Research%20Institutes%20and%20Higher%20Learning.png)
 
 What are you waiting for? **[Click here](https://community.switchsg.org/register)** to purchase your tickets now and fully immerse yourself in the SWITCH Experience today!
 
