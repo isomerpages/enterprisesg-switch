@@ -9,15 +9,12 @@ Held in Singapore from **25–28 October at Resorts World Convention Centre,** t
 
 ![SWITCH 2022 Flagship Event at a glance](/images/SWITCH%202022%20Landing%20Page/SWITCH_2022_Flagship_Glance_v2.png)
 
-![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/2207%20Before%20Launch%20SWITCH%20Pillars%20FINAL.png)
+
 
 ## **SWITCH Beyond Innovation Conference**
 
 SWITCH Beyond spans across the first 3 days of the Flagship Event and these are the industry focuses for each day. Look forward to industry leaders sharing more about their field of work and find out what you can stand to benefit from their innovations and findings.
-
-![](/images/SWITCH%202022%20Landing%20Page/HEALTH%20&%20BIOMED.png)
-![](/images/SWITCH%202022%20Landing%20Page/TRADE%20&%20CONNECTIVITY.png)
-![](/images/SWITCH%202022%20Landing%20Page/FRONTIER%20TECHNOLOGIES.png)
+![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/2207%20Before%20Launch%20SWITCH%20Pillars%20FINAL.png)
 
 ## **SWITCH Global Market Access Conference & Trade Floor**
 
