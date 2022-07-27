@@ -29,7 +29,12 @@ links:
         url: /example-resource/events-and-initiatives/
   - title: SPONSORS & PARTNERS
     url: /sponsors-partners-2021
-  - title: GET TICKETS
+  - title: TICKETS
     url: /tickets
+    sublinks:
+      - title: TICKET INFO
+        url: /tickets
+      - title: GET TICKETS
+        url: https://community.switchsg.org/register
   - title: LOGIN
-    url: https://events.hubilo.com/switchsg
+    url: https://community.switchsg.org/home
