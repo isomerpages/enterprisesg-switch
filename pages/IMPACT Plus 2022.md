@@ -1,6 +1,6 @@
 ---
 title: IMPACT Plus 2022
-permalink: /impactplus
+permalink: /impactplus/
 description: ""
 ---
 # About
