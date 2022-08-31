@@ -17,3 +17,9 @@ image: /images/WAIC China-Singapore AI Ecosystem Collaboration Forum (800x368) (
 | **Time**    | 2 - 5pm (Singapore Time / UTC +8) |
 |**Venue** | SWITCH Platform
 | **Register** | [Click here](https://events.hubilo.com/switchsg/register) |
+
+#### Register
+
+Get your **SWITCH Pass** and for access to the SWITCH Platform and attend our Flagship Event! 
+
+**[Register here! ](https://community.switchsg.org/register)**
