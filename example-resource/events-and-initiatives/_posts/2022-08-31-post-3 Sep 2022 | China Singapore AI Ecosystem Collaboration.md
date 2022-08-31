@@ -6,3 +6,24 @@ layout: post
 description: ""
 image: /images/WAIC China-Singapore AI Ecosystem Collaboration Forum (800x368) (1).png
 ---
+![](/images/WAIC%20China-Singapore%20AI%20Ecosystem%20Collaboration%20Forum%20(800x368)%20(1).png)
+
+#### Event details
+
+
+| **Title** | China-Singapore AI Ecosystem Collaboration Forum|
+| -------- | -------- |
+|**Date** | Saturday, 3 September 2022 
+| **Time**    | 2 - 5pm (Singapore Time / UTC +8) |
+|**Venue** | SWITCH Platform
+| **Register** | [Click here](https://events.hubilo.com/switchsg/register) |
+
+#### About
+Learn how we can foster the collaboration between the China-Singapore AI ecosystems to mutually reinforce AI4Good to utilise opportunities and address unforeseen risks such as DeepFake and disinformation!  
+  
+Join us in the upcoming webinar, "China-Singapore AI Ecosystem Collaboration Forum" on **3 September, 2.00pm** to learn more about the partnership of two robust tech centres: China and Singapore!
+#### Register
+
+Get your **SWITCH Pass** and for access to the SWITCH Platform and attend our Flagship Event! 
+
+**[Register here! ](https://community.switchsg.org/register)**
