@@ -1,6 +1,6 @@
 ---
 title: 13 Apr 2022 | Singapore Sustainability Showcase
-permalink: /events/singapore-sustainability-showcase
+permalink: /events/singapore-sustainability-showcase/
 date: 2022-04-01
 layout: post
 description: Looking to know more about innovation opportunities and
