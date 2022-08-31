@@ -66,7 +66,7 @@ description: ""
 ### **Day 3, 27 Oct 2022 (Frontier Technologies - AI, Metaverse, Web 3.0)**
 | Session Title | Time | 
 | -------- | -------- |
-| Conference Session 15  | 9:00 - 9:40 AM |
-| Conference Session 16 | 10:35  - 11:15 AM |
-| Conference Session 17 | 11:20 AM - 12:00 PM     |
-| Conference Session 18 | 1:05 - 1:45 PM     |
+| Conference Session 15  | 9:30 - 10:20 AM |
+| Conference Session 16 | 10:30  - 11:20 AM |
+| Conference Session 17 | 11:30 AM - 12:20 PM     |
+| Conference Session 18 | 1:30 - 2:20 PM     |
