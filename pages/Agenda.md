@@ -58,10 +58,10 @@ description: ""
 | Market Access 8  | 9:30 - 10:20 AM |
 | Market Access 9 | 10:30  - 11:20 AM |
 | Market Access 10 | 11:30 - 12:20 PM     |
-| Market Access 11 | 1:30 - 2:25 PM     |
-| Market Access 12 | 2:30 - 3:10 PM     |
-| Market Access 13 | 3:15 - 3:55 PM     |
-| Market Access 14 | 4:15 - 4:55 PM     | 
+| Market Access 11 | 1:30 - 2:20 PM     |
+| Market Access 12 | 2:30 - 3:20 PM     |
+| Market Access 13 | 3:30 - 4:20 PM     |
+| Market Access 14 | 4:30 - 5:20 PM     | 
 
 ### **Day 3, 27 Oct 2022 (Frontier Technologies - AI, Metaverse, Web 3.0)**
 | Session Title | Time | 
