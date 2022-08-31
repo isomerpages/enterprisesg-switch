@@ -3,7 +3,7 @@ title: Agenda
 permalink: /agenda/
 description: ""
 ---
-## SWITCH Beyond Agenda 
+## SWITCH Beyond 
 
 ### **Day 1, 25 Oct 2022 (Healthcare, Medtech, BioTech/BioMed)**
 | Session Title | Time | 
@@ -39,9 +39,34 @@ description: ""
 | Conference Session 21 | 2:35 - 3:15 PM     |
 
 
+## SWITCH Global  
 
+### **Day 1, 25 Oct 2022**
+| Session Title | Time | 
+| -------- | -------- |
+| Market Access 1  | 9:30 - 10:20 AM |
+| Market Access 2  | 10:30 - 11:20 AM  |
+| Market Access 3 | 11:30 AM - 12:20 PM     |
+| Market Access 4 | 1:30 - 2:20 PM     |
+| Market Access 5 | 2:30 - 3:20 PM     |
+| Market Access 6 | 3:30 - 4:20 PM     |
+| Market Access 7 | 4:30 - 5:20 PM     | 
 
+### **Day 2, 26 Oct 2022**
+| Session Title | Time | 
+| -------- | -------- |
+| Market Access 8  | 9:30 - 10:20 AM |
+| Market Access 9 | 10:30  - 11:20 AM |
+| Market Access 10 | 11:30 - 12:20 PM     |
+| Market Access 11 | 1:30 - 2:25 PM     |
+| Market Access 12 | 2:30 - 3:10 PM     |
+| Market Access 13 | 3:15 - 3:55 PM     |
+| Market Access 14 | 4:15 - 4:55 PM     | 
 
-
-
-
+### **Day 3, 27 Oct 2022 (Frontier Technologies - AI, Metaverse, Web 3.0)**
+| Session Title | Time | 
+| -------- | -------- |
+| Conference Session 15  | 9:00 - 9:40 AM |
+| Conference Session 16 | 10:35  - 11:15 AM |
+| Conference Session 17 | 11:20 AM - 12:00 PM     |
+| Conference Session 18 | 1:05 - 1:45 PM     |
