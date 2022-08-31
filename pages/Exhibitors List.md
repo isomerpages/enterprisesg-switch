@@ -47,6 +47,3 @@ description: ""
 | Exhibitor C    | Co-exhibitor C     | -    |
 | Exhibitor D    | Co-exhibitor D     | -    |
 | Exhibitor E    | Co-exhibitor E    | -    |
-
-
-
