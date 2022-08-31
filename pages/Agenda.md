@@ -63,7 +63,7 @@ description: ""
 | Market Access 13 | 3:30 - 4:20 PM     |
 | Market Access 14 | 4:30 - 5:20 PM     | 
 
-### **Day 3, 27 Oct 2022 (Frontier Technologies - AI, Metaverse, Web 3.0)**
+### **Day 3, 27 Oct 2022**
 | Session Title | Time | 
 | -------- | -------- |
 | Conference Session 15  | 9:30 - 10:20 AM |
