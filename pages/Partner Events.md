@@ -8,3 +8,4 @@ Our partners play an important role within the SWITCH community, and the connect
 
 Head over to our [**Events and Initiatives**](https://www.switchsg.org/example-resource/events-and-initiatives/) page to find out what events we will be having!
 
+![](/images/113E02CF-3DD2-46C6-BD93-9E6CA61DD5A3_1_201_a.jpeg)
