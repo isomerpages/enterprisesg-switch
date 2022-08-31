@@ -24,6 +24,6 @@ Learn how we can foster the collaboration between the China-Singapore AI ecosy
 Join us in the upcoming webinar, "China-Singapore AI Ecosystem Collaboration Forum" on **3 September, 2.00pm** to learn more about the partnership of two robust tech centres: China and Singapore!
 #### Register
 
-Get your **SWITCH Pass** and for access to the SWITCH Platform and attend our Flagship Event! 
+This event is part of the SWITCH Year-long Innovation Programme. Register for a FREE Trade Pass to attend this event, as well as the SWITCH 2022 Flagship Event from 25 - 28 Oct 2022 at Resorts World Convention Centre, Singapore. 
 
 **[Register here! ](https://community.switchsg.org/register)**
