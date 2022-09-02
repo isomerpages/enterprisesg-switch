@@ -25,9 +25,9 @@ Want to network and plant yourself in the exciting world of these corporations a
 | NHIC    | Spain - Embassy of Spain, Region of Catalonia | SECOM|
 | NAMIC    | Estonia - Estonia Trade & Invest | Tata|
 | Temasek Polytechnic    | Malaysia - MRANTI | Unilever|
-| Ngee Ann Polytechnic| New Zealand - NZTE | |
-| Republic Polytechnic| USA - US Commercial Services, IEEE | |
-|  | Canada - High Commission of Canada & Regions | |
-|  | India - High Commission of India | |
-|  | UK - DIT UK, Innovate UK | |
-|  | Israel - Embassy of Israel, Israel Innovation Authority | |
+| Ngee Ann Polytechnic| New Zealand - NZTE | -|
+| Republic Polytechnic| USA - US Commercial Services, IEEE | -|
+| - | Canada - High Commission of Canada & Regions |- |
+| - | India - High Commission of India | -|
+| -| UK - DIT UK, Innovate UK | -|
+| - | Israel - Embassy of Israel, Israel Innovation Authority | -|
