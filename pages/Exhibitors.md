@@ -5,6 +5,9 @@ description: ""
 ---
 ## **Exhibitors and Participating Organisations**
 
+Here is a list of some of the exhibitors and participating organisations that will be present at our Flagship Event happening from 25th -28th October at Resorts World Convention Centre! 
+
+Want to network and plant yourself in the exciting world of these corporations and organisations? Join us at the Flagship Event, and get your Free Trade Pass ticket **[here](https://community.switchsg.org/register)!**
 
 
 | Research Community | Global Trade & Tech Agencies | Corporates |
@@ -28,6 +31,3 @@ description: ""
 |  | India - High Commission of India | |
 |  | UK - DIT UK, Innovate UK | |
 |  | Israel - Embassy of Israel, Israel Innovation Authority | |
-
-
-
