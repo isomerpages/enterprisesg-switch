@@ -1,5 +1,5 @@
 collections:
-  2022-tracks:
+  tracks:
     output: true
     order:
       - SWITCH Beyond.md
