@@ -4,9 +4,9 @@ collections:
     order:
       - SWITCH Beyond.md
       - SWITCH Global.md
-      - SLINGSHOT/Partner Events.md
-      - SLINGSHOT/GRAND STAGE 2022.md
       - SLINGSHOT/.keep
+      - SLINGSHOT/GRAND STAGE 2022.md
       - SLINGSHOT/SLINGSHOT 2022.md
+      - SLINGSHOT/Partner Events.md
       - SLINGSHOT/SLINGSHOT 2021 Recap.md
       - SLINGSHOT/Judges and Mentors.md
