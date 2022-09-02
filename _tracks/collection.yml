@@ -2,6 +2,7 @@ collections:
   tracks:
     output: true
     order:
+      - Partner Events.md
       - SWITCH Beyond.md
       - SWITCH Global.md
       - SLINGSHOT/.keep
