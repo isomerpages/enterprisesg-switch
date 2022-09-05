@@ -1,10 +1,12 @@
 ---
-title: SLINGSHOT 2022
-permalink: /slingshot-2022/
-description: ""
-third_nav_title: SLINGSHOT
+title: Apply for SLINGSHOT 2022
+permalink: /slingshot-2022-application/
+description: SLINGSHOT is Asia’s most exciting deep tech pitching competition
+  organised by Enterprise Singapore and held at SWITCH.
 image: /images/slingshot_2021_finalists_web.jpeg
 ---
+
+
 ![SLINGSHOT 2022 deep tech startup competitions applications are open](/images/SLINGSHOT/SLINGSHOT%202022/Slingshot2022_Banner_Rectangle_with_closing_date.jpg)
 
 # Asia's most exciting deep tech startup competition is back!
@@ -12,16 +14,14 @@ Calling all startups: Singapore is looking for new and innovative startups to co
 
 In its sixth addition, SLINGSHOT is looking for startups in **five emerging challenge domains** to showcase your game-changing solutions and products.
 
-Regardless of where you're from, this is your chance to showcase your solution in Singapore, one of the leading global startup hubs. The Top 50 startups will win a **sponsored trip to Singapore** to be immersed in the startup ecosystem and make the pitch of a lifetime to a global audience of major investors, industry experts, and thought leaders!
+Regardless of where you're from, this is your chance to showcase your solution in Singapore, one of the leading global startup hubs. The Top 50 startups will win a **sponsored trip to Singapore** to be immersed in the startup ecosystem and make the pitch of a lifetime to a global audience of major investors, industry experts, and thought leaders.!
 
-##### SLINGSHOT returns to the SWITCH Grand Stage
+*** 
+##### The Application Phase for SLINGSHOT 2022 is now OPEN!
 
-SLINGSHOT returns physically at the Resorts World Convention Centre during our Flagship Event happening this 25th - 28th October! 
+Learn more and apply at the [SLINGSHOT 2022 challenge page](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022).
 
-The SWITCH Grand Stage will host startup focused content, particularly the **SLINGSHOT** Domain and Grand Finals, alongside Keynotes, Panels and Masterclasses. 
-
-![](/images/GRANDSTAGE.jpeg)
-
+*Applications are open from 25 Apr–24 Jul 2022.*
 
 ***
 ##### 2022 Challenge Domains
@@ -32,9 +32,9 @@ The SWITCH Grand Stage will host startup focused content, particularly the **SLI
 | ![SLINGSHOT Domain Manufacturing Trade Connectivity](/images/SLINGSHOT_Thumbnail_Domain_Manufacturing_Trade_Connectivity.jpg)     |      |
 
 ***
-##### About the SLINGSHOT Grand Finals
+##### Why Join?
 
-The SLINGSHOT Top 50 Global Startups will have the opportunity to join an immersion programme held in Singapore, and pitch at the Grand Finals at SWITCH 2022!
+Vie for a chance to be part of SLINGSHOT Top 50 Global Startups and get immersed in Asia’s leading startup community here in Singapore.
 
 **Join us for the SLINGSHOT Experience!**
 
@@ -50,7 +50,7 @@ The SLINGSHOT Top 50 Global Startups will have the opportunity to join an immers
 
 Learn more and apply at the [SLINGSHOT 2022 challenge page](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022).
 
-*Applications for SLINGSHOT 2022 have closed*
+*Applications are open from 25 Apr–24 Jul 2022.*
 
 ***
 
