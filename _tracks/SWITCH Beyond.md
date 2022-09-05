@@ -26,9 +26,7 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 
 ### Overview of SWITCH Beyond
 
-
-
-![](/images/BEYONDSTAGE.jpeg)
+![Infographic of the SWITCH Beyond 2022 Agenda. ](/images/SWITCH%202022%20Infographics/Agenda_Beyond_Overview_R2.png)
 
 ### Our 2021 Speakers
 Our past guests included vanguard leaders from industries, governments, and institutions all across the world.  Join us in 2022 to engage with the brightest minds for discussions on emergent topics that shape the future of our communities and economies.
