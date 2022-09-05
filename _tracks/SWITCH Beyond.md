@@ -26,6 +26,8 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 
 ### Overview of SWITCH Beyond
 
+
+
 ![](/images/BEYONDSTAGE.jpeg)
 
 ### Our 2021 Speakers
