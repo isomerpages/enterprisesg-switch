@@ -1,13 +1,13 @@
 ---
 title: FLAGSHIP EVENT
-permalink: /flagship-2022
+permalink: /flagship-2022/
 description: ""
 ---
 **This page is better viewed on landscape mode*
 # **At a glance**
 Held in Singapore from **25–28 October at Resorts World Convention Centre,** the Flagship Event features 3 tracks that are carefully curated to showcase exciting frontier technologies and opportunities for collaboration. Learn more below:
 
-![](/images/SWITCH%202022%20Landing%20Page/SWITCH%202022%20Program%20Schedule.png)
+![Overview of Switch 2022](/images/SWITCH%202022%20Infographics/AT%20A%20GLANCE%20-%20FLAGSHIP%20EVENT.png)
 
 ![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/2207%20Before%20launch%20Pillars%20Final%20VER.png)
 
