@@ -20,7 +20,7 @@ SLINGSHOT returns physically at the Resorts World Convention Centre during our F
 
 The SWITCH Grand Stage will host startup focused content, particularly the **SLINGSHOT** Domain and Grand Finals, alongside Keynotes, Panels and Masterclasses. 
 
-![Infographic of the overview for SWITCH 2022](/images/SLINGSHOT/SLINGSHOT%202022/GRAND%20%20STAGE%20PROGRAMME%20HIGHLIGHTS.png)
+![Programme Highlights SWITCH Grand Stage and SLINGSHOT Grand Finals](/images/SWITCH%202022%20Infographics/Programme%20Highlights%20Grand%20Stage_R2.png)
 
 
 ***

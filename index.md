@@ -1,8 +1,15 @@
 ---
 layout: homepage
-title: Singapore Week of Innovation and Technology | SWITCH
-description: Asia's leading Innovation and Technology Festival
-image: /images/isomer-logo.svg
+title: Singapore Week of Innovation and Technology | 25–28 Oct 2022 | Resorts
+  World Convention Centre, Singapore
+description: Asia's leading Innovation and Technology The Singapore Week of
+  Innovation and Technology (SWITCH) returns for its seventh edition from 25–28
+  Oct 2022 as a fully physical event. With a focus on championing innovation and
+  creating connections, SWITCH features programming, exhibitions, pitching
+  competition, and networking opportunities in the areas of innovation,
+  technology, and global market access for delegates all over the world. SWITCH
+  is organised by Enterprise Singapore.
+image: /images/SWITCH_2021_Hero_Banner_03a.jpg
 permalink: /
 notification: ""
 sections:
@@ -88,3 +95,4 @@ sections:
       subtitle: Explore
       button: See all
 ---
+
