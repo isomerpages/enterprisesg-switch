@@ -33,10 +33,10 @@ description: ""
 
 | Time | Session | 
 | -------- | -------- |
-| 10:00am–10:45am  | Global Opportunities for Startups (Powered By: Global Innovation Alliance)|
+| 10:00am–10:45am  | Global Opportunities for Startups (Powered by: Global Innovation Alliance)|
 | 11:00am–11:45am  | Succeeding from Singapore: Startups' Journeys |
 | 12:00pm–12:30pm  | Startup Masterclass |
-| 01:45pm–02:15pm | The e-Conomy SEA 2022 Report" (Powered By: Google, Bain, Temasek) |
+| 01:45pm–02:15pm | The e-Conomy SEA 2022 Report" (Powered by: Google, Bain, Temasek) |
 | 02:30pm–04:20pm | SLINGSHOT Grand Finals |
 | 04:35pm–05:20pm | Attaining the next Billion, Who's next? |
 | 05:35pm–06:35pm | Announcement of SLINGSHOT Winners and Grand Prize Ceremony |
