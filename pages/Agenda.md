@@ -55,12 +55,8 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 | 11:20am–12:00pm | How Web 3.0 technology and the metaverse will unlock opportunity and impact our world (Hosted by SGTech, Meta)  |
 | 01:05pm–01:45pm | Role of dual-use technology in transforming industries (Hosted by Cap Vista) |
 | 01:50pm - 02:30pm | From AI Governance to Governable AI (Hosted by AIII) |
-| 02:35pm–03:15pm |  | 
-| 03:20pm–04:00pm  |  |
-| 04:20pm–05:00pm  |  |
-| 05:05pm–05:30pm  |  |
-| 05:35pm–06:15pm  |  |
+| 02:35pm–03:15pm | Asia's Digital Economy and the Rise of Unicorns | 
+
 
 
 Contents are subject to change
-
