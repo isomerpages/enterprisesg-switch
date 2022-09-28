@@ -12,12 +12,13 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 
 # Details
 
-| **Title:** | IMPACT+ 2022 |
+| **Title:** | SGTech Global Future Series: Digital Trust Forum |
 | -------- | -------- |
 |**Date:** | Fri, 28 Oct 2022 |
 | **Time:**    | 0845 - 1730 (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
 |**Price:** | SG$200 for in-person ticket / SG$75* for virtual ticket |
+
 *Early Bird free virtual ticket promotion currently underway*
 
 # Highlights
