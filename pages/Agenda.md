@@ -11,11 +11,11 @@ Hear from our esteemed healthcare and biomedical corporates and professionals as
 
 | Session Title | Time | 
 | -------- | -------- |
-| 09:50am - 10:30am  | Healthcare Panel |
-| 10:40am - 11:00am  | Opening Address: Fireside chat with Budi Gunadi Sadikin, Indonesian Minister of Health |
-| 11:05am - 11:45am | Open Innovation: Shaping the future of healthcare     |
+| 09:50am–10:30am  | Healthcare Panel |
+| 10:40am–11:00am  | Opening Address: Fireside chat with Budi Gunadi Sadikin, Indonesian Minister of Health |
+| 11:05am–11:45am | Open Innovation: Shaping the future of healthcare     |
 | 11:50am - 12:30pm | Future of Healthcare and MedTech Investment in Asia (Hosted by Bain& Company)    |
-| 12:35pm - 01:35pm | Lunch    |
+| 12:35pm–01:35pm | Lunch    |
 | 01:35pm - 02:15pm | Evolution and revolution of cell and gene therapy in Asia–Challenges and promise (Hosted by CRIS) |
 | 02:20pm - 03:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic (Hosted by A* STAR)    | 
 | 03:05pm - 03:25pm  | Strengthening Universal Coverage in Asia: Opportunities for Innovation in Private Health Insurance |
