@@ -9,8 +9,6 @@ description: ""
 #### **Focus: Health & Biomedical Sciences**
 Hear from our esteemed healthcare and biomedical corporates and professionals as they discuss the next wave of healthcare advancements in areas such as genomics and mobile health. Understand upcoming innovation foci within these industries that will continue to bring about positive impact to healthcare demands and the role of supporting digital solutions such as artificial intelligence, blockchain and 3D printing that will drive rapid evolution and accessible healthcare for everyone.
 
-
-
 | Session Title | Time | 
 | -------- | -------- |
 | 09:50am - 10:30am  | Healthcare Panel |
