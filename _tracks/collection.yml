@@ -2,6 +2,7 @@ collections:
   tracks:
     output: true
     order:
+      - SWITCH Beyond/SWITCH Beyond.md
       - SWITCH Beyond/.keep
       - SWITCH Global.md
       - SLINGSHOT/.keep
