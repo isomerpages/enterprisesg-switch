@@ -36,20 +36,16 @@ image: /images/Booths.jpg
 | 01:30pm–02:20pm | Qatar Market Access Session (Powered By: Invest Qatar) |
 | 02:30pm–03:20pm | South Africa Market Access Session (Powered By: Grindstone) |
 | 03:30pm–04:20pm | Philippines Market Access Session  (Powered By: QBO Innovation Hub) | 
-| 04:30pm–05:00pm  | Closing |
-| 04:30pm–05:00pm  | Closing |
+| 05:30pm–06:00pm  | (Multimarket Closing Panel - Germany (Hessen), Canada, Singapore (Powered By: Hessen Trade and Invest and High Commission of Canada) |
 
 ### **DAY 3, THU 27 OCT 2022**
 
 | Time | Session | 
 | -------- | -------- |
-| 09:00am–09:20am  | Innovation & Opportunities: Scaling conglomerates beyond their local domains (Hosted by Plug and Play) |
-| 09:30am–10:20am  | Market Access to India (Hosted by Startup India) |
-| 10:30am–11:20am  | Accelerate Your Innovation and Global Reach with Canada, Québec and Montréal (Hosted by Montréal International, Invest Québec) |
-| 11:30am–12:20pm | Market Access to Europe (Hosted by Turkey Valley) |
+| 09:00am–09:20am  | Pan-SEA Opening (Powered By: Plug and Play) |
+| 10:30am–11:20am  | Canada Market Access Session (Powered By: Montreal International & Invest Quebec)|
+| 11:30am–12:20pm | Turkey Market Access Session (Powered By:BİLİŞİM VADİSİ (Turkey Valley) + Sistem Global)|
 | 12:30pm–01:30pm | Lunch |
-| 01:30pm–02:20pm | Accelerating growth in technology, commercialisation and innovation in Malaysia (Hosted by MRANTI) |
-| 02:30pm–04:20pm | SLINGSHOT 2022 Grand Finals at SWITCH Grand Stage |
-| 05:35pm–06:35pm | SLINGSHOT 2022 Prize Ceremony at SWITCH Grand Stage |
+| 01:30pm–02:20pm | Malaysia Market Access Session (Powered By: Malaysian Research Accelerator for Technology & Innovation (MRANTI)|
 
 _* Contents are subject to change_
