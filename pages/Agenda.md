@@ -3,18 +3,19 @@ title: Agenda
 permalink: /agenda/
 description: ""
 ---
-## SWITCH Beyond 
+## SWITCH Beyond Agenda
 
-### **Day 1, 25 Oct 2022 (Healthcare, Medtech, BioTech/BioMed)**
+### **Day 1, 25 Oct 2022**
+#### **Focus: Health & Biomedical Sciences**
 | Session Title | Time | 
 | -------- | -------- |
-| Conference Session 1  | 10:55 - 11:35 AM |
-| Conference Session 2  | 11:40 AM - 12:20 PM  |
-| Conference Session 3 | 1:35 - 2:05 PM     |
-| Conference Session 4 | 2:10 - 2:50 PM     |
-| Conference Session 5 | 3:15 - 3:55 PM     |
-| Conference Session 6 | 4:00 - 4:40 PM     |
-| Conference Session 7 | 4:45 - 5:25 PM     | 
+| 09:50am - 10:30am  | Healthcare Panel |
+| 10:40am - 11:00am  | Opening Address: Fireside chat with Budi Gunadi Sadikin, Indonesian Minister of Health |
+| 11:05am - 11:45am | Open Innovation: Shaping the future of healthcare     |
+| 11:50am - 12:30pm | Future of Healthcare and MedTech Investment in Asia (Hosted by Bain& Company)    |
+| 12:35pm - 01:35pm | Lunch    |
+| 01:35pm - 02:15pm | Evolution and revolution of cell and gene therapy in Asia–Challenges and promise (Hosted by CRIS) |
+| 02:20pm - 03:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic (Hosted by A* STAR)    | 
 
 ### **Day 2, 26 Oct 2022 (Trade & Connectivity)**
 | Session Title | Time | 
