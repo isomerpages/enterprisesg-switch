@@ -13,9 +13,9 @@ image: /images/Booths.jpg
 
 | Session Title | Time | 
 | -------- | -------- |
-| 09:50am–10:30am  |  |
-| 10:40am–11:00am  |  |
-| 11:05am–11:45am |   |
+| 09:00am–09:20am  | Opening  |
+| 10:00am–10:20am  | Keynote |
+| 10:30am–11:20am | Market Access to Japan for Innovative Startups (Hosted by JETRO) |
 | 11:50am–12:30pm |    |
 | 12:30pm–01:30pm |   |
 | 01:35pm - 02:15pm |  |
@@ -42,7 +42,7 @@ image: /images/Booths.jpg
 | 05:05pm–05:30pm  |  |
 | 05:35pm–06:15pm  |  |
 
-### **DAY 3, THU 27 OCT 2022
+### **DAY 3, THU 27 OCT 2022**
 
 | Session Title | Time | 
 | -------- | -------- |
