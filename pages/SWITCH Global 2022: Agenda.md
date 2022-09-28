@@ -28,9 +28,9 @@ image: /images/Booths.jpg
 
 | Session Title | Time | 
 | -------- | -------- |
-| 09:00am–09:40am  |  |
-| 09:45am–10:25am  |  |
-| 10:30am–11:10am  |  |
+| 09:00am–09:20am  | Opening |
+| 09:30am–10:20am  | Market Access to China (Hosted by CSSD) |
+| 10:30am–11:20am  | Why Spanish healthtech and its vaccines are shaking the world (Hosted by Spanish Embassy) |
 | 11:15am–11:55am | |
 | 12:00pm–01:00pm |   |
 | 01:05pm–01:45pm |  |
