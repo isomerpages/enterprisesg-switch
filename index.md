@@ -50,11 +50,11 @@ sections:
       button: See our 2021 Impact
       url: /about/2021
   - infopic:
-      title: SLINGSHOT 2022 is open for applications
-      subtitle: Startup Pitching Competition
-      description: Compete for exciting opportunities, meet investors and
-        accelerators, and anchor your startup in Singapore–one of the world’s
-        top innovation nodes!
+      title: Catch the SLINGSHOT 2022 Finals at the SWITCH Grand Stage!
+      subtitle: Grand Stage
+      description: Watch the Top 50 SLINGSHOT Finalists compete across 5 innovation
+        and technology domains for the opportunity to be crowned 2022's Grand
+        Winner!
       button: Learn more
       url: /slingshot-2022
       image: /images/slingshot_2021_winner_quantumcyte_web.jpeg
@@ -95,4 +95,3 @@ sections:
       subtitle: Explore
       button: See all
 ---
-
