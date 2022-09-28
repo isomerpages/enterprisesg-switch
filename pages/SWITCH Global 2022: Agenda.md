@@ -34,7 +34,7 @@ image: /images/Booths.jpg
 | 11:30am–12:25pm | Business Opportunities in North Rhine-Westphalia, Germany Supreme Hub for Technological Innovation in Europe (Hosted by NRW Global Biz)|
 | 12:30pm–01:30pm | Lunch  |
 | 01:30pm–02:20pm | Market Access to Europe (Hosted by Invest Qatar) |
-| 02:30pm - 03:20pm | Market Access to Africa (Hosted by Grindstone) |
+| 02:30pm–03:20pm | Market Access to Africa (Hosted by Grindstone) |
 | 03:30pm–04:20pm | Market Access to Philippines (Hosted by QB)) | 
 | 04:30pm–05:00pm  | Closing |
 
