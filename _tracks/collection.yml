@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - SWITCH Beyond/.keep
-      - SWITCH Beyond.md
       - SWITCH Global.md
       - SLINGSHOT/.keep
       - SLINGSHOT/SLINGSHOT 2022.md
