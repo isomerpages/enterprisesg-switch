@@ -18,7 +18,7 @@ image: /images/Booths.jpg
 | 10:30am–11:20am | Market Access to Japan for Innovative Startups (Hosted by JETRO) |
 | 11:50am–12:30pm | Market Access to Brazil (Hosted by Brazil Embassy)   |
 | 12:30pm–01:30pm | Lunch  |
-| 01:30pm - 02:20pm | Market Access to Australia (Hosted by Invest Victoria) |
+| 01:30pm–02:20pm | Market Access to Australia (Hosted by Invest Victoria) |
 | 02:30pm–03:20pm | Riding the entrepreneur wave with the Korean Startups (Hosted by K-Startup, KISED)   | 
 | 03:30pm–04:20pm  | The future of innovation: Abu Dhabi (Hosted by Abu Dhabi Department of Economic Development) |
 | 04:30pm–05:20pm  | Market Access to Europe (Hosted by Finland Embassy) |
@@ -48,7 +48,7 @@ image: /images/Booths.jpg
 | 11:30am–12:20pm | Market Access to Europe (Hosted by Turkey Valley) |
 | 12:30pm–01:30pm | Lunch |
 | 01:30pm–02:20pm | Accelerating growth in technology, commercialisation and innovation in Malaysia (Hosted by MRANTI) |
-| 02:30pm - 04:20pm | SLINGSHOT 2022 Grand Finals at SWITCH Grand Stage |
-| 05:35pm - 06:35pm | SLINGSHOT 2022 Prize Ceremony at SWITCH Grand Stage |
+| 02:30pm–04:20pm | SLINGSHOT 2022 Grand Finals at SWITCH Grand Stage |
+| 05:35pm–06:35pm | SLINGSHOT 2022 Prize Ceremony at SWITCH Grand Stage |
 
 _* Contents are subject to change_
