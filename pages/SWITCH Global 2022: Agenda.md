@@ -19,7 +19,7 @@ image: /images/Booths.jpg
 | 11:30am–12:20pm | Brazil Market Access Session (Powered By: Brazil Embassy) |
 | 12:30pm–01:30pm | Lunch |
 | 01:30pm–02:20pm |Australia Market Access Session (Powered By: Invest Victoria) |
-| 02:30pm–03:20pm | KoreaMarket Access Session (Powered By: K-startup Center and KISED) | 
+| 02:30pm–03:20pm | Korea Market Access Session (Powered By: K-startup Center and KISED) | 
 | 03:30pm–04:20pm  | Abu Dhabi Market Access Session (Powered By: Abu Dhabi Department of Economic Development) |
 | 04:30pm–05:20pm  | Finland Market Access Session (Powered By: Finland Embassy) |
 | 05:30pm–06:10pm  | Multimarket Closing Panel - Finland, India, Singapore (Powered By: Finland Embassy and Confederation of Indian Industry) |
@@ -36,7 +36,7 @@ image: /images/Booths.jpg
 | 01:30pm–02:20pm | Qatar Market Access Session (Powered By: Invest Qatar) |
 | 02:30pm–03:20pm | South Africa Market Access Session (Powered By: Grindstone) |
 | 03:30pm–04:20pm | Philippines Market Access Session  (Powered By: QBO Innovation Hub) | 
-| 05:30pm–06:00pm  | (Multimarket Closing Panel - Germany (Hessen), Canada, Singapore (Powered By: Hessen Trade and Invest and High Commission of Canada) |
+| 05:30pm–06:00pm  | Multimarket Closing Panel - Germany (Hessen), Canada, Singapore (Powered By: Hessen Trade and Invest and High Commission of Canada) |
 
 ### **DAY 3, THU 27 OCT 2022**
 
