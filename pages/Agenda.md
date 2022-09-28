@@ -16,6 +16,10 @@ description: ""
 | 12:35pm - 01:35pm | Lunch    |
 | 01:35pm - 02:15pm | Evolution and revolution of cell and gene therapy in Asia–Challenges and promise (Hosted by CRIS) |
 | 02:20pm - 03:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic (Hosted by A* STAR)    | 
+| 03:05pm - 03:25pm  | Strengthening Universal Coverage in Asia: Opportunities for Innovation in Private Health Insurance |
+| 03:30pm - 04:10pm  | The outlook on biotech investments: Boom, bubble or bust? (Hosted by SGInnovate) |
+| 04:15pm - 04:55pm  | Thinking of running a biotech or medtech? Plan before you plunge! (Hosted by NHIC) |
+| 05:00pm - 05:40pm  | Expansion challenges and opportunities in Southeast Asia |
 
 ### **Day 2, 26 Oct 2022 (Trade & Connectivity)**
 | Session Title | Time | 
@@ -39,6 +43,8 @@ description: ""
 | Conference Session 20 | 1:50 - 2:30 PM     |
 | Conference Session 21 | 2:35 - 3:15 PM     |
 
+
+Contents are subject to change
 
 ## SWITCH Global  
 
