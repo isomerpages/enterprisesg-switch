@@ -20,10 +20,9 @@ image: /images/Booths.jpg
 | 12:30pm–01:30pm | Lunch  |
 | 01:30pm - 02:20pm | Market Access to Australia (Hosted by Invest Victoria) |
 | 02:30pm–03:20pm | Riding the entrepreneur wave with the Korean Startups (Hosted by K-Startup, KISED)   | 
-| 03:05pm–03:25pm  |  |
-| 03:30pm–04:10pm  |  |
-| 04:15pm–04:55pm  |  |
-| 05:00pm–05:40pm  |  |
+| 03:30pm–04:20pm  | The future of innovation: Abu Dhabi (Hosted by Abu Dhabi Department of Economic Development) |
+| 04:30pm–05:20pm  | Market Access to Europe (Hosted by Finland Embassy) |
+| 05:30pm–06:10pm  | Closing |
 
 ### **DAY 2: WED 26 OCT 2022**
 
