@@ -53,8 +53,8 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 | 10:15am–10:35am  | Tea break |
 | 10:35am–11:15am | Women in tech leadership (Hosted by IEEE) |
 | 11:20am–12:00pm | How Web 3.0 technology and the metaverse will unlock opportunity and impact our world (Hosted by SGTech, Meta)  |
-| 01:05pm–01:45pm |  |
-| 01:50pm - 02:30pm |  |
+| 01:05pm–01:45pm | Role of dual-use technology in transforming industries (Hosted by Cap Vista) |
+| 01:50pm - 02:30pm | From AI Governance to Governable AI (Hosted by AIII) |
 | 02:35pm–03:15pm |  | 
 | 03:20pm–04:00pm  |  |
 | 04:20pm–05:00pm  |  |
@@ -64,34 +64,3 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 
 Contents are subject to change
 
-## SWITCH Global  
-
-### **Day 1, 25 Oct 2022**
-| Session Title | Time | 
-| -------- | -------- |
-| Market Access 1  | 9:30 - 10:20 AM |
-| Market Access 2  | 10:30 - 11:20 AM  |
-| Market Access 3 | 11:30 AM - 12:20 PM     |
-| Market Access 4 | 1:30 - 2:20 PM     |
-| Market Access 5 | 2:30 - 3:20 PM     |
-| Market Access 6 | 3:30 - 4:20 PM     |
-| Market Access 7 | 4:30 - 5:20 PM     | 
-
-### **Day 2, 26 Oct 2022**
-| Session Title | Time | 
-| -------- | -------- |
-| Market Access 8  | 9:30 - 10:20 AM |
-| Market Access 9 | 10:30  - 11:20 AM |
-| Market Access 10 | 11:30 - 12:20 PM     |
-| Market Access 11 | 1:30 - 2:20 PM     |
-| Market Access 12 | 2:30 - 3:20 PM     |
-| Market Access 13 | 3:30 - 4:20 PM     |
-| Market Access 14 | 4:30 - 5:20 PM     | 
-
-### **Day 3, 27 Oct 2022**
-| Session Title | Time | 
-| -------- | -------- |
-| Conference Session 15  | 9:30 - 10:20 AM |
-| Conference Session 16 | 10:30  - 11:20 AM |
-| Conference Session 17 | 11:30 AM - 12:20 PM     |
-| Conference Session 18 | 1:30 - 2:20 PM     |
