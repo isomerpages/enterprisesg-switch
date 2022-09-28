@@ -14,7 +14,7 @@ description: ""
 | 10:45am–12:15pm | Domain Final 1: Health & Biomedical |
 | 12:15pm–01:30pm | Lunch |
 | 01:30pm–01:50pm | The Digital Differentiation for Growth (Powered by AWS) |
-| 01:55pm - 02:15pm | Speed to Scale into markets for B2B startups (Powered by NCS) |
+| 01:55pm–02:15pm | Speed to Scale into markets for B2B startups (Powered by NCS) |
 | 02:30pm–04:00pm | Domain Final 2: Transformative Digital Technologies  | 
 | 04:15pm–05:00pm  | Masterclass: IP and M&A for startups |
 | 05:15pm–05:45pm  | Panel Session (Powered by AWS) |
@@ -30,7 +30,7 @@ description: ""
 | 11:30am–12:25pm |  |
 | 12:30pm–01:30pm |  |
 | 01:30pm–02:20pm |  |
-| 02:30pm - 03:20pm |  |
+| 02:30pm–03:20pm |  |
 | 03:30pm–04:20pm |  | 
 | 04:30pm–05:00pm  |  |
 
@@ -44,7 +44,7 @@ description: ""
 | 11:30am–12:20pm |  |
 | 12:30pm–01:30pm |  |
 | 01:30pm–02:20pm |  |
-| 02:30pm - 04:20pm |  |
-| 05:35pm - 06:35pm |  |
+| 02:30pm–04:20pm |  |
+| 05:35pm–06:35pm |  |
 
 _* Contents are subject to change_
