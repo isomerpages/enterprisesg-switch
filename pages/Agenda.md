@@ -30,17 +30,17 @@ What are the emerging roles of sustainability and green solutions that will cont
 | Session Title | Time | 
 | -------- | -------- |
 | 09:00am–09:40am  | Trade and sustainability keynote |
-| 09:45am–10:25am  | Urbanisation and Net-zero (Hosted by JTC) |
-| 10:30am–11:10am  | Tech-ing Urban Solutions to the Next Level: Re-imagining Cities for Greater Resilience (Hosted by A* STAR) |
-| 11:15am–11:55am | Harnessing IoT and Data for a Sustainable Future (Hosted by MANN+HUMMEL) |
+| 09:45am–10:25am  | Urbanisation and net-zero (Hosted by JTC) |
+| 10:30am–11:10am  | Tech-ing urban solutions to the next level: Re-imagining cities for greater resilience (Hosted by A* STAR) |
+| 11:15am–11:55am | Harnessing IoT and data for a sustainable future (Hosted by MANN+HUMMEL) |
 | 12:00pm–01:00pm | Lunch    |
-| 01:05pm–01:45pm | Future of Mobility & Electrification - Ready for the Green Shift |
-| 01:50pm - 02:30pm | Urban Air Mobility - Disrupting Travel and Fulfilment in Asia |
+| 01:05pm–01:45pm | Future of mobility and electrification–Ready for the green shift |
+| 01:50pm - 02:30pm | Urban air mobility–Disrupting travel and fulfillment in Asia |
 | 02:35pm–03:15pm | Technology to enable supply chain resilience and overcome instances of disruption | 
 | 03:20pm–04:00pm  | TCC Launch |
-| 04:20pm–05:00pm  | Leveraging Technology to Decarbonise Commodities |
-| 05:05pm–05:30pm  | Call for Collaboration to Decarbonise |
-| 05:35pm–06:15pm  | Partnerships for a Net Zero Transition |
+| 04:20pm–05:00pm  | Leveraging technology to decarbonise commodities |
+| 05:05pm–05:30pm  | Call for collaboration to decarbonise |
+| 05:35pm–06:15pm  | Partnerships for a net zero transition |
 
 ### **Day 3, 27 Oct 2022 (Frontier Technologies - AI, Metaverse, Web 3.0)**
 | Session Title | Time | 
