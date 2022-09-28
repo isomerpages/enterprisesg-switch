@@ -13,7 +13,7 @@ image: /images/SWITCH Connect 3.jpg
 #### **Focus: Health & Biomedical Sciences**
 Hear from our esteemed healthcare and biomedical corporates and professionals as they discuss the next wave of healthcare advancements in areas such as genomics and mobile health. Understand upcoming innovation foci within these industries that will continue to bring about positive impact to healthcare demands and the role of supporting digital solutions such as artificial intelligence, blockchain and 3D printing that will drive rapid evolution and accessible healthcare for everyone.
 
-| Session Title | Time | 
+| Time | Session | 
 | -------- | -------- |
 | 09:50am–10:30am  | Healthcare Panel |
 | 10:40am–11:00am  | Opening Address: Fireside chat with Budi Gunadi Sadikin, Indonesian Minister of Health |
@@ -31,7 +31,7 @@ Hear from our esteemed healthcare and biomedical corporates and professionals as
 #### **Focus: Urban Solutions, Trade and Connectivity**
 What are the emerging roles of sustainability and green solutions that will continue to drive disruption in the urban solutions and trade & connectivity sectors? Explore how technologies will reshape these industries and get insights into topics such as supply chain innovation, technologies in commodities and more!
 
-| Session Title | Time | 
+| Time | Session | 
 | -------- | -------- |
 | 09:00am–09:40am  | Trade and sustainability keynote |
 | 09:45am–10:25am  | Urbanisation and net-zero (Hosted by JTC) |
@@ -50,7 +50,7 @@ What are the emerging roles of sustainability and green solutions that will cont
 #### **Focus: Future of Enterprise**
 How will emerging technologies such as the Metaverse, microelectronics, Web 3.0, supercomputing and digital trust change traditional businesses and new growth sectors in the future? Explore how these new technologies will change the way people live, work and interact as we gaze into the future of immense opportunities these disruption will bring to our lives.
 
-| Session Title | Time | 
+| Time | Session | 
 | -------- | -------- |
 | 09:00am–09:40am  | How businesses can prepare for the new economies of the metaverse (Hosted by SGTech, Meta) |
 | 09:45am–10:10am  | Fireside chat: Interactions Between Blockchain and Cybersecurity |
