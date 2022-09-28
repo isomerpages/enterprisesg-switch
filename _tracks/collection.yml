@@ -2,12 +2,12 @@ collections:
   tracks:
     output: true
     order:
-      - "SWITCH Global/SWITCH Global 2022: Agenda.md"
-      - SWITCH Global/SWITCH Global 2022.md
-      - SWITCH Global/.keep
+      - SWITCH Beyond/.keep
       - SWITCH Beyond/Agenda.md
       - SWITCH Beyond/SWITCH Beyond 2022.md
-      - SWITCH Beyond/.keep
+      - SWITCH Global/.keep
+      - "SWITCH Global/SWITCH Global 2022: Agenda.md"
+      - SWITCH Global/SWITCH Global 2022.md
       - SLINGSHOT/.keep
       - SLINGSHOT/SLINGSHOT 2022.md
       - SLINGSHOT/SLINGSHOT 2021 Recap.md
