@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - SWITCH Beyond/.keep
-      - SWITCH Beyond/Agenda.md
       - SWITCH Beyond/SWITCH Beyond 2022.md
+      - SWITCH Beyond/Agenda.md
       - SWITCH Global/.keep
       - SWITCH Global/SWITCH Global 2022.md
       - "SWITCH Global/SWITCH Global 2022: Agenda.md"
