@@ -7,7 +7,7 @@ description: ""
 
 ### **DAY 1: TUE, 25 OCT 2022**
 
-| Session Title | Time | 
+| Time | Session | 
 | -------- | -------- |
 | 09:00am–09:20am  |   |
 | 10:00am–10:20am  |  |
@@ -22,7 +22,7 @@ description: ""
 
 ### **DAY 2: WED 26 OCT 2022**
 
-| Session Title | Time | 
+| Time | Session | 
 | -------- | -------- |
 | 09:00am–09:20am  |  |
 | 09:30am–10:20am  |  |
@@ -36,7 +36,7 @@ description: ""
 
 ### **DAY 3, THU 27 OCT 2022**
 
-| Session Title | Time | 
+| Time | Session | 
 | -------- | -------- |
 | 09:00am–09:20am  |  |
 | 09:30am–10:20am  |  |
