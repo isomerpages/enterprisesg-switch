@@ -31,15 +31,12 @@ image: /images/Booths.jpg
 | 09:00am–09:20am  | Opening |
 | 09:30am–10:20am  | Market Access to China (Hosted by CSSD) |
 | 10:30am–11:20am  | Why Spanish healthtech and its vaccines are shaking the world (Hosted by Spanish Embassy) |
-| 11:15am–11:55am | |
-| 12:00pm–01:00pm |   |
-| 01:05pm–01:45pm |  |
-| 01:50pm - 02:30pm | |
-| 02:35pm–03:15pm |  | 
-| 03:20pm–04:00pm  |  |
-| 04:20pm–05:00pm  |  |
-| 05:05pm–05:30pm  |  |
-| 05:35pm–06:15pm  |  |
+| 11:30am–12:25pm | Business Opportunities in North Rhine-Westphalia, Germany Supreme Hub for Technological Innovation in Europe (Hosted by NRW Global Biz)|
+| 12:30pm–01:30pm | Lunch  |
+| 01:30pm–02:20pm | Market Access to Europe (Hosted by Invest Qatar) |
+| 02:30pm - 03:20pm | Market Access to Africa (Hosted by Grindstone) |
+| 03:30pm–04:20pm | Market Access to Philippines (Hosted by QB)) | 
+| 04:30pm–05:00pm  | Closing |
 
 ### **DAY 3, THU 27 OCT 2022**
 
