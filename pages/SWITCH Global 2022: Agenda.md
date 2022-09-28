@@ -42,8 +42,8 @@ image: /images/Booths.jpg
 
 | Session Title | Time | 
 | -------- | -------- |
-| 09:00am–09:40am  |  |
-| 09:45am–10:10am  |  |
+| 09:00am–09:20am  | PAN-SEA Opening (Hosted by Plug and Play) |
+| 09:30am–10:20am  | Market Access to India (Hosted by Startup India) |
 | 10:15am–10:35am  |  |
 | 10:35am–11:15am |  |
 | 11:20am–12:00pm |  |
