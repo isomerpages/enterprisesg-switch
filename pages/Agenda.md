@@ -5,7 +5,7 @@ description: ""
 ---
 ## SWITCH Beyond Agenda
 
-### **Day 1, 25 Oct 2022**
+### **DAY 1: TUE, 25 OCT 2022**
 #### **Focus: Health & Biomedical Sciences**
 Hear from our esteemed healthcare and biomedical corporates and professionals as they discuss the next wave of healthcare advancements in areas such as genomics and mobile health. Understand upcoming innovation foci within these industries that will continue to bring about positive impact to healthcare demands and the role of supporting digital solutions such as artificial intelligence, blockchain and 3D printing that will drive rapid evolution and accessible healthcare for everyone.
 
@@ -14,26 +14,33 @@ Hear from our esteemed healthcare and biomedical corporates and professionals as
 | 09:50am–10:30am  | Healthcare Panel |
 | 10:40am–11:00am  | Opening Address: Fireside chat with Budi Gunadi Sadikin, Indonesian Minister of Health |
 | 11:05am–11:45am | Open Innovation: Shaping the future of healthcare     |
-| 11:50am - 12:30pm | Future of Healthcare and MedTech Investment in Asia (Hosted by Bain& Company)    |
-| 12:35pm–01:35pm | Lunch    |
+| 11:50am–12:30pm | Future of Healthcare and MedTech Investment in Asia (Hosted by Bain& Company)    |
+| 12:30pm–01:30pm | Lunch    |
 | 01:35pm - 02:15pm | Evolution and revolution of cell and gene therapy in Asia–Challenges and promise (Hosted by CRIS) |
-| 02:20pm - 03:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic (Hosted by A* STAR)    | 
-| 03:05pm - 03:25pm  | Strengthening Universal Coverage in Asia: Opportunities for Innovation in Private Health Insurance |
-| 03:30pm - 04:10pm  | The outlook on biotech investments: Boom, bubble or bust? (Hosted by SGInnovate) |
-| 04:15pm - 04:55pm  | Thinking of running a biotech or medtech? Plan before you plunge! (Hosted by NHIC) |
-| 05:00pm - 05:40pm  | Expansion challenges and opportunities in Southeast Asia |
+| 02:20pm–03:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic (Hosted by A* STAR)    | 
+| 03:05pm–03:25pm  | Strengthening Universal Coverage in Asia: Opportunities for Innovation in Private Health Insurance |
+| 03:30pm–04:10pm  | The outlook on biotech investments: Boom, bubble or bust? (Hosted by SGInnovate) |
+| 04:15pm–04:55pm  | Thinking of running a biotech or medtech? Plan before you plunge! (Hosted by NHIC) |
+| 05:00pm–05:40pm  | Expansion challenges and opportunities in Southeast Asia |
 
-### **Day 2, 26 Oct 2022 (Trade & Connectivity)**
+### **DAY 2: WED 26 OCT 2022**
+#### **Focus: Urban Solutions, Trade and Connectivity**
+What are the emerging roles of sustainability and green solutions that will continue to drive disruption in the urban solutions and trade & connectivity sectors? Explore how technologies will reshape these industries and get insights into topics such as supply chain innovation, technologies in commodities and more!
+
 | Session Title | Time | 
 | -------- | -------- |
-| Conference Session 8  | 10:25 - 11:05 AM |
-| Conference Session 9 | 11:10  - 11:50 AM |
-| Conference Session 10 | 1:00 - 1:40 PM     |
-| Conference Session 11 | 1:45 - 2:25 PM     |
-| Conference Session 12 | 2:30 - 3:10 PM     |
-| Conference Session 13 | 3:15 - 3:55 PM     |
-| Conference Session 14 | 4:15 - 4:55 PM     | 
-| Conference Session 15 | 5:30 - 6:10 PM     | 
+| 09:00am–09:40am  | Trade and sustainability keynote |
+| 09:45am–10:25am  | Urbanisation and Net-zero (Hosted by JTC) |
+| 10:30am–11:10am  | Tech-ing Urban Solutions to the Next Level: Re-imagining Cities for Greater Resilience (Hosted by A* STAR) |
+| 11:15am–11:55am | Harnessing IoT and Data for a Sustainable Future (Hosted by MANN+HUMMEL) |
+| 12:00pm–01:00pm | Lunch    |
+| 01:05pm–01:45pm | Future of Mobility & Electrification - Ready for the Green Shift |
+| 01:50pm - 02:30pm | Urban Air Mobility - Disrupting Travel and Fulfilment in Asia |
+| 02:35pm–03:15pm | Technology to enable supply chain resilience and overcome instances of disruption | 
+| 03:20pm–04:00pm  | TCC Launch |
+| 04:20pm–05:00pm  | Leveraging Technology to Decarbonise Commodities |
+| 05:05pm–05:30pm  | Call for Collaboration to Decarbonise |
+| 05:35pm–06:15pm  | Partnerships for a Net Zero Transition |
 
 ### **Day 3, 27 Oct 2022 (Frontier Technologies - AI, Metaverse, Web 3.0)**
 | Session Title | Time | 
