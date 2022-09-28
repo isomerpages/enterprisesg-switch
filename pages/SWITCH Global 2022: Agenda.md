@@ -16,10 +16,10 @@ image: /images/Booths.jpg
 | 09:00am–09:20am  | Opening  |
 | 10:00am–10:20am  | Keynote |
 | 10:30am–11:20am | Market Access to Japan for Innovative Startups (Hosted by JETRO) |
-| 11:50am–12:30pm |    |
-| 12:30pm–01:30pm |   |
-| 01:35pm - 02:15pm |  |
-| 02:20pm–03:00pm |    | 
+| 11:50am–12:30pm | Market Access to Brazil (Hosted by Brazil Embassy)   |
+| 12:30pm–01:30pm | Lunch  |
+| 01:30pm - 02:20pm | Market Access to Australia (Hosted by Invest Victoria) |
+| 02:30pm–03:20pm | Riding the entrepreneur wave with the Korean Startups (Hosted by K-Startup, KISED)   | 
 | 03:05pm–03:25pm  |  |
 | 03:30pm–04:10pm  |  |
 | 04:15pm–04:55pm  |  |
