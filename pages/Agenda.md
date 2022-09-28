@@ -42,15 +42,24 @@ What are the emerging roles of sustainability and green solutions that will cont
 | 05:05pm–05:30pm  | Call for collaboration to decarbonise |
 | 05:35pm–06:15pm  | Partnerships for a net zero transition |
 
-### **Day 3, 27 Oct 2022 (Frontier Technologies - AI, Metaverse, Web 3.0)**
+### **DAY 3, THU 27 OCT 2022
+#### **Focus: Future of Enterprise**
+How will emerging technologies such as the Metaverse, microelectronics, Web 3.0, supercomputing and digital trust change traditional businesses and new growth sectors in the future? Explore how these new technologies will change the way people live, work and interact as we gaze into the future of immense opportunities these disruption will bring to our lives.
+
 | Session Title | Time | 
 | -------- | -------- |
-| Conference Session 16  | 9:00 - 9:40 AM |
-| Conference Session 17 | 10:35  - 11:15 AM |
-| Conference Session 18 | 11:20 AM - 12:00 PM     |
-| Conference Session 19 | 1:05 - 1:45 PM     |
-| Conference Session 20 | 1:50 - 2:30 PM     |
-| Conference Session 21 | 2:35 - 3:15 PM     |
+| 09:00am–09:40am  | How businesses can prepare for the new economies of the metaverse (Hosted by SGTech, Meta) |
+| 09:45am–10:10am  | Fireside chat: Interactions Between Blockchain and Cybersecurity |
+| 10:15am–10:35am  | Tea break |
+| 10:35am–11:15am | Women in tech leadership (Hosted by IEEE) |
+| 11:20am–12:00pm | How Web 3.0 technology and the metaverse will unlock opportunity and impact our world (Hosted by SGTech, Meta)  |
+| 01:05pm–01:45pm |  |
+| 01:50pm - 02:30pm |  |
+| 02:35pm–03:15pm |  | 
+| 03:20pm–04:00pm  |  |
+| 04:20pm–05:00pm  |  |
+| 05:05pm–05:30pm  |  |
+| 05:35pm–06:15pm  |  |
 
 
 Contents are subject to change
