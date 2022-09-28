@@ -2,6 +2,7 @@ collections:
   tracks:
     output: true
     order:
+      - SWITCH Global/SWITCH Global.md
       - SWITCH Global/.keep
       - SWITCH Beyond/Agenda.md
       - SWITCH Beyond/SWITCH Beyond 2022.md
