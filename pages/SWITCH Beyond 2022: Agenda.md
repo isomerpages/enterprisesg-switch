@@ -7,7 +7,6 @@ description: SWITCH Beyond is the sectoral thought leadership channel that
   technologies that are transforming the world take place.
 image: /images/SWITCH Connect 3.jpg
 ---
-
 ## SWITCH Beyond Agenda
 
 ### **DAY 1: TUE, 25 OCT 2022**
