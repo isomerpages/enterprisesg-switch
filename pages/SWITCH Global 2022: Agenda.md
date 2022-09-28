@@ -11,7 +11,7 @@ image: /images/Booths.jpg
 
 ### **DAY 1: TUE, 25 OCT 2022**
 
-| Session Title | Time | 
+| Time | Session | 
 | -------- | -------- |
 | 09:00am–09:20am  | Opening  |
 | 10:00am–10:20am  | Keynote |
@@ -26,7 +26,7 @@ image: /images/Booths.jpg
 
 ### **DAY 2: WED 26 OCT 2022**
 
-| Session Title | Time | 
+| Time | Session | 
 | -------- | -------- |
 | 09:00am–09:20am  | Opening |
 | 09:30am–10:20am  | Market Access to China (Hosted by CSSD) |
@@ -40,7 +40,7 @@ image: /images/Booths.jpg
 
 ### **DAY 3, THU 27 OCT 2022**
 
-| Session Title | Time | 
+| Time | Session | 
 | -------- | -------- |
 | 09:00am–09:20am  | Innovation & Opportunities: Scaling conglomerates beyond their local domains (Hosted by Plug and Play) |
 | 09:30am–10:20am  | Market Access to India (Hosted by Startup India) |
