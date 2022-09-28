@@ -42,14 +42,15 @@ image: /images/Booths.jpg
 
 | Session Title | Time | 
 | -------- | -------- |
-| 09:00am–09:20am  | PAN-SEA Opening (Hosted by Plug and Play) |
+| 09:00am–09:20am  | Innovation & Opportunities: Scaling conglomerates beyond their local domains (Hosted by Plug and Play) |
 | 09:30am–10:20am  | Market Access to India (Hosted by Startup India) |
-| 10:15am–10:35am  |  |
-| 10:35am–11:15am |  |
-| 11:20am–12:00pm |  |
-| 01:05pm–01:45pm |  |
-| 01:50pm - 02:30pm |  |
-| 02:35pm–03:15pm |  | 
+| 10:30am–11:20am  | Accelerate Your Innovation and Global Reach with Canada, Québec and Montréal (Hosted by Montréal International, Invest Québec) |
+| 11:30am–12:20pm | Market Access to Europe (Hosted by Turkey Valley) |
+| 12:30pm–01:30pm | Lunch |
+| 01:30pm–02:20pm | Accelerating growth in technology, commercialisation and innovation in Malaysia (Hosted by MRANTI) |
+| 02:30pm - 04:20pm | SLINGSHOT 2022 Grand Finals at SWITCH Grand Stage |
+| 05:35pm - 06:35pm | SLINGSHOT 2022 Prize Ceremony at SWITCH Grand Stage |
+
 
 
 
