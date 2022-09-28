@@ -60,6 +60,8 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 | 01:05pm–01:45pm | Role of dual-use technology in transforming industries (Hosted by Cap Vista) |
 | 01:50pm - 02:30pm | From AI Governance to Governable AI (Hosted by AIII) |
 | 02:35pm–03:15pm | Asia's Digital Economy and the Rise of Unicorns | 
+| 02:30pm - 04:20pm | SLINGSHOT 2022 Grand Finals at SWITCH Grand Stage |
+| 05:35pm - 06:35pm | SLINGSHOT 2022 Prize Ceremony at SWITCH Grand Stage |
 
 
 
