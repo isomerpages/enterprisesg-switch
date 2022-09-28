@@ -63,6 +63,4 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 | 02:30pm - 04:20pm | SLINGSHOT 2022 Grand Finals at SWITCH Grand Stage |
 | 05:35pm - 06:35pm | SLINGSHOT 2022 Prize Ceremony at SWITCH Grand Stage |
 
-
-
-Contents are subject to change
+_* Contents are subject to change_
