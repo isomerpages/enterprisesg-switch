@@ -2,6 +2,7 @@ collections:
   tracks:
     output: true
     order:
+      - Partner Events/Echelon 2022.md
       - Partner Events/Partner Events.md
       - Partner Events/.keep
       - SWITCH Beyond/.keep
