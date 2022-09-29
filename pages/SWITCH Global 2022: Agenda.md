@@ -28,7 +28,7 @@ image: /images/Booths.jpg
 | -------- | -------- |
 | 09:00am–09:30am  | Opening |
 | 09:30am–10:20am  | China market access session - Powered by: China Singapore Suzhou Industrial Park Development Group (CSSD) |
-| 10:30am–11:20am  | Spain market access session - Powered by ICEX ESPAÑA EXPORTACIÓN E INVERSIONES E.P.E. |
+| 10:30am–11:20am  | Spain market access session - Powered by: ICEX ESPAÑA EXPORTACIÓN E INVERSIONES E.P.E. |
 | 11:30am–12:20pm | Germany - North Rhine Westphalia market access session - Powered by: North-Rhine Westphalia Global Business (NRW Global Business) |
 | 01:30pm–02:20pm | Qatar market access session - Powered by: Invest Qatar |
 | 02:30pm–03:20pm | South Africa market access session - Powered by: Grindstone |
