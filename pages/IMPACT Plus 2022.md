@@ -3,7 +3,6 @@ title: IMPACT Plus 2022
 permalink: /impactplus/
 description: ""
 ---
-![IMPACT+ at SWITCH 2022](/images/2022%2008%2030%20SWITCH%20IMPACT%20PLUS%20Info%20Pack%20-%20Enhanced-01.png)
 # About
 IMPACT+ brings together Family Office Investors, Fund Managers and Policy Makers from the Global-Asia ecosystem to make better decisions and to shape positive outcomes for our shared future.
 
@@ -37,3 +36,13 @@ IMPACT+ is a Closed Door, Invite-only 2-day meeting consisting of intimate Safe-
 * Learn the best practices from fund managers and advisors in early and growth stages investing
 * Gain insights into the latest investments trends across asset class
 * Uncover what drives ESG imperatives in ASEAN plus 3
+
+# Speakers
+* **Atsushi Taira**, Managing Director, Mistletoe Singapore 
+* **Anu Sahai**, Senior Advisor, McKinsey & Company 
+* **Kavilash Chawla**, Founder & Managing Director, Foresight Economics
+* **Marc Allen**, Co-Founder, Unravel Carbon
+* **Rick Goh**, Director of Computing & Intelligence Institute of High Performance Computing, A*STAR
+* **Dean Ho**, Director The Institute for Digital Medicine, National University of Singapore 
+* **Kua Ee Heok**, Professor, National University of Singapore 
+* **Keith McGuire**, Consultant, Norton Rose Fullbright
