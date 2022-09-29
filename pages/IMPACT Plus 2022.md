@@ -18,7 +18,7 @@ IMPACT+ is a Closed Door, Invite-only 2-day meeting consisting of intimate Safe-
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
 |**Price:** | S$999 (Early-bird) / S$1,499 |
-|**Register Here :** | https://web.micepad.co/switch-impactplus/registration |
+|**Register Here :** | [IMPACT+ 2022 website](https://web.micepad.co/switch-impactplus/registration) |
 
 *By attending IMPACT+ 2022, you will also have complimentary access to the SWITCH Trade Floor on level B2*
 
