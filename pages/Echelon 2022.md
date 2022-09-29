@@ -16,7 +16,7 @@ Echelon 2022 is a curated, invite-only event that aims to provide intimate and f
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
 |**Price:** | US$ 199 |
-|**Register Here :** | https://e27.co/echelon/asia/ |
+|**Register Here :** | [ECHELON website](https://e27.co/echelon/asia/) |
 
 *By attending ECHELON by e27, you will also have complimentary access to the SWITCH Trade Floor on level B2*
 
