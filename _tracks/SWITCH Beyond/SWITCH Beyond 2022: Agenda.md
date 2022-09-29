@@ -16,12 +16,11 @@ Hear from our esteemed healthcare and biomedical corporates and professionals as
 
 | Time | Session | 
 | -------- | -------- |
-| 09:50am–10:30am  | Opening Panel |
-| 10:40am–11:00am  | Keynote Address |
-| 11:05am–11:45am | Open Innovation: Shaping the future of healthcare     |
-| 11:50am–12:30pm | Future of Healthcare and MedTech Investment in Asia (Hosted by Bain& Company)    |
-| 12:30pm–01:30pm | Lunch    |
-| 01:35pm - 02:15pm | Evolution and revolution of cell and gene therapy in Asia–Challenges and promise (Hosted by CRIS) |
+| 09:50am–10:30am  | Opening panel |
+| 10:40am–11:00am  | Keynote address |
+| 11:05am–11:45am | Opening innovation for healthcare (Hosted by: EnterprisSG's Health and Biomedical Division)    |
+| 11:50am–12:30pm | Future of healthcare and medtech investment in Asia (Hosted by Bain & Company)  |
+| 01:35pm - 02:15pm | Evolution and revolution of cell and gene therapy in Asia–challenges and promise (Hosted by CRIS) |
 | 02:20pm–03:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic (Hosted by A* STAR)    | 
 | 03:05pm–03:25pm  | Strengthening Universal Coverage in Asia: Opportunities for Innovation in Private Health Insurance |
 | 03:30pm–04:10pm  | The outlook on biotech investments: Boom, bubble or bust? (Hosted by SGInnovate) |
