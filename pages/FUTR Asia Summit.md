@@ -3,6 +3,7 @@ title: FUTR Asia Summit
 permalink: /futr-asia-summit/
 description: ""
 ---
+![FUTR ASIA AT SWITCH 2022](/images/ASIA-banner-eventbrite.png)
 # About
 FUTR is Asia’s only Summit focused on fresh thinking and progressive change in the future of retail, marketing and commerce. 
 
@@ -16,16 +17,17 @@ At FUTR you can hear from inspiring, cross-industry speakers from the likes of A
 |**Date:** | Tue–Wed, 25–26 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
-|**Price:** | ??? |
+|**Price:** | From $855 |
+|**Register Here :** | https://futr.today/singapore/ |
+
+*By attending FUTR ASIA, you will also have complimentary access to the SWITCH Trade Floor on level B2*
 
 # Highlights
-* 22 presentations with a variety of topics like " Setting yourself up for success wherever you are", The key to data operations & social listening", "The power of collaborations to outwit rising acquisition costs and form long term consumer relationships" and "Innovation technology for capturing online & offline touch points"
-* 11 panel discussions where speakers will be discussing topics like "King of the castle. Business transformation to become the master of the marketplace & selling online", "Getting consumers to advocate for your brand online and building a strong community so you don't need advertising investment!" and "Agility, creativity & efficiency - strategies to help brands & businesses succeed tomorrow"
-* 2 networking lunches and 1'2'1 meetings
-* Access to SWITCH Global and SLINGSHOT
+* 22 presentations and 11 panel discussions by a variety of speakers
+* Networking lunches and meetings
+* Exhibition across all 4 days at SWITCH 2022
 
 # Why attend?
-* There will be VIP Brand Retailer programme and private networking opportunities at the Summit will personalise your experience and allow you to target your business needs.
-* 61% of those that attend FUTR are Head/Director Level or above, learn the best practices from them
-* FUTR Asia will equip you with a comprehensive commerce tool kit, learning from the presentations on the latest campaigns and innovations in marketing, e-commerce, social media, AI, VR & AR, voice, and robotics.
-* Engage with the founders of the most promising startups from the SLINGSHOT 2022 Top 50!
+* VIP Brand Retailer programme and private networking opportunities at the Summit 
+* FUTR Asia will equip you with a comprehensive commerce tool kit, learning from the presentations on the latest campaigns and innovations in marketing
+* Meet leaders and the biggest companies
