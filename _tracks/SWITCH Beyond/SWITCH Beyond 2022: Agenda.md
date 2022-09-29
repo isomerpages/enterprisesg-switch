@@ -16,8 +16,8 @@ Hear from our esteemed healthcare and biomedical corporates and professionals as
 
 | Time | Session | 
 | -------- | -------- |
-| 09:50am–10:30am  | Healthcare Panel |
-| 10:40am–11:00am  | Opening Address: Fireside chat with Budi Gunadi Sadikin, Indonesian Minister of Health |
+| 09:50am–10:30am  | Opening Panel |
+| 10:40am–11:00am  | Keynote Address |
 | 11:05am–11:45am | Open Innovation: Shaping the future of healthcare     |
 | 11:50am–12:30pm | Future of Healthcare and MedTech Investment in Asia (Hosted by Bain& Company)    |
 | 12:30pm–01:30pm | Lunch    |
@@ -34,7 +34,7 @@ What are the emerging roles of sustainability and green solutions that will cont
 
 | Time | Session | 
 | -------- | -------- |
-| 09:00am–09:40am  | Trade and sustainability keynote |
+| 09:00am–09:40am  | Keynote Panel |
 | 09:45am–10:25am  | Urbanisation and net-zero (Hosted by JTC) |
 | 10:30am–11:10am  | Tech-ing urban solutions to the next level: Re-imagining cities for greater resilience (Hosted by A* STAR) |
 | 11:15am–11:55am | Harnessing IoT and data for a sustainable future (Hosted by MANN+HUMMEL) |
