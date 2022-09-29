@@ -11,11 +11,11 @@ description: ""
 | -------- | -------- |
 | 09:00am–09:30am  | Deputy Prime Minister opening |
 | 10:45am–12:15pm  | SLINGSHOT Domain Finals 1: Health & Biomedical |
-| 01:30pm–01:50pm | Why do innovations fail? (Powered by: Amazon Web Services) |
-| 01:55pm–02:15pm | Speed to scale into markets for B2B startups (Powered by: NCS) |
+| 01:30pm–01:50pm | Why do innovations fail? (Powered by Amazon Web Services) |
+| 01:55pm–02:15pm | Speed to scale into markets for B2B startups (Powered by NCS) |
 | 02:30pm–04:00pm | SLINGSHOT Domain Finals 2: Transformative Digital Technologies | 
-| 04:15pm–05:00pm  | Startup Masterclass: IP and M&A for startups (Powered by: Baker Mackenzie) |
-| 05:15pm-05:45pm | Scaling innovation for public goods (Powered by: Amazon Web Services) |
+| 04:15pm–05:00pm  | Startup Masterclass: IP and M&A for startups (Powered by Baker Mackenzie) |
+| 05:15pm-05:45pm | Scaling innovation for public goods (Powered by Amazon Web Services) |
 
 ### **DAY 2: WED 26 OCT 2022**
 
@@ -35,10 +35,10 @@ description: ""
 | Time | Session | 
 | -------- | -------- |
 | 09:30am-09:55am | Growing your brand story: TikTok for business|
-| 10:00am–10:45am  | Global opportunities for startups (Powered by: Global Innovation Alliance)|
+| 10:00am–10:45am  | Global opportunities for startups (Powered by Global Innovation Alliance)|
 | 11:00am–11:45am  | Succeeding from Singapore: startups' journeys |
 | 12:00pm–12:30pm  | Startup Masterclass |
-| 01:45pm–02:15pm | The e-Conomy SEA 2022 Report" (Powered by: Google, Bain, Temasek) |
+| 01:45pm–02:15pm | The e-Conomy SEA 2022 Report" (Powered by Google, Bain, Temasek) |
 | 02:30pm–04:20pm | SLINGSHOT Grand Finals |
 | 04:35pm–05:20pm | Attaining the next billion, who's next? |
 | 05:35pm–06:35pm | Announcement of SLINGSHOT winners and grand prize ceremony |
