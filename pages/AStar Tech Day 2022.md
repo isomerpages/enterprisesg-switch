@@ -20,11 +20,8 @@ Get inspired by our partner SMEs and startups showcasing their business innovati
 |**Price:** | ??? |
 
 # Highlights
-* Three plenaries; including a joint keynote and a combined panel discussion and a dedicated plenary for Family Office or Venture Capital /Private Equity track
-* A series of 4 "closed doors" roundtables  (peer discussions, meeting with policy makers), as well as small groups of up to 30 participants
-* Curated in-person meetings with 50 companies' Founders/CEOs
-* 2 networking lunches, 3 tea breaks
-* Access to SWITCH Beyond, SWITCH Global and SLINGSHOT
+* 2 keynote speakers as they talk about how Osteopore and Singnergy partnered with A\*STAR to achieve growth and pursue their journey towards sustainability.
+* 4  industry experts will be on the panel discussion will be discussing how an companies further tap on technology to build sustainable business models for future growth
 
 # Why attend?
 * Network with leaders and peers of the alternative investment industry; Private Equity, Venture Capital, and Family Offices, policy makers and global thought leaders in the field and focused sectors
