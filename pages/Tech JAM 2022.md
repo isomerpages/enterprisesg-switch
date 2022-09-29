@@ -1,25 +1,28 @@
 ---
-title: Global Green Economy Forum
-permalink: /global-green-economy-forum/
+title: Tech JAM 2022
+permalink: /tech-jam-2022/
 description: ""
 ---
 # About
+Set to be _**the**_ tech-career event of the year, we’re bringing together tech talents and global tech firms to help you kickstart your career in the space.
+
+Get ready for an exciting lineup of **workshops, panel discussions, and fireside chats with leading experts** in the ecosystem. There will also be plenty of opportunities to **chat and network** with like-minded peers throughout the day.
 
 # Details
 
-| **Title:** | IMPACT+ 2022 |
+| **Title:** |**TECHJAM 2022 (Developer Conference)** |
 | -------- | -------- |
 |**Date:** | Tue, 25 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
-|**Price:** | S$999 (Early-bird) / S$1,499 |
+|**Price:** | FREE |
 
 # Highlights
-* Three plenaries; including a joint keynote and a combined panel discussion and a dedicated plenary for Family Office or Venture Capital /Private Equity track
-* A series of 4 "closed doors" roundtables  (peer discussions, meeting with policy makers), as well as small groups of up to 30 participants
-* Curated in-person meetings with 50 companies' Founders/CEOs
-* 2 networking lunches, 3 tea breaks
-* Access to SWITCH Beyond, SWITCH Global and SLINGSHOT
+* Panel Discussions and Fireside Chats
+
+* Networking with like-minded individuals
+
+* Get ready to kick-start your career in the tech industry!
 
 # Why attend?
 * Network with leaders and peers of the alternative investment industry; Private Equity, Venture Capital, and Family Offices, policy makers and global thought leaders in the field and focused sectors
