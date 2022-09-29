@@ -18,7 +18,7 @@ At FUTR you can hear from inspiring, cross-industry speakers from the likes of A
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
 |**Price:** | From SGD$855 |
-|**Register Here :** | https://futr.today/singapore/ |
+|**Register Here :** | [FUTR Asia Summit website](https://futr.today/singapore/) |
 
 *By attending FUTR ASIA, you will also have complimentary access to the SWITCH Trade Floor on level B2*
 
@@ -40,4 +40,4 @@ At FUTR you can hear from inspiring, cross-industry speakers from the likes of A
 * **Siew Ting Foo**, Chief Marketing Officer - Greater Asia, HP 
 * **Keerthi Kumaravelu**, Vice President Consumer Direct Business, Electrolux 
 * **Vicky Abishek**, Vice President - Technology Services Asia Pacific, Johnson & Johnson
-* **Jane Leong**, Vice President of Data & Growth, Love, Bonito 
+* **Jane Leong**, Vice President of Data & Growth, Love, Bonito
