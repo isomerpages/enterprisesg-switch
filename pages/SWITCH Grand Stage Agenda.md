@@ -11,10 +11,11 @@ description: ""
 | -------- | -------- |
 | 09:00am–09:30am  | Deputy Prime Minister Opening |
 | 10:45am–12:15pm  | SLINGSHOT Domain Finals 1: Health & Biomedical |
-| 01:30pm–01:50pm | The Digital Differentiation for Growth (Powered by Amazon Web Services) |
-| 01:55pm–02:15pm | Speed to Scale into markets for B2B startups (Powered by NCS) |
+| 01:30pm–01:50pm | Why do Innovations fail? (Powered by: Amazon Web Services) |
+| 01:55pm–02:15pm | Speed to Scale into markets for B2B startups (Powered by: NCS) |
 | 02:30pm–04:00pm | SLINGSHOT Domain Finals 2: Transformative Digital Technologies | 
 | 04:15pm–05:00pm  | Startup Masterclass: IP and M&A for startups (Powered by: Baker Mackenzie) |
+| 05:15pm-05:45pm | Scaling Innovation for Public Goods (Powered by: Amazon Web Services) |
 
 ### **DAY 2: WED 26 OCT 2022**
 
@@ -33,6 +34,7 @@ description: ""
 
 | Time | Session | 
 | -------- | -------- |
+| 09:30am-09:55am | Growing Your Brand Story: TikTok for Business|
 | 10:00am–10:45am  | Global Opportunities for Startups (Powered by: Global Innovation Alliance)|
 | 11:00am–11:45am  | Succeeding from Singapore: Startups' Journeys |
 | 12:00pm–12:30pm  | Startup Masterclass |
