@@ -31,3 +31,13 @@ At FUTR you can hear from inspiring, cross-industry speakers from the likes of A
 * VIP Brand Retailer programme and private networking opportunities at the Summit 
 * FUTR Asia will equip you with a comprehensive commerce tool kit, learning from the presentations on the latest campaigns and innovations in marketing
 * Meet leading brands, retailers and entrepreneurs in a high powered forum
+
+# Speakers
+* **Ram Kumar**, Chief Data & Analytics Officer, Cigna 
+* **Napapat Luedeesunun**, Vice President Marketing Strategy, Central Pattana
+* **Vipin Gupta**, Chief Technology Officer, Starbucks
+* **Chee Soon Ng**, Managing Director, Carousell
+* **Siew Ting Foo**, Chief Marketing Officer - Greater Asia, HP 
+* **Keerthi Kumaravelu**, Vice President Consumer Direct Business, Electrolux 
+* **Vicky Abishek**, Vice President - Technology Services Asia Pacific, Johnson & Johnson
+* **Jane Leong**, Vice President of Data & Growth, Love, Bonito 
