@@ -18,14 +18,14 @@ Hear from our esteemed healthcare and biomedical corporates and professionals as
 | -------- | -------- |
 | 09:50am–10:30am  | Opening panel |
 | 10:40am–11:00am  | Keynote address |
-| 11:05am–11:45am | Opening innovation for healthcare (Hosted by EnterprisSG's Health and Biomedical Division)    |
-| 11:50am–12:30pm | Future of healthcare and medtech investment in Asia (Hosted by Bain & Company)  |
-| 01:35pm - 02:15pm | Evolution and revolution of cell and gene therapy in Asia–challenges and promise (Hosted by: CRIS) |
-| 02:20pm–03:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic (Hosted by A* STAR)    | 
-| 03:05pm–03:25pm  | Strengthening universal coverage in Asia: opportunities for innovation in private health (Hosted by: Amazon Web Services (AWS) & Access Health) |
-| 03:30pm–04:10pm  | The outlook on biotech investments: Boom, bubble or bust? (Hosted by SGInnovate) |
-| 04:15pm–04:55pm  | Thinking of running a biotech or medtech? Plan before you plunge! (Hosted by NHIC) |
-| 05:00pm–05:40pm  | Expansion challenges and opportunities in Southeast Asia (Hosted by MiRXES and EnterpriseSG's Health & Biomedical Division) |
+| 11:05am–11:45am | Opening innovation for healthcare - Hosted by: EnterprisSG's Health and Biomedical Division  |
+| 11:50am–12:30pm | Future of healthcare and medtech investment in Asia - Hosted by: Bain & Company  |
+| 01:35pm - 02:15pm | Evolution and revolution of cell and gene therapy in Asia–challenges and promise - Hosted by: Consortium for Clinical Research and Innovation, Singapore (CRIS) |
+| 02:20pm–03:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic - Hosted by: Agency for Science, Technology and Research (A* STAR)  | 
+| 03:05pm–03:25pm  | Strengthening universal coverage in Asia: opportunities for innovation in private health - Hosted by: Access Health |
+| 03:30pm–04:10pm  | The outlook on biotech investments: Boom, bubble or bust? - Hosted by: SGInnovate |
+| 04:15pm–04:55pm  | Thinking of running a biotech or medtech? Plan before you plunge! - Hosted by: National Health Innovation Centre Singapore (NHIC) |
+| 05:00pm–05:40pm  | Expansion challenges and opportunities in Southeast Asia - Hosted by: MiRXES |
 
 ### **DAY 2: WED 26 OCT 2022**
 #### **Focus: Urban Solutions, Trade and Connectivity**
@@ -34,13 +34,13 @@ What are the emerging roles of sustainability and green solutions that will cont
 | Time | Session | 
 | -------- | -------- |
 | 09:00am–09:40am  | Keynote Panel |
-| 09:45am–10:25am  | Urbanisation and net-zero (Hosted by JTC) |
-| 10:30am–11:10am  | Tech-ing urban solutions to the next level: Re-imagining cities for greater resilience (Hosted by A* STAR) |
-| 11:15am–11:55am | Harnessing IoT and data for a sustainable future (Hosted by MANN+HUMMEL) |
-| 01:05pm–01:45pm | Future of mobility and electrification–Ready for the green shift |
-| 01:50pm–02:30pm | Urban air mobility–Disrupting travel and fulfillment in Asia |
+| 09:45am–10:25am  | Urbanisation and net-zero - Hosted by: JTC Corporation |
+| 10:30am–11:10am  | Tech-ing urban solutions to the next level: Re-imagining cities for greater resilience - Hosted by: Agency of Science, Technology and Research (A* STAR) |
+| 11:15am–11:55am | Harnessing IoT and data for a sustainable future - Hosted by: MANN+HUMMEL |
+| 01:05pm–01:45pm | Future of mobility & electrification–ready for the green shift |
+| 01:50pm–02:30pm | Urban air mobility–disrupting travel and fulfillment in Asia |
 | 02:35pm–03:15pm | Technology to enable supply chain resilience and overcome instances of disruption | 
-| 03:20pm–04:00pm  | TCC Launch |
+| 03:20pm–04:00pm  | Trade & connectivity challenge launch |
 | 04:20pm–05:00pm  | Leveraging technology to decarbonise commodities |
 | 05:05pm–05:30pm  | Call for collaboration to decarbonise |
 | 05:35pm–06:15pm  | Partnerships for a net zero transition |
@@ -51,12 +51,12 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 
 | Time | Session | 
 | -------- | -------- |
-| 09:00am–09:40am  | How businesses can prepare for the new economies of the metaverse (Hosted by SGTech, Meta) |
+| 09:00am–09:40am  | How businesses can prepare for the new economies of the metaverse - Hosted by: SGTech & Meta |
 | 09:45am–10:10am  | Fireside chat: Interactions between Blockchain and cybersecurity |
-| 10:35am–11:15am | Women in tech leadership (Hosted by IEEE) |
-| 11:20am–12:00pm | How Web 3.0 technology and the metaverse will unlock opportunity and impact our world (Hosted by SGTech & Meta)  |
-| 01:05pm–01:45pm | Role of dual-use technology in transforming industries (Hosted by Cap Vista) |
-| 01:50pm–02:30pm | From AI Governance to Governable AI (Hosted by AIII) |
+| 10:35am–11:15am | Women in tech leadership - Hosted by: Institute of Electrical and Electronics Engineers (IEEE) |
+| 11:20am–12:00pm | How Web 3.0 technology and the metaverse will unlock opportunity and impact our world - Hosted by: SGTech & Meta  |
+| 01:05pm–01:45pm | Role of dual-use technology in transforming industries - Hosted by: Cap Vista |
+| 01:50pm–02:30pm | From AI Governance to Governable AI - Hosted by: Artificial Intelligence International Institute (AIII) |
 | 02:35pm–03:15pm | Asia's digital economy and the rise of unicorns | 
 
 _* Contents are subject to change_
