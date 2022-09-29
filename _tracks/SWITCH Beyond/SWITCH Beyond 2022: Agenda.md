@@ -16,13 +16,13 @@ Hear from our esteemed healthcare and biomedical corporates and professionals as
 
 | Time | Session | 
 | -------- | -------- |
-| 09:50am–10:30am  | Opening panel |
-| 10:40am–11:00am  | Keynote address |
+| 09:50am–10:30am  | Opening Panel |
+| 10:40am–11:00am  | Keynote Address |
 | 11:05am–11:45am | Opening innovation for healthcare  |
 | 11:50am–12:30pm | Future of healthcare and medtech investment in Asia - Hosted by: Bain & Company  |
 | 01:35pm - 02:15pm | Evolution and revolution of cell and gene therapy in Asia–challenges and promise - Hosted by: Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 | 02:20pm–03:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic - Hosted by: Agency for Science, Technology and Research (A* STAR)  | 
-| 03:05pm–03:25pm  | Strengthening universal coverage in Asia: opportunities for innovation in private health - Hosted by: Access Health |
+| 03:05pm–03:25pm  | Strengthening universal coverage in Asia: opportunities for innovation in private health insurance - Hosted by: Access Health |
 | 03:30pm–04:10pm  | The outlook on biotech investments: Boom, bubble or bust? - Hosted by: SGInnovate |
 | 04:15pm–04:55pm  | Thinking of running a biotech or medtech? Plan before you plunge! - Hosted by: National Health Innovation Centre Singapore (NHIC) |
 | 05:00pm–05:40pm  | Expansion challenges and opportunities in Southeast Asia - Hosted by: MiRXES |
@@ -42,7 +42,7 @@ What are the emerging roles of sustainability and green solutions that will cont
 | 02:35pm–03:15pm | Technology to enable supply chain resilience and overcome instances of disruption | 
 | 03:20pm–04:00pm  | Trade & connectivity challenge launch |
 | 04:20pm–05:00pm  | Leveraging technology to decarbonise commodities |
-| 05:05pm–05:30pm  | Call for collaboration to decarbonise |
+| 05:05pm–05:30pm  | Fireside Chat |
 | 05:35pm–06:15pm  | Partnerships for a net zero transition |
 
 ### **DAY 3, THU 27 OCT 2022**
