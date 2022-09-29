@@ -20,7 +20,7 @@ Echelon 2022 is a curated, invite-only event that aims to provide intimate and f
 * 9 panel discussions with various topics like "The State of SEA tech startup ecosystem today" and "Leveraging on Web3 technologies for your Web2 assets to incentivize higher participation through a ownership model" 
 * 2 fireside chats where speakers will be talking about "A Founder's approach to fundraising at different stages" and "Running a successful NFT project"
 * 2 networking lunches
-* Access to SWITCH Beyond, SWITCH Global and SLINGSHOT
+* Access to SWITCH Global and SLINGSHOT
 
 # Why attend?
 * E27 is a platform that allows key stakeholders of Asia’s tech and startup ecosystem to connect with each others
