@@ -22,7 +22,7 @@ Get ready for an exciting lineup of **workshops, panel discussions, and firesid
 
 * Networking with like-minded individuals
 
-* Get ready to kickstart your career in the tech industry!
+* Get ready to kick-start your career in the tech industry!
 
 # Why attend?
 * Network with leaders and peers of the alternative investment industry; Private Equity, Venture Capital, and Family Offices, policy makers and global thought leaders in the field and focused sectors
