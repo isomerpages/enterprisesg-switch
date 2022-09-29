@@ -2,9 +2,6 @@ collections:
   tracks:
     output: true
     order:
-      - Partner Events/Echelon 2022.md
-      - Partner Events/Partner Events.md
-      - Partner Events/.keep
       - SWITCH Beyond/.keep
       - SWITCH Beyond/SWITCH Beyond 2022.md
       - "SWITCH Beyond/SWITCH Beyond 2022: Agenda.md"
@@ -16,3 +13,6 @@ collections:
       - SLINGSHOT/SWITCH Grand Stage Agenda.md
       - SLINGSHOT/SLINGSHOT 2021 Recap.md
       - SLINGSHOT/Judges and Mentors.md
+      - Partner Events/.keep
+      - Partner Events/Echelon 2022.md
+      - Partner Events/Partner Events.md
