@@ -32,3 +32,13 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 * Network with leaders and peers and build a community at the forefront of driving technology adaption
 * Discover the emerging and future economy opportunities for growth as you are able to develop your business in Singapore and abroad
 * A gateway for you to communicate your leadership to others
+
+# Speakers 
+* **Tan Kiat How**, Senior Minister of State, Ministry of Communications and Information & Ministry of National Development 
+* **Piyush Gupta**, Chief Executive Officer, DBS Group
+* **Ajay Bhalla**, President, Cyber & Intelligence, Mastercard 
+* **Janet De Silva** President and Chief executive officer, Toronto Region Board of Trade (Canada); Chair of the Digital Working Group, APEC Business Advisory Council 
+* **Bhaskar Chakravorti**, Chairman of Digital Planet, and Dean of Global Business, Fletcher School, Tufts university
+* **Wong Wai Meng**, Chairman of SGTech and Chief Executive Officer, Keppel Data Centre 
+* **Anurag Lal**, President & Chief Executive Officer, NetSfere and Infinite Convergence Solutions 
+* **Lam Yi Young**, Chief Executive Officer, Singapore Business Federation 
