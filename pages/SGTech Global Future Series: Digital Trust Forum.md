@@ -31,4 +31,4 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 # Why attend?
 * Network with leaders and peers and build a community at the forefront of driving technology adaption
 * Discover the emerging and future economy opportunities for growth as you are able to develop your business in Singapore and abroad
-* A gateway for you to communicate your leadership to others 
+* A gateway for you to communicate your leadership to others
