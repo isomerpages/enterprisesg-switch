@@ -3,6 +3,7 @@ title: "SGTech Global Future Series: Digital Trust Forum"
 permalink: /sgtech-digital-trust-forum/
 description: ""
 ---
+![SGTech Future Series: Digital Trust Forum at SWITCH 2022](/images/Digital%20Trust%20Forum%20-%20A%20Partner%20Event%20Of-01.jpg)
 # About
 In today’s rapidly digitalising and inter-connected world, understanding Digital Trust and how to capitalise on its opportunities is an imperative for anyone interacting in the digital economy. 
 
@@ -18,17 +19,16 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 | **Time:**    | 0845 - 1730 (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
 |**Price:** | SG$200 for in-person ticket / SG$75* for virtual ticket |
+|**Register Here :** | https://globalfutureseries.com/digitrust/wp/ |
 
-*Early Bird free virtual ticket promotion currently underway*
+*By attending SGTech Global Future Series: Digital Trust Forum, you will also have complimentary access to the SWITCH Trade Floor on level B2*
 
 # Highlights
-* 4 keynote sessions on topics like; "Demystifying Digital Trust: Why We Must Think Beyond Concept to Capitalise on its Opportunities" and "Building a Trusted Digital Ecosystem Through the Cloud"
-* A series of panel discussions on topics like: "Facilitating Frictionless Cross-Border Digital Trade: Global Perspectives Towards a More Trusted Future" and "Upholding Digital Trust Through Resilience and Critical Event Response"
+* 18 unique programme sessions 
 * Networking lunch and tea break
-* Access to SWITCH Global and SLINGSHOT
+* More than 30 speakers from around the world are coming to Singapore to contribute to the discourse in this pioneering forum on Digital Trust
 
 # Why attend?
 * Network with leaders and peers and build a community at the forefront of driving technology adaption
 * Discover the emerging and future economy opportunities for growth as you are able to develop your business in Singapore and abroad
 * A gateway for you to communicate your leadership to others 
-* Engage with the founders of the most promising startups from the SLINGSHOT 2022 Top 50!
