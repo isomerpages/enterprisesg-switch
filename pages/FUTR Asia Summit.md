@@ -30,4 +30,4 @@ At FUTR you can hear from inspiring, cross-industry speakers from the likes of A
 # Why attend?
 * VIP Brand Retailer programme and private networking opportunities at the Summit 
 * FUTR Asia will equip you with a comprehensive commerce tool kit, learning from the presentations on the latest campaigns and innovations in marketing
-* Meet leaders and the biggest companies
+* Meet leading brands, retailers and entrepreneurs in a high powered forum 
