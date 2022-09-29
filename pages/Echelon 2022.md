@@ -31,3 +31,12 @@ Echelon 2022 is a curated, invite-only event that aims to provide intimate and f
 * Get countless opportunities to meet and connect in person with investors, corporates and governments
 * Seek out partners to collaborate and build productive relationships, with 500 of the most influential decision makers
 * Gain insight with discussion sessions featuring veteran and upcoming entrepreneurs and ecosystem enablers
+
+# Speakers
+* **Yinglan Tan**, Founding Managing Partner, Insignia Ventures
+* **Carmen Yuen**, General Partner, Vertex Ventures
+* **Looi Qin En**, Principal, Saison Capital
+* **Mohan Belani**, Co-Founder, e27
+* **Aaron Tan**, Founder and Chief Executive Officer, Carro
+* **Aaron Sarma**, Co-Founder & General Partner, ScaleUp Malaysia
+* **Tiang Lim Foo**, Co-Founder and Partner, Forge Ventures
