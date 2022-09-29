@@ -22,16 +22,13 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 *Early Bird free virtual ticket promotion currently underway*
 
 # Highlights
-* Three plenaries; including a joint keynote and a combined panel discussion and a dedicated plenary for Family Office or Venture Capital /Private Equity track
-* A series of 4 "closed doors" roundtables  (peer discussions, meeting with policy makers), as well as small groups of up to 30 participants
-* Curated in-person meetings with 50 companies' Founders/CEOs
-* 2 networking lunches, 3 tea breaks
-* Access to SWITCH Beyond, SWITCH Global and SLINGSHOT
+* 4 keynote sessions on topics like; "Demystifying Digital Trust: Why We Must Think Beyond Concept to Capitalise on its Opportunities" and "Building a Trusted Digital Ecosystem Through the Cloud"
+* A series of panel discussions on topics like: "Facilitating Frictionless Cross-Border Digital Trade: Global Perspectives Towards a More Trusted Future" and "Upholding Digital Trust Through Resilience and Critical Event Response"
+* Networking lunch and tea break
+* Access to SWITCH Global and SLINGSHOT
 
 # Why attend?
-* Network with leaders and peers of the alternative investment industry; Private Equity, Venture Capital, and Family Offices, policy makers and global thought leaders in the field and focused sectors
+* Network with leaders and peers and build a community at the forefront of driving technology adaption
+* Discover the emerging and future economy opportunities for growth as you are able to develop your business in Singapore and abroad
+* A gateway for you to communicate your leadership to others 
 * Engage with the founders of the most promising startups from the SLINGSHOT 2022 Top 50!
-* Discover the emerging and future economy opportunities for growth
-* Learn the best practices from fund managers and advisors in early and growth stages investing
-* Gain insights into the latest investments trends across asset class
-* Uncover what drives ESG imperatives in ASEAN plus 3
