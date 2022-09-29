@@ -18,7 +18,7 @@ Hear from our esteemed healthcare and biomedical corporates and professionals as
 | -------- | -------- |
 | 09:50am–10:30am  | Opening panel |
 | 10:40am–11:00am  | Keynote address |
-| 11:05am–11:45am | Opening innovation for healthcare - Hosted by: EnterprisSG's Health and Biomedical Division  |
+| 11:05am–11:45am | Opening innovation for healthcare  |
 | 11:50am–12:30pm | Future of healthcare and medtech investment in Asia - Hosted by: Bain & Company  |
 | 01:35pm - 02:15pm | Evolution and revolution of cell and gene therapy in Asia–challenges and promise - Hosted by: Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 | 02:20pm–03:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic - Hosted by: Agency for Science, Technology and Research (A* STAR)  | 
@@ -56,7 +56,7 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 | 10:35am–11:15am | Women in tech leadership - Hosted by: Institute of Electrical and Electronics Engineers (IEEE) |
 | 11:20am–12:00pm | How Web 3.0 technology and the metaverse will unlock opportunity and impact our world - Hosted by: SGTech & Meta  |
 | 01:05pm–01:45pm | Role of dual-use technology in transforming industries - Hosted by: Cap Vista |
-| 01:50pm–02:30pm | From AI Governance to Governable AI - Hosted by: Artificial Intelligence International Institute (AIII) |
+| 01:50pm–02:30pm | From AI governance to governable AI - Hosted by: Artificial Intelligence International Institute (AIII) |
 | 02:35pm–03:15pm | Asia's digital economy and the rise of unicorns | 
 
 _* Contents are subject to change_
