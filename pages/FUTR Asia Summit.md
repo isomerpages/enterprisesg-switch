@@ -17,7 +17,7 @@ At FUTR you can hear from inspiring, cross-industry speakers from the likes of A
 |**Date:** | Tue–Wed, 25–26 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
-|**Price:** | From $855 |
+|**Price:** | From SGD$855 |
 |**Register Here :** | https://futr.today/singapore/ |
 
 *By attending FUTR ASIA, you will also have complimentary access to the SWITCH Trade Floor on level B2*
@@ -30,4 +30,4 @@ At FUTR you can hear from inspiring, cross-industry speakers from the likes of A
 # Why attend?
 * VIP Brand Retailer programme and private networking opportunities at the Summit 
 * FUTR Asia will equip you with a comprehensive commerce tool kit, learning from the presentations on the latest campaigns and innovations in marketing
-* Meet leading brands, retailers and entrepreneurs in a high powered forum 
+* Meet leading brands, retailers and entrepreneurs in a high powered forum
