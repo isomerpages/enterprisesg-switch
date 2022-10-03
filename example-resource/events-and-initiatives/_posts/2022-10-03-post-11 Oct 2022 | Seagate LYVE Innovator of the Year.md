@@ -1,0 +1,30 @@
+---
+title: 11 Oct 2022 | Seagate LYVE Innovator of the Year
+permalink: /events/seagate-lyve-innovator-of-the-year/
+date: 2022-10-03
+layout: post
+description: ""
+image: /images/Seagate LYVE_Event.png
+---
+
+![Seagate LYVE Innovator of the Year 2022](/images/Seagate%20LYVE_Event.png)
+
+#### Event details
+
+
+| **Title** | Seagate LYVE Innovator of the Year|
+| -------- | -------- |
+|**Date** | Tuesday, 11 October 2022 
+| **Time**    | 2 - 5.45pm (Singapore Time / UTC +8) |
+|**Venue** | SWITCH Platform
+| **Register** | [Click here](https://events.hubilo.com/switchsg/register) |
+
+#### About
+Learn how we can foster the collaboration between the China-Singapore AI ecosystems to mutually reinforce AI4Good to utilise opportunities and address unforeseen risks such as DeepFake and disinformation!  
+  
+Join us in the upcoming webinar, "China-Singapore AI Ecosystem Collaboration Forum" on **3 September, 2.00pm** to learn more about the partnership of two robust tech centres: China and Singapore!
+#### Register
+
+This event is part of the SWITCH Year-long Innovation Programme. Register for a FREE Trade Pass to attend this event, as well as the SWITCH 2022 Flagship Event from 25 - 28 Oct 2022 at Resorts World Convention Centre, Singapore. 
+
+**[Register here! ](https://community.switchsg.org/register)**
