@@ -5,14 +5,21 @@ description: ""
 ---
 # About
 
+Global Green Connect is an integrated sustainability network that helps to re-engineer the ecosystem of business. We provide sustainability consulting, training and market entry advisory. We partner with companies and SMEs to embark on their sustainability journey.
+
+  
+
+Our subsidiary GGEF (Global Green Economic Foundation) is a purpose driven social enterprise headquartered in Singapore since 2013, it empowers future leaders with innovation, sustainability and leadership through its events, awards, SDG Open Hack and training programmes.
+
+**
 # Details
 
-| **Title:** | IMPACT+ 2022 |
+| **Title:** | **GGEF Sustainability Roundtable: Re-imagine Sustainable Development by integrating Innovation & Technology** |
 | -------- | -------- |
 |**Date:** | Tue, 25 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
-|**Price:** | S$999 (Early-bird) / S$1,499 |
+|**Price:** | SGD199 (full-day pass) / SGD99 (afternoon Master Class) |
 
 # Highlights
 * Three plenaries; including a joint keynote and a combined panel discussion and a dedicated plenary for Family Office or Venture Capital /Private Equity track
