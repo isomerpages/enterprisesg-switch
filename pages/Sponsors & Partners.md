@@ -1,26 +1,24 @@
 ---
 title: Sponsors & Partners
-permalink: /sponsors-partners-2021
+permalink: /sponsors-partners-2021/
 ---
-##### Brought to you by
-
-![SWITCH 2021 Sponsors and Partners](/images/Sponsor%20Cards/Sponsor%20Cards%20(2021)/web_switch_2021_organised_by_v2.jpg)
-
 ##### Platinum Sponsor
-![SWITCH 2021 Sponsors and Partners](/images/Sponsor%20Cards/Sponsor%20Cards%20(2021)/SWITCH_2021_Sponsors_Platinum_v1.png)
+![Platinum Sponsor SWITCH 2022](/images/Platinum%20Sponsor%20v2.png)
 
 ##### Gold Sponsors
-![SWITCH 2021 Sponsors and Partners](/images/Sponsor%20Cards/Sponsor%20Cards%20(2021)/SWITCH_2021_Sponsors_Gold_v2.png)
+![Gold Sponsors SWITCH 2022](/images/Gold%20Sponsors%20v2.png)
 
 ##### Silver Sponsors
-![SWITCH 2021 Silver Sponsors](/images/Sponsor%20Cards/Sponsor%20Cards%20(2021)/web_switch_2021_sponsors_silver_v2.jpg)
+![Silver Sponsors SWITCH 2022](/images/Silver%20Sponsors.png)
 
+##### Global Partners
+![International Partners SWITCH 2022](/images/Global%20Partners.png)
+
+##### Strategic Media Partners
+![Strategic Media Partner SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20v2.png)
 
 ##### Content Partners
-![SWITCH 2021 Sponsors and Partners](/images/Sponsor%20Cards/Sponsor%20Cards%20(2021)/web_switch_2021_content_hosts_v1.jpg)
+![Content Partners V2](/images/Content%20Partners%20v2.png)
 
-##### International Partners
-![SWITCH 2021 Sponsors and Partners](/images/Sponsor%20Cards/Sponsor%20Cards%20(2021)/switch_2021_sponsors_ipp_v1.jpg)
 
-##### Community Partners
-![](/images/Sponsor%20Cards/Sponsor%20Cards%20(2021)/SWITCH%20Community%20Partners%20v3.png)
+
