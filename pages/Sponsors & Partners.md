@@ -21,4 +21,4 @@ permalink: /sponsors-partners-2021/
 ![Content Partners V2](/images/Content%20Partners%20v2.png)
 
 ##### Evergreen 
-![Evergreen SWITCh 2022](/images/last%20page.png)
+![Evergreen SWITCH 2022](/images/Copy%20of%20Sponsors%20%20v2.png)
