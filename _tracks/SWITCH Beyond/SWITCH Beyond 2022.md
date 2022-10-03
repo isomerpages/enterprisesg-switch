@@ -32,6 +32,6 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 ### Our 2022 Speakers
 Our past guests included vanguard leaders from industries, governments, and institutions all across the world.  Join us in 2022 to engage with the brightest minds for discussions on emergent topics that shape the future of our communities and economies.
 
-![SWITCH 2022 Beyond Speakers Highlights](/images/SWITCH_2022_Speakers_Beyond_Highlights.png)
+![SWITCH 2022 Beyond Speakers Highlights](/images/SWITCH_2022_Speakers_Beyond_Highlights_V2.png)
 
 If you have a 2021 SWITCH Pass, [log on and watch](https://events.hubilo.com/switchsg) over a hundred cutting edge discussions from SWITCH 2021 on-demand. If you wish to get a SWITCH pass, get connected with us [here](https://go.gov.sg/switch-community-interest-web).
