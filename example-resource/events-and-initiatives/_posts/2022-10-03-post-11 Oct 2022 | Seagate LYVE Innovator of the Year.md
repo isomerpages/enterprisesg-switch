@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/WAIC%20China-Singapore%20AI%20Ecosystem%20Collaboration%20Forum%20(800x368)%20(1).png)
+![Seagate LYVE Innovator of the Year 2022](/images/Seagate%20LYVE_Event.png)
 
 #### Event details
 
