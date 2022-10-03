@@ -7,8 +7,6 @@ description: ""
 
 Global Green Connect is an integrated sustainability network that helps to re-engineer the ecosystem of business. We provide sustainability consulting, training and market entry advisory. We partner with companies and SMEs to embark on their sustainability journey.
 
-  
-
 Our subsidiary GGEF (Global Green Economic Foundation) is a purpose driven social enterprise headquartered in Singapore since 2013, it empowers future leaders with innovation, sustainability and leadership through its events, awards, SDG Open Hack and training programmes.
 
 **
