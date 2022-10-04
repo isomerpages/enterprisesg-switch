@@ -33,8 +33,18 @@ sections:
           description: Premier startup pitching event
           url: /slingshot-2022
   - infopic:
-      title: Connect to market access and opportunities
-      subtitle: "Channel: SWITCH Global"
+      title: The Global-Asia Innovation community meets at SWITCH
+      subtitle: "flagship event "
+      description: "SWITCH brings together leaders, entrepreneurs, creators,
+        accelerators and investors from 25 - 28 Oct 2022 at Resorts World
+        Convetion Centre, Singapore "
+      button: Learn more
+      url: /flagship-2022
+      image: /images/SWITCH_Main.jpg
+      alt: SWITCH Connects you globally
+  - infopic:
+      title: "View the speakers and agenda for SWITCH Global "
+      subtitle: SWITCH Global
       description: Expand your network into the global market at SWITCH Global’s
         Market Access Sessions tailored for business growth and
         internationalisation.
@@ -43,8 +53,8 @@ sections:
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
   - infopic:
-      title: Ideas that shape tomorrow
-      subtitle: "Channel: SWITCH BEYOND"
+      title: "Meet your speakers from SWITCH Beyond "
+      subtitle: SWITCH BEYOND
       description: Connect with over 300 international speakers from vanguard and
         emergent industries and research institutes at the SWITCH Beyond
         conference channel.
@@ -63,6 +73,15 @@ sections:
       image: /images/slingshot_2021_winner_quantumcyte_web.jpeg
       alt: SLINGSHOT
   - infopic:
+      title: Our SWITCH Community
+      subtitle: "Partner events "
+      description: "Participate in various innovations intiatives organised by our
+        exclusive network of community builders and tech leaders  "
+      button: Learn More
+      url: https://www.switchsg.org/partner-events-2022/
+      image: /images/SWITCH-69.jpg
+      alt: Partner Events
+  - infopic:
       title: "SLINGSHOT 2021 Grand Winner: QuantumCyte"
       subtitle: SLINGSHOT Feature
       description: Biotech startup, QuantumCyte, have been busy growing, developing,
@@ -73,24 +92,6 @@ sections:
       image: /images/Article Images/Article
         QuantumCyte/SLINGSHOT_QuantumCyte_Team_Picture.jpg
       alt: SLINGSHOT 2021 QuantumCyte
-  - infopic:
-      title: Our SWITCH community
-      subtitle: "Channel: Partner events "
-      description: "Learn more about our partners from the different markets and
-        indulge in valuable insights   "
-      button: Learn More
-      url: https://www.switchsg.org/partner-events-2022/
-      image: /images/SWITCH-69.jpg
-      alt: Partner Events
-  - infopic:
-      title: The Global Innovation Movement
-      subtitle: Be part of
-      description: SWITCH brings together leaders, entrepreneurs, creators,
-        accelerators and investors from the Global-Asia innovation ecosystem.
-      button: Learn more
-      url: /experience-2022
-      image: /images/SWITCH_Main.jpg
-      alt: SWITCH Connects you globally
   - infobar:
       title: Year-long innovation movement
       subtitle: Be Part Of
