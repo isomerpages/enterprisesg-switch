@@ -47,11 +47,7 @@ The SLINGSHOT Top 50 Global Startups will have the opportunity to join an immers
 | ![SLINGSHOT Collaborate](/images/SLINGSHOT_Icon_Collaborate.png)     | **Collaborate.** Ideate and co-innovate with MNCs and homegrown players to fast-track your ideas into the market     |
 
 ***
-
-Learn more and apply at the [SLINGSHOT 2022 challenge page](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022).
-
 *Applications for SLINGSHOT 2022 have closed*
-
 ***
 
 ##### You may be interested in
