@@ -45,4 +45,4 @@ At FUTR you can hear from inspiring, cross-industry speakers from the likes of A
 
 # Location
 * Pisces room 2 - 4
-* Virgo room 1 - 4 
+* Virgo room 1 - 4
