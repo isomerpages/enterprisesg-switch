@@ -90,10 +90,6 @@ sections:
       image: /images/Article Images/Article
         QuantumCyte/SLINGSHOT_QuantumCyte_Team_Picture.jpg
       alt: SLINGSHOT 2021 QuantumCyte
-  - resources:
-      title: News and Happenings
-      subtitle: Explore
-      button: See all
   - infopic:
       title: Our SWITCH community
       subtitle: "Channel: Partner events "
@@ -103,4 +99,8 @@ sections:
       url: https://www.switchsg.org/partner-events-2022/
       image: /images/SWITCH-69.jpg
       alt: Partner Events
+  - resources:
+      title: News and Happenings
+      subtitle: Explore
+      button: See all
 ---
