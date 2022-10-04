@@ -40,7 +40,7 @@ sections:
         Convetion Centre, Singapore "
       button: Learn more
       url: /flagship-2022
-      image: /images/SWITCH_Main.jpg
+      image: /images/Global Innovation Movement.jpg
       alt: SWITCH Connects you globally
   - infopic:
       title: "View the speakers and agenda for SWITCH Global "
