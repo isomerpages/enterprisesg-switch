@@ -3,6 +3,7 @@ title: AStar Tech Day 2022
 permalink: /Astar-sme-tech-day/
 description: A*STAR SME TECH DAY 2022 at SWITCH
 ---
+![SME TECH DAY 2022 at SWITCH](/images/smetechday2022_web-banner-a(1000x290)-v2-(3).jpg)
 # About
 A\*STAR is excited to feature many innovations at SWITCH trade show, from our research institutes, national platforms, partner SMEs and start-ups.
 
@@ -39,4 +40,4 @@ Get inspired by our partner SMEs and startups showcasing their business innovati
 * **Mr Soh Leng Wan**, Assistant CEO, Manufacturing & Engineering, Enterprise Singapore
 
 # Location
-* Ballroom east 
+* Ballroom east
