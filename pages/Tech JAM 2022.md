@@ -26,3 +26,7 @@ Get ready for an exciting lineup of workshops, panel discussions, and fireside 
 * A chance for you to get Nintendo Switch 
 * Able to make new connections 
 * Free Trade Pass to SWITCH 2022
+
+
+# Location
+* Aquarius room 3 - 4
