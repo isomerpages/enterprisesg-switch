@@ -44,3 +44,5 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 * **Wong Wai Meng**, Chairman of SGTech and Chief Executive Officer, Keppel Data Centre 
 * **Anurag Lal**, President & Chief Executive Officer, NetSfere and Infinite Convergence Solutions 
 * **Lam Yi Young**, Chief Executive Officer, Singapore Business Federation
+
+[Visit the event website to learn more.](https://globalfutureseries.com/digitrust/wp/)
