@@ -14,8 +14,9 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 | **Title:** | **GGEF Sustainability Roundtable: Re-imagine Sustainable Development by integrating Innovation & Technology** |
 | -------- | -------- |
 |**Date:** | Tue, 25 Oct 2022 |
-| **Time:**    | Whole Day (Singapore Time / UTC +8) |
+| **Time:** | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
+|**Location:** | Aquarius room 1 - 2 |
 |**Price:** | SGD199 (full-day pass) / SGD99 (afternoon Master Class) |
 |**Register Here:** | [GGEF Sustainability Roundtable: Re-imagine Sustainable Development by integrating Innovation & Technology registration](https://ggefsustainabilityroundtable.eventbrite.sg )
 
@@ -36,6 +37,3 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 * **Christina Lee**, Founder & Chief Executive Officer, Global green Connect & Global Green Economic Foundation
 * **Eric Loh**, Vice President, G Element
 * **Professor William Chen**, Michael Fam Endowed Chair Professor in Food Science and Technology
-
-# Location
-* Aquarius room 1 - 2
