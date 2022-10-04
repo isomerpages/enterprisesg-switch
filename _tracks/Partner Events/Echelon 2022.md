@@ -42,3 +42,5 @@ Echelon 2022 is a curated, invite-only event that aims to provide intimate and f
 * **Aaron Tan**, Founder and Chief Executive Officer, Carro
 * **Aaron Sarma**, Co-Founder & General Partner, ScaleUp Malaysia
 * **Tiang Lim Foo**, Co-Founder and Partner, Forge Ventures
+
+[Visit the event website to learn more.](https://e27.co/echelon/asia/)
