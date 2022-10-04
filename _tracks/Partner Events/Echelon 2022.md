@@ -11,6 +11,7 @@ e27’s flagship conference brings together startups, investors, corporates, gov
 Echelon 2022 is a curated, invite-only event that aims to provide intimate and focussed discussions on key topics, coupled with business matching services to facilitate business-driven connections and drive towards fruitful business outcomes during the two-day event.
 
 # Details
+
 | **Title:** | **ECHELON by e27**|
 | -------- | -------- |
 |**Date:** | Thu–Fri, 27–28 Oct 2022 |
