@@ -22,6 +22,8 @@ The SWITCH Grand Stage will host startup focused content, particularly the **SLI
 
 ![Programme Highlights SWITCH Grand Stage and SLINGSHOT Grand Finals](/images/SWITCH%202022%20Infographics/Programme%20Highlights%20Grand%20Stage_R2.png)
 
+[View the SLINGSHOT Grand Stage Finals here ](/slingshot-2022/grand-stage-agenda/)
+
 
 ***
 ##### 2022 Challenge Domains
