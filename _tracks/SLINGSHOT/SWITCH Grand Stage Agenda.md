@@ -4,7 +4,6 @@ permalink: /slingshot-2022/grand-stage-agenda/
 description: ""
 third_nav_title: SLINGSHOT
 ---
-
 ## SWITCH Grand Stage Agenda
 
 ### **DAY 1: TUE, 25 OCT 2022**
