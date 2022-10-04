@@ -22,7 +22,7 @@ SWITCH Global 2022 will focus on key industry and expansion opportunities across
 
 If you are looking to expand your business abroad, SWITCH Global will connect you directly with our partners overseas. Be sure to catch free consultation sessions at the Global Pavilions to gain new networks and connections with these in-market experts! 
 
-[View the GLOBAL Beyond agenda here.](/switch-global-2022/agenda/)
+[View the Global agenda here.](/switch-global-2022/agenda/)
 
 #### Connect With International Trade and Business Leaders
 SWITCH Global has convened established leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors. Whatever your business needs, find the right connections here!
