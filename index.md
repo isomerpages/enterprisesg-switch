@@ -94,4 +94,13 @@ sections:
       title: News and Happenings
       subtitle: Explore
       button: See all
+  - infopic:
+      title: Our SWITCH community
+      subtitle: "Channel: Partner events "
+      description: "Learn more about our partners from the different markets and
+        indulge in valuable insights   "
+      button: Learn More
+      url: https://www.switchsg.org/partner-events-2022/
+      image: /images/SWITCH-69.jpg
+      alt: Partner Events
 ---
