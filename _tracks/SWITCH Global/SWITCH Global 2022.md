@@ -22,9 +22,6 @@ SWITCH Global 2022 will focus on key industry and expansion opportunities across
 
 If you are looking to expand your business abroad, SWITCH Global will connect you directly with our partners overseas. Be sure to catch free consultation sessions at the Global Pavilions to gain new networks and connections with these in-market experts! 
 
-If you have a 2021 SWITCH Pass, log on and watch over 100 cutting-edge discussions from SWITCH 2021 on demand!
-
-
 #### Connect With International Trade and Business Leaders
 SWITCH Global has convened established leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors. Whatever your business needs, find the right connections here!
 
