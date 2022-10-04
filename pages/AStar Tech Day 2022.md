@@ -29,3 +29,14 @@ Get inspired by our partner SMEs and startups showcasing their business innovati
 * A\*STAR inspires SMEs to adopt innovation mindset for growth and greater competitiveness
 * More than 30 innovations at SWITCH Trade Show 
 * Talking about the different problems faced in Singapore
+
+# Speakers
+* **Prof Yeoh Lean Weng (moderator)**, Chief Sustainability Officer, A\*STAR
+* **Dr Lim Jing**, Chief Technology Officer, Osteopore International Pte Ltd
+* **Ms Jessica Zhang**, R&D Manager, Singnergy Corporation Pte Ltd
+* **Er Edwin Khew**, Chairman, Sustainable Energy Association of Singapore
+* **Ms Elise Hong**, Co-founder & CEO, JCS-Echigo Pte Ltd
+* **Mr Soh Leng Wan**, Assistant CEO, Manufacturing & Engineering, Enterprise Singapore
+
+# Location
+* Aquarius Room 1 - 4
