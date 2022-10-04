@@ -17,6 +17,9 @@ Get ready for an exciting lineup of workshops, panel discussions, and fireside 
 |**Venue:** | Resorts World Sentosa Convention Centre |
 |**Venue:** | Aquarius room 3 - 4 |
 |**Price:** | FREE |
+|**Register Here :** | [TECH JAM 2022 registration](https://www.eventbrite.com/e/techjam-2022-tickets-420043079157) |
+
+*By attending TECHJAM 2022 (Developer Conference), you will also have complimentary access to the SWITCH Trade Floor on level B2*
 
 # Highlights
 * Panel Discussions and Fireside Chats
