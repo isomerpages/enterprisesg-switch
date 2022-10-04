@@ -16,7 +16,7 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
 |**Price:** | SGD199 (full-day pass) / SGD99 (afternoon Master Class) |
-
+|**Register Here :** | [GGEF Sustainability Roundtable: Re-imagine Sustainable Development by integrating Innovation & Technology registration](https://ggefsustainabilityroundtable.eventbrite.sg )
 # Highlights
 *   Launch of Green Tree Initiative & Sustainability Collaborations 
 *   Expert plenary discussions
@@ -26,4 +26,4 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 # Why attend?
 * There will be lunch and networking 
 * Able to hear from industry experts 
-* Able to integrate innovation and technology to an organisation's practise. 
+* Able to integrate innovation and technology to an organisation's practise.
