@@ -3,6 +3,7 @@ title: Global Green Economy Forum
 permalink: /global-green-economy-forum/
 description: ""
 ---
+![GGEF SWITCH 2022](/images/GGEF.jpg)
 # About
 To meet the growing demand of future generations and climate challenges, building sustainable and resilient cities would require more technological innovations. 
 
