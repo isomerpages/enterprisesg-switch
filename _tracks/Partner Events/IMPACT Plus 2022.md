@@ -4,7 +4,6 @@ permalink: /impactplus/
 description: ""
 third_nav_title: Partner Events
 ---
-
 # About
 IMPACT+ brings together Family Office Investors, Fund Managers and Policy Makers from the Global-Asia ecosystem to make better decisions and to shape positive outcomes for our shared future.
 
@@ -48,3 +47,7 @@ IMPACT+ is a Closed Door, Invite-only 2-day meeting consisting of intimate Safe-
 * **Dean Ho**, Director The Institute for Digital Medicine, National University of Singapore 
 * **Kua Ee Heok**, Professor, National University of Singapore 
 * **Keith McGuire**, Consultant, Norton Rose Fullbright
+
+# Location
+* Virgo room 1 - 4 (Thu, 27 Oct)
+* Virgo room 1 - 2 (Fri, 28 Oct)
