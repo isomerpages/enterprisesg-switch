@@ -4,10 +4,6 @@ permalink: /Astar-sme-tech-day/
 description: A*STAR SME TECH DAY 2022 at SWITCH
 third_nav_title: Partner Events
 ---
-
-
-
-
 ![SME TECH DAY 2022 at SWITCH](/images/smetechday2022_web-banner-a(1000x290)-v2-(3).jpg)
 # About
 A\*STAR is excited to feature many innovations at SWITCH trade show, from our research institutes, national platforms, partner SMEs and start-ups.
@@ -46,3 +42,5 @@ Get inspired by our partner SMEs and startups showcasing their business innovati
 * **Er Edwin Khew**, Chairman, Sustainable Energy Association of Singapore
 * **Ms Elise Hong**, Co-founder & CEO, JCS-Echigo Pte Ltd
 * **Mr Soh Leng Wan**, Assistant CEO, Manufacturing & Engineering, Enterprise Singapore
+
+[Visit the event website to learn more.](https://www.a-star.edu.sg/switch-2022/a-star-switch-2022)
