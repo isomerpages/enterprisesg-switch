@@ -43,3 +43,5 @@ At FUTR you can hear from inspiring, cross-industry speakers from the likes of A
 * **Keerthi Kumaravelu**, Vice President Consumer Direct Business, Electrolux 
 * **Vicky Abishek**, Vice President - Technology Services Asia Pacific, Johnson & Johnson
 * **Jane Leong**, Vice President of Data & Growth, Love, Bonito
+
+[Visit the event website to learn more ](https://futr.today/singapore/)
