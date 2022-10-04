@@ -22,12 +22,9 @@ Get ready for an exciting lineup of **workshops, panel discussions, and firesid
 
 * Networking with like-minded individuals
 
-* Get ready to kick-start your career in the tech industry!
+* Opportunity to chat and network 
 
 # Why attend?
-* Network with leaders and peers of the alternative investment industry; Private Equity, Venture Capital, and Family Offices, policy makers and global thought leaders in the field and focused sectors
-* Engage with the founders of the most promising startups from the SLINGSHOT 2022 Top 50!
-* Discover the emerging and future economy opportunities for growth
-* Learn the best practices from fund managers and advisors in early and growth stages investing
-* Gain insights into the latest investments trends across asset class
-* Uncover what drives ESG imperatives in ASEAN plus 3
+* A chance for you to get Nintendo Switch 
+* Able to make new connections 
+* Free Trade Pass to SWITCH 2022
