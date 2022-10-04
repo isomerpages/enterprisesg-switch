@@ -27,3 +27,6 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 * There will be lunch and networking 
 * Able to hear from industry experts 
 * Able to integrate innovation and technology to an organisation's practise.
+
+# Speakers
+* **
