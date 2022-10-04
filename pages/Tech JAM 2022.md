@@ -19,9 +19,7 @@ Get ready for an exciting lineup of **workshops, panel discussions, and firesid
 
 # Highlights
 * Panel Discussions and Fireside Chats
-
 * Networking with like-minded individuals
-
 * Opportunity to chat and network 
 
 # Why attend?
