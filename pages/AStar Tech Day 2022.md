@@ -17,7 +17,8 @@ Get inspired by our partner SMEs and startups showcasing their business innovati
 |**Date:** | Fri, 28 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
-|**Price:** | ??? |
+|**Price:** | Free |
+|**Register Here :** |[A*STAR registration ](https://form.jotform.com/222341050862446)
 
 # Highlights
 * 2 inspiring keynote speakers 
