@@ -35,3 +35,6 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 * **Christina Lee**, Founder & Chief Executive Officer, Global green Connect & Global Green Economic Foundation
 * **Eric Loh**, Vice President, G Element
 * **Professor William Chen**, Michael Fam Endowed Chair Professor in Food Science and Technology
+
+# Location
+* Aquarius room 1 - 2
