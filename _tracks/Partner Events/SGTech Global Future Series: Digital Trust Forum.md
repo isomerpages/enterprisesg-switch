@@ -19,6 +19,7 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 |**Date:** | Fri, 28 Oct 2022 |
 | **Time:**    | 0845 - 1730 (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
+|**Location:** | Leo room 1 - 4 |
 |**Price:** | SG$200 for in-person ticket / SG$75* for virtual ticket |
 |**Register Here :** | [SGTech Global Future website](https://globalfutureseries.com/digitrust/wp/) |
 
@@ -43,6 +44,3 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 * **Wong Wai Meng**, Chairman of SGTech and Chief Executive Officer, Keppel Data Centre 
 * **Anurag Lal**, President & Chief Executive Officer, NetSfere and Infinite Convergence Solutions 
 * **Lam Yi Young**, Chief Executive Officer, Singapore Business Federation
-
-# Location
-* Leo room 1 - 4
