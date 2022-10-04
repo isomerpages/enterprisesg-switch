@@ -4,7 +4,6 @@ permalink: /echelon-2022/
 description: ""
 third_nav_title: Partner Events
 ---
-
 ![ECHELON by e27 at SWITCH 2022](/images/echelon-2022-poster.png)
 # About
 e27’s flagship conference brings together startups, investors, corporates, governments, tech ecosystem players and customers. It aims to facilitate connections, share actionable insights, and drive towards business growth for all stakeholders. 
