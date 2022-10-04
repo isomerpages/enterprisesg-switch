@@ -22,6 +22,8 @@ Get inspired by our partner SMEs and startups showcasing their business innovati
 |**Price:** | Free |
 |**Register Here :** |[A*STAR registration ](https://form.jotform.com/222341050862446)
 
+*By attending A\*STAR SME TECH DAY 2022, you will also have complimentary access to the SWITCH Trade Floor on level B2*
+
 # Highlights
 * 2 inspiring keynote speakers 
 * 4 industry experts on the panel discussion 
