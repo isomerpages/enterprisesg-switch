@@ -9,8 +9,8 @@ third_nav_title: Partner Events
 e27’s flagship conference brings together startups, investors, corporates, governments, tech ecosystem players and customers. It aims to facilitate connections, share actionable insights, and drive towards business growth for all stakeholders. 
 
 Echelon 2022 is a curated, invite-only event that aims to provide intimate and focussed discussions on key topics, coupled with business matching services to facilitate business-driven connections and drive towards fruitful business outcomes during the two-day event.
-# Details
 
+# Details
 | **Title:** | **ECHELON by e27**|
 | -------- | -------- |
 |**Date:** | Thu–Fri, 27–28 Oct 2022 |
@@ -41,3 +41,6 @@ Echelon 2022 is a curated, invite-only event that aims to provide intimate and f
 * **Aaron Tan**, Founder and Chief Executive Officer, Carro
 * **Aaron Sarma**, Co-Founder & General Partner, ScaleUp Malaysia
 * **Tiang Lim Foo**, Co-Founder and Partner, Forge Ventures
+
+# Location
+* Aquarius Room 1 - 4
