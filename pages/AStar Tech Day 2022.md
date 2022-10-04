@@ -16,8 +16,9 @@ Get inspired by our partner SMEs and startups showcasing their business innovati
 | **Title:** | **A\*STAR SME TECH DAY 2022** |
 | -------- | -------- |
 |**Date:** | Fri, 28 Oct 2022 |
-| **Time:**    | Whole Day (Singapore Time / UTC +8) |
+| **Time:** | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
+|**Location:** | Ballroom east |
 |**Price:** | Free |
 |**Register Here :** |[A*STAR registration ](https://form.jotform.com/222341050862446)
 
@@ -38,6 +39,3 @@ Get inspired by our partner SMEs and startups showcasing their business innovati
 * **Er Edwin Khew**, Chairman, Sustainable Energy Association of Singapore
 * **Ms Elise Hong**, Co-founder & CEO, JCS-Echigo Pte Ltd
 * **Mr Soh Leng Wan**, Assistant CEO, Manufacturing & Engineering, Enterprise Singapore
-
-# Location
-* Ballroom east
