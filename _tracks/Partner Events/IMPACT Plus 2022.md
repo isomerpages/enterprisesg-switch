@@ -4,7 +4,6 @@ permalink: /impactplus/
 description: ""
 third_nav_title: Partner Events
 ---
-
 # About
 IMPACT+ brings together Family Office Investors, Fund Managers and Policy Makers from the Global-Asia ecosystem to make better decisions and to shape positive outcomes for our shared future.
 
@@ -19,6 +18,7 @@ IMPACT+ is a Closed Door, Invite-only 2-day meeting consisting of intimate Safe-
 |**Date:** | Thu–Fri, 27–28 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
+|**Location:** | Virgo room 1 - 4 (Thu, 27 Oct), Virgo room 1 - 2 (Fri, 28 Oct) |
 |**Price:** | S$999 (Early-bird) / S$1,499 |
 |**Register Here :** | [IMPACT+ 2022 registration link](https://web.micepad.co/switch-impactplus/registration) |
 

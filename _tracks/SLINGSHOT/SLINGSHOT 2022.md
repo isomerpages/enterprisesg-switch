@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SLINGSHOT
 image: /images/slingshot_2021_finalists_web.jpeg
 ---
-![SLINGSHOT 2022 deep tech startup competitions applications are open](/images/SLINGSHOT/SLINGSHOT%202022/Slingshot2022_Banner_Rectangle_with_closing_date.jpg)
+![SLINGSHOT 2022 at SWITCH](/images/SLINGSHOT_2022_KeyVisual_1.png)
 
 # Asia's most exciting deep tech startup competition is back!
 Calling all startups: Singapore is looking for new and innovative startups to compete in SLINGSHOT 2022. Stand a chance to win over **S$1.2m (US $800,000)** in attractive prizes and make Singapore the next destination to expand your business.
@@ -21,6 +21,8 @@ SLINGSHOT returns physically at the Resorts World Convention Centre during our F
 The SWITCH Grand Stage will host startup focused content, particularly the **SLINGSHOT** Domain and Grand Finals, alongside Keynotes, Panels and Masterclasses. 
 
 ![Programme Highlights SWITCH Grand Stage and SLINGSHOT Grand Finals](/images/SWITCH%202022%20Infographics/Programme%20Highlights%20Grand%20Stage_R2.png)
+
+[View the SWITCH Grand Stage agenda here ](/slingshot-2022/grand-stage-agenda/)
 
 
 ***
@@ -47,8 +49,6 @@ The SLINGSHOT Top 50 Global Startups will have the opportunity to join an immers
 | ![SLINGSHOT Collaborate](/images/SLINGSHOT_Icon_Collaborate.png)     | **Collaborate.** Ideate and co-innovate with MNCs and homegrown players to fast-track your ideas into the market     |
 
 ***
-
-Learn more and apply at the [SLINGSHOT 2022 challenge page](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022).
 
 *Applications for SLINGSHOT 2022 have closed*
 

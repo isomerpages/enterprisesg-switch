@@ -4,7 +4,6 @@ permalink: /sgtech-digital-trust-forum/
 description: ""
 third_nav_title: Partner Events
 ---
-
 ![SGTech Future Series: Digital Trust Forum at SWITCH 2022](/images/Digital%20Trust%20Forum%20-%20A%20Partner%20Event%20Of-01.jpg)
 # About
 In today’s rapidly digitalising and inter-connected world, understanding Digital Trust and how to capitalise on its opportunities is an imperative for anyone interacting in the digital economy. 
@@ -18,8 +17,9 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 | **Title:** | SGTech Global Future Series: Digital Trust Forum |
 | -------- | -------- |
 |**Date:** | Fri, 28 Oct 2022 |
-| **Time:**    | 0845 - 1730 (Singapore Time / UTC +8) |
+| **Time:** | 0845 - 1730 (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
+|**Location:** | Leo room 1 - 4 |
 |**Price:** | SG$200 for in-person ticket / SG$75* for virtual ticket |
 |**Register Here :** | [SGTech Global Future website](https://globalfutureseries.com/digitrust/wp/) |
 
@@ -44,3 +44,5 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 * **Wong Wai Meng**, Chairman of SGTech and Chief Executive Officer, Keppel Data Centre 
 * **Anurag Lal**, President & Chief Executive Officer, NetSfere and Infinite Convergence Solutions 
 * **Lam Yi Young**, Chief Executive Officer, Singapore Business Federation
+
+[Visit the event website to learn more.](https://globalfutureseries.com/digitrust/wp/)

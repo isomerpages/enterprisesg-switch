@@ -4,12 +4,12 @@ permalink: /echelon-2022/
 description: ""
 third_nav_title: Partner Events
 ---
-
 ![ECHELON by e27 at SWITCH 2022](/images/echelon-2022-poster.png)
 # About
 e27’s flagship conference brings together startups, investors, corporates, governments, tech ecosystem players and customers. It aims to facilitate connections, share actionable insights, and drive towards business growth for all stakeholders. 
 
 Echelon 2022 is a curated, invite-only event that aims to provide intimate and focussed discussions on key topics, coupled with business matching services to facilitate business-driven connections and drive towards fruitful business outcomes during the two-day event.
+
 # Details
 
 | **Title:** | **ECHELON by e27**|
@@ -17,6 +17,7 @@ Echelon 2022 is a curated, invite-only event that aims to provide intimate and f
 |**Date:** | Thu–Fri, 27–28 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
+|**Location:** | Aquarius Room 1 - 4 |
 |**Price:** | US$ 199 |
 |**Register Here :** | [ECHELON website](https://e27.co/echelon/asia/) |
 
@@ -42,3 +43,5 @@ Echelon 2022 is a curated, invite-only event that aims to provide intimate and f
 * **Aaron Tan**, Founder and Chief Executive Officer, Carro
 * **Aaron Sarma**, Co-Founder & General Partner, ScaleUp Malaysia
 * **Tiang Lim Foo**, Co-Founder and Partner, Forge Ventures
+
+[Visit the event website to learn more.](https://e27.co/echelon/asia/)

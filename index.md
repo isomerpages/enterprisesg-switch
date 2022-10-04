@@ -33,22 +33,35 @@ sections:
           description: Premier startup pitching event
           url: /slingshot-2022
   - infopic:
-      title: The Global Innovation Movement
-      subtitle: Be part of
-      description: SWITCH brings together leaders, entrepreneurs, creators,
-        accelerators and investors from the Global-Asia innovation ecosystem.
+      title: The Global-Asia Innovation community meets at SWITCH
+      subtitle: "flagship event "
+      description: "SWITCH brings together leaders, entrepreneurs, creators,
+        accelerators and investors from 25 - 28 Oct 2022 at Resorts World
+        Convetion Centre, Singapore "
       button: Learn more
-      url: /experience-2022
-      image: /images/SWITCH_Main.jpg
+      url: /flagship-2022
+      image: /images/Global Innovation Movement.jpg
       alt: SWITCH Connects you globally
-  - infobar:
-      title: Year-long innovation movement
-      subtitle: Be Part Of
-      description: SWITCH is a community of innovators with a year-long programme of
-        knowledge sharing and networking, featuring a flagship conference and
-        access to our platform.
-      button: See our 2021 Impact
-      url: /about/2021
+  - infopic:
+      title: "View the speakers and agenda for SWITCH Global "
+      subtitle: SWITCH Global
+      description: Expand your network into the global market at SWITCH Global’s
+        Market Access Sessions tailored for business growth and
+        internationalisation.
+      button: Learn more
+      url: /switch-global-2022
+      image: /images/SWITCH Global 1.jpg
+      alt: SWITCH Global market access
+  - infopic:
+      title: "Meet your speakers from SWITCH Beyond "
+      subtitle: SWITCH BEYOND
+      description: Connect with over 300 international speakers from vanguard and
+        emergent industries and research institutes at the SWITCH Beyond
+        conference channel.
+      button: Learn more
+      url: /switch-beyond-2022
+      image: /images/SWITCH Connect 5.jpg
+      alt: SWITCH Beyond
   - infopic:
       title: Catch the SLINGSHOT 2022 Finals at the SWITCH Grand Stage!
       subtitle: Grand Stage
@@ -60,25 +73,14 @@ sections:
       image: /images/slingshot_2021_winner_quantumcyte_web.jpeg
       alt: SLINGSHOT
   - infopic:
-      title: Ideas that shape tomorrow
-      subtitle: "Channel: SWITCH BEYOND"
-      description: Connect with over 300 international speakers from vanguard and
-        emergent industries and research institutes at the SWITCH Beyond
-        conference channel.
-      button: Learn more
-      url: /switch-beyond-2022
-      image: /images/SWITCH Connect 5.jpg
-      alt: SWITCH Beyond
-  - infopic:
-      title: Connect to market access and opportunities
-      subtitle: "Channel: SWITCH Global"
-      description: Expand your network into the global market at SWITCH Global’s
-        Market Access Sessions tailored for business growth and
-        internationalisation.
-      button: Learn more
-      url: /switch-global-2022
-      image: /images/SWITCH Global 1.jpg
-      alt: SWITCH Global market access
+      title: Our SWITCH Community
+      subtitle: "Partner events "
+      description: "Participate in various innovations intiatives organised by our
+        exclusive network of community builders and tech leaders  "
+      button: Learn More
+      url: https://www.switchsg.org/partner-events-2022/
+      image: /images/SWITCH-69.jpg
+      alt: Partner Events
   - infopic:
       title: "SLINGSHOT 2021 Grand Winner: QuantumCyte"
       subtitle: SLINGSHOT Feature
@@ -90,6 +92,14 @@ sections:
       image: /images/Article Images/Article
         QuantumCyte/SLINGSHOT_QuantumCyte_Team_Picture.jpg
       alt: SLINGSHOT 2021 QuantumCyte
+  - infobar:
+      title: Year-long innovation movement
+      subtitle: Be Part Of
+      description: SWITCH is a community of innovators with a year-long programme of
+        knowledge sharing and networking, featuring a flagship conference and
+        access to our platform.
+      button: experience switch
+      url: /experience-2022/
   - resources:
       title: News and Happenings
       subtitle: Explore
