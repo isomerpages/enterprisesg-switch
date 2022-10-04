@@ -13,8 +13,9 @@ Get ready for an exciting lineup of workshops, panel discussions, and fireside 
 | **Title:** |**TECHJAM 2022 (Developer Conference)** |
 | -------- | -------- |
 |**Date:** | Tue, 25 Oct 2022 |
-| **Time:**    | Whole Day (Singapore Time / UTC +8) |
+| **Time:** | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Sentosa Convention Centre |
+|**Venue:** | Aquarius room 3 - 4
 |**Price:** | FREE |
 
 # Highlights
@@ -26,7 +27,3 @@ Get ready for an exciting lineup of workshops, panel discussions, and fireside 
 * A chance for you to get Nintendo Switch 
 * Able to make new connections 
 * Free Trade Pass to SWITCH 2022
-
-
-# Location
-* Aquarius room 3 - 4
