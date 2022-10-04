@@ -4,7 +4,6 @@ permalink: /futr-asia-summit/
 description: ""
 third_nav_title: Partner Events
 ---
-
 ![FUTR ASIA AT SWITCH 2022](/images/ASIA-banner-eventbrite.png)
 # About
 FUTR is Asia’s only Summit focused on fresh thinking and progressive change in the future of retail, marketing and commerce. 
@@ -43,3 +42,7 @@ At FUTR you can hear from inspiring, cross-industry speakers from the likes of A
 * **Keerthi Kumaravelu**, Vice President Consumer Direct Business, Electrolux 
 * **Vicky Abishek**, Vice President - Technology Services Asia Pacific, Johnson & Johnson
 * **Jane Leong**, Vice President of Data & Growth, Love, Bonito
+
+# Location
+* Pisces room 2 - 4
+* Virgo room 1 - 4 
