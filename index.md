@@ -98,8 +98,8 @@ sections:
       description: SWITCH is a community of innovators with a year-long programme of
         knowledge sharing and networking, featuring a flagship conference and
         access to our platform.
-      button: See our 2021 Impact
-      url: /about/2021
+      button: experience switch
+      url: /experience-2022/
   - resources:
       title: News and Happenings
       subtitle: Explore
