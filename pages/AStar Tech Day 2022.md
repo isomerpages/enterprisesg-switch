@@ -39,4 +39,4 @@ Get inspired by our partner SMEs and startups showcasing their business innovati
 * **Mr Soh Leng Wan**, Assistant CEO, Manufacturing & Engineering, Enterprise Singapore
 
 # Location
-* Aquarius Room 1 - 4
+* Ballroom east 
