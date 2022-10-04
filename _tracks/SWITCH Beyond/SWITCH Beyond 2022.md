@@ -34,4 +34,3 @@ Our past guests included vanguard leaders from industries, governments, and inst
 
 ![SWITCH 2022 Beyond Speakers Highlights](/images/SWITCH_2022_Speakers_Beyond_Highlights_V2.png)
 
-If you have a 2021 SWITCH Pass, [log on and watch](https://events.hubilo.com/switchsg) over a hundred cutting edge discussions from SWITCH 2021 on-demand. If you wish to get a SWITCH pass, get connected with us [here](https://go.gov.sg/switch-community-interest-web).
