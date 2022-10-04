@@ -33,32 +33,15 @@ sections:
           description: Premier startup pitching event
           url: /slingshot-2022
   - infopic:
-      title: The Global Innovation Movement
-      subtitle: Be part of
-      description: SWITCH brings together leaders, entrepreneurs, creators,
-        accelerators and investors from the Global-Asia innovation ecosystem.
+      title: Connect to market access and opportunities
+      subtitle: "Channel: SWITCH Global"
+      description: Expand your network into the global market at SWITCH Global’s
+        Market Access Sessions tailored for business growth and
+        internationalisation.
       button: Learn more
-      url: /experience-2022
-      image: /images/SWITCH_Main.jpg
-      alt: SWITCH Connects you globally
-  - infobar:
-      title: Year-long innovation movement
-      subtitle: Be Part Of
-      description: SWITCH is a community of innovators with a year-long programme of
-        knowledge sharing and networking, featuring a flagship conference and
-        access to our platform.
-      button: See our 2021 Impact
-      url: /about/2021
-  - infopic:
-      title: Catch the SLINGSHOT 2022 Finals at the SWITCH Grand Stage!
-      subtitle: Grand Stage
-      description: Watch the Top 50 SLINGSHOT Finalists compete across 5 innovation
-        and technology domains for the opportunity to be crowned 2022's Grand
-        Winner!
-      button: Learn more
-      url: /slingshot-2022
-      image: /images/slingshot_2021_winner_quantumcyte_web.jpeg
-      alt: SLINGSHOT
+      url: /switch-global-2022
+      image: /images/SWITCH Global 1.jpg
+      alt: SWITCH Global market access
   - infopic:
       title: Ideas that shape tomorrow
       subtitle: "Channel: SWITCH BEYOND"
@@ -70,15 +53,15 @@ sections:
       image: /images/SWITCH Connect 5.jpg
       alt: SWITCH Beyond
   - infopic:
-      title: Connect to market access and opportunities
-      subtitle: "Channel: SWITCH Global"
-      description: Expand your network into the global market at SWITCH Global’s
-        Market Access Sessions tailored for business growth and
-        internationalisation.
+      title: Catch the SLINGSHOT 2022 Finals at the SWITCH Grand Stage!
+      subtitle: Grand Stage
+      description: Watch the Top 50 SLINGSHOT Finalists compete across 5 innovation
+        and technology domains for the opportunity to be crowned 2022's Grand
+        Winner!
       button: Learn more
-      url: /switch-global-2022
-      image: /images/SWITCH Global 1.jpg
-      alt: SWITCH Global market access
+      url: /slingshot-2022
+      image: /images/slingshot_2021_winner_quantumcyte_web.jpeg
+      alt: SLINGSHOT
   - infopic:
       title: "SLINGSHOT 2021 Grand Winner: QuantumCyte"
       subtitle: SLINGSHOT Feature
@@ -99,6 +82,23 @@ sections:
       url: https://www.switchsg.org/partner-events-2022/
       image: /images/SWITCH-69.jpg
       alt: Partner Events
+  - infopic:
+      title: The Global Innovation Movement
+      subtitle: Be part of
+      description: SWITCH brings together leaders, entrepreneurs, creators,
+        accelerators and investors from the Global-Asia innovation ecosystem.
+      button: Learn more
+      url: /experience-2022
+      image: /images/SWITCH_Main.jpg
+      alt: SWITCH Connects you globally
+  - infobar:
+      title: Year-long innovation movement
+      subtitle: Be Part Of
+      description: SWITCH is a community of innovators with a year-long programme of
+        knowledge sharing and networking, featuring a flagship conference and
+        access to our platform.
+      button: See our 2021 Impact
+      url: /about/2021
   - resources:
       title: News and Happenings
       subtitle: Explore
