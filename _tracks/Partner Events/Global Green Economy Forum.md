@@ -4,8 +4,6 @@ permalink: /global-green-economy-forum/
 description: ""
 third_nav_title: Partner Events
 ---
-
-
 ![GGEF SWITCH 2022](/images/GGEF.jpg)
 # About
 To meet the growing demand of future generations and climate challenges, building sustainable and resilient cities would require more technological innovations. 
@@ -40,3 +38,5 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 * **Christina Lee**, Founder & Chief Executive Officer, Global green Connect & Global Green Economic Foundation
 * **Eric Loh**, Vice President, G Element
 * **Professor William Chen**, Michael Fam Endowed Chair Professor in Food Science and Technology
+
+[Visit the event website to learn more.](www.ggef.com/roundtable )
