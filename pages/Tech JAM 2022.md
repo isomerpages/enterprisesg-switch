@@ -4,9 +4,9 @@ permalink: /tech-jam-2022/
 description: ""
 ---
 # About
-Set to be _**the**_ tech-career event of the year, we’re bringing together tech talents and global tech firms to help you kickstart your career in the space.
+Set to be the tech-career event of the year, we’re bringing together tech talents and global tech firms to help you kickstart your career in the space.
 
-Get ready for an exciting lineup of **workshops, panel discussions, and fireside chats with leading experts** in the ecosystem. There will also be plenty of opportunities to **chat and network** with like-minded peers throughout the day.
+Get ready for an exciting lineup of workshops, panel discussions, and fireside chats with leading experts in the ecosystem. There will also be plenty of opportunities to chat and network with like-minded peers throughout the day.
 
 # Details
 
