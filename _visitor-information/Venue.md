@@ -3,6 +3,8 @@ title: Venue
 permalink: /switch-venue-2022/
 description: Venue of SWITCH 2022
 ---
+![Resorts World Sentosa Convention Centre SWITCH 2022](/images/convention%20centre.jpg)
+
 
 ## SWITCH Venue 
 
