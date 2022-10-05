@@ -26,10 +26,11 @@ There will be signages in the area, do follow the signs and make your way to the
 *   Second option: Take bus 123, 188R, 963R, NR1, NR6 and alight at Resorts World Sentosa bus stop 14519.
 *   Enter via the Forum, you will see the Resorts World Convention Centre on the right.
 
-### Taxi
+### Taxi shift to top
 * The location of the drop off point will be : Resorts World Sentosa, Casino B1 Point 1
 *   Enter via The Forum and you will see the Resorts World Convention Centre on the right.
 
+More info...
 
 
 ## Entrance of the convention centre
