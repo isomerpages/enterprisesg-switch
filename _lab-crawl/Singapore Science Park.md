@@ -15,19 +15,15 @@ Here’s the chance to go behind the scenes and get a glimpse of their technolog
 
 Innovation Expose: Partners of Singapore Science Park including Science Centre Singapore, NUS Formula SAE and Har Paw Villa will hold special exhibits and workshops embracing the theme of Innovation Made Real. “Partnership plays a key role in unlocking the acceleration of innovation. The discussions at Innovation Made Real @Singapore Science Park will enable companies to reframe and explore new approaches to innovate with impact. The platform provides members of the Singapore Science Park innovation
 
-![Aquaculture Innovation Centre SWITCH 2022](/images/AIC%20Logo%20Krishnasamy%20Susila.jpg)
-
-[For more information on Aquaculture Innovation Centre](https://www.tp.edu.sg/aic)
+[For more information on Singapore Science Park ](https://www.innovationmadereal.sg/)
  
-
-
 ### **Lab Crawl Details**
 
-| **Name of Lab:** | AIC Aquaculture Research Facility (ARF) |
+| **Name of Lab:** | Innovation Made Real |
 | -------- | -------- |
-| **Lab Address:** | Block 8A Level 2, Temasek Polytechnic, 21 Tampines Ave 1, Singapore 529757 |
+| **Lab Address:** | Metro Hall, Ascent, 2 Science Park Drive, Singapore 118222 |
 |**Date:** | Fri, 28 Oct 2022 |
-|**Tour Slots:** | 12:00pm - 12:45pm & 1:00pm - 1:45pm (Singapore Time / UTC +8) |
+|**Tour Slots:** | 1:00pm - 1:30pm, 1:30pm - 2:00pm, 1:30pm - 3:00pm, 2:00pm - 3:00pm, 2:00pm - 2:30pm, 2:30pm - 3:00pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
-|**Register Here :** | [AIC Aquaculture Research Facility (ARF) Lab Crawl registration.](https://docs.google.com/forms/d/1VR3NZ3x-fYyjXbZqxjmZh1v-MYzvpwA73Aj11FfVV9I/viewform?edit_requested=true) |
+|**Register Here:** | [Innovation Made Real Lab Crawl Registration](https://docs.google.com/forms/d/1s9yxEcneE8TBq6Fzv_vQQ3x2azp12ZksQtQVXbzDQkM/edit) |
