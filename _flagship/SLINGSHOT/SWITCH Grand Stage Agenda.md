@@ -10,7 +10,7 @@ third_nav_title: SLINGSHOT
 
 | Time | Session | 
 | -------- | -------- |
-| 09:00am–09:30am  | Deputy Prime Minister opening |
+| 09:00am–09:30am  | Opening |
 | 10:45am–12:15pm  | SLINGSHOT Domain Finals 1: Health & Biomedical |
 | 01:30pm–01:50pm | Why do innovations fail? - Powered by Amazon Web Services (AWS) |
 | 01:55pm–02:15pm | Speed to scale into markets for B2B startups - Powered by: NCS Pte Ltd |
