@@ -24,4 +24,4 @@ AIC strives to support and develop the SMEs in the aquaculture industry with the
 |**Tour Slots:** | 12:00pm - 12:45pm & 1:00pm - 1:45pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
-|**Register Here :** | [AIC Aquaculture Research Facility (ARF) Lab Crawl Registration](https://docs.google.com/forms/d/1VR3NZ3x-fYyjXbZqxjmZh1v-MYzvpwA73Aj11FfVV9I/viewform?edit_requested=true) |
+|**Register Here :** | [AIC Aquaculture Research Facility (ARF) Lab Crawl registration.](https://docs.google.com/forms/d/1VR3NZ3x-fYyjXbZqxjmZh1v-MYzvpwA73Aj11FfVV9I/viewform?edit_requested=true) |
