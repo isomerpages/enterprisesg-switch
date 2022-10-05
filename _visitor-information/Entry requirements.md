@@ -3,7 +3,7 @@ title: Entry requirements
 permalink: /entry-requirements/
 description: ""
 ---
-### Covid vaccination requirements
+## Covid vaccination requirements
 SWITCH 2022 will be a Vaccination-Differentiated event, do take note of the following precautions:
 
 * Only fully vaccinated individuals are permitted to enter and/or remain in the venues of SWITCH and its partner events.
