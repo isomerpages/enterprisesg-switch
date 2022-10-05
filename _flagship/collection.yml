@@ -1,5 +1,5 @@
 collections:
-  tracks:
+  flagship:
     output: true
     order:
       - SWITCH Beyond/.keep
