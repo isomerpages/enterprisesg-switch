@@ -32,4 +32,4 @@ Our scientists will do a live demonstration during the tour to EWTCOI Membrane I
 |**Tour Slots:** | 12:00pm -12:45pm, 1:00pm - 1:45pm, 2:00pm -2:45pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
-|**Register Here :** | [Environmental and Water Technology Centre of Innovation (EWTCOI) registration.](https://docs.google.com/forms/d/19e1i-18p5lMHmR94P6P6mFDIBy9pYdiwnKxtTtQfNI4/edit)|
+|**Register Here :** | [Environmental and Water Technology Centre of Innovation (EWTCOI) Lab Crawl registration.](https://docs.google.com/forms/d/19e1i-18p5lMHmR94P6P6mFDIBy9pYdiwnKxtTtQfNI4/edit)|
