@@ -5,7 +5,7 @@ description: Venue of SWITCH 2022
 ---
 ![Resorts World Sentosa Convention Centre SWITCH 2022](/images/convention%20centre.jpg)
 
-### **SWITCH 2022 will be held from 25 - 28 Oct, at the Resorts World Sentosa Convention Centre Singapore**
+### SWITCH 2022 will be held from 25 - 28 Oct, at the Resorts World Sentosa Convention Centre Singapore
 
 There will be signages in the area, do follow the signs and make your way to the main registration desk.
 
