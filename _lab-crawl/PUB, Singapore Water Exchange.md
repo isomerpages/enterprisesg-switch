@@ -21,4 +21,4 @@ Singapore Water Exchange (SgWX) is designed to provide an integrated and conduc
 |**Tour Slots:** | 1:30pm - 5:30pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (Limited to 40 pax) |
-|**Register Here :** | [PUB Lab Crawl registration](https://docs.google.com/forms/d/1aPLXwRi-nQo8aCqVajid5kaTwWqWkkc_-BF-jAznM34/edit) |
+|**Register Here :** | [Singapore Water Exchange Lab Crawl Registration.](https://docs.google.com/forms/d/1aPLXwRi-nQo8aCqVajid5kaTwWqWkkc_-BF-jAznM34/edit) |
