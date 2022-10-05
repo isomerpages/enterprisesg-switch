@@ -33,11 +33,10 @@ There will be signages in the area, do follow the signs and make your way to the
 *   Second option: Take bus 123, 188R, 963R, NR1, NR6 and alight at Resorts World Sentosa bus stop 14519.
 *   Enter via the Forum, you will see the Resorts World Convention Centre on the right.
 
+[More information for other transport services. ](https://www.rwsentosa.com/en/getting-here)
 
-More info...
 
-
-## Entrance of the convention centre
-![Entrance of Resorts World Sentosa Convention Centre SWITCH 2022](/images/maxresdefault%20(2).jpg)
+### **Entrance of the convention centre**
+![Resorts World Sentosa Convention Centre](/images/convention.jpg)
 
 [More information on Resorts World Sentosa Convention Centre ](https://www.rwsentosa.com/en)
