@@ -2,4 +2,4 @@ collections:
   visitor-information:
     output: true
     order:
-      - SWITCH Venue.md
+      - Venue.md
