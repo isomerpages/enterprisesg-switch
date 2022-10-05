@@ -3,7 +3,7 @@ title: Accommodation
 permalink: /accomadation-switch/
 description: ""
 ---
-## Accommodations during SWITCH 2022
+## **Accommodations during SWITCH 2022**
 
 ### **Genting Hotel Jurong**
 Conveniently located close to malls, business facilities and public transportation, this is the perfect stay if you want to be connected, yet have a quiet sanctuary among nature. Look out onto verdant landscaping and take in views from in the roof garden and sky terraces.
