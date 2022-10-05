@@ -2,5 +2,4 @@ collections:
   visitor-information:
     output: true
     order:
-      - Entry requirements.md
       - Accommodation.md
