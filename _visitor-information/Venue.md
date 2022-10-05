@@ -23,6 +23,3 @@ There will be signages at the area, do follow the signs and make your way to the
 | Car  | Resorts World Sentosa Car park, park in the green zone of B1 West  |
 | Bus |  Take buses 123, 188R, 963R, NR1, NR6 and alight at Resorts World Sentosa bus stop 14519 |
 | Taxi | Drop off point: Resorts World Sentosa, Casino B1 Point 1
-
-
-
