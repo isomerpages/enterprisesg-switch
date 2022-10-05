@@ -24,4 +24,4 @@ The Lab Crawl Tour will showcase PIXEL's lab facilities and co-working space at 
 |**Tour Slots:** | 2:00pm - 5:00pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
-|**Register Here :** | [IMDA PIXEL registration.](https://docs.google.com/forms/d/16omDPN1-vPUEhhd8HEE4XFL9ao5vrxJtVd3kxFDIoRw/edit) |
+|**Register Here :** | [IMDA PIXEL Lab Crawl registration.](https://docs.google.com/forms/d/16omDPN1-vPUEhhd8HEE4XFL9ao5vrxJtVd3kxFDIoRw/edit) |
