@@ -17,7 +17,7 @@ Our scientists will do a live demonstration during the tour to EWTCOI Membrane I
 * Electrospun nanofiber membrane fabrication 
 * Air filter performance evaluation
 
-
+![Environmental and Water Technology Centre of Innovation (EWTCOI) Lab Crawl SWITCh 2022](/images/Lab%20pic%20Xiaoli%20Yan.png)
 
 [For more information on Environmental and Water Technology Centre of Innovation (EWTCOI)](https://www.np.edu.sg/ewtcoi/Pages/facilities.aspx)
  
