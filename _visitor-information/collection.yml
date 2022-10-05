@@ -1,5 +1,4 @@
 collections:
   visitor-information:
     output: true
-    order:
-      - Accommodation.md
+    order: []
