@@ -2,6 +2,7 @@ collections:
   flagship:
     output: true
     order:
+      - Visitor Information/Accommodation.md
       - Visitor Information/Entry requirements.md
       - Visitor Information/Venue.md
       - Visitor Information/.keep
