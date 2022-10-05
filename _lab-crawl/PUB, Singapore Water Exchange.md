@@ -14,11 +14,11 @@ Singapore Water Exchange (SgWX) is designed to provide an integrated and conduc
 
 ### **Lab Crawl Details**
 
-| **Name of Lab:** | AIC Aquaculture Research Facility (ARF) |
+| **Name of Lab:** | Singapore Water Exchange |
 | -------- | -------- |
-| **Lab Address:** | Block 8A Level 2, Temasek Polytechnic, 21 Tampines Ave 1, Singapore 529757 |
+| **Lab Address:** | 84 Toh Guan Road East Singapore 608501 |
 |**Date:** | Fri, 28 Oct 2022 |
-|**Tour Slots:** | 12:00pm - 12:45pm & 1:00pm - 1:45pm (Singapore Time / UTC +8) |
+|**Tour Slots:** | 1:30pm - 5:30pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
-|**Price:** | Free |
-|**Register Here :** | [AIC Aquaculture Research Facility (ARF) Lab Crawl registration.](https://docs.google.com/forms/d/1VR3NZ3x-fYyjXbZqxjmZh1v-MYzvpwA73Aj11FfVV9I/viewform?edit_requested=true) |
+|**Price:** | Free (Limited to 40 pax) |
+|**Register Here :** | [PUB Lab Crawl registration](https://docs.google.com/forms/d/1aPLXwRi-nQo8aCqVajid5kaTwWqWkkc_-BF-jAznM34/edit) |
