@@ -2,4 +2,5 @@ collections:
   lab-crawl:
     output: true
     order:
+      - Environmental and Water Technology Centre of Innovation.md
       - Aquaculture Innovation Centre, Temasek Polytechnic.md
