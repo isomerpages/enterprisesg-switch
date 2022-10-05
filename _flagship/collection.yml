@@ -2,10 +2,6 @@ collections:
   flagship:
     output: true
     order:
-      - Visitor Information/Accommodation.md
-      - Visitor Information/Entry requirements.md
-      - Visitor Information/Venue.md
-      - Visitor Information/.keep
       - SWITCH Beyond/.keep
       - SWITCH Beyond/SWITCH Beyond 2022.md
       - "SWITCH Beyond/SWITCH Beyond 2022: Agenda.md"
@@ -25,3 +21,7 @@ collections:
       - Partner Events/IMPACT Plus 2022.md
       - Partner Events/ASTAR SME TECH DAY 2022.md
       - "Partner Events/SGTech Global Future Series: Digital Trust Forum.md"
+      - Visitor Information/.keep
+      - Visitor Information/Accommodation.md
+      - Visitor Information/Entry requirements.md
+      - Visitor Information/Venue.md
