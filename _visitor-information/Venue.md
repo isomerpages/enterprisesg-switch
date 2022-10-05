@@ -24,4 +24,3 @@ There will be signages in the area, do follow the signs and make your way to the
 
 **Entrance of the convention centre**
 ![Entrance of Resorts World Sentosa Convention Centre SWITCH 2022](/images/maxresdefault%20(2).jpg)
-
