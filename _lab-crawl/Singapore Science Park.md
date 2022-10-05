@@ -26,4 +26,4 @@ Innovation Expose: Partners of Singapore Science Park including Science Centre S
 |**Tour Slots:** | 1:00pm - 1:30pm, 1:30pm - 2:00pm, 1:30pm - 3:00pm, 2:00pm - 3:00pm, 2:00pm - 2:30pm, 2:30pm - 3:00pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
-|**Register Here:** | [Innovation Made Real Lab Crawl Registration](https://docs.google.com/forms/d/1s9yxEcneE8TBq6Fzv_vQQ3x2azp12ZksQtQVXbzDQkM/edit) |
+|**Register Here:** | [Innovation Made Real Lab Crawl Registration.](https://docs.google.com/forms/d/1s9yxEcneE8TBq6Fzv_vQQ3x2azp12ZksQtQVXbzDQkM/edit) |
