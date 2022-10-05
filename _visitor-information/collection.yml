@@ -2,6 +2,5 @@ collections:
   visitor-information:
     output: true
     order:
-      - Venue.md
       - Entry requirements.md
       - Accommodation.md
