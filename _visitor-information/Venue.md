@@ -9,7 +9,7 @@ description: Venue of SWITCH 2022
 
 There will be signages in the area, do follow the signs and make your way to the main registration desk.
 
-## Details of the venue 
+## **Details of the venue** 
 * Resorts World Sentosa Convention Centre 
 * 8 Sentosa Gateway, Singapore, 098269
 
