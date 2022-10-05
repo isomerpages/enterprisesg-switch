@@ -12,7 +12,6 @@ There will be signages in the area, do follow the signs and make your way to the
 ## Details of the venue is as follows
 * Resorts World Sentosa Convention Centre 
 * 8 Sentosa Gateway, Singapore, 098269
-* [More information on Resorts World Sentosa Convention Centre ](https://www.rwsentosa.com/en)
 
 ## How to get to the venue
 
@@ -24,3 +23,5 @@ There will be signages in the area, do follow the signs and make your way to the
 
 **Entrance of the convention centre**
 ![Entrance of Resorts World Sentosa Convention Centre SWITCH 2022](/images/maxresdefault%20(2).jpg)
+
+[More information on Resorts World Sentosa Convention Centre ](https://www.rwsentosa.com/en)
