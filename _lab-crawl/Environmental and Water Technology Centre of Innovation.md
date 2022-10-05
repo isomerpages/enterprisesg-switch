@@ -9,7 +9,15 @@ The Environmental & Water Technology Centre of Innovation (EWTCOI) is a dedicate
 
 As the flagship facility in EWTCOI, the membrane innovation lab hosts a suite of membrane development facilities including characterisation, fabrication, scale-up, and performance evaluation. The membrane innovation lab is a seamless platform for companies to develop and commercialise innovative membrane products and technologies.
 
-![Aquaculture Innovation Centre SWITCH 2022](/images/AIC%20Logo%20Krishnasamy%20Susila.jpg)
+Our scientists will do a live demonstration during the tour to EWTCOI Membrane Innovation Lab. 
+* Membrane Fabrication 
+* Membrane Characterisation 
+* Membrane Module Fabrication 
+* Membrane Performance Evaluation 
+* Electrospun nanofiber membrane fabrication 
+* Air filter performance evaluation
+
+
 
 [For more information on Environmental and Water Technology Centre of Innovation (EWTCOI)](https://www.np.edu.sg/ewtcoi/Pages/facilities.aspx)
  
