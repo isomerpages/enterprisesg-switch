@@ -33,8 +33,6 @@ Conceived by leading Biotech company MiRXES, early is the future of modern healt
 |**Register Here:** | [Early Medical Centre powered by MiRXES Lab Crawl Registration.](https://forms.office.com/Pages/ResponsePage.aspx?id=WGeXB8aT70uz3FOGA9yRbp6QbeDzVJhFlO-dbPO4CvFURFQ1Rk9JMlNTUUFUWFYwNlVDMzUwNUJEUC4u) |
 ***
 
-
-
 #### **NUS Enterprise@Singapore Science Park**
 
 NUS Enterprise@Singapore Science Park is a partnership between NUS Enterprise and CapitaLand Development to spearhead Singapore’s first Deep Technology Hub in Singapore Science Park. By fostering a community of deep technology start-ups and connecting corporates to talents, research capabilities, and technologies of NUS, it aims to cultivate and aggregate a vibrant tech ecosystem and community towards disruptive innovations.  
@@ -42,10 +40,11 @@ NUS Enterprise@Singapore Science Park is a partnership between NUS Enterprise an
 Visit to understand the corporation innovation programmes offered by NUS Enterprise.
 
 ![NUS Enterprise@Singapore Science Park SWITCH 2022](/images/NUS%20Enterprise@Singapore%20Science%20Park.jpg)
+*Photo courtesy of NUS Enterprise*
 
 [For more information on NUS Enterprise](https://enterprise.nus.edu.sg/supporting-entrepreneurs/nus-startup-runway/nus-enterprise-singapore-science-park/)
 
-#### **Lab Crawl Details**
+##### **Lab Crawl Details**
 
 | **Name of Lab:** | Innovation Made Real |
 | -------- | -------- |
