@@ -31,7 +31,6 @@ Conceived by leading Biotech company MiRXES, early is the future of modern healt
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (10 pax per session) |
 |**Register Here:** | [Early Medical Centre powered by MiRXES Lab Crawl Registration.](https://forms.office.com/Pages/ResponsePage.aspx?id=WGeXB8aT70uz3FOGA9yRbp6QbeDzVJhFlO-dbPO4CvFURFQ1Rk9JMlNTUUFUWFYwNlVDMzUwNUJEUC4u) |
-
 ***
 
 
