@@ -31,7 +31,7 @@ sections:
           url: /partner-events-2022/
         - title: Lab Crawls
           description: Visit innovation labs
-          url: /example-resource/events-and-initiatives/
+          url: /singapore-science-park/
   - infopic:
       title: The Global-Asia Innovation community meets at SWITCH
       subtitle: "flagship event "
