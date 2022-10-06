@@ -21,7 +21,7 @@ Conceived by leading Biotech company MiRXES, early is the future of modern healt
 
 [For more information on Early Medical Centre powered by MiRXES](https://mirxes.com/early-health/)
 
-#### **Lab Crawl Details**
+##### **Lab Crawl Details**
 
 | **Name of Lab:** | Early Medical Centre |
 | -------- | -------- |
@@ -65,7 +65,7 @@ Visit to understand how the Lab provides opportunities for industry players to t
 
 [For more information on Smart Urban Co-Innovation Lab](https://smartlab.expert/)
 
-#### **Lab Crawl Details**
+##### **Lab Crawl Details**
 
 | **Name of Lab:** | The Smart Urban Co-Innovation Lab |
 | -------- | -------- |
@@ -86,7 +86,7 @@ Visit Catapult to understand how their integrated ecosystem of Campus Spaces, Cu
 
 [For more information on Playground for Learners](https://www.capitaland.com/sg/en/lease/flexible-spaces/catapult.html)
 
-#### **Lab Crawl Details**
+##### **Lab Crawl Details**
 
 | **Name of Lab:** | Catapult |
 | -------- | -------- |
