@@ -31,7 +31,7 @@ Conceived by leading Biotech company MiRXES, early is the future of modern healt
 |**Tour Slots:** | 1:00pm - 1:30pm, 1:30pm - 2:00pm, (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (10 pax per session) |
-|**Register Here:** | [Early Medical Centre powered by MiRXES Lab Crawl Registration.](https://forms.office.com/Pages/ResponsePage.aspx?id=WGeXB8aT70uz3FOGA9yRbp6QbeDzVJhFlO-dbPO4CvFURFQ1Rk9JMlNTUUFUWFYwNlVDMzUwNUJEUC4u) |
+|**Register Here:** | [Early Medical Centre powered by MiRXES Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
 ***
 
 #### **NUS Enterprise@Singapore Science Park**
@@ -47,14 +47,14 @@ Visit to understand the corporation innovation programmes offered by NUS Enterpr
 
 ##### **Lab Crawl Details**
 
-| **Name of Lab:** | Innovation Made Real |
+| **Name of Lab:** | NUS Enterprise@Singapore Science Park |
 | -------- | -------- |
 | **Lab Address:** | NUS Enterprise @Singapore Science Park, The Curie, Singapore Science Park 1, 83 Science Park Dr, #02-03/04, Singapore 118258 |
 |**Date:** | Fri, 28 Oct 2022 |
 |**Tour Slots:** | 2:00pm - 3:00pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (30 pax per sessions) |
-|**Register Here:** | [NUS Enterprise@Singapore Science Park Lab Crawl Registration.](https://www.eventbrite.com/e/nus-enterprise-singapore-science-park-tickets-429493997107) 
+|**Register Here:** | [NUS Enterprise@Singapore Science Park Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
 ***
 
 #### **Smart Urban Co-Innovation Lab @Singapore Science Park**
@@ -70,14 +70,14 @@ Visit to understand how the Lab provides opportunities for industry players to t
 
 ##### **Lab Crawl Details**
 
-| **Name of Lab:** | The Smart Urban Co-Innovation Lab |
+| **Name of Lab:** | Smart Urban Co-Innovation Lab @Singapore Science Park |
 | -------- | -------- |
 | **Lab Address:** | Smart Urban Co-Innovation Lab @Singapore Science Park, The Galen, Singapore Science Park 2, Science Park Rd, #05-12/14, Singapore 117525 |
 |**Date:** | Fri, 28 Oct 2022 |
 |**Tour Slots:** | 2:00pm - 3:00pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (20 pax per sessions) |
-|**Register Here:** | [Smart Urban Co-Innovation Lab @Singapore Science Park Park Lab Crawl Registration.](https://smartlab.member365.org/publicFr/form/index/e6197d9e44bf6857d712566d6eba10e1618fe0ab) |
+|**Register Here:** | [Smart Urban Co-Innovation Lab @Singapore Science Park Park Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
 ***
 
 #### **Playground for Learners - Catapult by CapitaLand**
@@ -93,11 +93,11 @@ Visit Catapult to understand how their integrated ecosystem of Campus Spaces, Cu
 
 ##### **Lab Crawl Details**
 
-| **Name of Lab:** | Catapult |
+| **Name of Lab:** | Catapult by CapitaLand |
 | -------- | -------- |
 | **Lab Address:** | Catapult, 1 Rochester Park, #02-01 Rochester Commons, Singapore 139212 |
 |**Date:** | Fri, 28 Oct 2022 |
 |**Tour Slots:** | 2:00pm - 2:30pm, 2:30pm - 3:00pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (10 pax per sessions) |
-|**Register Here:** | [Playground for Learners - Catapult by CapitaLand Park Lab Crawl Registration.](https://forms.office.com/Pages/ResponsePage.aspx?id=WGeXB8aT70uz3FOGA9yRbp6QbeDzVJhFlO-dbPO4CvFUNEc5QzAyM1RINU9RRlgwOThBRVUzUlRKMS4u) |
+|**Register Here:** | [Playground for Learners - Catapult by CapitaLand Park Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
