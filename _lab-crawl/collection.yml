@@ -2,7 +2,6 @@ collections:
   lab-crawl:
     output: true
     order:
-      - Singapore Science Park.md
       - PUB, Singapore Water Exchange.md
       - PALO IT Singapore.md
       - IMDA PIXEL.md
