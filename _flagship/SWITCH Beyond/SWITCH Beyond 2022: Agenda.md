@@ -51,12 +51,12 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 
 | Time | Session | 
 | -------- | -------- |
-| 09:00am–09:40am  | How businesses can prepare for the new economies of the metaverse - Hosted by: SGTech & Meta |
-| 09:45am–10:10am  | Fireside chat: Interactions between Blockchain and cybersecurity |
-| 10:35am–11:15am | Women in tech leadership - Hosted by: Institute of Electrical and Electronics Engineers (IEEE) |
-| 11:20am–12:00pm | How Web 3.0 technology and the metaverse will unlock opportunity and impact our world - Hosted by: SGTech & Meta  |
-| 01:05pm–01:45pm | Role of dual-use technology in transforming industries - Hosted by: Cap Vista |
-| 01:50pm–02:30pm | From AI governance to governable AI - Hosted by: Artificial Intelligence International Institute (AIII) |
-| 02:35pm–03:15pm | Asia's digital economy and the rise of unicorns | 
+| 9–9:40am  | How businesses can prepare for the new economies of the metaverse - Hosted by: SGTech & Meta |
+| 9:45–10:10am  | Fireside chat: Interactions between Blockchain and cybersecurity |
+| 10:35–11:15am | Women in tech leadership - Hosted by: Institute of Electrical and Electronics Engineers (IEEE) |
+| 11:20–12:00noon | How Web 3.0 technology and the metaverse will unlock opportunity and impact our world - Hosted by: SGTech & Meta  |
+| 1:05–1:45pm | Role of dual-use technology in transforming industries - Hosted by: Cap Vista |
+| 1:50–2:30pm | From AI governance to governable AI - Hosted by: Artificial Intelligence International Institute (AIII) |
+| 2:35–3:15pm | Asia's digital economy and the rise of unicorns | 
 
 _* Contents are subject to change_
