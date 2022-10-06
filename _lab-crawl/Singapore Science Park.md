@@ -36,7 +36,7 @@ NUS Enterprise@Singapore Science Park is a partnership between NUS Enterprise an
   
 Visit to understand the corporation innovation programmes offered by NUS Enterprise.
 
-[For more information on NUS Enterprise@Singapore Science Park ](https://enterprise.nus.edu.sg/supporting-entrepreneurs/nus-startup-runway/nus-enterprise-singapore-science-park/)
+[For more information on NUS Enterprise](https://enterprise.nus.edu.sg/supporting-entrepreneurs/nus-startup-runway/nus-enterprise-singapore-science-park/)
 
 #### **Lab Crawl Details**
 
@@ -47,5 +47,23 @@ Visit to understand the corporation innovation programmes offered by NUS Enterpr
 |**Tour Slots:** | 2:00pm - 3:00pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (30 pax per sessions) |
-|**Register Here:** | [NUS Enterprise@Singapore Science Park Lab Crawl Registration.](https://www.eventbrite.com/e/nus-enterprise-singapore-science-park-tickets-429493997107) |
+|**Register Here:** | [NUS Enterprise@Singapore Science Park Lab Crawl Registration.](https://www.eventbrite.com/e/nus-enterprise-singapore-science-park-tickets-429493997107) 
 
+#### **Smart Urban Co-Innovation Lab @Singapore Science Park**
+
+The Smart Urban Co-Innovation Lab @Singapore Science Park is the first industry-led lab in Southeast Asia focused on smart city solutions development. Initiated by CapitaLand and supported by CapitaLand Ascendas Real Estate Investment Trust, Infocomm Media Development Authority and Enterprise Singapore, it brings together various industry players - local technology startups, system integrators and global corporate enterprises - to co-create solutions for smart sustainable cities, from ideation to testing to commercialisation.  
+  
+Visit to understand how the Lab provides opportunities for industry players to testbed their solutions at the 5G-enabled Singapore Science Park and how provides supports in initiating call-for-proposals, organising workshops to promote exchange of ideas as well as facilitating proof-of-concepts and deployment.
+
+[For more information on Smart Urban Co-Innovation Lab](https://smartlab.expert/)
+
+#### **Lab Crawl Details**
+
+| **Name of Lab:** | The Smart Urban Co-Innovation Lab |
+| -------- | -------- |
+| **Lab Address:** | NUS Enterprise @Singapore Science Park, The Curie, Singapore Science Park 1, 83 Science Park Dr, #02-03/04, Singapore 118258 |
+|**Date:** | Fri, 28 Oct 2022 |
+|**Tour Slots:** | 2:00pm - 3:00pm (Singapore Time / UTC +8) |
+|**Shuttle Bus Services:** | No |
+|**Price:** | Free (30 pax per sessions) |
+|**Register Here:** | [NUS Enterprise@Singapore Science Park Lab Crawl Registration.](https://www.eventbrite.com/e/nus-enterprise-singapore-science-park-tickets-429493997107) |
