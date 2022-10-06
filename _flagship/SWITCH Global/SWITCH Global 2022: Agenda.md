@@ -8,21 +8,20 @@ description: Have the world’s opportunities right at your fingertips. SWITCH
 image: /images/Booths.jpg
 third_nav_title: SWITCH Global
 ---
-
 ## SWITCH Global Agenda
 
 ### **DAY 1: TUE, 25 OCT 2022**
 
 | Time | Session | 
 | -------- | -------- |
-| 09:00am–09:20am  | Deputy Prime Minister opening on grand stage |
-| 10:30am–11:20am | Japan market access session - Powered by: Japan External Trade Organization (JETRO) |
+| 9–9:20am  | Deputy Prime Minister opening on grand stage |
+| 10:30–11:20am | Japan market access session - Powered by: Japan External Trade Organization (JETRO) |
 | 11:30am–12:20pm | Brazil market access session - Powered by: Brazil Embassy |
-| 01:30pm–02:20pm |Australia market access session - Powered by: Invest Victoria |
-| 02:30pm–03:20pm | Korea market access session - Powered by: K-startup Center (KSC) and Korea Institute of Startup & Entrepreneurship (KISED) | 
-| 03:30pm–04:20pm  | Abu Dhabi market access session - Powered by: Abu Dhabi Department of Economic Development (Abu Dhabi DED) |
-| 04:30pm–05:20pm  | Finland market access session - Powered by Finland Embassy |
-| 05:30pm–06:00pm  | Multimarket closing panel - Finland, India, Singapore - Powered by: Finland Embassy and Confederation of Indian Industry (CII) |
+| 1:30–2:20pm |Australia market access session - Powered by: Invest Victoria |
+| 2:30–3:20pm | Korea market access session - Powered by: K-startup Center (KSC) and Korea Institute of Startup & Entrepreneurship (KISED) | 
+| 3:30–4:20pm  | Abu Dhabi market access session - Powered by: Abu Dhabi Department of Economic Development (Abu Dhabi DED) |
+| 4:30–5:20pm  | Finland market access session - Powered by Finland Embassy |
+| 5:30–6pm  | Multimarket closing panel - Finland, India, Singapore - Powered by: Finland Embassy and Confederation of Indian Industry (CII) |
 
 ### **DAY 2: WED 26 OCT 2022**
 
