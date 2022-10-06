@@ -30,7 +30,7 @@ PALO IT is a global innovation consultancy and Agile software development compan
 | -------- | -------- |
 | **Lab Address:** | #06-01 11 Beach Road Singapore 189675 |
 |**Date:** | Fri, 28 Oct 2022 |
-|**Tour Slots:** | 2:00pm - 3:00pm, 3:30pm - 4:30pm, 5:00pm - 6:00pm (Singapore Time / UTC +8) |
+|**Tour Slots:** | 2–3pm; 3:30–4:30pm; 5–6pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
 |**Register Here :** | [Palo IT Singapore Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSdlBKwq42nt9hF6qKhMtih_z1cJ-nLzoxrehBvZVup5CT0vAg/viewform) |
