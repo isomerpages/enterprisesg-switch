@@ -35,13 +35,13 @@ third_nav_title: SLINGSHOT
 
 | Time | Session | 
 | -------- | -------- |
-| 09:30am-09:55am | Growing your brand story: TikTok for business |
-| 10:00am–10:45am  | Global opportunities for startups - Powered by: Global Innovation Alliance |
-| 11:00am–11:45am  | Succeeding from Singapore: startups' journeys |
-| 12:00pm–12:30pm  | Startup masterclass |
-| 01:45pm–02:15pm | The e-Conomy SEA 2022 Report" - Powered by: Google, Bain, Temasek |
-| 02:30pm–04:20pm | SLINGSHOT Grand Finals |
-| 04:35pm–05:20pm | Attaining the next billion, who's next? |
-| 05:35pm–06:35pm | Announcement of SLINGSHOT Winners and Grand Prize Ceremony |
+| 9:30–9:55am | Growing your brand story: TikTok for business |
+| 10–10:45am  | Global opportunities for startups - Powered by: Global Innovation Alliance |
+| 11–11:45am  | Succeeding from Singapore: startups' journeys |
+| 12noon–12:30pm  | Startup masterclass |
+| 1:45–2:15pm | The e-Conomy SEA 2022 Report" - Powered by: Google, Bain, Temasek |
+| 2:30–4:20pm | SLINGSHOT Grand Finals |
+| 4:35–5:20pm | Attaining the next billion, who's next? |
+| 5:35–6:35pm | Announcement of SLINGSHOT Winners and Grand Prize Ceremony |
 
 _* Contents are subject to change_
