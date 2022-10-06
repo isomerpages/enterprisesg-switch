@@ -32,6 +32,7 @@ Conceived by leading Biotech company MiRXES, early is the future of modern healt
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (10 pax per session) |
 |**Register Here:** | [Early Medical Centre powered by MiRXES Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+
 ***
 
 #### **NUS Enterprise@Singapore Science Park**
@@ -55,6 +56,7 @@ Visit to understand the corporation innovation programmes offered by NUS Enterpr
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (30 pax per sessions) |
 |**Register Here:** | [NUS Enterprise@Singapore Science Park Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+
 ***
 
 #### **Smart Urban Co-Innovation Lab @Singapore Science Park**
@@ -78,6 +80,7 @@ Visit to understand how the Lab provides opportunities for industry players to t
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (20 pax per sessions) |
 |**Register Here:** | [Smart Urban Co-Innovation Lab @Singapore Science Park Park Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+
 ***
 
 #### **Playground for Learners - Catapult by CapitaLand**
