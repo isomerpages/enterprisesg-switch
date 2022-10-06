@@ -27,22 +27,22 @@ third_nav_title: SWITCH Global
 
 | Time | Session | 
 | -------- | -------- |
-| 09:00am–09:30am  | Opening |
-| 09:30am–10:20am  | China market access session - Powered by: China Singapore Suzhou Industrial Park Development Group (CSSD) |
-| 10:30am–11:20am  | Spain market access session - Powered by: ICEX ESPAÑA EXPORTACIÓN E INVERSIONES E.P.E. |
+| 9–9:30am  | Opening |
+| 9:30–10:20am  | China market access session - Powered by: China Singapore Suzhou Industrial Park Development Group (CSSD) |
+| 10:30–11:20am  | Spain market access session - Powered by: ICEX ESPAÑA EXPORTACIÓN E INVERSIONES E.P.E. |
 | 11:30am–12:20pm | Germany - North Rhine Westphalia market access session - Powered by: North-Rhine Westphalia Global Business (NRW Global Business) |
-| 01:30pm–02:20pm | Qatar market access session - Powered by: Invest Qatar |
-| 02:30pm–03:20pm | South Africa market access session - Powered by: Grindstone |
-| 03:30pm–04:20pm | Philippines market access session - Powered by: QBO Innovation Hub | 
-| 05:30pm–06:00pm  | Multimarket closing panel - Germany (Hessen), Canada, Singapore - Powered by: Hessen Trade and Invest and High Commission of Canada |
+| 1:30–2:20pm | Qatar market access session - Powered by: Invest Qatar |
+| 2:30–3:20pm | South Africa market access session - Powered by: Grindstone |
+| 3:30–4:20pm | Philippines market access session - Powered by: QBO Innovation Hub | 
+| 5:30–6pm  | Multimarket closing panel - Germany (Hessen), Canada, Singapore - Powered by: Hessen Trade and Invest and High Commission of Canada |
 
 ### **DAY 3, THU 27 OCT 2022**
 
 | Time | Session | 
 | -------- | -------- |
-| 09:00am–09:20am  | Pan-SEA opening - Powered by: Plug and Play |
-| 10:30am–11:20am  | Canada market access session - Powered by: Montréal International (MI) & Investissement Québec (IQ)|
+| 9–9:20am  | Pan-SEA opening - Powered by: Plug and Play |
+| 10:30–11:20am  | Canada market access session - Powered by: Montréal International (MI) & Investissement Québec (IQ)|
 | 11:30am–12:20pm | Turkey market access session - Powered by: BİLİŞİM VADİSİ (Turkey Valley) + Sistem Global)|
-| 01:30pm–02:20pm | Malaysia market access session - Powered by: Malaysian Research Accelerator for Technology & Innovation (MRANTI)|
+| 1:30–2:20pm | Malaysia market access session - Powered by: Malaysian Research Accelerator for Technology & Innovation (MRANTI)|
 
 _* Contents are subject to change_
