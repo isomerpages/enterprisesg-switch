@@ -5,8 +5,6 @@ description: SLINGSHOT is Asia’s most exciting deep tech pitching competition
   organised by Enterprise Singapore and held at SWITCH.
 image: /images/slingshot_2021_finalists_web.jpeg
 ---
-
-
 ![SLINGSHOT 2022 deep tech startup competitions applications are open](/images/SLINGSHOT/SLINGSHOT%202022/Slingshot2022_Banner_Rectangle_with_closing_date.jpg)
 
 # Asia's most exciting deep tech startup competition is back!

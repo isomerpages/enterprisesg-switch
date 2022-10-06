@@ -8,7 +8,7 @@ third_nav_title: Partner Events
 # About
 e27’s flagship conference brings together startups, investors, corporates, governments, tech ecosystem players and customers. It aims to facilitate connections, share actionable insights, and drive towards business growth for all stakeholders. 
 
-Echelon 2022 is a curated, invite-only event that aims to provide intimate and focussed discussions on key topics, coupled with business matching services to facilitate business-driven connections and drive towards fruitful business outcomes during the two-day event.
+Echelon 2022 is a curated, invite-only event that aims to provide intimate and focused discussions on key topics, coupled with business matching services to facilitate business-driven connections and drive towards fruitful business outcomes during the two-day event.
 
 # Details
 
@@ -16,9 +16,9 @@ Echelon 2022 is a curated, invite-only event that aims to provide intimate and f
 | -------- | -------- |
 |**Date:** | Thu–Fri, 27–28 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
-|**Venue:** | Resorts World Sentosa Convention Centre |
-|**Location:** | Aquarius Room 1 - 4 |
-|**Price:** | US$ 199 |
+|**Venue:** | Resorts World Convention Centre |
+|**Location:** | Aquarius room 1 - 4 |
+|**Price:** | USD$199 |
 |**Register Here :** | [ECHELON website](https://e27.co/echelon/asia/) |
 
 *By attending ECHELON by e27, you will also have complimentary access to the SWITCH Trade Floor on level B2.*

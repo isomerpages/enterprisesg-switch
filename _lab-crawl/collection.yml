@@ -2,9 +2,5 @@ collections:
   lab-crawl:
     output: true
     order:
-      - Singapore Science Park.md
       - PUB, Singapore Water Exchange.md
-      - PALO IT Singapore.md
       - IMDA PIXEL.md
-      - Environmental and Water Technology Centre of Innovation.md
-      - Aquaculture Innovation Centre, Temasek Polytechnic.md

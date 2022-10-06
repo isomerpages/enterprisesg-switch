@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Partner Events
 ---
 # About
-IMPACT+ brings together Family Office Investors, Fund Managers and Policy Makers from the Global-Asia ecosystem to make better decisions and to shape positive outcomes for our shared future.
-
-IMPACT+ is a Closed Door, Invite-only 2-day meeting consisting of intimate Safe-Space Break-Out sessions and Roundtable Discussion with  key policy makers and thought leaders in critical interest areas such as Sustainability, Crypto, Web 3.0 and Future Energy.
+IMPACT+ brings together Family Office investors, fund managers and policy makers from the global-Asia ecosystem to make better decisions and to shape positive outcomes for our shared future. 
+ 
+IMPACT+ is a closed door, invite-only 2-day meeting consisting of intimate safe-space break-out sessions and roundtable discussion with key policy makers and thought leader in critical interest areas such as sustainability, crypto, Web 3.0 and future energy.
 
 *The meeting will be strictly held under the Chatham House Rule. No recording or photos of the event will be allowed.*
 
@@ -17,9 +17,9 @@ IMPACT+ is a Closed Door, Invite-only 2-day meeting consisting of intimate Safe-
 | -------- | -------- |
 |**Date:** | Thu–Fri, 27–28 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
-|**Venue:** | Resorts World Sentosa Convention Centre |
+|**Venue:** | Resorts World Convention Centre |
 |**Location:** | Virgo room 1 - 4 (Thu, 27 Oct), Virgo room 1 - 2 (Fri, 28 Oct) |
-|**Price:** | S$999 (Early-bird) / S$1,499 |
+|**Price:** | SGD$999 (Early-bird) / SGD$1,499 |
 |**Register Here :** | [IMPACT+ 2022 registration link](https://web.micepad.co/switch-impactplus/registration) |
 
 *By attending IMPACT+ 2022, you will also have complimentary access to the SWITCH Trade Floor on level B2.*

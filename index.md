@@ -20,18 +20,18 @@ sections:
       button: get tickets
       url: https://community.switchsg.org/register
       key_highlights:
-        - title: Events & Initiatives
-          description: Year-long Innovation Journey
-          url: /example-resource/events-and-initiatives/
         - title: SWITCH Beyond
           description: Innovation & Technology Trends
           url: /switch-beyond-2022
         - title: SWITCH Global
           description: Gateway to global markets
           url: /switch-global-2022
-        - title: SLINGSHOT
-          description: Premier startup pitching event
-          url: /slingshot-2022
+        - title: Partner events
+          description: More innovation-focused events
+          url: /partner-events-2022/
+        - title: Lab Crawls
+          description: Visit innovation labs
+          url: /example-resource/events-and-initiatives/
   - infopic:
       title: The Global-Asia Innovation community meets at SWITCH
       subtitle: "flagship event "

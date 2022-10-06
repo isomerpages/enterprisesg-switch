@@ -17,10 +17,10 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 | **Title:** | SGTech Global Future Series: Digital Trust Forum |
 | -------- | -------- |
 |**Date:** | Fri, 28 Oct 2022 |
-| **Time:** | 0845 - 1730 (Singapore Time / UTC +8) |
-|**Venue:** | Resorts World Sentosa Convention Centre |
+| **Time:** | 8:45am - 5:30pm (Singapore Time / UTC +8) |
+|**Venue:** | Resorts World Convention Centre |
 |**Location:** | Leo room 1 - 4 |
-|**Price:** | SG$200 for in-person ticket / SG$75* for virtual ticket |
+|**Price:** | SGD$200 for in-person ticket / SGD$75 for virtual ticket |
 |**Register Here :** | [SGTech Global Future website](https://globalfutureseries.com/digitrust/wp/) |
 
 *By attending SGTech Global Future Series: Digital Trust Forum, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
