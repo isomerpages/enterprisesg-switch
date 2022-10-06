@@ -18,6 +18,7 @@ Visit the Early Medical Centre in Singapore Science Park 1 to learn how it will 
 Conceived by leading Biotech company MiRXES, early is the future of modern health. It reimagines, redesigns, and rebuilds how health should be delivered to our healthy population. Early is the platform to bring the best preventive care tools to the masses. Early believes precise, targeted, integrated suite of diagnostic methods and strategies are the foundation to enable the population greater control of our health.
 
 ![Early Medical Centre powered by MiRXES SWITCH 2022](/images/early.jpg)
+*Photo courtesy of Early Medical Centre powered by MiRXES*
 
 [For more information on Early Medical Centre powered by MiRXES](https://mirxes.com/early-health/)
 
@@ -40,7 +41,7 @@ NUS Enterprise@Singapore Science Park is a partnership between NUS Enterprise an
 Visit to understand the corporation innovation programmes offered by NUS Enterprise.
 
 ![NUS Enterprise@Singapore Science Park SWITCH 2022](/images/NUS%20Enterprise@Singapore%20Science%20Park.jpg)
-*Photo courtesy of NUS Enterprise*
+*Photo courtesy of Earnest*
 
 [For more information on NUS Enterprise](https://enterprise.nus.edu.sg/supporting-entrepreneurs/nus-startup-runway/nus-enterprise-singapore-science-park/)
 
@@ -54,6 +55,7 @@ Visit to understand the corporation innovation programmes offered by NUS Enterpr
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (30 pax per sessions) |
 |**Register Here:** | [NUS Enterprise@Singapore Science Park Lab Crawl Registration.](https://www.eventbrite.com/e/nus-enterprise-singapore-science-park-tickets-429493997107) 
+***
 
 #### **Smart Urban Co-Innovation Lab @Singapore Science Park**
 
@@ -62,6 +64,7 @@ The Smart Urban Co-Innovation Lab @Singapore Science Park is the first industry-
 Visit to understand how the Lab provides opportunities for industry players to testbed their solutions at the 5G-enabled Singapore Science Park and how provides supports in initiating call-for-proposals, organising workshops to promote exchange of ideas as well as facilitating proof-of-concepts and deployment.
 
 ![Smart Urban Co-Innovation Lab @Singapore Science Park SWITCH 2022](/images/Smart%20Urban%20Co-Innovation%20Lab%20@Singapore%20Science%20Park.png)
+*Photo courtesy of CapitaLand*
 
 [For more information on Smart Urban Co-Innovation Lab](https://smartlab.expert/)
 
@@ -75,6 +78,7 @@ Visit to understand how the Lab provides opportunities for industry players to t
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (20 pax per sessions) |
 |**Register Here:** | [Smart Urban Co-Innovation Lab @Singapore Science Park Park Lab Crawl Registration.](https://smartlab.member365.org/publicFr/form/index/e6197d9e44bf6857d712566d6eba10e1618fe0ab) |
+***
 
 #### **Playground for Learners - Catapult by CapitaLand**
 
@@ -83,6 +87,7 @@ Catapult by CapitaLand is the first leadership learning hub in Southeast Asia de
 Visit Catapult to understand how their integrated ecosystem of Campus Spaces, Curriculum and Community is designed to catapult your company's leaders to the global stage.
 
 ![Playground for Learners - Catapult by CapitaLand SWITCH 2022](/images/Playground%20for%20Learners%20-%20Catapult%20by%20CapitaLand.png)
+*Photo courtesy of CapitaLand*
 
 [For more information on Playground for Learners](https://www.capitaland.com/sg/en/lease/flexible-spaces/catapult.html)
 
