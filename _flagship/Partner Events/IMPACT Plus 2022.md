@@ -7,7 +7,7 @@ third_nav_title: Partner Events
 # About
 IMPACT+ brings together Family Office Investors, Fund Managers and Policy Makers from the Global-Asia ecosystem to make better decisions and to shape positive outcomes for our shared future.
 
-IMPACT+ is a Closed Door, Invite-only 2-day meeting consisting of intimate Safe-Space Break-Out sessions and Roundtable Discussion with  key policy makers and thought leaders in critical interest areas such as Sustainability, Crypto, Web 3.0 and Future Energy.
+IMPACT+ is a Closed Door, Invite-only 2-day meeting consisting of intimate Safe-Space Break-Out sessions and Roundtable Discussion with key policy makers and thought leaders in critical interest areas such as Sustainability, Crypto, Web 3.0 and Future Energy.
 
 *The meeting will be strictly held under the Chatham House Rule. No recording or photos of the event will be allowed.*
 
