@@ -17,7 +17,7 @@ At FUTR you can hear from inspiring, cross-industry speakers from the likes of A
 | -------- | -------- |
 |**Date:** | Tue–Wed, 25–26 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
-|**Venue:** | Resorts World Sentosa Convention Centre |
+|**Venue:** | Resorts World Convention Centre |
 |**Location:** | Pisces room 2 - 4, Virgo room 1 - 4 |
 |**Price:** | From SGD$855 |
 |**Register Here :** | [FUTR Asia Summit website](https://futr.today/singapore/) |
