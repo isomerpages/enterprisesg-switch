@@ -17,6 +17,8 @@ Visit the Early Medical Centre in Singapore Science Park 1 to learn how it will 
   
 Conceived by leading Biotech company MiRXES, early is the future of modern health. It reimagines, redesigns, and rebuilds how health should be delivered to our healthy population. Early is the platform to bring the best preventive care tools to the masses. Early believes precise, targeted, integrated suite of diagnostic methods and strategies are the foundation to enable the population greater control of our health.
 
+![Early Medical Centre powered by MiRXES SWITCH 2022](/images/early.jpg)
+
 [For more information on Early Medical Centre powered by MiRXES](https://mirxes.com/early-health/)
 
 #### **Lab Crawl Details**
@@ -35,6 +37,8 @@ Conceived by leading Biotech company MiRXES, early is the future of modern healt
 NUS Enterprise@Singapore Science Park is a partnership between NUS Enterprise and CapitaLand Development to spearhead Singapore’s first Deep Technology Hub in Singapore Science Park. By fostering a community of deep technology start-ups and connecting corporates to talents, research capabilities, and technologies of NUS, it aims to cultivate and aggregate a vibrant tech ecosystem and community towards disruptive innovations.  
   
 Visit to understand the corporation innovation programmes offered by NUS Enterprise.
+
+![NUS Enterprise@Singapore Science Park SWITCH 2022](/images/NUS%20Enterprise@Singapore%20Science%20Park.jpg)
 
 [For more information on NUS Enterprise](https://enterprise.nus.edu.sg/supporting-entrepreneurs/nus-startup-runway/nus-enterprise-singapore-science-park/)
 
