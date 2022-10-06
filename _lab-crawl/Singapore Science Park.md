@@ -61,9 +61,28 @@ Visit to understand how the Lab provides opportunities for industry players to t
 
 | **Name of Lab:** | The Smart Urban Co-Innovation Lab |
 | -------- | -------- |
-| **Lab Address:** | NUS Enterprise @Singapore Science Park, The Curie, Singapore Science Park 1, 83 Science Park Dr, #02-03/04, Singapore 118258 |
+| **Lab Address:** | Smart Urban Co-Innovation Lab @Singapore Science Park, The Galen, Singapore Science Park 2, Science Park Rd, #05-12/14, Singapore 117525 |
 |**Date:** | Fri, 28 Oct 2022 |
 |**Tour Slots:** | 2:00pm - 3:00pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
-|**Price:** | Free (30 pax per sessions) |
-|**Register Here:** | [NUS Enterprise@Singapore Science Park Lab Crawl Registration.](https://www.eventbrite.com/e/nus-enterprise-singapore-science-park-tickets-429493997107) |
+|**Price:** | Free (20 pax per sessions) |
+|**Register Here:** | [Smart Urban Co-Innovation Lab @Singapore Science Park Park Lab Crawl Registration.](https://smartlab.member365.org/publicFr/form/index/e6197d9e44bf6857d712566d6eba10e1618fe0ab) |
+
+#### **Playground for Learners - Catapult by CapitaLand**
+
+Catapult by CapitaLand is the first leadership learning hub in Southeast Asia designed to groom Asia’s next generation of leaders by curating learning experiences focused on Leadership, Innovation and Energy for Peak Performance delivered through experiential, immersive and impactful learning journeys.  
+  
+Visit Catapult to understand how their integrated ecosystem of Campus Spaces, Curriculum and Community is designed to catapult your company's leaders to the global stage.
+
+[For more information on Playground for Learners](https://www.capitaland.com/sg/en/lease/flexible-spaces/catapult.html)
+
+#### **Lab Crawl Details**
+
+| **Name of Lab:** | Catapult |
+| -------- | -------- |
+| **Lab Address:** | Catapult, 1 Rochester Park, #02-01 Rochester Commons, Singapore 139212 |
+|**Date:** | Fri, 28 Oct 2022 |
+|**Tour Slots:** | 2:00pm - 2:30pm, 2:30pm - 3:00pm (Singapore Time / UTC +8) |
+|**Shuttle Bus Services:** | No |
+|**Price:** | Free (10 pax per sessions) |
+|**Register Here:** | [Playground for Learners - Catapult by CapitaLand Park Lab Crawl Registration.](https://forms.office.com/Pages/ResponsePage.aspx?id=WGeXB8aT70uz3FOGA9yRbp6QbeDzVJhFlO-dbPO4CvFUNEc5QzAyM1RINU9RRlgwOThBRVUzUlRKMS4u) |
