@@ -20,7 +20,7 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 | **Time:** | 0845 - 1730 (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Convention Centre |
 |**Location:** | Leo room 1 - 4 |
-|**Price:** | SGD$200 for in-person ticket / SGD$75* for virtual ticket |
+|**Price:** | SGD$200 for in-person ticket / SGD$75 for virtual ticket |
 |**Register Here :** | [SGTech Global Future website](https://globalfutureseries.com/digitrust/wp/) |
 
 *By attending SGTech Global Future Series: Digital Trust Forum, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
