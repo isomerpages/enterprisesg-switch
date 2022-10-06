@@ -59,6 +59,8 @@ The Smart Urban Co-Innovation Lab @Singapore Science Park is the first industry-
   
 Visit to understand how the Lab provides opportunities for industry players to testbed their solutions at the 5G-enabled Singapore Science Park and how provides supports in initiating call-for-proposals, organising workshops to promote exchange of ideas as well as facilitating proof-of-concepts and deployment.
 
+![Smart Urban Co-Innovation Lab @Singapore Science Park SWITCH 2022](/images/Smart%20Urban%20Co-Innovation%20Lab%20@Singapore%20Science%20Park.png)
+
 [For more information on Smart Urban Co-Innovation Lab](https://smartlab.expert/)
 
 #### **Lab Crawl Details**
@@ -77,6 +79,8 @@ Visit to understand how the Lab provides opportunities for industry players to t
 Catapult by CapitaLand is the first leadership learning hub in Southeast Asia designed to groom Asia’s next generation of leaders by curating learning experiences focused on Leadership, Innovation and Energy for Peak Performance delivered through experiential, immersive and impactful learning journeys.  
   
 Visit Catapult to understand how their integrated ecosystem of Campus Spaces, Curriculum and Community is designed to catapult your company's leaders to the global stage.
+
+![Playground for Learners - Catapult by CapitaLand SWITCH 2022](/images/Playground%20for%20Learners%20-%20Catapult%20by%20CapitaLand.png)
 
 [For more information on Playground for Learners](https://www.capitaland.com/sg/en/lease/flexible-spaces/catapult.html)
 
