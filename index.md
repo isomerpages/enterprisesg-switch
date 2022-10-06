@@ -30,7 +30,7 @@ sections:
           description: More innovation-focused events
           url: /partner-events-2022/
         - title: Lab Crawls
-          description: Singapore innovation ecosystem
+          description: Visit innovation labs
           url: /example-resource/events-and-initiatives/
   - infopic:
       title: The Global-Asia Innovation community meets at SWITCH
