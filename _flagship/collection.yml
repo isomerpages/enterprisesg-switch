@@ -2,6 +2,7 @@ collections:
   flagship:
     output: true
     order:
+      - Aquaculture Innovation Centre, Temasek Polytechnic.md
       - Lab Crawls/Environmental and Water Technology Centre of Innovation.md
       - Lab Crawls/PALO IT Singapore.md
       - Lab Crawls/Singapore Science Park.md
