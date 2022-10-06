@@ -18,7 +18,7 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 | **Time:** | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Convention Centre |
 |**Location:** | Aquarius room 1 - 2 |
-|**Price:** | SGD199 (full-day pass) / SGD99 (afternoon Master Class) |
+|**Price:** | SGD$199 (full-day pass) / SGD$99 (afternoon Master Class) |
 |**Register Here:** | [GGEF Sustainability Roundtable: Re-imagine Sustainable Development by integrating Innovation & Technology registration](https://ggefsustainabilityroundtable.eventbrite.sg )
 
 *By attending GGEF Sustainability Roundtable: Re-imagine Sustainable Development by integrating Innovation & Technology, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
