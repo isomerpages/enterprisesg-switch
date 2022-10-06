@@ -25,7 +25,7 @@ Hear from our esteemed healthcare and biomedical corporates and professionals as
 | 3:05–3:25pm  | Strengthening universal coverage in Asia: Opportunities for innovation in private health insurance - Hosted by: Access Health |
 | 3:30–4:10pm  | The outlook on biotech investments: Boom, bubble or bust? - Hosted by: SGInnovate |
 | 4:15–4:55pm  | Thinking of running a biotech or medtech? Plan before you plunge! - Hosted by: National Health Innovation Centre Singapore (NHIC) |
-| 5:00–5:40pm  | Expansion challenges and opportunities in Southeast Asia - Hosted by: MiRXES |
+| 5–5:40pm  | Expansion challenges and opportunities in Southeast Asia - Hosted by: MiRXES |
 
 ### **DAY 2: WED 26 OCT 2022**
 #### **Focus: Urban Solutions, Trade and Connectivity**
@@ -33,17 +33,17 @@ What are the emerging roles of sustainability and green solutions that will cont
 
 | Time | Session | 
 | -------- | -------- |
-| 09:00am–09:40am  | Keynote Panel |
-| 09:45am–10:25am  | Urbanisation and net-zero - Hosted by: JTC Corporation |
-| 10:30am–11:10am  | Tech-ing urban solutions to the next level: Re-imagining cities for greater resilience - Hosted by: Agency of Science, Technology and Research (A* STAR) |
-| 11:15am–11:55am | Harnessing IoT and data for a sustainable future - Hosted by: MANN+HUMMEL |
-| 01:05pm–01:45pm | Future of mobility & electrification–ready for the green shift |
-| 01:50pm–02:30pm | Urban air mobility–disrupting travel and fulfillment in Asia |
-| 02:35pm–03:15pm | Technology to enable supply chain resilience and overcome instances of disruption | 
-| 03:20pm–04:00pm  | Trade & connectivity challenge launch |
-| 04:20pm–05:00pm  | Leveraging technology to decarbonise commodities |
-| 05:05pm–05:30pm  | Fireside Chat |
-| 05:35pm–06:15pm  | Partnerships for a net zero transition |
+| 9–09:40am  | Keynote Panel |
+| 9:45–10:25am  | Urbanisation and net-zero - Hosted by: JTC Corporation |
+| 10:30–11:10am  | Tech-ing urban solutions to the next level: Re-imagining cities for greater resilience - Hosted by: Agency of Science, Technology and Research (A* STAR) |
+| 11:15–11:55am | Harnessing IoT and data for a sustainable future - Hosted by: MANN+HUMMEL |
+| 1:05–1:45pm | Future of mobility & electrification–ready for the green shift |
+| 1:50–2:30pm | Urban air mobility–disrupting travel and fulfillment in Asia |
+| 2:35–3:15pm | Technology to enable supply chain resilience and overcome instances of disruption | 
+| 3:20–4:00pm  | Trade & connectivity challenge launch |
+| 4:20–5:00pm  | Leveraging technology to decarbonise commodities |
+| 5:05–5:30pm  | Fireside Chat |
+| 5:35–6:15pm  | Partnerships for a net zero transition |
 
 ### **DAY 3, THU 27 OCT 2022**
 #### **Focus: Future of Enterprise**
