@@ -22,7 +22,7 @@ IMPACT+ is a Closed Door, Invite-only 2-day meeting consisting of intimate Safe-
 |**Price:** | S$999 (Early-bird) / S$1,499 |
 |**Register Here :** | [IMPACT+ 2022 registration link](https://web.micepad.co/switch-impactplus/registration) |
 
-*By attending IMPACT+ 2022, you will also have complimentary access to the SWITCH Trade Floor on level B2*
+*By attending IMPACT+ 2022, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
 # Highlights
 * Three plenaries; including a joint keynote and a combined panel discussion and a dedicated plenary for Family Office or Venture Capital /Private Equity track

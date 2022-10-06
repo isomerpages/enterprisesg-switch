@@ -21,7 +21,7 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 |**Price:** | SGD199 (full-day pass) / SGD99 (afternoon Master Class) |
 |**Register Here:** | [GGEF Sustainability Roundtable: Re-imagine Sustainable Development by integrating Innovation & Technology registration](https://ggefsustainabilityroundtable.eventbrite.sg )
 
-*By attending GGEF Sustainability Roundtable: Re-imagine Sustainable Development by integrating Innovation & Technology, you will also have complimentary access to the SWITCH Trade Floor on level B2*
+*By attending GGEF Sustainability Roundtable: Re-imagine Sustainable Development by integrating Innovation & Technology, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
 # Highlights
 *   Launch of Green Tree Initiative & Sustainability Collaborations 

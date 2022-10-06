@@ -4,7 +4,6 @@ permalink: /Astar-sme-tech-day/
 description: A*STAR SME TECH DAY 2022 at SWITCH
 third_nav_title: Partner Events
 ---
-
 ![SME TECH DAY 2022 at SWITCH](/images/smetechday2022_web-banner-a(1000x290)-v2-(3).jpg)
 # About
 A\*STAR is excited to feature many innovations at SWITCH trade show, from our research institutes, national platforms, partner SMEs and start-ups.
@@ -24,7 +23,7 @@ Get inspired by our partner SMEs and startups showcasing their business innovati
 |**Price:** | Free |
 |**Register Here :** |[A*STAR registration ](https://form.jotform.com/222341050862446)
 
-*By attending A\*STAR SME TECH DAY 2022, you will also have complimentary access to the SWITCH Trade Floor on level B2*
+*By attending A\*STAR SME TECH DAY 2022, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
 # Highlights
 * 2 inspiring keynote speakers 

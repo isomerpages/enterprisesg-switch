@@ -24,4 +24,4 @@ We're committed to helping businesses transform to better our world. We're proud
 |**Tour Slots:** | 2:00pm - 3:00pm, 3:30pm - 4:30pm, 5:00pm - 6:00pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
-|**Register Here :** | [Palo IT Singapore Lab Crawl Registration.](https://docs.google.com/forms/d/1agdv2dPyX_nN_pssNAmOyXaK4h6nVWGMgdI3wowy7kg/edit) |
+|**Register Here :** | [Palo IT Singapore Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSdlBKwq42nt9hF6qKhMtih_z1cJ-nLzoxrehBvZVup5CT0vAg/viewform) |

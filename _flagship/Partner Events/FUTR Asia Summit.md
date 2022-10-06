@@ -22,7 +22,7 @@ At FUTR you can hear from inspiring, cross-industry speakers from the likes of A
 |**Price:** | From SGD$855 |
 |**Register Here :** | [FUTR Asia Summit website](https://futr.today/singapore/) |
 
-*By attending FUTR ASIA, you will also have complimentary access to the SWITCH Trade Floor on level B2*
+*By attending FUTR ASIA, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
 # Highlights
 * 22 presentations and 11 panel discussions by a variety of speakers
