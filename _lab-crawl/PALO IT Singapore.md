@@ -7,7 +7,7 @@ description: Lab Crawl SWITCH 2022
 
 PALO IT is a global innovation consultancy and Agile software development company dedicated to helping organizations embrace tech as a force for good. We work with clients to rapidly launch products and services, create new business models, and prepare leadership and culture for the future.
 
-![PALO IT Lab Crawl SWITCH 2022](/images/PALO%20IT%20Innovation%20Lab%20Photo%20-%20Michelle%20Koh.png)
+![PALO IT Lab Crawl SWITCH 2022](/images/PALO%20IT%20Innovation%20Lab%20Photo.png)
 
 'Win-win' innovations take a village to create. Together with sustainability conscious partners and brands, we are pushing the boundaries in balancing social good and commercial wins. At this lab crawl, find out how we as a B-Corp company open new possibilities through thoughtful thinking and technological innovations in the finance, medical and environmental spaces.
 
