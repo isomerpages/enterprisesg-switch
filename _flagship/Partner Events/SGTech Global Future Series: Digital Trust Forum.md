@@ -18,7 +18,7 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 | -------- | -------- |
 |**Date:** | Fri, 28 Oct 2022 |
 | **Time:** | 0845 - 1730 (Singapore Time / UTC +8) |
-|**Venue:** | Resorts World Sentosa Convention Centre |
+|**Venue:** | Resorts World Convention Centre |
 |**Location:** | Leo room 1 - 4 |
 |**Price:** | SG$200 for in-person ticket / SG$75* for virtual ticket |
 |**Register Here :** | [SGTech Global Future website](https://globalfutureseries.com/digitrust/wp/) |
