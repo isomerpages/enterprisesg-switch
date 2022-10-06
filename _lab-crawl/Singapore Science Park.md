@@ -59,6 +59,7 @@ Visit to understand the corporation innovation programmes offered by NUS Enterpr
 
 ***
 
+
 #### **Smart Urban Co-Innovation Lab @Singapore Science Park**
 
 The Smart Urban Co-Innovation Lab @Singapore Science Park is the first industry-led lab in Southeast Asia focused on smart city solutions development. Initiated by CapitaLand and supported by CapitaLand Ascendas Real Estate Investment Trust, Infocomm Media Development Authority and Enterprise Singapore, it brings together various industry players - local technology startups, system integrators and global corporate enterprises - to co-create solutions for smart sustainable cities, from ideation to testing to commercialisation.  
