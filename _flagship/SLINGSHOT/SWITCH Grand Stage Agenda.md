@@ -25,7 +25,7 @@ third_nav_title: SLINGSHOT
 | 9–9:45am  | The search for talent to accelerate growth |
 | 10am–1:30pm  | SLINGSHOT Domain Finals 3: Consumer Media, Goods & Services |
 | 11:45am–12:30pm  | Focusing on what matters most: Strategies for revenue growth |
-| 1:30–3:00pm | SLINGSHOT Domain Finals 4: Manufacturing, Trade & Connectivity |
+| 1:30–3pm | SLINGSHOT Domain Finals 4: Manufacturing, Trade & Connectivity |
 | 3:15–4:45pm | SLINGSHOT Domain Finals 5: Environment, Energy and Green Technologies |
 | 5–5:30 | Startup masterclass |
 | 5:45–6:05pm | Announcement of Top 10 Finalists |
