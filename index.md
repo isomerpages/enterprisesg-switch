@@ -27,10 +27,10 @@ sections:
           description: Gateway to global markets
           url: /switch-global-2022
         - title: Partner events
-          description: The SWITCH community
-          url: ""
-        - title: Events & Initiatives
-          description: Year-long Innovation Journey
+          description: More innovation-focused events
+          url: /partner-events-2022/
+        - title: Lab Crawls
+          description: Singapore innovation ecosystem
           url: /example-resource/events-and-initiatives/
   - infopic:
       title: The Global-Asia Innovation community meets at SWITCH
