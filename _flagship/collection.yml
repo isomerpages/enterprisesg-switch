@@ -2,11 +2,6 @@ collections:
   flagship:
     output: true
     order:
-      - Lab Crawls/.keep
-      - Lab Crawls/Singapore Science Park.md
-      - Lab Crawls/Aquaculture Innovation Centre, Temasek Polytechnic.md
-      - Lab Crawls/Environmental and Water Technology Centre of Innovation.md
-      - Lab Crawls/PALO IT Singapore.md
       - SWITCH Beyond/.keep
       - SWITCH Beyond/SWITCH Beyond 2022.md
       - "SWITCH Beyond/SWITCH Beyond 2022: Agenda.md"
@@ -30,3 +25,8 @@ collections:
       - Visitor Information/Venue.md
       - Visitor Information/Entry requirements.md
       - Visitor Information/Accommodation.md
+      - Lab Crawls/.keep
+      - Lab Crawls/Singapore Science Park.md
+      - Lab Crawls/Aquaculture Innovation Centre, Temasek Polytechnic.md
+      - Lab Crawls/Environmental and Water Technology Centre of Innovation.md
+      - Lab Crawls/PALO IT Singapore.md
