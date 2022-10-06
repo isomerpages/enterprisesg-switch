@@ -23,7 +23,7 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 |**Price:** | SG$200 for in-person ticket / SG$75* for virtual ticket |
 |**Register Here :** | [SGTech Global Future website](https://globalfutureseries.com/digitrust/wp/) |
 
-*By attending SGTech Global Future Series: Digital Trust Forum, you will also have complimentary access to the SWITCH Trade Floor on level B2*
+*By attending SGTech Global Future Series: Digital Trust Forum, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
 # Highlights
 * 18 unique programme sessions 
