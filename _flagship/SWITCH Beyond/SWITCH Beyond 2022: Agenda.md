@@ -16,16 +16,16 @@ Hear from our esteemed healthcare and biomedical corporates and professionals as
 
 | Time | Session | 
 | -------- | -------- |
-| 09:50am–10:30am  | Opening Panel |
-| 10:40am–11:00am  | Keynote Address |
-| 11:05am–11:45am | Opening innovation for healthcare  |
+| 9:50–10:30am  | Opening Panel |
+| 10:40–11:00am  | Keynote Address |
+| 11:05–11:45am | Opening innovation for healthcare  |
 | 11:50am–12:30pm | Future of healthcare and medtech investment in Asia - Hosted by: Bain & Company  |
-| 01:35pm - 02:15pm | Evolution and revolution of cell and gene therapy in Asia–challenges and promise - Hosted by: Consortium for Clinical Research and Innovation, Singapore (CRIS) |
-| 02:20pm–03:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic - Hosted by: Agency for Science, Technology and Research (A* STAR)  | 
-| 03:05pm–03:25pm  | Strengthening universal coverage in Asia: Opportunities for innovation in private health insurance - Hosted by: Access Health |
-| 03:30pm–04:10pm  | The outlook on biotech investments: Boom, bubble or bust? - Hosted by: SGInnovate |
-| 04:15pm–04:55pm  | Thinking of running a biotech or medtech? Plan before you plunge! - Hosted by: National Health Innovation Centre Singapore (NHIC) |
-| 05:00pm–05:40pm  | Expansion challenges and opportunities in Southeast Asia - Hosted by: MiRXES |
+| 1:35–2:15pm | Evolution and revolution of cell and gene therapy in Asia–challenges and promise - Hosted by: Consortium for Clinical Research and Innovation, Singapore (CRIS) |
+| 2:20–3:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic - Hosted by: Agency for Science, Technology and Research (A* STAR)  | 
+| 3:05–3:25pm  | Strengthening universal coverage in Asia: Opportunities for innovation in private health insurance - Hosted by: Access Health |
+| 3:30–4:10pm  | The outlook on biotech investments: Boom, bubble or bust? - Hosted by: SGInnovate |
+| 4:15–4:55pm  | Thinking of running a biotech or medtech? Plan before you plunge! - Hosted by: National Health Innovation Centre Singapore (NHIC) |
+| 5:00–5:40pm  | Expansion challenges and opportunities in Southeast Asia - Hosted by: MiRXES |
 
 ### **DAY 2: WED 26 OCT 2022**
 #### **Focus: Urban Solutions, Trade and Connectivity**
