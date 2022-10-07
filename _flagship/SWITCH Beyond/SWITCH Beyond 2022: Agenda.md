@@ -22,7 +22,7 @@ Hear from our esteemed healthcare and biomedical corporates and professionals as
 | 11:50am–12:30pm | Future of healthcare and medtech investment in Asia - Hosted by: Bain & Company  |
 | 1:35–2:15pm | Evolution and revolution of cell and gene therapy in Asia–challenges and promise - Hosted by: Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 | 2:20–3:00pm | Tech-ing healthcare to the next level: Innovation opportunities beyond the pandemic - Hosted by: Agency for Science, Technology and Research (A* STAR)  | 
-| 3:05–3:25pm  | Strengthening universal coverage in Asia: Opportunities for innovation in private health insurance - Hosted by: Access Health |
+| 3:05–3:25pm  | Strengthening Universal Health Coverage in Asia: Opportunities for innovation in private health insurance - Hosted by: ACCESS Health International |
 | 3:30–4:10pm  | The outlook on biotech investments: Boom, bubble or bust? - Hosted by: SGInnovate |
 | 4:15–4:55pm  | Thinking of running a biotech or medtech? Plan before you plunge! - Hosted by: National Health Innovation Centre Singapore (NHIC) |
 | 5–5:40pm  | Expansion challenges and opportunities in Southeast Asia - Hosted by: MiRXES |
