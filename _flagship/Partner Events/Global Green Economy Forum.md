@@ -6,9 +6,9 @@ third_nav_title: Partner Events
 ---
 ![GGEF SWITCH 2022](/images/GGEF.jpg)
 # About
-To meet the growing demand of future generations and climate challenges, building sustainable and resilient cities would require more technological innovations. 
+To meet the growing demand of future generations and climate challenges, building sustainable and resilience cities would require more technological innovations. 
 
-In this roundtable session, we shall hear from industry experts, sustainability practitioners, policy makers and academia to discuss re-imagining sustainable development by integrating innovation and technology and how to use it to advance an organisation’s ESG practice.
+In this roundtable session, we shall hear from industry experts, sustainability practitioners, policy makers and academia to share their insights on re-imagine sustainable development by integrating innovation and technology. They will also discuss how to use innovation and technology to advance in ESG practice.
 
 # Details
 
