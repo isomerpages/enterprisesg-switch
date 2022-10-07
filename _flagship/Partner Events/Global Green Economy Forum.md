@@ -35,6 +35,10 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 * Able to integrate innovation and technology to an organisation's practise.
 
 # Speakers
+*   **MOS Low Yen Ling**, Ministry of Trade and Industry & Ministry of Culture, Community & Youth
+*   **Professor Tjin Swee Chuan**, Associate Provost (Continuing Education), President's Office, Nanyang Technological University (NTU)
+*   **Raymond Poh**, CEO of SDAX
+*   **Jason van Schie**, Managing Director of FlourishDX_
 * **Christina Lee**, Founder & Chief Executive Officer, Global green Connect & Global Green Economic Foundation
 * **Eric Loh**, Vice President, G Element
 * **Professor William Chen**, Michael Fam Endowed Chair Professor in Food Science and Technology
