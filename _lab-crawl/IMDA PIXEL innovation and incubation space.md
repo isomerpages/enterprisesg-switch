@@ -3,8 +3,7 @@ title: IMDA PIXEL innovation and incubation space
 permalink: /imda-pixel/
 description: SWITCH 2022 Lab Crawl
 ---
-
-### **About IMDA PIXEL** 
+### **About IMDA PIXEL innovation and incubation space** 
 
 PIXEL is an incubation and innovation space by Singapore’s Infocomm Media Development Authority. It is focused on the tech areas of AI, Augmented Reality/Virtual Reality, the Internet of Things and Robotics, and early-stage start-ups. It is designed for digital tech, media and content creators to ideate, experiment and build customer-centric digital experiences.
 
