@@ -62,9 +62,9 @@ ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the
 
 ***
 
-#### **Advanced Remanufacturing and Technology Centre (ARTC)**
+#### **Grab**
 
-Advanced Remanufacturing and Technology Centre (ARTC) is a contemporary platform built upon strong public-private partnerships. In partnership with Nanyang Technological University (NTU), Singapore, ARTC has a membership consortium with over 90 members, ranging from global multinational corporations (MNCs), public agencies, small and medium enterprises (SMEs) to startups focusing on three core industry clusters – Energy & Infrastructure, Transport & Engineering, and Consumer & Modern Services. 
+Guided by the Grab Way, our mission is to drive Southeast Asia forward by creating economic empowerment for everyone.
 
 ![A*Star Lab Crawl SWITCH 2022](/images/Astar.jpg)
 
