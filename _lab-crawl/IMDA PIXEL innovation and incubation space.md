@@ -13,7 +13,7 @@ The Lab Crawl Tour will showcase PIXEL's lab facilities and co-working space at 
 
 [For more information on IMDA PIXEL ](https://impixel.imda.gov.sg/)
  
-### **Lab Crawl Details**
+#### **Lab Crawl Details**
 
 | **Name of Lab:** | PIXEL Innovation and Incubation space |
 | -------- | -------- |
