@@ -2,6 +2,6 @@ collections:
   lab-crawl:
     output: true
     order:
-      - JTC, Jurong Town Coporation.md
+      - JTC, Jurong Town Corporation.md
       - PUB, Singapore Water Exchange.md
       - IMDA PIXEL innovation and incubation space.md
