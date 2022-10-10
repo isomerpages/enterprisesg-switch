@@ -9,19 +9,6 @@ Join JTC for a specially curated tour on 28 October 2022 where you get a chance 
 
 ![JTC Lab Crawl SWITCH 2022](/images/JTC%20-%20Ashley%20Leow%20Shin%20Yee.png)
 
-Come visit the following partners located in JTC’s one-north and Jurong Innovation District: 
-* Microfactory by Audacity World 
-* Advanced Remanufacturing and Technology Centre (ARTC) 
-* Grab 
-* A\*StartCentral
+Come visit the following partners located in JTC’s one-north and Jurong Innovation District
 
-#### **Lab Crawl Details**
-
-| **Name of Lab:** |Lab Crawl at one-north and Jurong Innovation District (led by JTC) |
-| -------- | -------- |
-| **Lab Address:** |  |
-|**Date:** | Fri, 28 Oct 2022 |
-|**Tour Slots:** | 1–6pm (Singapore Time / UTC +8) |
-|**Shuttle Bus Services:** | Yes |
-|**Price:** | Free |
-|**Register Here :** | [JTC Lab Crawl registration.](https://docs.google.com/forms/d/e/1FAIpQLSfZqd3rdNZmOjj7u2DQFp0aK3AnPA5TcUCftIWJswyq8-4mqQ/viewform) |
+[For more information on JTC](https://estates.jtc.gov.sg/jid?utm_source=Google&utm_medium=JIDBrand&utm_campaign=JTCLocations&gclid=Cj0KCQjw4omaBhDqARIsADXULuUrZEszRaq25BTu3i1-YdXWteEXEqHdpG8-alPche7zpmOSDpawVZcaAlC3EALw_wcB)
