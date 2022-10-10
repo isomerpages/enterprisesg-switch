@@ -46,7 +46,7 @@ What are the emerging roles of sustainability and green solutions that will cont
 | 5:35–6:15pm  | Partnerships for a net zero transition |
 
 ### **DAY 3, THU 27 OCT 2022**
-#### **Focus: Future of Enterprise**
+#### **Focus: Frontier Innovation for Enterprises**
 How will emerging technologies such as the Metaverse, microelectronics, Web 3.0, supercomputing and digital trust change traditional businesses and new growth sectors in the future? Explore how these new technologies will change the way people live, work and interact as we gaze into the future of immense opportunities these disruption will bring to our lives.
 
 | Time | Session | 
