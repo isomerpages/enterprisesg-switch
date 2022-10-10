@@ -5,7 +5,7 @@ description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
 ## Lab Crawls
-SWITCH will be partnering up with a variety of innovation labs across Singapore and they will be showcasing how their companies are using technology to aid their work in their respective fields. 
+SWITCH will be partnering up with a variety of innovation labs across Singapore and they will be showcasing how they are using technology to aid their work in their respective fields. 
 
 Some Labs we have collaborated with would be Singapore Science Park, JTC, IMDA Pixel and many more. 
 
