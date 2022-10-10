@@ -9,10 +9,12 @@ SWITCH will be partnering up with a variety of innovation labs across Singapore 
 
 Some innovation labs we have collaborated with would be Singapore Science Park, JTC, IMDA Pixel and many more. 
 
-### Schedule 
+### Schedule (12–3pm)
+*The grey slots indicate an on-going Lab Crawl*
 ![SWITCH 2022 Lab Crawl ](/images/SWITCH%202022%20Lab%20Crawl.png)
 
-### Schedule 
+### Schedule (3–6pm)
+*The grey slots indicate an on-going Lab Crawl*
 ![SWITCH 2022 Lab Crawl](/images/SWITCH%202022%20Lab%20Crawl%20(2).png)
 
 ##### You may be interested in
