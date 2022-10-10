@@ -5,9 +5,11 @@ description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
 ## Lab Crawls
-SWITCH's Signature Lab Crawls is returning this October 2022! 
+SWITCH's Signature Lab Crawls are returning this October 2022! 
 
 Experience Singapore Innovation Infrastructure through our curated tours of innovation labs across Singapore. These tours will showcase various technologies and developments across different industries. These include the Singapore Science Park, JTC, IMDA Pixel and many more.
+
+Find out more about these Lab Crawls below!
 
 ### Schedule (12–3pm)
 *The grey slots indicate an on-going Lab Crawl*
@@ -17,7 +19,7 @@ Experience Singapore Innovation Infrastructure through our curated tours of inno
 *The grey slots indicate an on-going Lab Crawl*
 ![SWITCH 2022 Lab Crawl](/images/SWITCH%202022%20Lab%20Crawl%20(2).png)
 
-##### You may be interested in
+##### Check out more details about these Lab Crawls here: 
 
 1. [Singapore Science Park](https://switchsg.org/singapore-science-park/)
 2. [Aquaculture Innovation Centre, Temasek Polytechnic](https://switchsg.org/aquaculture-innovation-centre/)
