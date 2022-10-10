@@ -61,3 +61,26 @@ ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the
 |**Register Here:** | [Advanced Remanufacturing and Technology Centre (ARTC) Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
 
 ***
+
+#### **Advanced Remanufacturing and Technology Centre (ARTC)**
+
+Advanced Remanufacturing and Technology Centre (ARTC) is a contemporary platform built upon strong public-private partnerships. In partnership with Nanyang Technological University (NTU), Singapore, ARTC has a membership consortium with over 90 members, ranging from global multinational corporations (MNCs), public agencies, small and medium enterprises (SMEs) to startups focusing on three core industry clusters – Energy & Infrastructure, Transport & Engineering, and Consumer & Modern Services. 
+
+![A*Star Lab Crawl SWITCH 2022](/images/Astar.jpg)
+
+ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the transfer of innovation from applied research to industrial applications and solutions.
+
+[For more information on Microfactory by Audacity World](https://audacity.world/microfactory/)
+
+##### **Lab Crawl Details**
+
+| **Name of Lab:** | Grab |
+| -------- | -------- |
+| **Lab Address:** | 3 Media Cl, Singapore 138498 |
+|**Date:** | Fri, 28 Oct 2022 |
+|**Tour Slots:** | ??? (Singapore Time / UTC +8) |
+|**Shuttle Bus Services:** | No |
+|**Price:** | Free (10 pax per session) |
+|**Register Here:** | [Grab Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+
+***
