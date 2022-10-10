@@ -19,7 +19,7 @@ Find out more about these Lab Crawls below!
 *The grey slots indicate an on-going Lab Crawl*
 ![SWITCH 2022 Lab Crawl](/images/SWITCH%202022%20Lab%20Crawl%20(2).png)
 
-##### Check out more details about these Lab Crawls here: 
+##### Learn about these Lab Crawls here: 
 
 1. [Singapore Science Park](https://switchsg.org/singapore-science-park/)
 2. [Aquaculture Innovation Centre, Temasek Polytechnic](https://switchsg.org/aquaculture-innovation-centre/)
