@@ -6,11 +6,7 @@ third_nav_title: Partner Events
 ---
 ![FUTR ASIA AT SWITCH 2022](/images/ASIA-banner-eventbrite.png)
 # About
-FUTR is Asia’s only Summit focused on fresh thinking and progressive change in the future of retail, marketing and commerce. 
-
-FUTR is the annual gathering of brands, retailers, corporates, marketplaces & D2C across Digital, Marketing, Ecommerce, Retail, Innovation and Customer Experience, that want to stay at the cutting-edge of insights, technologies and solutions across retail and marketing. A watering hole for the future-focused leaders who want to see “what’s next”, understand how to bridge “the gap between now and next”, while carrying forward authentic values with no baggage.
-
-At FUTR you can hear from inspiring, cross-industry speakers from the likes of Alibaba, Capitaland, Bacardi and Foodpanda. Discover our highly-curated showcase to find the latest technologies and solutions that will change the way you engage with customers.
+FUTR Asia brings together the movers and shakers from brands, retailers, corporates, e-commerce, agencies and tech solutions. Our 2022 theme is focused on ‘Fostering Community & Being Bold’ as we all look forward and to see whats now, and next. Now in its 7th year, FUTR has the undisputed reputation of excellence in both content and learning. Expect to hear from the likes of Starbucks, Sephora, Levi's, Crocs, J&J, Pizza Hut, Unilever, Lego, Razor, Lazada, Coca Cola, Uber, Mondelez & more.
 # Details
 
 | **Title:** | FUTR ASIA |
