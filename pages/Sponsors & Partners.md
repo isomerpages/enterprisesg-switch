@@ -22,6 +22,6 @@ description: ""
 ![Content Partners SWITCH 2022](/images/Content%20Partners.png)
 
 ##### Community Partners 
-![Community Partners SWITCH 2022](/images/Community%20Partners%202022_Cards%20(1).png)
+![Community Partners SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/Community%20Partners%202022_Cards.png)
 
 ![Evergreen SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/evergreen.png)
