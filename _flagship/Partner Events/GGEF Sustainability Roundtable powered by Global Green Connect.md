@@ -17,7 +17,7 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 |**Date:** | Tue, 25 Oct 2022 |
 | **Time:** | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Convention Centre |
-|**Location:** | Aquarius room 1 - 2 |
+|**Location:** | Aquarius Room 1 - 2 |
 |**Price:** | SGD$199 (full-day pass) / SGD$99 (afternoon Master Class) |
 |**Register Here:** | [GGEF Sustainability Roundtable: Re-imagine Sustainable Development by integrating Innovation & Technology registration](https://ggefsustainabilityroundtable.eventbrite.sg )
 
