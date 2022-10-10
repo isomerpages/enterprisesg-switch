@@ -15,7 +15,8 @@ FUTR Asia brings together the movers and shakers from brands, retailers, corpor
 | **Time:**    | Day 1: 10am–5:15pm; Day 2: 10am–5:15pm (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Convention Centre |
 |**Location:** | Pisces Room 2 - 4, Virgo Room 1 - 4 |
-|**Price:** | From SGD$855 |
+|**Complimentary:** | For brands, retailers, corporates, government, agencies, media & publishers |
+|**Price :** | SGD$855 for tech vendors, solution providers or consultancies |
 |**Register Here :** | [FUTR Asia Summit website](https://futr.today/singapore/) |
 
 *By attending FUTR ASIA, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
