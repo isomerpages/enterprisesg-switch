@@ -10,3 +10,11 @@ Our partners play an important role within the SWITCH community, and the connect
 Head over to our [**Events and Initiatives**](https://www.switchsg.org/example-resource/events-and-initiatives/) page to find out what events we will be having!
 
 ![Partner Events SWITCH 2022](/images/Partner%20Events%20Schedule%20(1).png)
+
+##### You may be interested in
+
+1. [FUTR Asia Summit](https://switchsg.org/futr-asia-summit/)
+2. [Tech JAM 2022](https://switchsg.org/tech-jam-2022/)
+3. [GGEF Sustainability Roundtable powered by Global Green Connect](https://switchsg.org/global-green-economy-forum/)
+4. [Echelon 2022](https://switchsg.org/echelon-2022/)
+5. [PALO IT Singapore](https://switchsg.org/palo-it/)
