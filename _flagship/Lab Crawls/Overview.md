@@ -14,3 +14,11 @@ Some innovation labs we have collaborated with would be Singapore Science Park, 
 
 ### Schedule 
 ![SWITCH 2022 Lab Crawl](/images/SWITCH%202022%20Lab%20Crawl%20(2).png)
+
+##### You may be interested in
+
+1. [Singapore Science Park](https://switchsg.org/singapore-science-park/)
+2. [Aquaculture Innovation Centre, Temasek Polytechnic](https://switchsg.org/aquaculture-innovation-centre/)
+3. [Environmental and Water Technology Centre of Innovation](https://switchsg.org/environmental-water-technology-centre-of-innovation/)
+4. [IMDA PIXEL innovation and incubation space](https://switchsg.org/imda-pixel/)
+5. [PALO IT Singapore](https://switchsg.org/palo-it/)
