@@ -62,25 +62,26 @@ ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the
 
 ***
 
-#### **Grab**
+#### **A*StartCentral**
 
-Guided by the Grab Way, our mission is to drive Southeast Asia forward by creating economic empowerment for everyone.
+A\*STAR supports and manages several **innovation platforms and national programmes** to address specific sector needs and expedite the innovation process.
 
-![A*Star Lab Crawl SWITCH 2022](/images/Astar.jpg)
+![aStar ](/images/astart-web-banner_1.png)
+*Photo Courtesy of A*StartCentral*
 
-ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the transfer of innovation from applied research to industrial applications and solutions.
-
-[For more information on Microfactory by Audacity World](https://audacity.world/microfactory/)
+[For more information on A*StartCentral](https://www.a-star.edu.sg/enterprise/innovation-platforms/a-startcentral)
 
 ##### **Lab Crawl Details**
 
-| **Name of Lab:** | Grab |
+| **Name of Lab:** | A*/Central |
 | -------- | -------- |
-| **Lab Address:** | 3 Media Cl, Singapore 138498 |
+| **Lab Address:** | 79 Ayer Rajah Crescent, #05-03 Block 79, Singapore 139955 |
 |**Date:** | Fri, 28 Oct 2022 |
-|**Tour Slots:** | ??? (Singapore Time / UTC +8) |
+|**Tour Slots:** | 1–1:30pm; 1:30–2pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (10 pax per session) |
-|**Register Here:** | [Grab Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+|**Register Here:** | [Early Medical Centre powered by MiRXES Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+
+***
 
 ***
