@@ -17,7 +17,7 @@ Echelon 2022 is a curated, invite-only event that aims to provide intimate and f
 |**Date:** | Thu–Fri, 27–28 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Convention Centre |
-|**Location:** | Aquarius room 1 - 4 |
+|**Location:** | Aquarius Room 1 - 4 |
 |**Price:** | USD$199 |
 |**Register Here :** | [ECHELON website](https://e27.co/echelon/asia/) |
 

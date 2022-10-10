@@ -18,7 +18,7 @@ Speak to our global partners to learn more on how to expand into their various m
 #### SWITCH Global 2022 (25 – 27 Oct) 
 SWITCH Global 2022 will focus on key industry and expansion opportunities across all 6 continents through curated Market Access sessions and Global Pavilions helmed by local experts in: 
 
-![Programme Highlights SWITCH 2022](/images/PROGRAMME%20HIGHLIGHTS%20(Beyond,%20Global,%20Grand%20Stage).png)
+![Programme Highlights for SWITCH Global](/images/PROGRAMME%20HIGHLIGHTS%20(Global)_Updated.png)
 
 If you are looking to expand your business abroad, SWITCH Global will connect you directly with our partners overseas. Be sure to catch free consultation sessions at the Global Pavilions to gain new networks and connections with these in-market experts! 
 
@@ -28,6 +28,6 @@ If you are looking to expand your business abroad, SWITCH Global will connect yo
 SWITCH Global has convened established leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors. Whatever your business needs, find the right connections here!
 
 #### Global Partners from SWITCH 2022
-![Global Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(6).png)
+![Global Partners SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/Global%20Partners.png)
 #### Speakers from SWITCH Global 2022
 ![Global Speakers SWITCH 2022](/images/Global.png)

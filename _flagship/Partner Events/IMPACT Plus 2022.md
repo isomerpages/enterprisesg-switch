@@ -18,7 +18,7 @@ IMPACT+ is a closed door, invite-only 2-day meeting consisting of intimate safe
 |**Date:** | Thu–Fri, 27–28 Oct 2022 |
 | **Time:**    | Whole Day (Singapore Time / UTC +8) |
 |**Venue:** | Resorts World Convention Centre |
-|**Location:** | Virgo room 1 - 4 (Thu, 27 Oct), Virgo room 1 - 2 (Fri, 28 Oct) |
+|**Location:** | Virgo Room 1 - 4 (Thu, 27 Oct), Virgo Room 1 - 2 (Fri, 28 Oct) |
 |**Price:** | SGD$999 (Early-bird) / SGD$1,499 |
 |**Register Here :** | [IMPACT+ 2022 registration link](https://web.micepad.co/switch-impactplus/registration) |
 
