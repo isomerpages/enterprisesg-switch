@@ -34,7 +34,7 @@ Globally ranked among the top research and technology organisations in the envir
 
 Through industrial and CSR projects with commercial and social impact, NEWRI continuously strives to make a difference towards developing a true circular economy through efficient reuse innovations, and harnessing the value in waste
 
-[For more information on Nanyang Environment and Water Research Institute (NEWRI ](https://www.ntu.edu.sg/newri/about-us)
+[For more information on Nanyang Environment and Water Research Institute (NEWRI) ](https://www.ntu.edu.sg/newri/about-us)
 
 ### **Lab Crawl Details**
 
