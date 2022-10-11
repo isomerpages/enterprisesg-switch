@@ -90,12 +90,11 @@ A\*STAR supports and manages several **innovation platforms and national progra
 
 ### **General Lab Crawl Details**
 
-| **Name of Lab:** | Microfactory by Audacity World |
+| **Name of Lab:** | Lab Crawl at one-north and Jurong Innovation District (led by JTC) |
 | -------- | -------- |
-| **Lab Address:** | Launchpad@JID, 2 Cleantech Loop, Singapore 637144  
-#01-01 |
+| **Reporting Address:** | B1 Car Park, Resorts World Sentosa Singapore |
 |**Date:** | Fri, 28 Oct 2022 |
 |**Tour Slots:** | 1–6pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | Yes |
-|**Price:** | Free (10 pax per session) |
-|**Register Here:** | [Microfactory by Audacity Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+|**Price:** | Free |
+|**Register Here:** | [Lab Crawl at one-north and Jurong Innovation District (led by JTC) Registration.](https://docs.google.com/forms/d/e/1FAIpQLSfZqd3rdNZmOjj7u2DQFp0aK3AnPA5TcUCftIWJswyq8-4mqQ/viewform) |
