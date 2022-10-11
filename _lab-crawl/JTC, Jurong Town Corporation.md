@@ -26,17 +26,12 @@ Audacity welcomes innovators who can look beyond the current technology paradigm
 
 [For more information on Microfactory by Audacity World](https://audacity.world/microfactory/)
 
-##### **Lab Crawl Details**
+##### **Microfactory by Audacity World Details**
 
 | **Name of Lab:** | Microfactory by Audacity World |
 | -------- | -------- |
 | **Lab Address:** | Launchpad@JID, 2 Cleantech Loop, Singapore 637144  
 #01-01 |
-|**Date:** | Fri, 28 Oct 2022 |
-|**Tour Slots:** | 1–6pm (Singapore Time / UTC +8) |
-|**Shuttle Bus Services:** | No |
-|**Price:** | Free (10 pax per session) |
-|**Register Here:** | [Microfactory by Audacity Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
 
 ***
 
@@ -51,16 +46,28 @@ ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the
 
 [For more information on Microfactory by Audacity World](https://audacity.world/microfactory/)
 
-##### **Lab Crawl Details**
+##### **Advanced Remanufacturing and Technology Centre (ARTC) Lab Crawl Details**
 
 | **Name of Lab:** | Advanced Remanufacturing and Technology Centre (ARTC) |
 | -------- | -------- |
 | **Lab Address:** | 3 Cleantech Loop, #01-01 CleanTech Two, Singapore 637143 |
-|**Date:** | Fri, 28 Oct 2022 |
-|**Tour Slots:** | 1–6pm (Singapore Time / UTC +8) |
-|**Shuttle Bus Services:** | No |
-|**Price:** | Free (10 pax per session) |
-|**Register Here:** | [Advanced Remanufacturing and Technology Centre (ARTC) Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+
+***
+
+#### **Grab**
+
+Guided by the Grab Way, our mission is to drive Southeast Asia forward by creating economic empowerment for everyone.
+
+![Grab Lab Crawl SWITCH 2022](/images/Grab-HQ_1.jpg)
+*Photo Courtesy of A*StartCentral*
+
+[For more information on Grab](https://www.grab.com/sg/)
+
+##### **A*Central Lab Crawl Details**
+
+| **Name of Lab:** | A*Central |
+| -------- | -------- |
+| **Lab Address:** | 79 Ayer Rajah Crescent, #05-03 Block 79, Singapore 139955 |
 
 ***
 
@@ -69,21 +76,26 @@ ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the
 A\*STAR supports and manages several **innovation platforms and national programmes** to address specific sector needs and expedite the innovation process.
 
 ![aStar ](/images/astart-web-banner_1.png)
-*Photo Courtesy of A*StartCentral*
+*Photo Courtesy of A*/StartCentral*
 
 [For more information on A*StartCentral](https://www.a-star.edu.sg/enterprise/innovation-platforms/a-startcentral)
 
-##### **Lab Crawl Details**
+##### **A*Central Lab Crawl Details**
 
 | **Name of Lab:** | A*Central |
 | -------- | -------- |
 | **Lab Address:** | 79 Ayer Rajah Crescent, #05-03 Block 79, Singapore 139955 |
+
+***
+
+### **General Lab Crawl Details**
+
+| **Name of Lab:** | Microfactory by Audacity World |
+| -------- | -------- |
+| **Lab Address:** | Launchpad@JID, 2 Cleantech Loop, Singapore 637144  
+#01-01 |
 |**Date:** | Fri, 28 Oct 2022 |
 |**Tour Slots:** | 1–6pm (Singapore Time / UTC +8) |
-|**Shuttle Bus Services:** | No |
+|**Shuttle Bus Services:** | Yes |
 |**Price:** | Free (10 pax per session) |
-|**Register Here:** | [Early Medical Centre powered by MiRXES Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
-
-***
-
-***
+|**Register Here:** | [Microfactory by Audacity Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
