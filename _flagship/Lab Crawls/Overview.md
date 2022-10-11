@@ -19,7 +19,7 @@ Find out more about these Lab Crawls below!
 *The grey slots indicate an on-going Lab Crawl*
 ![Overview Lab Crawl SWITCH 2022](/images/SWITCH%202022%20At%20a%20Glance%20(2)%20v22.png)
 
-##### Learn about these Lab Crawls here: 
+##### Register and learn about these Lab Crawls here: 
 
 1. [Singapore Science Park](https://switchsg.org/singapore-science-park/)
 2. [JTC](https://switchsg.org/jurong-town-council/)
