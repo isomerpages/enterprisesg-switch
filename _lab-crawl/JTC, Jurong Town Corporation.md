@@ -8,7 +8,6 @@ description: Lab Crawl SWITCH 2022
 Join JTC for a specially curated tour on 28 October 2022 where you get a chance explore the latest innovative solutions at various labs and also learn about JTC’s role in supporting the Singapore’s start-up ecosystem at LaunchPad!
 
 ![JTC Lab Crawl SWITCH 2022](/images/JTC%20-%20Ashley%20Leow%20Shin%20Yee.png)
-*Photo Courtesy of Audacity.World*
 
 Come visit the following partners located in JTC’s one-north and Jurong Innovation District
 
@@ -21,6 +20,7 @@ Come visit the following partners located in JTC’s one-north and Jurong Innova
 Audacity is a movement to catalyse a humanity-centric future supported by innovative technologies. We orchestrate amidst chaos and seek aufheben moments with our philosophy of Unlearning conventions, Unlocking innovation and Unleashing transformation.
 
 ![Audacity Lab Crawl SWITCH 2022](/images/Audacity-Permacolony.jpeg)
+*Photo Courtesy of Audacity World*
 
 Audacity welcomes innovators who can look beyond the current technology paradigm and test hypotheses across our agenda focus areas. With inclusivity as a core value, our initiatives are guided by a values-based culture to solve issues in communities, food, energy, work, education, healthcare and urbanisation.
 
@@ -59,15 +59,15 @@ ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the
 Guided by the Grab Way, our mission is to drive Southeast Asia forward by creating economic empowerment for everyone.
 
 ![Grab Lab Crawl SWITCH 2022](/images/Grab-HQ_1.jpg)
-*Photo Courtesy of A*StartCentral*
+*Photo Courtesy of Grab*
 
 [For more information on Grab](https://www.grab.com/sg/)
 
-##### **A*Central Lab Crawl Details**
+##### **Grab Lab Crawl Details**
 
-| **Name of Lab:** | A*Central |
+| **Name of Lab:** | Grab |
 | -------- | -------- |
-| **Lab Address:** | 79 Ayer Rajah Crescent, #05-03 Block 79, Singapore 139955 |
+| **Lab Address:** | 3 Media Cl, Singapore 138498 |
 
 ***
 
@@ -76,13 +76,13 @@ Guided by the Grab Way, our mission is to drive Southeast Asia forward by creati
 A\*STAR supports and manages several **innovation platforms and national programmes** to address specific sector needs and expedite the innovation process.
 
 ![aStar ](/images/astart-web-banner_1.png)
-*Photo Courtesy of A*/StartCentral*
+*Photo Courtesy of AStartCentral*
 
 [For more information on A*StartCentral](https://www.a-star.edu.sg/enterprise/innovation-platforms/a-startcentral)
 
 ##### **A*Central Lab Crawl Details**
 
-| **Name of Lab:** | A*Central |
+| **Name of Lab:** | A*StartCentral |
 | -------- | -------- |
 | **Lab Address:** | 79 Ayer Rajah Crescent, #05-03 Block 79, Singapore 139955 |
 
