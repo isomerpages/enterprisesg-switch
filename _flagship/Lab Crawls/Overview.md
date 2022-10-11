@@ -22,7 +22,11 @@ Find out more about these Lab Crawls below!
 ##### Learn about these Lab Crawls here: 
 
 1. [Singapore Science Park](https://switchsg.org/singapore-science-park/)
-2. [Aquaculture Innovation Centre, Temasek Polytechnic](https://switchsg.org/aquaculture-innovation-centre/)
-3. [Environmental and Water Technology Centre of Innovation](https://switchsg.org/environmental-water-technology-centre-of-innovation/)
-4. [IMDA PIXEL innovation and incubation space](https://switchsg.org/imda-pixel/)
-5. [PALO IT Singapore](https://switchsg.org/palo-it/)
+2. [JTC](https://switchsg.org/jurong-town-council/)
+3. [Aquaculture Innovation Centre, Temasek Polytechnic](https://switchsg.org/aquaculture-innovation-centre/)
+4. [Environmental and Water Technology Centre of Innovation](https://switchsg.org/environmental-water-technology-centre-of-innovation/)
+5. [IMDA PIXEL innovation and incubation space](https://switchsg.org/imda-pixel/)
+6. [PALO IT Singapore](https://switchsg.org/palo-it/)
+7.  [PUB](https://switchsg.org/pub/)
+8.  [SJ-NTU Corporate Lab](https://switchsg.org/pub/)
+9.  [Y-Lab, National Gallery Singapore](https://switchsg.org/y-lab-national-gallery-singapore/)
