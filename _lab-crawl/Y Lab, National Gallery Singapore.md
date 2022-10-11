@@ -9,13 +9,16 @@ Y-Lab is a unique Art x Tech convergence product innovation lab, housed in one o
 
 ![Y-Lab Lab Crawl SWITCH 2022](/images/ylabngs%20-%20Enjiao%20Chen.png)
 
-CultureTech showcases collaborations and projects from the National Arts Council, the National Gallery Singapore, the National Heritage Board, and the National Arts Council, with the continued support of from MCCY.
+Join us at the Y-Lab Open House to go behind-the-scenes and experience innovations in the National Gallery of Singapore. Come find out how we are leveraging A.I., blockchain, mixed reality and so on to enhance storytelling, how visitors interact with a museum and even how the staff works.
+
+  
+On this tour, you'll also get the experience to network with not only Gallery innovation teams, but also a host of other innovation labs from the arts and culture sector, namely: National Arts Council, National Heritage Board, and Singapore Art Museum.
 
 [For more information on Y-Lab @ National Gallery Singapore](http://ylab.sg/)
  
 #### **Lab Crawl Details**
 
-| **Name of Lab:** | AIC Aquaculture Research Facility (ARF) |
+| **Name of Lab:** | CultureTech Lab Crawl |
 | -------- | -------- |
 | **Lab Address:** | Block 8A Level 2, Temasek Polytechnic, 21 Tampines Ave 1, Singapore 529757 |
 |**Date:** | Fri, 28 Oct 2022 |
