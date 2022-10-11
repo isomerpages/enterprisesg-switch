@@ -11,7 +11,7 @@ Y-Lab is a unique Art x Tech convergence product innovation lab, housed in one o
 
 CultureTech showcases collaborations and projects from the National Arts Council, the National Gallery Singapore, the National Heritage Board, and the National Arts Council, with the continued support of from MCCY.
 
-[For more information on Aquaculture Innovation Centre](https://www.tp.edu.sg/aic)
+[For more information on Y-Lab @ National Gallery Singapore](http://ylab.sg/)
  
 #### **Lab Crawl Details**
 
