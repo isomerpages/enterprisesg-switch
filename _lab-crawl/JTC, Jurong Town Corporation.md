@@ -75,7 +75,7 @@ A\*STAR supports and manages several **innovation platforms and national progra
 
 ##### **Lab Crawl Details**
 
-| **Name of Lab:** | A*/Central |
+| **Name of Lab:** | A*Central |
 | -------- | -------- |
 | **Lab Address:** | 79 Ayer Rajah Crescent, #05-03 Block 79, Singapore 139955 |
 |**Date:** | Fri, 28 Oct 2022 |
