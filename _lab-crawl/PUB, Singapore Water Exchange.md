@@ -23,7 +23,7 @@ There will be two Labs for PUB's Lab Crawl
 |**Tour Slots:** | 12noon–5:00pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | Yes |
 |**Price:** | Free (Limited to 40 pax) |
-|**Register Here :** | [Singapore Water Exchange Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLScXBOc2DLcSxv4Nt5GSfViYYHlGlQQqyzZCOn31Wpm9DIJA9A/viewform) |
+|**Register Here :** | [Singapore Water Exchange Lab Crawl Registration.](https://web.micepad.co/water-innovation-day/info) |
 
 ### **About Nanyang Environment and Water Research Institute (NEWRI)** 
 
