@@ -20,9 +20,9 @@ On this tour, you'll also get the experience to network with not only Gallery in
 
 | **Name of Lab:** | CultureTech Lab Crawl |
 | -------- | -------- |
-| **Lab Address:** | Block 8A Level 2, Temasek Polytechnic, 21 Tampines Ave 1, Singapore 529757 |
+| **Lab Address:** | 1 St Andrew's Rd, #01 – 01, Singapore 178957 |
 |**Date:** | Fri, 28 Oct 2022 |
-|**Tour Slots:** | 12noon–12:45pm; 1–1:45pm (Singapore Time / UTC +8) |
+|**Tour Slots:** | 12noon–1pm; 4–5pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
-|**Register Here :** | [AIC Aquaculture Research Facility (ARF) Lab Crawl registration.](https://docs.google.com/forms/d/1VR3NZ3x-fYyjXbZqxjmZh1v-MYzvpwA73Aj11FfVV9I/viewform?edit_requested=true) |
+|**Register Here :** | [ Y-Lab @ National Gallery Singapore Lab Crawl registration.](https://docs.google.com/forms/d/e/1FAIpQLSdbpQU-FoPjIP2YjhzI3xqPA9AUTqaI5G9Q1bQxntgTYL9CEA/viewform) |
