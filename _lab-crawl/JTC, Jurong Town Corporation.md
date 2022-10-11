@@ -30,7 +30,7 @@ Audacity welcomes innovators who can look beyond the current technology paradigm
 
 | **Name of Lab:** | Microfactory by Audacity World |
 | -------- | -------- |
-| **Lab Address:** | Launchpad@JID, 2 Cleantech Loop, Singapore 637144  #01-01 |
+| **Lab Address:** | Launchpad@JID, 2 Cleantech Loop, Singapore 637144 #01-01 |
 
 ***
 
