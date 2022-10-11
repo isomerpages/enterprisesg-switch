@@ -2,6 +2,7 @@ collections:
   lab-crawl:
     output: true
     order:
+      - Nanyang Technological University.md
       - Y Lab, National Gallery Singapore.md
       - JTC, Jurong Town Corporation.md
       - PUB, Singapore Water Exchange.md
