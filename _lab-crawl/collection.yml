@@ -2,5 +2,6 @@ collections:
   lab-crawl:
     output: true
     order:
+      - Y Lab, National Gallery Singapore.md
       - JTC, Jurong Town Corporation.md
       - PUB, Singapore Water Exchange.md
