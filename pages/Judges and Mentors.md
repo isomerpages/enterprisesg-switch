@@ -10,4 +10,4 @@ image: /images/slingshot_2021_finalists_web.jpeg
 
 See more judges from SLINGSHOT 2022. [Click here](https://slingshot.agorize.com/en/challenges/2022-edition/pages/meet-the-judges?lang=en).
 
-Registration to be a judge or mentor for SLINGSHOT 2022 has **closed** 
+Registration to be a judge or mentor for SLINGSHOT 2022 has **closed**
