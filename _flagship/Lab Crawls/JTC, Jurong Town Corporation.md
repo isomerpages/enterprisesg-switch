@@ -4,7 +4,6 @@ permalink: /jurong-town-council/
 description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
-
 ### **About JTC, Jurong Town Corporation** 
 
 Join JTC for a specially curated tour on 28 October 2022 where you get a chance explore the latest innovative solutions at various labs and also learn about JTC’s role in supporting the Singapore’s start-up ecosystem at LaunchPad!
@@ -40,11 +39,11 @@ Audacity welcomes innovators who can look beyond the current technology paradigm
 
 Advanced Remanufacturing and Technology Centre (ARTC) is a contemporary platform built upon strong public-private partnerships. In partnership with Nanyang Technological University (NTU), Singapore, ARTC has a membership consortium with over 90 members, ranging from global multinational corporations (MNCs), public agencies, small and medium enterprises (SMEs) to startups focusing on three core industry clusters – Energy & Infrastructure, Transport & Engineering, and Consumer & Modern Services. 
 
-![A*Star Lab Crawl SWITCH 2022](/images/supplychain%20(1).jpg)*Photo courtesy of Astar*
+![A*Star Lab Crawl SWITCH 2022](/images/supplychain%20(1).jpg)
 
 ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the transfer of innovation from applied research to industrial applications and solutions.
 
-[For more information on Microfactory by Audacity World](https://audacity.world/microfactory/)
+[For more information on Advanced Remanufacturing and Technology Centre (ARTC) ](https://www.a-star.edu.sg/artc)
 
 ##### **Advanced Remanufacturing and Technology Centre (ARTC) Lab Crawl Details**
 
