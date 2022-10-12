@@ -86,7 +86,7 @@ A\*STAR supports and manages several **innovation platforms and national progra
 
 ***
 
-### **General Lab Crawl Details**
+### **General JTC Lab Crawl Details**
 
 | **Name of Lab:** | Lab Crawl at one-north and Jurong Innovation District (led by JTC) |
 | -------- | -------- |
