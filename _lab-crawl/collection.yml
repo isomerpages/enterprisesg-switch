@@ -1,5 +1,4 @@
 collections:
   lab-crawl:
     output: true
-    order:
-      - PUB, Singapore Water Exchange.md
+    order: []
