@@ -20,7 +20,7 @@ The Lab Crawl Tour will showcase PIXEL's lab facilities and co-working space at 
 | -------- | -------- |
 | **Lab Address:** |10 Central Exchange Green, Singapore 138649|
 |**Date:** | Fri, 28 Oct 2022 |
-|**Tour Slots:** | 2–3pm, 3–4pm, 4–5pm (Singapore Time / UTC +8) |
+|**Tour Slots:** | 2–3pm; 3–4pm; 4–5pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
 |**Register Here :** | [ IMDA PIXEL Innovation and Incubation Space Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLScvTWTyAv4sRQdCxpSIlvtzoW4DDRfxArzc9Yi2BBAxGEe63Q/viewform) |
