@@ -31,7 +31,7 @@ sections:
           url: /partner-events-2022/
         - title: Lab Crawls
           description: Visit innovation labs
-          url: /flagship/Lab-Crawls/overview-lab-crawl/
+          url: https://switchsg.org/flagship/Lab-Crawls/overview-lab-crawl/
   - infopic:
       title: The Global-Asia Innovation community meets at SWITCH
       subtitle: "flagship event "
