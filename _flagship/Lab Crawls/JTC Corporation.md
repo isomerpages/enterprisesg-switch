@@ -1,20 +1,20 @@
 ---
-title: JTC, Jurong Town Corporation
-permalink: /jurong-town-council/
+title: JTC Corporation
+permalink: /jtc/
 description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
-### **About JTC, Jurong Town Corporation** 
+### **About JTC-corporation** 
 
-Join JTC for a specially curated tour on 28 October 2022 where you get a chance explore the latest innovative solutions at various labs and also learn about JTC’s role in supporting the Singapore’s start-up ecosystem at LaunchPad!
+A government agency under Singapore’s Ministry of Trade and Industry, JTC is paving the way forward for Singapore’s industrial landscape by championing clean, green and smart estates. It is developing infrastructure, systems and initiatives that bridge cutting-edge technology and human skill to fuel growth.
 
-![JTC Lab Crawl SWITCH 2022](/images/JTC%20-%20Ashley%20Leow%20Shin%20Yee.png)
+![JTC Lab Crawl SWITCH 2022](/images/test%201.jpg)
 
-Come visit the following partners located in JTC’s one-north and Jurong Innovation District
-
-[For more information on JTC](https://estates.jtc.gov.sg/jid?utm_source=Google&utm_medium=JIDBrand&utm_campaign=JTCLocations&gclid=Cj0KCQjw4omaBhDqARIsADXULuUrZEszRaq25BTu3i1-YdXWteEXEqHdpG8-alPche7zpmOSDpawVZcaAlC3EALw_wcB)
+[For more information on JTC]( [https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad?utm\_source=switch&utm\_medium=website&utm\_campaign=202210-switch-lab-crawl](https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad?utm_source=switch&utm_medium=website&utm_campaign=202210-switch-lab-crawl)
 
 ### **Lab Crawls hosted by JTC**
+
+Join JTC for a specially curated tour in JTC's one-north and Jurong Innovation District. Get a chance to explore the latest innovative solutions at various labs and also learn about JTC’s role in supporting Singapore’s start-up ecosystem at LaunchPad!
 
 #### **Microfactory by Audacity World**
 
