@@ -2,6 +2,7 @@ collections:
   flagship:
     output: true
     order:
+      - Lab Crawls 2/Y Lab, National Gallery Singapore.md
       - Lab Crawls 2/SJ NTU Corporate Lab.md
       - Lab Crawls 2/PUB, Singapore Water Exchange.md
       - Lab Crawls 2/PALO IT Singapore.md
