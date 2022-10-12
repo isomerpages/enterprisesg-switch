@@ -10,9 +10,6 @@ A government agency under Singapore’s Ministry of Trade and Industry, JTC is p
 
 ![JTC Lab Crawl SWITCH 2022](/images/jtc%20test.jpg)
 
-[For more information on LaunchPad](https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad)
-
-[For more information on Microfactory by Audacity World](https://audacity.world/microfactory/)
 
 ### **Lab Crawls hosted by JTC Corporation (JTC)**
 
