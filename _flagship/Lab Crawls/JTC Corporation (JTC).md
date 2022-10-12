@@ -12,7 +12,6 @@ A government agency under Singapore’s Ministry of Trade and Industry, JTC is p
 
 [For more information on LaunchPad](https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad)
 
-
 ### **Lab Crawls hosted by JTC Corporation (JTC)**
 
 Join JTC for a specially curated tour in JTC's one-north and Jurong Innovation District. Get a chance to explore the latest innovative solutions at various labs and also learn about JTC’s role in supporting Singapore’s start-up ecosystem at LaunchPad!
