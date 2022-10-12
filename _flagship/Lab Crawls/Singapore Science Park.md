@@ -4,6 +4,8 @@ permalink: /singapore-science-park/
 description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
+
+
 ### **About Innovation Made Real @Singapore Science Park** 
   
 Singapore Science Park is proud to be part of the Singapore Week of Innovation and Technology (SWITCH) which returns from 25–28 October 2022. Taking place in conjunction with SWITCH 2022, Innovation Made Real @Singapore Science Park celebrates the Science & Tech community for its inventiveness and pursuit of innovation to deliver impact socially, environmentally and economically.

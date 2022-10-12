@@ -4,6 +4,8 @@ permalink: /aquaculture-innovation-centre/
 description: "Lab Crawl Partner, Aquaculture Innovation Centre, Temasek Polytechnic "
 third_nav_title: Lab Crawls
 ---
+
+
 ### **About Aquaculture Innovation Centre, Temasek Polytechnic** 
 
 Aquaculture Innovation Centre (AIC) is the first-ever Centre of Innovation and it is a Research lab for aquaculture related trials and study (COI). Supported by Singapore Food Agency (SFA) that adopts an inclusive and collaborative approach involving a consortium of 10 research institutes, agencies, universities & polytechnics.

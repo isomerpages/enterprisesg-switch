@@ -4,6 +4,8 @@ permalink: /environmental-water-technology-centre-of-innovation/
 description: Lab Crawl event SWITCH 2022
 third_nav_title: Lab Crawls
 ---
+
+
 ### **About Environmental and Water Technology Centre of Innovation** 
 
 The Environmental & Water Technology Centre of Innovation (EWTCOI) is a dedicated centre that aims to partner with strategic industry sectors in applied R&D and consultancy projects to translate ideas into practical solutions or innovations for a sustainable environment. 

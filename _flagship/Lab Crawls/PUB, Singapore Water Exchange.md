@@ -4,6 +4,8 @@ permalink: /pub/
 description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
+
+
 ### **About PUB, Singapore Water Exchange** 
 
 Singapore Water Exchange (SgWX) is designed to provide an integrated and conducive environment for water companies to operate and collaborate. It will house a vibrant ecosystem of water companies and leverage on mutual strengths to push the frontiers of water innovation and business growth.
