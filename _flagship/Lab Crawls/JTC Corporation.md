@@ -4,7 +4,6 @@ permalink: /jtc/
 description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
-
 ### **About JTC-corporation** 
 
 A government agency under Singapore’s Ministry of Trade and Industry, JTC is paving the way forward for Singapore’s industrial landscape by championing clean, green and smart estates. It is developing infrastructure, systems and initiatives that bridge cutting-edge technology and human skill to fuel growth.
@@ -17,7 +16,7 @@ For more information on LaunchPad
 
 ### **Lab Crawls hosted by JTC**
 
-
+Join JTC for a specially curated tour in JTC's one-north and Jurong Innovation District. Get a chance to explore the latest innovative solutions at various labs and also learn about JTC’s role in supporting Singapore’s start-up ecosystem at LaunchPad!
 
 #### **Microfactory by Audacity World**
 
@@ -100,3 +99,4 @@ A\*STAR supports and manages several **innovation platforms and national progra
 |**Shuttle Bus Services:** | Yes |
 |**Price:** | Free |
 |**Register Here:** | [Lab Crawl at one-north and Jurong Innovation District (led by JTC) Registration.](https://docs.google.com/forms/d/e/1FAIpQLSfZqd3rdNZmOjj7u2DQFp0aK3AnPA5TcUCftIWJswyq8-4mqQ/viewform) |
+
