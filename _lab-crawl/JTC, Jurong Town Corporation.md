@@ -38,7 +38,7 @@ Audacity welcomes innovators who can look beyond the current technology paradigm
 
 Advanced Remanufacturing and Technology Centre (ARTC) is a contemporary platform built upon strong public-private partnerships. In partnership with Nanyang Technological University (NTU), Singapore, ARTC has a membership consortium with over 90 members, ranging from global multinational corporations (MNCs), public agencies, small and medium enterprises (SMEs) to startups focusing on three core industry clusters – Energy & Infrastructure, Transport & Engineering, and Consumer & Modern Services. 
 
-![A*Star Lab Crawl SWITCH 2022](/images/Astar.jpg)*Photo courtesy of A*star*
+![A*Star Lab Crawl SWITCH 2022](/images/Astar.jpg)*Photo courtesy of Astar*
 
 ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the transfer of innovation from applied research to industrial applications and solutions.
 
