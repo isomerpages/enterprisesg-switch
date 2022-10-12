@@ -2,5 +2,4 @@ collections:
   lab-crawl:
     output: true
     order:
-      - JTC, Jurong Town Corporation.md
       - PUB, Singapore Water Exchange.md
