@@ -12,9 +12,11 @@ A government agency under Singapore’s Ministry of Trade and Industry, JTC is p
 
 For more information on LaunchPad
 
-[For more information on JTC]( [https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad?utm\_source=switch&utm\_medium=website&utm\_campaign=202210-switch-lab-crawl](https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad?utm_source=switch&utm_medium=website&utm_campaign=202210-switch-lab-crawl))
+[For more information on JTC]( [https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad?utm\_source=switch&utm\_medium=website&utm\_campaign=202210-switch-lab-crawl](https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad?utm_source=switch&utm_medium=website&utm_campaign=202210-switch-lab-crawl)
 
 ### **Lab Crawls hosted by JTC**
+
+
 
 #### **Microfactory by Audacity World**
 
