@@ -10,9 +10,9 @@ A government agency under Singapore’s Ministry of Trade and Industry, JTC is p
 
 ![JTC Lab Crawl SWITCH 2022](/images/jtc%20test.jpg)
 
-[For more information on LaunchPad]( [https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad?utm\_source=switch&utm\_medium=website&utm\_campaign=202210-switch-lab-crawl](https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad?utm_source=switch&utm_medium=website&utm_campaign=202210-switch-lab-crawl)
+[For more information on LaunchPad]([https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad?utm\_source=switch&utm\_medium=website&utm\_campaign=202210-switch-lab-crawl](https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad?utm_source=switch&utm_medium=website&utm_campaign=202210-switch-lab-crawl)
 
-### **Lab Crawls hosted by JTC**
+### **Lab Crawls hosted by JTC Corporation (JTC)**
 
 Join JTC for a specially curated tour in JTC's one-north and Jurong Innovation District. Get a chance to explore the latest innovative solutions at various labs and also learn about JTC’s role in supporting Singapore’s start-up ecosystem at LaunchPad!
 
