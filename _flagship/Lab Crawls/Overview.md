@@ -4,9 +4,6 @@ permalink: /flagship/Lab-Crawls/overview-lab-crawl/
 description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
-
-
-
 ## Lab Crawls
 SWITCH's Signature Lab Crawls are returning this October 2022! 
 
@@ -25,7 +22,7 @@ Find out more about these Lab Crawls below!
 ##### Register your interest for these Lab Crawls at their respective pages here: 
 
 1. [Singapore Science Park](https://switchsg.org/singapore-science-park/)
-2. [JTC](https://switchsg.org/jurong-town-council/)
+2. [JTC Corporation (JTC)](https://switchsg.org/jurong-town-council/)
 3. [Aquaculture Innovation Centre, Temasek Polytechnic](https://switchsg.org/aquaculture-innovation-centre/)
 4. [Environmental and Water Technology Centre of Innovation](https://switchsg.org/environmental-water-technology-centre-of-innovation/)
 5. [IMDA PIXEL innovation and incubation space](https://switchsg.org/imda-pixel/)
