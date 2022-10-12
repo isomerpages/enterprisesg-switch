@@ -8,7 +8,7 @@ third_nav_title: Lab Crawls
 
 A government agency under Singapore’s Ministry of Trade and Industry, JTC is paving the way forward for Singapore’s industrial landscape by championing clean, green and smart estates. It is developing infrastructure, systems and initiatives that bridge cutting-edge technology and human skill to fuel growth.
 
-![JTC Lab Crawl SWITCH 2022](/images/rsz_jtc_logo_tagline_rgb_for_digital.png)
+![JTC Lab Crawl SWITCH 2022](/images/jtcc.jpg)
 
 Come visit the following partners located in JTC’s one-north and Jurong Innovation District
 
