@@ -43,7 +43,7 @@ Advanced Remanufacturing and Technology Centre (ARTC) is a contemporary platform
 
 ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the transfer of innovation from applied research to industrial applications and solutions.
 
-[For more information on Advanced Remanufacturing and Technology Centre (ARTC) ](https://www.a-star.edu.sg/artc)
+
 
 ##### **Advanced Remanufacturing and Technology Centre (ARTC) Lab Crawl Details**
 
