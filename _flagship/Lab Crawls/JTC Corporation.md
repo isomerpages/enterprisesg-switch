@@ -99,4 +99,3 @@ A\*STAR supports and manages several **innovation platforms and national progra
 |**Shuttle Bus Services:** | Yes |
 |**Price:** | Free |
 |**Register Here:** | [Lab Crawl at one-north and Jurong Innovation District (led by JTC) Registration.](https://docs.google.com/forms/d/e/1FAIpQLSfZqd3rdNZmOjj7u2DQFp0aK3AnPA5TcUCftIWJswyq8-4mqQ/viewform) |
-
