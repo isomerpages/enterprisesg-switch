@@ -1,4 +1,5 @@
 collections:
   lab-crawl:
     output: true
-    order: []
+    order:
+      - JTC Corporation (JTC).md
