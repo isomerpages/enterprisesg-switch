@@ -4,7 +4,7 @@ permalink: /jurong-town-council/
 description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
-### **About JTC, Jurong Town Corporation** 
+### **About JTC-corporation** 
 
 Join JTC for a specially curated tour on 28 October 2022 where you get a chance explore the latest innovative solutions at various labs and also learn about JTC’s role in supporting the Singapore’s start-up ecosystem at LaunchPad!
 
