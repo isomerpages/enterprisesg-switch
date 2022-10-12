@@ -4,7 +4,6 @@ permalink: /jtc-2022/
 description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
-
 ### **About JTC Corporation (JTC)** 
 
 A government agency under Singapore’s Ministry of Trade and Industry, JTC is paving the way forward for Singapore’s industrial landscape by championing clean, green and smart estates. It is developing infrastructure, systems and initiatives that bridge cutting-edge technology and human skill to fuel growth.
