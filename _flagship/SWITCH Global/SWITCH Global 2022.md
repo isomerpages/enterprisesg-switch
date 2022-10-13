@@ -7,13 +7,13 @@ description: The Singapore Week of Innovation and Technology (SWITCH) brings
 image: /images/SWITCH Global 3.JPG
 third_nav_title: SWITCH Global
 ---
-![Programme Highlight for SWITCH Global](/images/PROGRAMME%20HIGHLIGHTS%20(Global).png)![](/images/SWITCH%20Global%201.jpg)
-
 #### Expansion Opportunities at SWITCH Global 
 
 Have the world’s opportunities right at your fingertips. SWITCH Global congregates business and market leaders to champion conversation on emerging growth opportunities across different regions, business strategies and expansion approaches.  
 
 Speak to our global partners to learn more on how to expand into their various markets around the world. Get in touch with the nuances of local business cultures and ecosystem to tap on global opportunities that await you. 
+
+Access SWITCH Global with a FREE Trade Pass. **[LEARN MORE >](/tickets)**
 
 #### SWITCH Global 2022 (25 – 27 Oct) 
 SWITCH Global 2022 will focus on key industry and expansion opportunities across all 6 continents through curated Market Access sessions and Global Pavilions helmed by local experts in: 
@@ -31,3 +31,5 @@ SWITCH Global has convened established leaders from innovation ecosystems, globa
 ![Global Partners SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/Global%20Partners.png)
 #### Speakers from SWITCH Global 2022
 ![Global Speakers SWITCH 2022](/images/Global.png)
+
+Access SWITCH Global with a FREE Trade Pass. **[REGISTER NOW >](https://community.switchsg.org/register)**
