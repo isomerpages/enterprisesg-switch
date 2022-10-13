@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Partner Events
 ---
 ![FUTR ASIA AT SWITCH 2022](/images/ASIA-banner-eventbrite.png)
-# About
+# **About**
 FUTR Asia brings together the movers and shakers from brands, retailers, corporates, e-commerce, agencies and tech solutions. Our 2022 theme is focused on ‘Fostering Community & Being Bold’ as we all look forward and to see whats now, and next. Now in its 7th year, FUTR has the undisputed reputation of excellence in both content and learning. Expect to hear from the likes of Starbucks, Sephora, Levi's, Crocs, J&J, Pizza Hut, Unilever, Lego, Razor, Lazada, Coca Cola, Uber, Mondelez & more.
-# Details
+## **Details**
 
 | **Title:** | FUTR ASIA |
 | -------- | -------- |
@@ -21,17 +21,17 @@ FUTR Asia brings together the movers and shakers from brands, retailers, corpor
 
 *By attending FUTR ASIA, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
-# Highlights
+## **Highlights**
 * 22 presentations and 11 panel discussions by a variety of speakers
 * Networking lunches and meetings
 * Exhibition across all 4 days at SWITCH 2022
 
-# Why attend?
+## **Why attend?**
 * VIP Brand Retailer programme and private networking opportunities at the Summit 
 * FUTR Asia will equip you with a comprehensive commerce tool kit, learning from the presentations on the latest campaigns and innovations in marketing
 * Meet leading brands, retailers and entrepreneurs in a high powered forum
 
-# Speakers
+## **Speakers**
 * **Ram Kumar**, Chief Data & Analytics Officer, Cigna 
 * **Napapat Luedeesunun**, Vice President Marketing Strategy, Central Pattana
 * **Vipin Gupta**, Chief Technology Officer, Starbucks
