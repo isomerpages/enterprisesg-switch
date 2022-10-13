@@ -29,6 +29,7 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 *   Expert Plenary Discussions  
 *   Thought Leadership Insights & Networking     
 *   Sustainable Technology Masterclass
+*   Launch of Green Tree Initiative & Sustainability Collaborations, including the launch of SMU Academy’s [Advanced Capital in Venture Capital](https://academy.smu.edu.sg/advanced-certificate-venture-capital-7921)
 
 ## **Why attend?**
 *   Hear from industry experts and sustainability practitioners  
