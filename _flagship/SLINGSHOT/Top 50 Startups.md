@@ -4,7 +4,7 @@ permalink: /top-50-startups/
 description: SLINGSHOT Top 50 Startups
 third_nav_title: SLINGSHOT
 ---
-## **Overview**
+## **The journey so far**
 
 SLINGSHOT is in its 6th edition this year and has received over 3,600 applications from more than 150 countries by 31 July 2022. After two rounds of virtual judging, we are pleased to have our Top 50 finalists here with us in Singapore selected by more than 200 international judges. They will go through a 3.5-day physical immersion programme (from 19 to 22 Oct) specially curated for them which aims to link them up with local ecosystem partners through face-to-face engagements. 
 
