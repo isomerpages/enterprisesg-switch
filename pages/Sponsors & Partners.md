@@ -7,7 +7,7 @@ description: ""
 ![Platinum sponsor SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/Platinum%20Sponsor.png)
 
 ##### Gold Sponsors
-![Gold Sponsors SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/Gold%20Sponsors.png)
+![Gold Sponsors SWITCH 2022](/images/gold%20sponsors%20v3.png)
 
 ##### Silver Sponsors
 ![Silver Sponsor SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/Silver%20Sponsors.png)
