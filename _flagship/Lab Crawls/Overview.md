@@ -28,5 +28,5 @@ Find out more about these Lab Crawls below!
 5. [IMDA PIXEL innovation and incubation space](https://switchsg.org/imda-pixel/)
 6. [PALO IT Singapore](https://switchsg.org/palo-it/)
 7.  [PUB](https://switchsg.org/pub/)
-8.  [SJ-NTU Corporate Lab]()
+8.  [SJ-NTU Corporate Lab](https://switchsg.org/Ntu/)
 9.  [Y-Lab, National Gallery Singapore](https://switchsg.org/y-lab-national-gallery-singapore/)
