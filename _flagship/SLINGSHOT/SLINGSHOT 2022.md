@@ -14,7 +14,7 @@ In its sixth addition, SLINGSHOT is looking for startups in **five emerging chal
 
 Regardless of where you're from, this is your chance to showcase your solution in Singapore, one of the leading global startup hubs. The Top 50 startups will win a **sponsored trip to Singapore** to be immersed in the startup ecosystem and make the pitch of a lifetime to a global audience of major investors, industry experts, and thought leaders!
 
-[Meet the SLINGSHOT 2022 Top 50 startups!](https://switchsg.org/top-50-startups/)
+[Meet the SLINGSHOT 2022 Top 50 startups!](/top-50-startups/)
 
 ##### SLINGSHOT returns to the SWITCH Grand Stage
 
