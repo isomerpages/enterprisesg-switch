@@ -4,7 +4,7 @@ permalink: /global-green-economy-forum/
 description: ""
 third_nav_title: Partner Events
 ---
-![GGEF SWITCH 2022](/images/GGEF.jpg)
+![Partner Event SWITCH 2022](/images/Sustainability%20Roundtable.png)
 # About
 To meet the growing demand of future generations and climate challenges, building sustainable and resilience cities would require more technological innovations. 
 
@@ -43,4 +43,4 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 * **Eric Loh**, Vice President, G Element
 * **Professor William Chen**, Michael Fam Endowed Chair Professor in Food Science and Technology
 
-[Visit the event website to learn more.](www.ggef.com/roundtable )
+[Visit the event website to learn more.](https://www.ggef.com/roundtable)
