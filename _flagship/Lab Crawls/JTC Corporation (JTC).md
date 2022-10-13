@@ -72,14 +72,14 @@ Guided by the Grab Way, our mission is to drive Southeast Asia forward by creati
 
 #### **A*StartCentral**
 
-A\*STAR supports and manages several **innovation platforms and national programmes** to address specific sector needs and expedite the innovation process.
+A\*StartCentral is an open innovation platform by the Agency for Science Technology and Research (A\*STAR). We aim to incubate and accelerate the growth of deep-tech startups, and bolster the startup ecosystem
 
 ![aStar ](/images/astart-web-banner_1.png)
-*Photo Courtesy of AStartCentral*
+*Photo Courtesy of A\*StartCentral*
 
 [For more information on A*StartCentral](https://www.a-star.edu.sg/enterprise/innovation-platforms/a-startcentral)
 
-##### **A*Central Lab Crawl Details**
+##### **A*StartCentral Lab Crawl Details**
 
 | **Name of Lab:** | A*StartCentral |
 | -------- | -------- |
