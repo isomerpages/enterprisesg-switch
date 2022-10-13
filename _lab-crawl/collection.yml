@@ -1,5 +1,4 @@
 collections:
   lab-crawl:
     output: true
-    order:
-      - Seagate.md
+    order: []
