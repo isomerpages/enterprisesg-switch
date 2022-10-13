@@ -7,11 +7,11 @@ description: Lab Crawl SWITCH 2022
 
 A collaborative platform where Seagate partners with the startup ecosystem to create solutions that harness the power of data.
 
-![Aquaculture Innovation Centre SWITCH 2022](/images/AIC%20Logo%20Krishnasamy%20Susila.jpg)
+![Lyvelabs Lab Crawl SWITCH 2022](/images/Lyve-Labs-Singapore.png)
 
 The session aims to share with visitors about Seagate Lyve Labs Singapore and how we support innovation and startups in the region. We will also invite some startups in our community to present their solutions and experiences working with us. In the end, we will have a networking session to promote interaction among the visitors.
 
-[For more information on Aquaculture Innovation Centre](https://www.tp.edu.sg/aic)
+[For more information on Seagate](https://www.tp.edu.sg/aic)
  
 #### **Lab Crawl Details**
 
