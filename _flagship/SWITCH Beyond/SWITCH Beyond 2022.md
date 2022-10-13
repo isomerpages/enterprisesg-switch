@@ -11,6 +11,8 @@ third_nav_title: SWITCH Beyond
 ### About SWITCH Beyond
 SWITCH Beyond is the sectoral thought leadership channel that brings together global leaders and industry experts from diverse industries to must-attend conference sessions, where groundbreaking innovative ideas and technologies that are transforming the world take place.
 
+Access SWITCH Beyond with a PREMIUM Conference + Trade Pass. **[LEARN MORE >](/tickets)**
+
 ### SWITCH Beyond 2022 (25 – 27 Oct) 
 SWITCH Beyond 2022 will continue to bring together global business leaders, innovation champions and academic industry experts to discuss the latest trends, industry challenges and new opportunities in various sectors.
 
@@ -25,3 +27,5 @@ SWITCH Beyond 2022 will continue to bring together global business leaders, inno
 Our past guests included vanguard leaders from industries, governments, and institutions all across the world.  Join us in 2022 to engage with the brightest minds for discussions on emergent topics that shape the future of our communities and economies.
 
 ![SWITCH 2022 Beyond Speakers Highlights](/images/SWITCH_2022_Speakers_Beyond_Highlights_V2.png)
+
+Access SWITCH Beyond with a PREMIUM Conference + Trade Pass. **[REGISTER NOW >](https://community.switchsg.org/register)**

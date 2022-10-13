@@ -46,3 +46,5 @@ third_nav_title: SWITCH Global
 | 1:30–2:20pm | Malaysia market access session - Powered by: Malaysian Research Accelerator for Technology & Innovation (MRANTI)|
 
 _* Contents are subject to change_
+
+Access SWITCH Global with a FREE Trade Pass. **[LEARN MORE >](/tickets)**

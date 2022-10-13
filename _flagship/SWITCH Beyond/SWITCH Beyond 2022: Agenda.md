@@ -60,3 +60,5 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 | 2:35–3:15pm | Asia's digital economy and the rise of unicorns | 
 
 _* Contents are subject to change_
+
+Access SWITCH Beyond with a PREMIUM Conference + Trade Pass. **[REGISTER NOW >](https://community.switchsg.org/register)**
