@@ -11,15 +11,15 @@ A collaborative platform where Seagate partners with the startup ecosystem to cr
 
 The session aims to share with visitors about Seagate Lyve Labs Singapore and how we support innovation and startups in the region. We will also invite some startups in our community to present their solutions and experiences working with us. In the end, we will have a networking session to promote interaction among the visitors.
 
-[For more information on Seagate](https://www.tp.edu.sg/aic)
+[For more information on Seagate Lyve Labs Singapore](https://labs.seagate.com/singapore/)
  
 #### **Lab Crawl Details**
 
-| **Name of Lab:** | AIC Aquaculture Research Facility (ARF) |
+| **Name of Lab:** | Lyve Labs |
 | -------- | -------- |
-| **Lab Address:** | Block 8A Level 2, Temasek Polytechnic, 21 Tampines Ave 1, Singapore 529757 |
+| **Lab Address:** |26 Ayer Rajah Crescent, Singapore 139944 |
 |**Date:** | Fri, 28 Oct 2022 |
-|**Tour Slots:** | 12noon–12:45pm; 1–1:45pm (Singapore Time / UTC +8) |
+|**Tour Slots:** | 2:30–4pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
-|**Register Here :** | [AIC Aquaculture Research Facility (ARF) Lab Crawl Registration.](https://docs.google.com/forms/d/1VR3NZ3x-fYyjXbZqxjmZh1v-MYzvpwA73Aj11FfVV9I/viewform?edit_requested=true) |
+|**Register Here :** | [Seagate Lyve Labs Registration.](https://docs.google.com/forms/d/e/1FAIpQLSfIaaLCfVDrpEXb6cVyhOkkV4EVFMCdUAFWy6bYzO9s-PteRQ/viewform) |
