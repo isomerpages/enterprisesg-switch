@@ -2,8 +2,8 @@
 title: Entry requirements
 permalink: /entry-requirements/
 description: ""
-third_nav_title: Visitor Information
 ---
+
 
 ## **Covid vaccination requirements**
 SWITCH 2022 will be a Vaccination-Differentiated event, do take note of the following precautions:

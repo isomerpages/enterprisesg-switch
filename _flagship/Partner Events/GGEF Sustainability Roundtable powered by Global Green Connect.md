@@ -24,7 +24,6 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 *By attending GGEF Sustainability Roundtable powered by Global Green Connect, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
 ## **Highlights**
-*   Launch of Green Tree Initiative & Sustainability Collaborations, including the launch of SMU Academy’s [Advanced Capital in Venture Capital](https://academy.smu.edu.sg/advanced-certificate-venture-capital-7921)
 *   Launch of Green Tree Initiative to showcase Singapore role in promoting Sustainability in ASEAN and Asia  
 *   MOU Signing Ceremony on exciting collaborations for Sustainable Technology and Finance trainings  
 *   Expert Plenary Discussions  

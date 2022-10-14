@@ -4,8 +4,6 @@ permalink: /singapore-science-park/
 description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
-
-
 ### **About Innovation Made Real @Singapore Science Park** 
   
 Singapore Science Park is proud to be part of the Singapore Week of Innovation and Technology (SWITCH) which returns from 25–28 October 2022. Taking place in conjunction with SWITCH 2022, Innovation Made Real @Singapore Science Park celebrates the Science & Tech community for its inventiveness and pursuit of innovation to deliver impact socially, environmentally and economically.
@@ -108,3 +106,25 @@ Visit Catapult to understand how their integrated ecosystem of Campus Spaces, Cu
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (10 pax per sessions) |
 |**Register Here:** | [Playground for Learners - Catapult by CapitaLand Park Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+
+#### **Vectura Fertin Pharma Laboratories**
+
+Vectura Fertin Pharma Laboratories brings together expertise in drug delivery to the lungs, inhalation drug-device combination, oral delivery systems and preclinical safety toxicology capabilities to build upon existing, novel, and repurposed therapeutic products to make them better for consumers and patients of tomorrow..  
+
+![Vetura Fertin Pharma Parnter Events SWITCH 2022](/images/vecture%20fertin%20Pharma.png)
+*Photo courtesy of Vectura Fertin Pharma*
+  
+Visit Vectura Fertin Pharma Laboratories to see how our facility, specializing in inhalation sciences, can support both local and global pharmaceutical / biotechnology partners to achieve their preclinical research goals with customizable laboratory services.
+
+[For more information on Vectura Fertin Pharma](https://www.vecturafertinpharma.com)
+
+##### **Lab Crawl Details**
+
+| **Name of Lab:** | Vectura Fertin Pharma Laboratories |
+| -------- | -------- |
+| **Lab Address:** | The Kendall, Singapore Science Park II, 50 Science Park Road, #02-07 Singapore 117406 |
+|**Date:** | Fri, 28 Oct 2022 |
+|**Tour Slots:** | 2–2:45pm, 2:45–3:30pm (Singapore Time / UTC +8) |
+|**Shuttle Bus Services:** | No |
+|**Price:** | Free (15 pax per sessions) |
+|**Register Here:** | [Vectura Fertin Pharma Laboratories Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
