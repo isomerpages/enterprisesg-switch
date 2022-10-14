@@ -122,7 +122,7 @@ Visit Vectura Fertin Pharma Laboratories to see how our facility, specializing i
 
 | **Name of Lab:** | Vectura Fertin Pharma Laboratories |
 | -------- | -------- |
-| **Lab Address:** | The Kendall, Singapore Science Park II, 50 Science Park Road, #02-07. Singapore 117406 |
+| **Lab Address:** | The Kendall, Singapore Science Park II, 50 Science Park Road, #02-07 Singapore 117406 |
 |**Date:** | Fri, 28 Oct 2022 |
 |**Tour Slots:** | 2–2:45pm, 2:45–3:30pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
