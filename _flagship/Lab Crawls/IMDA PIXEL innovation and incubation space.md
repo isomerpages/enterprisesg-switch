@@ -12,7 +12,12 @@ The Lab Crawl Tour will showcase PIXEL’s specialised lab facilities and co-wor
 
 ![IMDA PIXEL Lab Crawl SWITCH 2022](/images/pixel%20logo%20high%20res%20whitebackground%20-%20Kang%20Min.png)
 
-The Lab Crawl Tour will showcase PIXEL's lab facilities and co-working space at Singapore's one-North District bringing together an ecosystem of startups, corporates, government, ecosystem partners and global players.
+#### **Tour Programme Highlights**
+* Get to know how PIXEL and the Open Innovation Platform by IMDA can help you in your innovation journey
+* Experience the various lab facilities including the ARVR, prototyping and UI/UX labs here at PIXEL
+* Immerse into the diverse co-working environment and community at PIXEL
+* Get to know the founders and experience the live demonstrations of the latest tech solutions by our startups
+* Network and wind down on a Friday with all of us at PIXEL. Snacks and drinks on us!
 
 [For more information on IMDA PIXEL ](https://impixel.imda.gov.sg/)
  
