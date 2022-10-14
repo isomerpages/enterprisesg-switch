@@ -111,7 +111,7 @@ Visit Catapult to understand how their integrated ecosystem of Campus Spaces, Cu
 
 Vectura Fertin Pharma Laboratories brings together expertise in drug delivery to the lungs, inhalation drug-device combination, oral delivery systems and preclinical safety toxicology capabilities to build upon existing, novel, and repurposed therapeutic products to make them better for consumers and patients of tomorrow..  
 
-![Vetura Fertin Pharma Parnter Events SWITCH 2022](/images/vecture%20fertin%20Pharma.png)
+![Vectura Lab Crawl SWITCH 2022](/images/Vectura%20Fertin%20Pharma%20Laboratories.jpg)
 *Photo courtesy of Vectura Fertin Pharma*
   
 Visit Vectura Fertin Pharma Laboratories to see how our facility, specializing in inhalation sciences, can support both local and global pharmaceutical / biotechnology partners to achieve their preclinical research goals with customizable laboratory services.
