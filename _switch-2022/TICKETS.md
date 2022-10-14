@@ -1,6 +1,6 @@
 ---
 title: TICKETS
-permalink: /tickets
+permalink: /tickets/
 description: ""
 ---
 *This page is better viewed on landscape mode*
@@ -25,4 +25,4 @@ Unable to join us at the Flagship Event in-person? Our digital access options un
 
 See you at SWITCH!
 
-**[Click here](https://enterprisesg-switch-staging.netlify.app/experience-2022)** to learn more about the SWITCH experience! 
+**[Click here](/experience-2022)** to learn more about the SWITCH experience!
