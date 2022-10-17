@@ -11,23 +11,25 @@ third_nav_title: SLINGSHOT
 | Time | Session | 
 | -------- | -------- |
 | 9–9:30am  | Opening |
-| 10:45am–12:15pm  | SLINGSHOT Domain Finals 1: Health & Biomedical |
+| 9:35–10:20am | Catalysing Innovation in Asia For the World |
+| 10:25–11:55am | SLINGSHOT Domain Finals 1: Health & Biomedical |
 | 1:30–1:50pm | Why do innovations fail? - Powered by Amazon Web Services (AWS) |
 | 1:55–2:15pm | Speed to scale into markets for B2B startups - Powered by: NCS Pte Ltd |
-| 2:30–4pm | SLINGSHOT Domain Finals 2: Transformative Digital Technologies | 
-| 4:15–5pm  | Startup masterclass: IP and M&A for startups - Powered by: Baker McKenzie |
-| 5:15–5:45pm | Scaling innovation for public goods - Powered by: Amazon Web Services (AWS) |
+| 2:20–3:50pm | SLINGSHOT Domain Finals 2: Transformative Digital Technologies | 
+| 3:55–4:40pm  | Masterclass: Startups expanding to Singapore and Asia: Powered by: Baker McKenzie |
+| 4:45–5:15pm | Scaling innovation for public goods - Powered by: Amazon Web Services (AWS) |
+| 5:20–6pm | Unlocking Global Opportunities through Open Innovation |
 
 ### **DAY 2: WED 26 OCT 2022**
 
 | Time | Session | 
 | -------- | -------- |
 | 9–9:45am  | The search for talent to accelerate growth |
-| 10am–1:30pm  | SLINGSHOT Domain Finals 3: Consumer Media, Goods & Services |
-| 11:45am–12:30pm  | Focusing on what matters most: Strategies for revenue growth |
+| 9:50–11:20am  | SLINGSHOT Domain Finals 3: Consumer Media, Goods & Services |
+| 11:25–12:10pm  | Focusing on what matters most: Strategies for revenue growth |
 | 1:30–3pm | SLINGSHOT Domain Finals 4: Manufacturing, Trade & Connectivity |
-| 3:15–4:45pm | SLINGSHOT Domain Finals 5: Environment, Energy and Green Technologies |
-| 5–5:30 | Startup masterclass |
+| 3:10–4:40pm | SLINGSHOT Domain Finals 5: Environment, Energy and Green Technologies |
+| 4:45–5:15pm | Masterclass Powered by: Google and Sequoia Capitial|
 | 5:45–6:05pm | Announcement of Top 10 Finalists |
 
 
@@ -35,13 +37,13 @@ third_nav_title: SLINGSHOT
 
 | Time | Session | 
 | -------- | -------- |
-| 9:30–9:55am | Growing your brand story: TikTok for business |
-| 10–10:45am  | Global opportunities for startups - Powered by: Global Innovation Alliance |
-| 11–11:45am  | Succeeding from Singapore: startups' journeys |
-| 12noon–12:30pm  | Startup masterclass |
-| 1:45–2:15pm | The e-Conomy SEA 2022 Report" - Powered by: Google, Bain, Temasek |
-| 2:30–4:20pm | SLINGSHOT Grand Finals |
-| 4:35–5:20pm | Attaining the next billion, who's next? |
+| 9:30–9:55am | Masterclass: Scaling your growth and drive sales with TikTok for Business - Powered by TikTok for Business |
+| 10–10:45am  | Scaling across the globe as a startup with EnterpriseSG - Powered by: Global Innovation Alliance |
+| 10:50–11:35am  | Succeeding from Singapore: startups' journeys |
+| 11:40am–12:10pm  | Masterclass: Mastering customer experience: How to increse customer acquisition and retention in Today's Landscape |
+| 1:55–2:25pm | The e-Conomy Southeast Asia 2022: Through the Waves, towards a sea of opportunity |
+| 2:30–4:35pm | Chairman speech and SLINGSHOT Grand Finals |
+| 4:35–5:20pm | Attaining the next billions |
 | 5:35–6:35pm | Announcement of SLINGSHOT Winners and Grand Prize Ceremony |
 
 _* Contents are subject to change_

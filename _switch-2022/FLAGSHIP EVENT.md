@@ -7,7 +7,7 @@ description: ""
 # **At a glance**
 Held in Singapore from **25–28 October at Resorts World Convention Centre,** the Flagship Event features 3 tracks that are carefully curated to showcase exciting frontier technologies and opportunities for collaboration. Learn more below:
 
-![](/images/At%20A%20Glance%202022_website.png)
+![SWITCH 2022 At a Glance](/images/SWITCH%202022%20Infographics/SWITCH_2022-Infographic-At_A_Glance_R2.png)
 
 ![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/2207%20Before%20launch%20Pillars%20Final%20VER.png)
 
