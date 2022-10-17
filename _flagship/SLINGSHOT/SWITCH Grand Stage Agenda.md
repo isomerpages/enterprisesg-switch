@@ -25,11 +25,11 @@ third_nav_title: SLINGSHOT
 | Time | Session | 
 | -------- | -------- |
 | 9–9:45am  | The search for talent to accelerate growth |
-| 10am–1:30pm  | SLINGSHOT Domain Finals 3: Consumer Media, Goods & Services |
-| 11:45am–12:30pm  | Focusing on what matters most: Strategies for revenue growth |
+| 9:50–11:20am  | SLINGSHOT Domain Finals 3: Consumer Media, Goods & Services |
+| 11:25–12:10pm  | Focusing on what matters most: Strategies for revenue growth |
 | 1:30–3pm | SLINGSHOT Domain Finals 4: Manufacturing, Trade & Connectivity |
-| 3:15–4:45pm | SLINGSHOT Domain Finals 5: Environment, Energy and Green Technologies |
-| 5–5:30 | Startup masterclass |
+| 3:10–4:40pm | SLINGSHOT Domain Finals 5: Environment, Energy and Green Technologies |
+| 4:45–5:15pm | Masterclass Powered by: Google and Sequoia Capitial|
 | 5:45–6:05pm | Announcement of Top 10 Finalists |
 
 
@@ -37,13 +37,13 @@ third_nav_title: SLINGSHOT
 
 | Time | Session | 
 | -------- | -------- |
-| 9:30–9:55am | Growing your brand story: TikTok for business |
-| 10–10:45am  | Global opportunities for startups - Powered by: Global Innovation Alliance |
-| 11–11:45am  | Succeeding from Singapore: startups' journeys |
-| 12noon–12:30pm  | Startup masterclass |
-| 1:45–2:15pm | The e-Conomy SEA 2022 Report" - Powered by: Google, Bain, Temasek |
-| 2:30–4:20pm | SLINGSHOT Grand Finals |
-| 4:35–5:20pm | Attaining the next billion, who's next? |
+| 9:30–9:55am | Masterclass: Scaling your growth and drive sales with TikTok for Business - Powered by TikTok for Business |
+| 10–10:45am  | Scaling across the globe as a startup with EnterpriseSG - Powered by: Global Innovation Alliance |
+| 10:50–11:35am  | Succeeding from Singapore: startups' journeys |
+| 11:40am–12:10pm  | Masterclass: Mastering customer experience: How to increse customer acquisition and retention in Today's Landscape |
+| 1:55–2:25pm | The e-Conomy Southeast Asia 2022: Through the Waves, towards a sea of opportunity |
+| 2:30–4:35pm | Chairman speech and SLINGSHOT Grand Finals |
+| 4:35–5:20pm | Attaining the next billions |
 | 5:35–6:35pm | Announcement of SLINGSHOT Winners and Grand Prize Ceremony |
 
 _* Contents are subject to change_
