@@ -11,12 +11,14 @@ third_nav_title: SLINGSHOT
 | Time | Session | 
 | -------- | -------- |
 | 9–9:30am  | Opening |
-| 10:45am–12:15pm  | SLINGSHOT Domain Finals 1: Health & Biomedical |
+| 9:35–10:20am | Catalysing Innovation in Asia For the World |
+| 10:25–11:55am | SLINGSHOT Domain Finals 1: Health & Biomedical |
 | 1:30–1:50pm | Why do innovations fail? - Powered by Amazon Web Services (AWS) |
 | 1:55–2:15pm | Speed to scale into markets for B2B startups - Powered by: NCS Pte Ltd |
-| 2:30–4pm | SLINGSHOT Domain Finals 2: Transformative Digital Technologies | 
-| 4:15–5pm  | Startup masterclass: IP and M&A for startups - Powered by: Baker McKenzie |
-| 5:15–5:45pm | Scaling innovation for public goods - Powered by: Amazon Web Services (AWS) |
+| 2:20–3:50pm | SLINGSHOT Domain Finals 2: Transformative Digital Technologies | 
+| 3:55–4:40pm  | Masterclass: Startups expanding to Singapore and Asia: Powered by: Baker McKenzie |
+| 4:45–5:15pm | Scaling innovation for public goods - Powered by: Amazon Web Services (AWS) |
+| 5:20–6pm | Unlocking Global Opportunities through Open Innovation |
 
 ### **DAY 2: WED 26 OCT 2022**
 
