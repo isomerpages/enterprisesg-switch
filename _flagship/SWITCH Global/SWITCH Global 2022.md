@@ -28,7 +28,7 @@ If you are looking to expand your business abroad, SWITCH Global will connect yo
 SWITCH Global has convened established leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors. Whatever your business needs, find the right connections here!
 
 #### Global Partners from SWITCH 2022
-![Global Partners for SWITCH 2022](/images/Global%20Partners_updated%20V2.jpg)
+![Global Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(9).png)
 
 #### Speakers from SWITCH Global 2022
 ![Global Speakers SWITCH 2022](/images/Global.png)
