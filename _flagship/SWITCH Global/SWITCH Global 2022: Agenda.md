@@ -32,7 +32,7 @@ third_nav_title: SWITCH Global
 | 10:30–11:20am  | Spain market access session - Powered by: ICEX ESPAÑA EXPORTACIÓN E INVERSIONES E.P.E. |
 | 11:30am–12:20pm | Germany - North Rhine Westphalia market access session - Powered by: North-Rhine Westphalia Global Business (NRW Global Business) |
 | 1:30–2:20pm | Qatar market access session - Powered by: Invest Qatar |
-| 2:30–3:20pm | South Africa market access session - Powered by: Grindstone |
+| 2:30–3:20pm | Grindstone presents tech in South Africa - Powered by: Thinkroom |
 | 3:30–4:20pm | Philippines market access session - Powered by: QBO Innovation Hub | 
 | 5:30–6pm  | Multimarket closing panel - Germany (Hessen), Canada, Singapore - Powered by: Hessen Trade and Invest and High Commission of Canada |
 
