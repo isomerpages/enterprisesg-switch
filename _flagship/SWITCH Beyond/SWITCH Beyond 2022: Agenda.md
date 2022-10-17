@@ -50,7 +50,7 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 | Time | Session | 
 | -------- | -------- |
 | 9–9:40am  | How businesses can prepare for the new economies of the metaverse - Hosted by: SGTech & Meta |
-| 9:45–10:10am  | Interactions between Blockchain and cybersecurity |
+| 9:45–10:10am  | Interactions between blockchain and cybersecurity |
 | 10:35–11:15am | Engineering an inclusive society - Role of education & technology |
 | 11:20am–12:00noon | How Web 3.0 technology and the metaverse will unlock opportunity and impact our world - Hosted by: SGTech & Meta  |
 | 1:05–1:45pm | Harnessing commercial technologies for shared global security |
