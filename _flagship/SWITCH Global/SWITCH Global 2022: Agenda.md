@@ -14,27 +14,27 @@ third_nav_title: SWITCH Global
 
 | Time | Session | 
 | -------- | -------- |
-| 9–9:20am  | Deputy Prime Minister opening on grand stage |
-| 10:30–11:20am | Japan market access session - Powered by: Japan External Trade Organization (JETRO) |
-| 11:30am–12:20pm | Brazil market access session - Powered by: Brazil Embassy |
-| 1:30–2:20pm |Australia market access session - Powered by: Invest Victoria |
-| 2:30–3:20pm | Korea market access session - Powered by: K-startup Center (KSC) and Korea Institute of Startup & Entrepreneurship (KISED) | 
-| 3:30–4:20pm  | Abu Dhabi market access session - Powered by: Abu Dhabi Department of Economic Development (Abu Dhabi DED) |
-| 4:30–5:20pm  | Finland market access session - Powered by Finland Embassy |
-| 5:30–6pm  | Multimarket closing panel - Finland, India, Singapore - Powered by: Finland Embassy and Confederation of Indian Industry (CII) |
+| 10–10:20am  | Expansion to the United States |
+| 10:30–11:20am | Market access to Japan for innovative startups - Powered by: Japan External Trade Organization (JETRO) |
+| 11:30am–12:20pm | Expand to Brazil, the start-up ecosystem and a world of opportunities - Powered by: Brazil Embassy |
+| 1:30–2:20pm | Accelerate your health tech businesses in Melbourne, Victoria - Powered by: Invest Victoria |
+| 2:30–3:20pm | Riding the entrepreneur wave with the Korean startups- Powered by: K-startup Center (KSC) and Korea Institute of Startup & Entrepreneurship (KISED) | 
+| 3:30–4:20pm  | The future of business, Abu Dhabi - Powered by: Abu Dhabi Department of Economic Development (Abu Dhabi DED) |
+| 4:30–5:20pm  | Finland market access - Explore the magic of scientific breakthroughs in creating a sustainable future - Powered by Finland Embassy |
+| 5:30–6pm  | Does size matter in innovation? Synergies of innovation ecosystems of Singapore, India and Finland| 
 
 ### **DAY 2: WED 26 OCT 2022**
 
 | Time | Session | 
 | -------- | -------- |
-| 9–9:30am  | Opening |
-| 9:30–10:20am  | China market access session - Powered by: China Singapore Suzhou Industrial Park Development Group (CSSD) |
-| 10:30–11:20am  | Spain market access session - Powered by: ICEX ESPAÑA EXPORTACIÓN E INVERSIONES E.P.E. |
-| 11:30am–12:20pm | Germany - North Rhine Westphalia market access session - Powered by: North-Rhine Westphalia Global Business (NRW Global Business) |
-| 1:30–2:20pm | Qatar market access session - Powered by: Invest Qatar |
+| 9–9:20am  | Opening address |
+| 9:30–10:20am  | Connecting the Singapore and China ecosystems in a post-covid world - Powered by: China Singapore Suzhou Industrial Park Development Group (CSSD) |
+| 10:30–11:20am  | Why Spanish healthtech and its vaccines are shaking the world - Powered by: ICEX ESPAÑA EXPORTACIÓN E INVERSIONES E.P.E. |
+| 11:30am–12:20pm | Business opportunities in North Rhine Westphalia, Germany Supreme Hub for technological innovation in Europe - Powered by: North-Rhine Westphalia Global Business (NRW Global Business) |
+| 1:30–2:20pm | Qatar’s journey to becoming a global hub for innovation, media and technology - Powered by: Invest Qatar |
 | 2:30–3:20pm | Grindstone presents tech in South Africa - Powered by: Thinkroom |
 | 3:30–4:20pm | Philippines market access session - Powered by: QBO Innovation Hub | 
-| 5:30–6pm  | Multimarket closing panel - Germany (Hessen), Canada, Singapore - Powered by: Hessen Trade and Invest and High Commission of Canada |
+| 4:30–5pm  | International expansion to Germany (Hessen) and Canada through Singapore |
 
 ### **DAY 3, THU 27 OCT 2022**
 
