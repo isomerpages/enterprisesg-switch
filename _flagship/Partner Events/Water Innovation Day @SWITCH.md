@@ -21,7 +21,7 @@ Join us to hear more from investors, startups and industry experts in the water 
 |**Price:** | Free |
 |**Register Here :** |[Water Innovation Day @SWITCH registration ](https://web.micepad.co/water-innovation-day/info?lang=en)
 
-*By attending WATER INNOVATION DAY @SWITCH, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
+*By attending WATER INNOVATION DAY @ SWITCH, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
 ## **Highlights**
 * Keynote presentation 
