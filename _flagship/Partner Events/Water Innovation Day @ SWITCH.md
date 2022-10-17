@@ -4,8 +4,7 @@ permalink: /water-innovation-day/
 description: Partner event SWITCH 2022
 third_nav_title: Partner Events
 ---
-
-![Water Innovation Day Partner Event SWITCH 2022](/images/pub%20x%20esg.png)
+![Water Innovation Day Partner Event SWITCH 2022](/images/Water%20Innovation%20Day%20MicePad%20Header_SWITCH%20Lockup.png)
 # **About**
 Co-organised by Enterprise Singapore and PUB, Singapore's National Water Agency, the Water Innovation Day @ SWITCH event aims to highlight opportunities in the water sector, both locally and in the region. This event is specially curated for and caters to water utilities companies as well as corporates, startups and investors interested in sustainability in the water sector.
 
@@ -26,7 +25,7 @@ Join us to hear more from investors, startups and industry experts in the water 
 
 ## **Highlights**
 * Keynote presentation 
-* 2 panel discussions
+* Panel discussions
 * Networking Lunch & presentation by PUB
 
 
@@ -36,9 +35,9 @@ Join us to hear more from investors, startups and industry experts in the water 
 * Learn about the innovation ecosystem for water technologies in Singapore
 
 ## **Speakers**
-* Opening Remarks, by **EnterpriseSG**
-* Keynote Presentation, by **Emerald Tech Ventures**
-* Panel Discussion 1, by **IH2OA**
-* Panel Discussion 2, by **PUB**
+* Opening Remarks by **EnterpriseSG**
+* Keynote Presentation by **Emerald Tech Ventures**
+* Panel Discussion by **IH2OA**
+* Panel Discussion by **PUB**
 
 [Learn more about PUB's Lab Crawl](https://www.switchsg.org/pub/)
