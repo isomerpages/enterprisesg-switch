@@ -40,8 +40,8 @@ third_nav_title: SWITCH Global
 
 | Time | Session | 
 | -------- | -------- |
-| 9–9:20am  | Pan-SEA opening - Powered by: Plug and Play |
-| 10:30–11:20am  | Canada market access session - Powered by: Montréal International (MI) & Investissement Québec (IQ)|
+| 9–9:20am  |Innovation & Opportunities: Scaling conglomerates beyond their local domain - Powered by: Plug and Play |
+| 10:30–11:20am  |Accelerate Your Innovation and Global Reach with Canada, Québec and Montréal |
 | 11:30am–12:20pm | Turkey market access session - Powered by: BİLİŞİM VADİSİ (Turkey Valley) + Sistem Global)|
 | 1:30–2:20pm | Malaysia market access session - Powered by: Malaysian Research Accelerator for Technology & Innovation (MRANTI)|
 
