@@ -18,7 +18,7 @@ Access SWITCH Global with a FREE Trade Pass. **[LEARN MORE >](/tickets)**
 #### SWITCH Global 2022 (25 – 27 Oct) 
 SWITCH Global 2022 will focus on key industry and expansion opportunities across all 6 continents through curated Market Access sessions and Global Pavilions helmed by local experts in: 
 
-![Programme Highlights SWITCH 2022](/images/PROGRAMME%20HIGHLIGHTS%20(Beyond,%20Global,%20Grand%20Stage)%20(1).png)
+![Programme Higlights SWITCH 2022](/images/PROGRAMME%20HIGHLIGHTS%20(Beyond,%20Global,%20Grand%20Stage)%20(2).png)
 
 If you are looking to expand your business abroad, SWITCH Global will connect you directly with our partners overseas. Be sure to catch free consultation sessions at the Global Pavilions to gain new networks and connections with these in-market experts! 
 
