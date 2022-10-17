@@ -42,7 +42,7 @@ third_nav_title: SWITCH Global
 | -------- | -------- |
 | 9–9:20am  |Innovation & Opportunities: Scaling conglomerates beyond their local domain - Powered by: Plug and Play |
 | 10:30–11:20am  |Accelerate Your Innovation and Global Reach with Canada, Québec and Montréal |
-| 11:30am–12:20pm | Turkey market access session - Powered by: BİLİŞİM VADİSİ (Turkey Valley) + Sistem Global)|
+| 11:30am–12:20pm | Turkey market access session - Powered by: Bilişim Vadisi (Turkey Valley) + Sistem Global)|
 | 1:30–2:20pm | Malaysia market access session - Powered by: Malaysian Research Accelerator for Technology & Innovation (MRANTI)|
 
 _* Contents are subject to change_
