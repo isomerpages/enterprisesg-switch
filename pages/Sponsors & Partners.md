@@ -13,7 +13,7 @@ description: ""
 ![Silver Sponsors SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(11).png)
 
 ##### Global Partners
-![Global Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(9).png)
+![Global Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(12).png)
 
 ##### Strategic Media Partners
 ![STrategic Media PArtners SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/Strategic%20Media%20%20Partners.png)
