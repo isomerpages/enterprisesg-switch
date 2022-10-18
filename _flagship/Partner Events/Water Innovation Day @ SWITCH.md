@@ -37,7 +37,7 @@ Join us to hear more from investors, startups and industry experts in the water 
 ## **Speakers**
 * Opening Remarks by **EnterpriseSG**
 * Keynote Presentation by **Emerald Tech Ventures**
-* Panel Discussion by **IH2OA**
-* Panel Discussion by **PUB**
+* Panel Discussion moderated by **Imagine H2O Asia*
+* Panel Discussion moderated by **PUB**
 
-[Learn more about PUB's Lab Crawl](https://www.switchsg.org/pub/)
+[Lab Crawls to Singapore Water Exchange & NTU NEWRI](https://www.switchsg.org/pub/)
