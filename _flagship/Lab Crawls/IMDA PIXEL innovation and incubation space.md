@@ -19,6 +19,7 @@ The Lab Crawl Tour will showcase PIXEL’s specialised lab facilities and co-wor
 * Network and wind down on a Friday with all of us at PIXEL. Snacks and drinks on us!
 
 #### **Getting to PIXEL**
+PIXEL is a stone-throw away (<5 minutes walk) from One-North MRT station (exit via Portsdown road)
 ![Pixel Map Lab Crawl SWITCH 2022](/images/PIXEL%20Map.png)
 
 [For more information on IMDA PIXEL ](https://impixel.imda.gov.sg/)
