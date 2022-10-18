@@ -10,7 +10,7 @@ description: ""
 ![Gold Sponsors SWITCH 2022](/images/gold%20sponsors%20v3.png)
 
 ##### Silver Sponsors
-![Silver Sponsors SWITCH 2022](/images/Silver%20Sponsors%20copy.png)
+![Silver Sponsors SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(10).png)
 
 ##### Global Partners
 ![Global Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(9).png)
