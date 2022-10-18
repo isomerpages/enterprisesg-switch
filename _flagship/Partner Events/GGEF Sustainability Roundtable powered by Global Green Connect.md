@@ -1,9 +1,10 @@
 ---
 title: GGEF Sustainability Roundtable powered by Global Green Connect
-permalink: /global-green-economy-forum/
+permalink: /ggef-2022/
 description: ""
 third_nav_title: Partner Events
 ---
+
 ![Partner Event SWITCH 2022](/images/Sustainability%20Roundtable.png)
 # **About**
 To meet the growing demand of future generations and climate challenges, building sustainable and resilience cities would require more technological innovations. 

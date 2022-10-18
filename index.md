@@ -37,7 +37,7 @@ sections:
       subtitle: "flagship event "
       description: "SWITCH brings together leaders, entrepreneurs, creators,
         accelerators and investors from 25 - 28 Oct 2022 at Resorts World
-        Convetion Centre, Singapore "
+        Convention Centre, Singapore "
       button: Learn more
       url: /flagship-2022
       image: /images/Global Innovation Movement.jpg
