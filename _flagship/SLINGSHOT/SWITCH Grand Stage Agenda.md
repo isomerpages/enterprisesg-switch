@@ -39,7 +39,7 @@ third_nav_title: SLINGSHOT
 | -------- | -------- |
 | 9:30–9:55am | Masterclass: Scaling your growth and drive sales with TikTok for Business - Powered by TikTok for Business |
 | 10–10:45am  | Scaling across the globe as a startup with EnterpriseSG - Powered by: Global Innovation Alliance |
-| 10:50–11:35am  | Succeeding from Singapore: startups' journeys |
+| 10:50–11:35am  | Succeeding from Singapore: Startups' Journeys |
 | 11:40am–12:10pm  | Masterclass: Mastering customer experience: How to increse customer acquisition and retention in Today's Landscape |
 | 1:55–2:25pm | The e-Conomy Southeast Asia 2022: Through the Waves, towards a sea of opportunity |
 | 2:30–4:35pm | Chairman speech and SLINGSHOT Grand Finals |
