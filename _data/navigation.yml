@@ -26,6 +26,8 @@ links:
         url: /flagship/Lab-Crawls/overview-lab-crawl/
       - title: Visitor Information
         url: /switch-venue-2022/
+      - title: Event Guide
+        url: /files/Event_Guide/SWITCH_2022-Event_Guide_web.pdf
   - title: YEAR-LONG PROGRAMME
     url: /year-long-innovation-2022
     sublinks:
@@ -35,8 +37,6 @@ links:
         url: /example-resource/events-and-initiatives/
   - title: SPONSORS & PARTNERS
     url: /sponsors-partners-2022
-  - title: EVENT GUIDE
-    url: /files/Event_Guide/SWITCH_2022-Event_Guide_web.pdf
   - title: TICKETS
     url: /tickets
     sublinks:
