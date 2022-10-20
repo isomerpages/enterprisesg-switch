@@ -74,7 +74,7 @@ Congratulations to the Top 50 SLINGSHOT finalist who will be pitching at the SLI
 7.  Resync
 8.  Seatrec
 9.  SOLV8 Technology
-10.  The Leaf Protein Co.
+10. The Leaf Protein Co.
 
 ### **Did you know?**
 ![SLINGSHOT SWITCH 2022](/images/infographic%20slingshot.jpg)
