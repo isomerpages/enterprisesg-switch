@@ -26,9 +26,9 @@ Congratulations to the Top 50 SLINGSHOT finalist who will be pitching at the SLI
 7.  MayaMD
 8.  Mediktor
 9.  neoX Biotech
-10.  NousQ
-11.  ProsFit Technologies
-12.  Wasna
+10. NousQ
+11. ProsFit Technologies
+12. Wasna
 
 #### **Transformative Digital Technologies**
 1.  Chata.ai
@@ -62,7 +62,7 @@ Congratulations to the Top 50 SLINGSHOT finalist who will be pitching at the SLI
 7.  Inovo Robotics
 8.  Kiinns
 9.  SafeTruck
-10.  uFraction8
+10. uFraction8
 
 #### **Environment, Energy and Green Technology**
 1.  Aimbelab
