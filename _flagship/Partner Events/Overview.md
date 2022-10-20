@@ -9,7 +9,7 @@ Our partners play an important role within the SWITCH community, and the connect
 
 Head over to our [**Events and Initiatives**](https://www.switchsg.org/example-resource/events-and-initiatives/) page to find out what events we will be having!
 
-![Partner Events SWITCH 2022](/images/Partner%20Events%20Schedule%20(1).png)
+![Partner Events SWITCH 2022](/images/Partner%20Events%20Schedule_20%20Oct.png)
 
 ##### You may be interested in
 
