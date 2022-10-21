@@ -22,6 +22,7 @@ Steps:
 3. Click on your profile   
 4. Access your QR code
 
+
 * ###  **SWITCH Platform** 
 ****To access your SWITCH Pass (QR Code) from the SWITCH Platform**
 
