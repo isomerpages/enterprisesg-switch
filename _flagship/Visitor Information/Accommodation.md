@@ -1,9 +1,10 @@
 ---
 title: Accommodation
-permalink: /accomadation-switch/
+permalink: /accommodation/
 description: ""
 third_nav_title: Visitor Information
 ---
+
 
 ## **Accommodations during SWITCH 2022**
 
