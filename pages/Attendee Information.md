@@ -27,6 +27,7 @@ Steps:
 
 ![Access the QR Code from the SWITCH Platform](/images/flagship%20event%20banner.png)
 
+Steps:
 1. Log on to the [SWITCH Platform](https://community.switchsg.org/login)
 2. Click on your profile
 3. Access your QR code
