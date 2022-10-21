@@ -10,6 +10,8 @@ To prepare for SWITCH 2022, you can access your SWITCH Pass via our **"SWITCH 20
 
 * ###  **Mobile App**
 ***To access your SWITCH Pass (QR Code) from the Mobile App***
+
+![](/images/app%20platform_website.gif)
 ![Access the QR Code from the SWITCH 2022 App](/images/APP%20PLATFORM.gif)
 
 [Download SWITCH 2022 on Play Store](https://play.google.com/store/apps/details?id=com.hubilo.switch2022)
