@@ -7,7 +7,6 @@ description: Access to SWITCH 2022
 
 To prepare for SWITCH 2022, you can access your SWITCH Pass via our **"SWITCH 2022" Mobile App** or our **SWITCH Platform**.
 
-
 ###  **Mobile App**
 **To access your SWITCH Pass (QR Code) from the Mobile App**
 ![Access the QR Code from the Mobile App](/images/app%20platform_website.gif)
