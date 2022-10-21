@@ -13,11 +13,11 @@ Find out more about these Lab Crawls below!
 
 ### Schedule (12–3pm)
 *The grey slots indicate an on-going Lab Crawl*
-![Overview Lab Crawl SWITCH 2022](/images/SWITCH%202022%20At%20a%20Glance%20v22.png)
+![Lab Crawl SWITCH 2022](/images/SWITCH%202022%20At%20a%20Glance%20v3.png)
 
 ### Schedule (3–6pm)
 *The grey slots indicate an on-going Lab Crawl*
-![Overview Lab Crawl SWITCH 2022](/images/SWITCH%202022%20At%20a%20Glance%20(2)%20v22.png)
+![Lab Crawl SWITCH 2022](/images/SWITCH%202022%20At%20a%20Glancev31.png)
 
 ##### Register your interest for these Lab Crawls at their respective pages here: 
 
