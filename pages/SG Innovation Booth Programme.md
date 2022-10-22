@@ -4,11 +4,13 @@ permalink: /sg-innovation-2022/
 description: Sg Innovation Booth SWITCH 2022
 ---
 ## **About SG Innovation Booth Programme**
- The world has hard problems to solve, and hard-tech answers are needed. We help entrepreneurs who want to solve hard problems build companies.
+Visit us at the SG Innovation Booth to find out more about Startup and Innovation initiatives by Enterprise Singapore. 
 
- We believe Singapore has the resources and capabilities to tackle hard problems that matter to people around the world. SGInnovate has been established to help ambitious and capable people to build 'technology-intensive' products borne out of science research.  
-  
-Our commitment is to use the full power of the Singapore ecosystem to achieve this mission.
+Learn more about existing programmes to help startups and SMEs build innovation capabilities, enter new markets and access more collaboration opportunities. 
+
+Stay tuned to exciting discussion panels across topics that matters to you - including funding raising, sustainability opporunities and understanding the impact and potential of emering technologies. 
+
+Join us at @SB41 and find out more about the programming below:
 
 ### **Programme Flow**
 
