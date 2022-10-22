@@ -6,7 +6,6 @@ description: In-person access to SWITCH 2022 Flagship Event requires a valid
 image: /images/Connections 2.jpg
 third_nav_title: Visitor Information
 ---
-
 ### **Attendee Information for SWITCH 2022**
 
 1. To attend the SWITCH 2022 Flagship Event in-person, you will need to have registered for a **FREE Trade Pass** or **PREMIUM Conference + Trade Pass.** ([Click here for ticketing information](/tickets))
@@ -32,6 +31,6 @@ _Or search for "SWITCH 2022" on the App Store and Play Store_
 ![Access the QR Code from the SWITCH Platform](/images/flagship%20event%20banner.png)
 
 **Steps:**
-1. Log on to the [SWITCH Platform](https://community.switchsg.org/login)
+1. Log on to the SWITCH Platform at [community.switchsg.org](https://community.switchsg.org/login)
 2. Click on your profile icon in the top right
 3. Access your QR code
