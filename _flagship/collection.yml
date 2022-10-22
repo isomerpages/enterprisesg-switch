@@ -2,6 +2,7 @@ collections:
   flagship:
     output: true
     order:
+      - SG Innovation Booth Programme.md
       - SWITCH Beyond/.keep
       - SWITCH Beyond/SWITCH Beyond 2022.md
       - "SWITCH Beyond/SWITCH Beyond 2022: Agenda.md"
