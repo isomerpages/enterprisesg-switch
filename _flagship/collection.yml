@@ -2,7 +2,6 @@ collections:
   flagship:
     output: true
     order:
-      - SG Innovation Booth Programme.md
       - SWITCH Beyond/.keep
       - SWITCH Beyond/SWITCH Beyond 2022.md
       - "SWITCH Beyond/SWITCH Beyond 2022: Agenda.md"
@@ -25,6 +24,7 @@ collections:
       - Partner Events/ASTAR SME TECH DAY 2022.md
       - "Partner Events/SGTech Global Future Series: Digital Trust Forum.md"
       - Partner Events/Water Innovation Day @ SWITCH.md
+      - SG Innovation Booth Programme.md
       - Lab Crawls/.keep
       - Lab Crawls/Overview.md
       - Lab Crawls/Singapore Science Park.md
