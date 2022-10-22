@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Partner Events
 ---
 
-![Partner Event SWITCH 2022](/images/Sustainability%20Roundtable.png)
+
+![Partner Event SWITCH 2022](/images/Sustainability%20Roundtable%20(2400%20x%201200px).png)
 # **About**
 To meet the growing demand of future generations and climate challenges, building sustainable and resilience cities would require more technological innovations. 
 
