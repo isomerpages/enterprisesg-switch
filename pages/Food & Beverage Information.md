@@ -16,4 +16,4 @@ These Food & Beverage options are available:
 * The Rock Bar
 * Harry's Bar
 
-*Show your SWITCH pass to enjoy 10% discount at these following F&B Establishments.*
+*Show your SWITCH pass to enjoy 10% discount at these participating F&B Establishments.*
