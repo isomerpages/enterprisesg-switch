@@ -7,7 +7,7 @@ description: ""
 
 ### **When you  attend SWITCH 2022:**
 
-These Food & Beverage options are available:
+Show your SWITCH Pass to enjoy 10% discount at these following F&B Establishments :
 * Feng Shui Inn
 * Ocean Restaurant
 * Osia Steak and Seafood Grill
@@ -15,5 +15,3 @@ These Food & Beverage options are available:
 * Table65
 * The Rock Bar
 * Harry's Bar
-
-*Show your SWITCH pass to enjoy 10% discount at these participating F&B Establishments.*
