@@ -3,8 +3,6 @@ title: Food & Beverage Information
 permalink: /food-and-beverage/
 description: ""
 ---
-### **Food & Beverage Information**
-
 #### **Refreshments**
 There will be an event bar outside the Trade Floor on B2. Attendees may purchases light refreshments and snacks from the bar. 
 
