@@ -11,6 +11,8 @@ collections:
       - SLINGSHOT/.keep
       - SLINGSHOT/SLINGSHOT 2022.md
       - SLINGSHOT/Top 50 Startups.md
+      - SLINGSHOT/SLINGSHOT 2022 Corporate Mixers Partners.md
+      - SLINGSHOT/SLINGSHOT 2022 Partner Competitions.md
       - SLINGSHOT/SWITCH Grand Stage Agenda.md
       - SLINGSHOT/SLINGSHOT 2021 Recap.md
       - Partner Events/.keep
@@ -40,4 +42,5 @@ collections:
       - Visitor Information/.keep
       - Visitor Information/Venue.md
       - Visitor Information/In Person Access.md
+      - Visitor Information/Food & Beverage Information.md
       - Visitor Information/Accommodation.md

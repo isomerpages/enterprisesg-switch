@@ -41,7 +41,7 @@ Congratulations to the Top 50 SLINGSHOT finalist who will be pitching at the SLI
 8.  Watcherr
 9.  YOV
 
-#### **Consumers Media, Goods & Services**
+#### **Consumer Media, Goods & Services**
 1.  Cakeplabs
 2.  Cya
 3.  Divizend
