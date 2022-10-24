@@ -10,8 +10,7 @@ third_nav_title: SLINGSHOT
 
 | Time | Session | 
 | -------- | -------- |
-| 9–9:30am  | Opening
-![g](/images/Grand%20Stage.png)|
+| 9–9:30am  | Opening |
 | 9:35–10:20am | Catalysing Innovation in Asia For the World |
 | 10:25–11:55am | SLINGSHOT Domain Finals 1: Health & Biomedical |
 | 1:30–1:50pm | Why do innovations fail? - Powered by Amazon Web Services (AWS) |
