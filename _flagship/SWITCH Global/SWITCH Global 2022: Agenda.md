@@ -27,7 +27,7 @@ third_nav_title: SWITCH Global
 
 | Time | Session | 
 | -------- | -------- |
-| 9–9:20am  | Opening address |
+| 9–9:20am  | Opening: Türkiye Cross Border Innovation |
 | 9:30–10:20am  | Connecting the Singapore and China ecosystems in a post-covid world - Powered by: China Singapore Suzhou Industrial Park Development Group (CSSD) |
 | 10:30–11:20am  | Why Spanish healthtech and its vaccines are shaking the world - Powered by: ICEX ESPAÑA EXPORTACIÓN E INVERSIONES E.P.E. |
 | 11:30am–12:20pm | Business opportunities in North Rhine Westphalia, Germany Supreme Hub for technological innovation in Europe - Powered by: North-Rhine Westphalia Global Business (NRW Global Business) |
@@ -42,7 +42,7 @@ third_nav_title: SWITCH Global
 | -------- | -------- |
 | 9–9:20am  |Innovation & Opportunities: Scaling conglomerates beyond their local domain - Powered by: Plug and Play |
 | 10:30–11:20am  |Accelerate Your Innovation and Global Reach with Canada, Québec and Montréal |
-| 11:30am–12:20pm | Turkey market access session - Powered by: Bilişim Vadisi (Turkey Valley) + Sistem Global)|
+| 11:30am–12:20pm | Türkiye market access session - Powered by: Bilişim Vadisi & Sistem Global |
 | 1:30–2:20pm | Malaysia market access session - Powered by: Malaysian Research Accelerator for Technology & Innovation (MRANTI)|
 
 _* Contents are subject to change_
