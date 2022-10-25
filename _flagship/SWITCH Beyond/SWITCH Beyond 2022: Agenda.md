@@ -33,7 +33,7 @@ What are the emerging roles of sustainability and green solutions that will cont
 | Time | Session | 
 | -------- | -------- |
 | 9–9:40am  | Opening Keynote |
-| 9:45–10:25am  | Urbanisation and Net-zero, Addressing the Balancing Act hosted by: JTC Corporation |
+| 9:45–10:25am  | Urbanisation and Net-zero, Addressing the Balancing Act - Hosted by: JTC Corporation |
 | 10:30–11:10am  | Tech-ing urban solutions to the next level: Re-imagining cities for greater resilience - Hosted by: Agency of Science, Technology and Research (A* STAR) |
 | 11:15–11:55am | Harnessing IoT and data for a sustainable future - Hosted by: MANN+HUMMEL |
 | 1:05–1:45pm | Future of mobility & electrification–ready for the green shift |
