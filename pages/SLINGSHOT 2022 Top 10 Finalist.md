@@ -13,12 +13,12 @@ Catch the SLINGSHOT Grand Finals which will be held at SWITCH on the 27 Oct 2022
 2. E3A Healthcare
 
 ### **Transformative Digital Technologies**
-1.
-2.
+1.  SoundEye
+2. ThinkVAL
 
 ### **Consumer Media, Goods & Services**
-1.
-2.
+1. Vembi Technologies
+2. Divizend
 
 ### **Manufacturing, Trade and Connectivity**
 1.
