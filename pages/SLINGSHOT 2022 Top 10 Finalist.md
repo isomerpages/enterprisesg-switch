@@ -21,8 +21,9 @@ Catch the SLINGSHOT Grand Finals which will be held at SWITCH on the 27 Oct 2022
 2. Divizend
 
 ### **Manufacturing, Trade and Connectivity**
-1.
-2.
+1. Kiinns
+2. ConcreteAI
+
 
 ### **Environment, Energy and Green Technology**
 1.
