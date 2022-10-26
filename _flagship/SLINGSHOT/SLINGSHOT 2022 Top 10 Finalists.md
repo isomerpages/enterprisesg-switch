@@ -1,9 +1,11 @@
 ---
-title: SLINGSHOT 2022 Top 10 Finalist
-permalink: /slingshot-top-10-finalist/
+title: SLINGSHOT 2022 Top 10 Finalists
+permalink: /slingshot-top-10-finalists/
 description: SLINGSHOT 2022 Top 10 Finalist
 third_nav_title: SLINGSHOT
 ---
+
+
 
 ## **Top 10 Grand Finalists**
 Congratulations to the Top 10 Grand Finalists from SLINGSHOT 2022. They were selected from a cohort of over 3600 applications from 150 countries to emerge top in their domains!
