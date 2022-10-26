@@ -27,4 +27,4 @@ Catch the SLINGSHOT 2022 Grand Finals this Thursday, 27 October 2022 at the SWIT
 
 ### **Environment, Energy and Green Technology**
 * CBE Eco-Solutions 
-* Peptobiotics 
+* Peptobiotics
