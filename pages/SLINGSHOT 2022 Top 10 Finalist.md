@@ -9,8 +9,8 @@ Congratulations to the Top 10 SLINGSHOT Finalist who have competed with against 
 Catch the SLINGSHOT Grand Finals which will be held at SWITCH on the 27 Oct 2022.
 
 ### **Health and Biomedical**
-1.
-2.
+1. Wasna
+2. E3A Healthcare
 
 ### **Transformative Digital Technologies**
 1.
@@ -27,5 +27,3 @@ Catch the SLINGSHOT Grand Finals which will be held at SWITCH on the 27 Oct 2022
 ### **Environment, Energy and Green Technology**
 1.
 2.
-
-
