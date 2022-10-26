@@ -9,22 +9,22 @@ Congratulations to the Top 10 Grand Finalists from SLINGSHOT 2022. They were sel
 Catch the SLINGSHOT 2022 Grand Finals this Thursday, 27 October 2022 at the SWITCH Grand Stage, where one of the ten finalists will emerge as Grand Winner!
 
 ### **Health and Biomedical**
-1. Wasna
-2. E3A Healthcare
+* E3A Healthcare (Singapore)
+* Wasna (Singapore)
 
 ### **Transformative Digital Technologies**
-1.  SoundEye
-2. ThinkVAL
+* SoundEye (Singapore)
+* ThinkVAL (Singapore)
 
 ### **Consumer Media, Goods & Services**
-1. Vembi Technologies
-2. Divizend
+* Divizend (Germany)
+* Vembi Technologies (India)
 
 ### **Manufacturing, Trade and Connectivity**
-1. Kiinns
-2. ConcreteAI
+* ConcreteAI (Singapore)
+* Kiinns (Israel)
 
 
 ### **Environment, Energy and Green Technology**
-1.
-2.
+* CBE Eco-Solutions (Singapore)
+* Peptobiotics (Singapore)
