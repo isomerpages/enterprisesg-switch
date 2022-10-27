@@ -5,9 +5,11 @@ description: SLINGSHOT 2022 Top 10 Finalist
 third_nav_title: SLINGSHOT
 ---
 ## **Winner of SLINGSHOT 2022**
-After months of preparation for the startups, they had to go through a rigorous selection process as they submitted their application in April 2022. Now, we would like to congratulate **Chris** who has emerged as the SLINGSHOT Grand Winner!
+Since submitting their application in April 2022, over 3,600 Global startups had to go through a rigorous selection process to emerge as the Top 50 Global startups.
 
-**Chris** is a yes, and will win a Startup SG Grant of S$200,000 (in addition to the Startup SG Grant of S$50,000 for being a Domain winner), and 18 months worth of rent-free space at JTC Launchpad.
+After three days of intensive pitching at the SLINGSHOT Grand Finals held at SWITCH, we would like to congratulate **Chris** who has emerged as the Grand Winner!
+
+**Chris** is a (company description), and will win a Startup SG Grant of S$200,000 (in addition to the Startup SG Grant of S$50,000 for being a Domain winner), and 18 months worth of rent-free space at JTC Launchpad.
 
 We would like to also congratulate **Brian Pte Ltd** and **dababy foundations** for clinching the 1st runner up and 2nd runner up respectively.
 
