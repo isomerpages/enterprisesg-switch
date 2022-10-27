@@ -28,6 +28,9 @@ Join us to hear more from investors, startups and industry experts in the water 
 * Panel discussions
 * Networking Lunch & presentation by PUB
 
+## **Schedule**
+![Water Innovation Day Schedule](/images/water%20innovation%20Schedule.png)
+
 
 ## **Why attend?**
 * Learn about how water can attract more investment opportunities
