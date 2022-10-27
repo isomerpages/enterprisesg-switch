@@ -31,7 +31,6 @@ Join us to hear more from investors, startups and industry experts in the water 
 ## **Schedule**
 ![Water Innovation Day Schedule](/images/water%20innovation%20Schedule.png)
 
-
 ## **Why attend?**
 * Learn about how water can attract more investment opportunities
 * Explore PUB's diversified and sustainable supply of water for Singapore  
