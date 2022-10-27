@@ -11,7 +11,7 @@ After three days of intensive pitching at the SLINGSHOT Grand Finals held at SWI
 
 **Chris** is a (company description), and will win a Startup SG Grant of S$200,000 (in addition to the Startup SG Grant of S$50,000 for being a Domain winner), and 18 months worth of rent-free space at JTC Launchpad.
 
-We would like to also congratulate **Brian Pte Ltd** and **dababy foundations** for clinching the 1st runner up and 2nd runner up respectively.
+We would like to also congratulate **Brian Pte Ltd** and **dababy foundations** for clinching the 1st Runner Up and 2nd Runner Up respectively.
 
 ## **Top 10 Grand Finalists**
 Congratulations to the Top 10 Grand Finalists from SLINGSHOT 2022. They were selected from a cohort of over 3600 applications from 150 countries to emerge top in their domains!
