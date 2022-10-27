@@ -46,4 +46,14 @@ third_nav_title: SLINGSHOT
 | 4:35–5:20pm | Attaining the next billions |
 | 5:35–6:35pm | Announcement of SLINGSHOT Winners and Grand Prize Ceremony |
 
+### **DAY 4, FRI 28 OCT 2022**
+
+| Time | Session | 
+| -------- | -------- |
+| 9–10:55am | SWITCH x WAIC Singapore-China AI Forum |
+| 11:30am–12:25PM | Good Data for Good: Catalysing Sustainable Change Requires Actionable Analytics |
+| 12:30–1PM |Spearheading Sustainable Data Centres in the Tropics |
+| 1–2PM | Lunch Break |
+| 3:30–5:15PM | A\*Star SME Tech Day |
+
 _* Contents are subject to change_
