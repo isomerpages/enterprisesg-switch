@@ -18,6 +18,8 @@ Regardless of where you're from, this is your chance to showcase your solution i
 
 [Meet the SLINGSHOT 2022 Top 50 startups!](/top-50-startups/)
 
+[Meet the SLINGSHOT 2022 Top 10 Finalists!](https://www.switchsg.org/slingshot-top-10-finalists/)
+
 ##### SLINGSHOT returns to the SWITCH Grand Stage
 
 SLINGSHOT returns physically at the Resorts World Convention Centre during our Flagship Event happening this 25th - 28th October! 
