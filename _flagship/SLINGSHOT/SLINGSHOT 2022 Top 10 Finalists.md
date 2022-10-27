@@ -11,7 +11,7 @@ Through a rigorous evaluation, our Top 50 Global Startups were shortlisted and f
 
 Finally, we would like to congratulate **Peptobiotics**, which has emerged as SLINGSHOT 2022’s Grand Winner!
 
-![SLINGSHOT Grand Winner SWITCH 2022](/images/winner.png)
+![SLINGSHOT Grand Winner SWITCH 2022](/images/winnerr.png)
 
 **Peptobiotics** take nature’s most innovative anti-pathogen defense systems and re-engineer them for use as livestock health products. They will win a S$200,000 Startup SG Grant, an additional S$50,000 Startup SG Grant (as one of our Top 10 Grand Finalists), and 18 months of rent-free space at Launchpad courtesy of JTC.
 
