@@ -5,13 +5,18 @@ description: SLINGSHOT 2022 Top 10 Finalist
 third_nav_title: SLINGSHOT
 ---
 ## **Winner of SLINGSHOT 2022**
-Since submitting their application in April 2022, over 3,600 Global startups had to go through a rigorous selection process to emerge as the Top 50 Global startups.
+SLINGSHOT 2022 attracted applications from over 3,600 startups across more than 150 countries. From there, our Top 250 Global Startups were invited to join our Virtual Corporate Mixer and put forward their best elevator pitch to move on to the next round. Through a rigorous evaluation, our Top 50 Global Startups were shortlisted and flew to Singapore for our curated Physical Immersion filled with dealmaking and networking opportunities with corporates and investors from their respective industries. Right here in Singapore, our Top 10 Grand Finalists were selected after months of preparation and three days of intense pitching.
 
-After three days of intensive pitching at the SLINGSHOT Grand Finals held at SWITCH, we would like to congratulate **Chris** who has emerged as the Grand Winner!
+  
 
-**Chris** is a (company description), and will win a Startup SG Grant of S$200,000 (in addition to the Startup SG Grant of S$50,000 for being a Domain winner), and 18 months worth of rent-free space at JTC Launchpad.
+Finally, we would like to congratulate **Peptobiotics**, which has emerged as SLINGSHOT 2022’s Grand Winner!
 
-We would like to also congratulate **Brian Pte Ltd** and **dababy foundations** for clinching the 1st Runner Up and 2nd Runner Up respectively.
+**Peptobiotics** take nature’s most innovative anti-pathogen defense systems and re-engineer them for use as livestock health products. They will win a S$200,000 Startup SG Grant, an additional S$50,000 Startup SG Grant (as one of our Top 10 Grand Finalists), and 18 months of rent-free space at Launchpad courtesy of JTC.
+
+  
+
+We would like to also congratulate **E3A Healthcare**
+ and **Wasna** for clinching 1st Runner Up and 2nd Runner Up respectively.
 
 ## **Top 10 Grand Finalists**
 Congratulations to the Top 10 Grand Finalists from SLINGSHOT 2022. They were selected from a cohort of over 3600 applications from 150 countries to emerge top in their domains!
