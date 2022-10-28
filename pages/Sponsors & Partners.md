@@ -13,7 +13,7 @@ description: ""
 ![Silver Sponsors SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(11).png)
 
 ##### Global Partners
-![Global Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(12).png)
+![Global Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(20).png)
 
 ##### SLINGSHOT Corporate Partners 
 ![SLINGSHOT Corporate Partners](/images/Corporate%20Partners%20final.png)
