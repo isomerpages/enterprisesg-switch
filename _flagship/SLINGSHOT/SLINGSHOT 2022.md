@@ -33,7 +33,7 @@ The SWITCH Grand Stage will host startup focused content, particularly the **SLI
 #### **SLINGSHOT speakers**
 ![SLINGSHOT speakers SWITCH 2022](/images/slingshot%20speakers%201.png)
 ![SLINGSHOT Speakers SWITCH 2022](/images/Slingshot%20speakers%20page%202.png)
-![SLINGSHOT Speakers for SWITCH 2022](/images/Slingshot%20speakers_3.png)
+![SLINGSHOT Speakers for SWITCH 2022](/images/Slingshot%20speakers.png)
 ***
 ##### 2022 Challenge Domains
 
