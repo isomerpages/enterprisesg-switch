@@ -22,7 +22,7 @@ description: ""
 ![STrategic Media PArtners SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/Strategic%20Media%20%20Partners.png)
 
 ##### Content Partners
-![Content Partners SWITCH 2022](/images/Content%20Partners.png)
+![Beyond Content Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(21).png)
 
 ##### Community Partners 
 ![Community Partners SWITCH 2022](/images/Community%20Partners%202022_Cards%20(3).png)
