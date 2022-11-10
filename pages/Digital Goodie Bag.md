@@ -13,7 +13,7 @@ Lark is offering 2 Months Free for any subscription to Pro or Enterprise plan be
 How to redeem the offer: 
 
 1. Go to: https://bit.ly/FeelingLarky 
-1. Step 2.	Include promo code SWITCH2022 under "How we can help" section 
+2. Include promo code SWITCH2022 under "How we can help" section 
 
 ***Redemptions are limited to 100 companies. Hurry and claim the offer now!***
 
