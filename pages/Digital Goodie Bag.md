@@ -6,6 +6,8 @@ description: Digital Goodie Bag
 ## **Exclusive perks just for you!**
 
 ### **1. Lark**
+Lark is the Super App for team collaboration. We believe your work is shaped by the tools you use. Lark integrates messaging, video conferencing, schedule management, collaborative docs/sheets, cloud storage, email, and workflow applications to provide a seamless collaboration experience on all your devices.
+
 Lark is offering 2 Months Free for any subscription to Pro or Enterprise plan before November 30th! 
 
 How to redeem the offer: 
@@ -13,10 +15,7 @@ How to redeem the offer:
 1. Go to: https://bit.ly/FeelingLarky 
 1. Step 2.	Include promo code SWITCH2022 under "How we can help" section 
 
-Redemptions are limited to 100 companies. Hurry and claim the offer now! 
-
-About Lark: 
-Lark is the Super App for team collaboration. We believe your work is shaped by the tools you use. Lark integrates messaging, video conferencing, schedule management, collaborative docs/sheets, cloud storage, email, and workflow applications to provide a seamless collaboration experience on all your devices. 
+***Redemptions are limited to 100 companies. Hurry and claim the offer now!  ***
 
 ### **2. TikTok**
 TikTok For Business is launching a new weeks-long startup incubation programme offering TikTok Ads Credits and dedicated business support to help promising startups based in Singapore, Malaysia and Philippines Market scale with TikTok. 
