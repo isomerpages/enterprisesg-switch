@@ -61,4 +61,4 @@ IncorporateYour.Com - We take Much Better Care of You!
 
 [Wizly](https://www.wizly.app/) is a real-time solution platform that helps companies collaborate, hire and learn from global independent professionals to solve business challenges. If you are looking to build virtual teams or hire a specialist in Go-to-market, Product Scaling, Growth Marketing or Business Strategy, register your project [here](https://www.wizly.app/projects).  
 
-****Get 10% off projects on Wizly. Register to find out more.***
+***Get 10% off projects on Wizly. Register to find out more.***
