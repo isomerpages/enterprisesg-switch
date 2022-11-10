@@ -26,7 +26,7 @@ This is exclusive to SLINGSHOT Startups based in Singapore, Malaysia and Philipp
 
 Note: The offerings above are subjected to TikTok's Terms and Conditions and the Ads Credits Terms and Conditions. As the incubation programme for startups is an exclusive programme, screening criteria applies. Companies may not be eligible for TikTok's Ads Credits if they have previously received a similar or greater amount. Companies that are not based and/or set up in Singapore, Malaysia and Philippines Market will not be eligible to take part in the incubation programme and/or received the specified Ads Credits.
 
-Hyperlink: https://wenjuan.feishu.cn/m?t=sPLg1noIOkHi-hqup
+***Click [here](https://wenjuan.feishu.cn/m?t=sPLg1noIOkHi-hqup) to register your interest.***
 
 ### **3. Michael Page**
 Get access to insights on the building blocks for a people-first company culture, and find out on how you can take action to build a strong work culture around your company’s Purpose, Values, Leadership, Well-being and DE&I practice.
@@ -59,6 +59,6 @@ IncorporateYour.Com - We take Much Better Care of You!
 
 ### **5. Wizly**
 
-Wizly is a real-time solution platform that helps companies collaborate, hire and learn from global independent professionals to solve business challenges. If you are looking to build virtual teams or hire a specialist in Go-to-market, Product Scaling, Growth Marketing or Business Strategy, register your project here*.  
+[Wizly](https://www.wizly.app/) is a real-time solution platform that helps companies collaborate, hire and learn from global independent professionals to solve business challenges. If you are looking to build virtual teams or hire a specialist in Go-to-market, Product Scaling, Growth Marketing or Business Strategy, register your project [here](https://www.wizly.app/projects)*.  
 
-**Get 10% off projects on Wizly. Register to find out more.*
+****Get 10% off projects on Wizly. Register to find out more.***
