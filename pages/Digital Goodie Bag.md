@@ -15,7 +15,7 @@ How to redeem the offer:
 1. Go to: https://bit.ly/FeelingLarky 
 1. Step 2.	Include promo code SWITCH2022 under "How we can help" section 
 
-***Redemptions are limited to 100 companies. Hurry and claim the offer now!  ***
+***Redemptions are limited to 100 companies. Hurry and claim the offer now!***
 
 ### **2. TikTok**
 TikTok For Business is launching a new weeks-long startup incubation programme offering TikTok Ads Credits and dedicated business support to help promising startups based in Singapore, Malaysia and Philippines Market scale with TikTok. 
