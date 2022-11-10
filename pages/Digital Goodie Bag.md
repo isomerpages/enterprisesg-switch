@@ -54,7 +54,7 @@ IncorporateYour.Com - We take Much Better Care of You!
 
 | Speak Directly to the Co-Founders |||
 | -------- | -------- | -------- |
-| Email : Wayne@IncorporateYour.Com 
+| Email : [Wayne@IncorporateYour.Com](mailto:Wayne@IncorporateYour.Com "mailto:Wayne@IncorporateYour.Com") | 
 | Whatsapp : +65 93846141 ||
 
 ### **5. Wizly**
