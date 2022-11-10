@@ -52,11 +52,6 @@ Painless and Hassle - Free Switching from your existing Company Secretary. We do
 
 IncorporateYour.Com - We take Much Better Care of You!   
 
-**Speak Directly to the Co-Founders**
-
-Email : Wayne@IncorporateYour.Com  | 
-Whatsapp: +65 93846141
-
 | Speak Directly to the Co-Founders |||
 | -------- | -------- | -------- |
 | Email : Wayne@IncorporateYour.Com 
