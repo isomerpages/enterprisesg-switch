@@ -51,16 +51,6 @@ sections:
       image: /images/Global Innovation Movement.jpg
       alt: SWITCH Connects you globally
   - infopic:
-      title: View the speakers and agenda for SWITCH Global
-      subtitle: SWITCH Global
-      description: Recognise how SWITCH Global's Market Access Sessions for business
-        growth and internationalisation have helped you in expanding your
-        network.
-      button: Learn more
-      url: /switch-global-2022
-      image: /images/SWITCH Global 1.jpg
-      alt: SWITCH Global market access
-  - infopic:
       title: Catch the SLINGSHOT 2022 Grand Finals!
       subtitle: Grand Stage
       description: Watch as the SLINGSHOT Finalists compete across 5 innovation and
