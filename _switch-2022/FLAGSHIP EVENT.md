@@ -24,7 +24,7 @@ SWITCH Global introduced global expansion opportunities during the Flagship Even
 
 ## **SLINGSHOT 2022 Grand Finals**
 
-![SLINGSHOT ](/images/slingshot_2021_winner_quantumcyte_web.jpeg)
+![](/images/slingshot%20day%202%20finals_web.jpeg)
 
 SLINGSHOT 2022 opened its doors to 6 challenge domains this year. The intense competition between highly innovative and promising global startups presented inspiring novel solutions at SWITCH 2022. Watch the startups present their innovative solutions through the Videos-on-Demand (VOD).
 
