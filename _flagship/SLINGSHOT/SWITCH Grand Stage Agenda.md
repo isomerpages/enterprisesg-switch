@@ -57,3 +57,5 @@ third_nav_title: SLINGSHOT
 | 3:30–5:15PM | A\*Star SME Tech Day |
 
 _* Contents are subject to change_
+
+View the SWITCH 2022 Flagship videos-on-demand on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register).
