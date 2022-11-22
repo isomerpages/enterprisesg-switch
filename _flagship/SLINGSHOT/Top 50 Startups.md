@@ -6,15 +6,15 @@ third_nav_title: SLINGSHOT
 ---
 ## **The journey so far**
 
-SLINGSHOT is in its 6th edition this year and has received over 3,600 applications from more than 150 countries by 31 July 2022. After two rounds of virtual judging, we are pleased to have our Top 50 finalists here with us in Singapore selected by more than 200 international judges. They will go through a 3.5-day physical immersion programme (from 19 to 22 Oct) specially curated for them which aims to link them up with local ecosystem partners through face-to-face engagements. 
+SLINGSHOT is in its 6th edition this year and has received over 3,600 applications from more than 150 countries by 31 July 2022. After two rounds of virtual judging, we were pleased to have our Top 50 finalists here with us in Singapore selected by more than 200 international judges. They have gone through a 3.5-day physical immersion programme (from 19 to 22 Oct) specially curated for them which aimed to link them up with local ecosystem partners through face-to-face engagements. 
 
 ![SLINGSHOT SWITCH 2022](/images/SLINGSHOT.jpg)
 
-These startups will be introduced to potential investors and corporate partners with whom they may be able to co-pilot a project with. Startups will also be introduced to business-specific offerings and the Singapore landscape as a whole to understand the viability of setting up shop in Singapore. They will then proceed to pitch LIVE to a global audience at Resorts World Sentosa, Singapore to vie for the Grand Winner of SLINGSHOT 2022 and win up to S$1.2M (US$800,000) worth of grant prizes. SLINGSHOT is held at SWITCH, Singapore Week of Innovation & Technology.
+These startups were introduced to potential investors and corporate partners with whom they may be able to co-pilot a project with. Startups were also introduced to business-specific offerings and the Singapore landscape as a whole to understand the viability of setting up shop in Singapore. They then proceeded to pitch LIVE to a global audience at Resorts World Sentosa, Singapore to vie for the Grand Winner of SLINGSHOT 2022 and won up to S$1.2M (US$800,000) worth of grant prizes. SLINGSHOT was held at SWITCH, Singapore Week of Innovation & Technology.
 
 ### **Top 50 Startups**
 
-Congratulations to the Top 50 SLINGSHOT finalist who will be pitching at the SLINGSHOT Domain and Grand Finals that will be held at SWITCH from 25–27 October 2022.
+Congratulations to the Top 50 SLINGSHOT finalist who pitched at the SLINGSHOT Domain and Grand Finals that was held at SWITCH from 25–27 October 2022.
 
 #### **Health and Biomedical**
 1.  AgenT
