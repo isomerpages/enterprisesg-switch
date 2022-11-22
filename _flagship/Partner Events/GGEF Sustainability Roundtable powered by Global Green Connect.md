@@ -6,7 +6,7 @@ third_nav_title: Partner Events
 ---
 ![Partner Event SWITCH 2022](/images/Sustainability%20Roundtable%20(2400%20x%201200px).png)
 # **About**
-To meet the growing demand of future generations and climate challenges, building sustainable and resilience cities would require more technological innovations. 
+To meet the growing demand of future generations and climate challenges, building sustainable and resilience cities require more technological innovations. 
 
 In the roundtable session, we heard from industry experts, sustainability practitioners, policy makers and academia on their insights on re-imagine sustainable development by integrating innovation and technology. They will also discuss how to use innovation and technology to advance in ESG practice.
 
