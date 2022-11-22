@@ -10,4 +10,4 @@ As part of the SWITCH experience, live and on-demand innovation-centric sessions
 
 Catch up on a series of online seminars, workshops, discussion panels, fireside chats and networking opportunities on the SWITCH Platform to reach your desired connections.
 
-View the SWITCH 2022 Flagship videos-on-demand (VOD) on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register). 
+View the SWITCH 2022 Flagship videos-on-demand on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register).
