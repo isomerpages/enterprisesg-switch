@@ -1,6 +1,6 @@
 ---
 title: WHY YOU SHOULD ATTEND
-permalink: /why-attend-2022
+permalink: /why-attend-2022/
 description: ""
 ---
 **This page is better viewed on landscape mode*
