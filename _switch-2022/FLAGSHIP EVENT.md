@@ -29,6 +29,6 @@ SWITCH Global introduces global expansion opportunities to you! Discover and con
 SLINGSHOT 2022 opens its doors to 6 challenge domains! Catch the intense competition between highly innovative and promising global startups, and be inspired by novel solutions at SWITCH 2022.
 
 ### **The global innovation community meets at SWITCH!**
-**[Click here](https://community.switchsg.org/register)** to purchase your tickets to the Flagship Event now! Each ticket also includes complimentary access to the SWITCH Platform and Year-long Innovation Programming.
+**[Click here](https://community.switchsg.org/register)** to purchase your tickets which gives you complimentary access to the SWITCH Platform and Year-long Innovation Programme.
 
 **[Click here](https://enterprisesg-switch-staging.netlify.app/tickets)** to learn more about which SWITCH Pass best suits your needs.
