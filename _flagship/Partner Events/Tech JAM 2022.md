@@ -8,7 +8,7 @@ third_nav_title: Partner Events
 # About
 Set to be the tech-career event of the year, we’re bringing together tech talents and global tech firms to help you kickstart your career in the space.
 
-Get ready for an exciting lineup of workshops, panel discussions, and fireside chats with leading experts in the ecosystem. There will also be plenty of opportunities to chat and network with like-minded peers throughout the day.
+Tech Jam 2022 had an exciting lineup of workshops, panel discussions, and fireside chats with leading experts in the ecosystem. There were also be plenty of opportunities to chat and network with like-minded peers throughout the day.
 
 # Details
 
