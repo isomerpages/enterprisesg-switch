@@ -47,4 +47,4 @@ third_nav_title: SWITCH Global
 
 _* Contents are subject to change_
 
-Access SWITCH Global with a FREE Trade Pass. **[LEARN MORE >](/tickets)**
+View the SWITCH 2022 Flagship videos-on-demand (VOD) on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register).
