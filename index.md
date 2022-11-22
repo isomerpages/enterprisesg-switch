@@ -51,7 +51,7 @@ sections:
       image: /images/Global Innovation Movement.jpg
       alt: SWITCH Connects you globally
   - infopic:
-      title: View the speakers and agenda for SWITCH Global 2022
+      title: View the speakers and agenda for SWITCH Global
       subtitle: SWITCH Global
       description: Recognise how SWITCH Global's Market Access Sessions for business
         growth and internationalisation have helped you in expanding your
