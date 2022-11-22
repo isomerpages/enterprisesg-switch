@@ -71,7 +71,7 @@ sections:
       image: /images/SWITCH Connect 5.jpg
       alt: SWITCH Beyond
   - infopic:
-      title: Catch the SLINGSHOT 2022 Finals at the SWITCH Grand Stage!
+      title: Catch the SLINGSHOT 2022 Finals through the Videos on Demand
       subtitle: Grand Stage
       description: Watch the Top 50 SLINGSHOT Finalists compete across 5 innovation
         and technology domains for the opportunity to be crowned 2022's Grand
