@@ -8,9 +8,9 @@ third_nav_title: Partner Events
 # **About**
 In today’s rapidly digitalising and inter-connected world, understanding Digital Trust and how to capitalise on its opportunities is an imperative for anyone interacting in the digital economy. 
 
-Join us for the very first SGTech Global Future Series: Digital Trust Forum, which provides an essential platform to rally tech industry leaders, policymakers and other key stakeholders to discuss and debate the global digital economy around the anchoring issue of trust.
+SGTech Global Future Series: Digital Trust Forum, provides an essential platform to rally tech industry leaders, policymakers and other key stakeholders to discuss and debate the global digital economy around the anchoring issue of trust.
 
-Register now and hear from leading Digital Trust luminaries and thinkers from around the world, including Piyush Gupta, Ajay Bhalla, and Bhaskar Chakravorti, among many more.
+Hear from leading Digital Trust luminaries and thinkers from around the world, including Piyush Gupta, Ajay Bhalla, and Bhaskar Chakravorti, among many more.
 
 ## **Details**
 
@@ -21,7 +21,7 @@ Register now and hear from leading Digital Trust luminaries and thinkers from ar
 |**Venue:** | Resorts World Convention Centre |
 |**Location:** | Leo Room 1 - 4 |
 |**Price:** | SGD$200 for in-person ticket / SGD$75 for virtual ticket |
-|**Register Here :** | [SGTech Global Future Series: Digital Trust Forum Registration Form](https://forms.office.com/r/SpQyvzR49f) | 
+|**Register Here :** | This event has ended | 
 
 *By attending SGTech Global Future Series: Digital Trust Forum, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
