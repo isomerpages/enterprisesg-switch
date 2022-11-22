@@ -13,19 +13,17 @@ Have the world’s opportunities right at your fingertips. SWITCH Global congreg
 
 Speak to our global partners to learn more on how to expand into their various markets around the world. Get in touch with the nuances of local business cultures and ecosystem to tap on global opportunities that await you. 
 
-Access SWITCH Global with a FREE Trade Pass. **[LEARN MORE >](/tickets)**
-
 #### SWITCH Global 2022 (25 – 27 Oct) 
-SWITCH Global 2022 will focus on key industry and expansion opportunities across all 6 continents through curated Market Access sessions and Global Pavilions helmed by local experts in: 
+SWITCH Global 2022 focused on key industry and expansion opportunities across all 6 continents through curated Market Access sessions and Global Pavilions helmed by local experts in: 
 
 ![Programme Higlights SWITCH 2022](/images/PROGRAMME%20HIGHLIGHTS%20(Beyond,%20Global,%20Grand%20Stage)%20(2).png)
 
-If you are looking to expand your business abroad, SWITCH Global will connect you directly with our partners overseas. Be sure to catch free consultation sessions at the Global Pavilions to gain new networks and connections with these in-market experts! 
+SWITCH Global connects you directly with our partners overseas for global expansion opportunities. Free consultations with in-market experts have expanded networks and contacts at the Global Pavilions.
 
 [View the Global agenda here.](/switch-global-2022/agenda/)
 
 #### Connect With International Trade and Business Leaders
-SWITCH Global has convened established leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors. Whatever your business needs, find the right connections here!
+SWITCH Global has convened established leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors.
 
 #### Global Partners from SWITCH 2022
 ![Global Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(20).png)
@@ -33,4 +31,4 @@ SWITCH Global has convened established leaders from innovation ecosystems, globa
 #### Speakers from SWITCH Global 2022
 ![Global Speakers SWITCH 2022](/images/Global.png)
 
-Access SWITCH Global with a FREE Trade Pass. **[REGISTER NOW >](https://community.switchsg.org/register)**
+View the SWITCH 2022 Flagship videos-on-demand (VOD) on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register).
