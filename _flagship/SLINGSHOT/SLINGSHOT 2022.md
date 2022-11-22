@@ -8,13 +8,11 @@ image: /images/slingshot_2021_finalists_web.jpeg
 ![SLINGSHOT 2022 at SWITCH](/images/SLINGSHOT_2022_KeyVisual_1.png)
 
 # Asia's most exciting deep tech startup competition is back!
-Calling all startups: Singapore is looking for new and innovative startups to compete in SLINGSHOT 2022. Stand a chance to win over **S$1.2m (US $800,000)** in attractive prizes and make Singapore the next destination to expand your business.
+Singapore was looking for new and innovative startups to compete in SLINGSHOT 2022. The startups won over **S$1.2m (US $800,000)** in attractive prizes and a chance to make Singapore the next destination to expand your business.116:27
 
+In its sixth addition, SLINGSHOT looked for startups in **five emerging challenge domains** to showcase game-changing solutions and products.
 
-
-In its sixth addition, SLINGSHOT is looking for startups in **five emerging challenge domains** to showcase your game-changing solutions and products.
-
-Regardless of where you're from, this is your chance to showcase your solution in Singapore, one of the leading global startup hubs. The Top 50 startups will win a **sponsored trip to Singapore** to be immersed in the startup ecosystem and make the pitch of a lifetime to a global audience of major investors, industry experts, and thought leaders!
+The Top 50 startups have also won a \*\*sponsored trip to Singapore\*\* to be immersed in the startup ecosystem and make the pitch of a lifetime to a global audience of major investors, industry experts, and thought leaders.
 
 [Meet the SLINGSHOT 2022 Top 50 startups!](/top-50-startups/)
 
@@ -22,9 +20,9 @@ Regardless of where you're from, this is your chance to showcase your solution i
 
 ##### SLINGSHOT returns to the SWITCH Grand Stage
 
-SLINGSHOT returns physically at the Resorts World Convention Centre during our Flagship Event happening this 25th - 28th October! 
+SLINGSHOT has returned physically at the Resorts World Convention Centre during our Flagship Event that happened from 25th - 28th October! 
 
-The SWITCH Grand Stage will host startup focused content, particularly the **SLINGSHOT** Domain and Grand Finals, alongside Keynotes, Panels and Masterclasses. 
+The SWITCH Grand Stage hosted startup focused content, particularly the **SLINGSHOT** Domain and Grand Finals, alongside Keynotes, Panels and Masterclasses. 
 
 ![Programme Highlights SWITCH Grand Stage and SLINGSHOT Grand Finals](/images/SWITCH%202022%20Infographics/Programme%20Highlights%20Grand%20Stage_R2.png)
 
@@ -46,9 +44,9 @@ The SWITCH Grand Stage will host startup focused content, particularly the **SLI
 ***
 ##### About the SLINGSHOT Grand Finals
 
-The SLINGSHOT Top 50 Global Startups will have the opportunity to join an immersion programme held in Singapore, and pitch at the Grand Finals at SWITCH 2022!
+The SLINGSHOT Top 50 Global Startups had the opportunity to join an immersion programme held in Singapore, and pitch at the Grand Finals at SWITCH 2022!
 
-**Join us for the SLINGSHOT Experience!**
+**About the SLINGSHOT Experience!**
 
 ***
 
