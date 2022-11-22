@@ -23,6 +23,4 @@ Unable to join us at the Flagship Event in-person? Our digital access options un
 
 **[➞ Get your tickets now!](https://community.switchsg.org/register)**
 
-See you at SWITCH!
-
 **[Click here](/experience-2022)** to learn more about the SWITCH experience!
