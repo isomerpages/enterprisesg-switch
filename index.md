@@ -32,10 +32,18 @@ sections:
         - title: Lab Crawls
           description: Visit innovation labs
           url: /flagship/Lab-Crawls/overview-lab-crawl/
+  - infobar:
+      title: Year-long innovation movement
+      subtitle: Be Part Of
+      description: SWITCH is a community of innovators with a year-long programme of
+        knowledge sharing and networking, featuring a flagship conference and
+        access to our platform.
+      button: experience switch
+      url: /experience-2022/
   - infopic:
       title: The Global-Asia Innovation community meets at SWITCH
       subtitle: "flagship event "
-      description: "SWITCH brings together leaders, entrepreneurs, creators,
+      description: "SWITCH brought together leaders, entrepreneurs, creators,
         accelerators and investors from 25 - 28 Oct 2022 at Resorts World
         Convention Centre, Singapore "
       button: Learn more
@@ -92,14 +100,6 @@ sections:
       image: /images/Article Images/Article
         QuantumCyte/SLINGSHOT_QuantumCyte_Team_Picture.jpg
       alt: SLINGSHOT 2021 QuantumCyte
-  - infobar:
-      title: Year-long innovation movement
-      subtitle: Be Part Of
-      description: SWITCH is a community of innovators with a year-long programme of
-        knowledge sharing and networking, featuring a flagship conference and
-        access to our platform.
-      button: experience switch
-      url: /experience-2022/
   - resources:
       title: News and Happenings
       subtitle: Explore
