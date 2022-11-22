@@ -15,7 +15,7 @@ notification: ""
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
-      subtitle: Year-Long Innovation Programme
+      subtitle: Our Year-Long Innovation Programme
       background: /images/SWITCH_2021_Hero_Banner_3e.jpg
       button: "Learn More Here "
       url: /year-long-innovation-2022
