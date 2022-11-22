@@ -44,7 +44,7 @@ sections:
       title: The Global-Asia Innovation community meets at SWITCH
       subtitle: "flagship event "
       description: "SWITCH brought together leaders, entrepreneurs, creators,
-        accelerators and investors from 25 - 28 Oct 2022 at Resorts World
+        accelerators and investors held from 25 - 28 Oct 2022 at Resorts World
         Convention Centre, Singapore "
       button: Learn more
       url: /flagship-2022
