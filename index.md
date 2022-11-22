@@ -61,7 +61,7 @@ sections:
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
   - infopic:
-      title: "Meet your speakers from SWITCH Beyond 2022 "
+      title: Meet your speakers from SWITCH Beyond
       subtitle: SWITCH BEYOND
       description: Hear from over 300 international speakers from Vangaurd, emerging
         industries, and research institutes who spoke at the SWITCH Beyond
