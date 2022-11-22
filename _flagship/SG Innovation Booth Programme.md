@@ -3,13 +3,14 @@ title: SG Innovation Booth Programme
 permalink: /sg-innovation-2022/
 description: Sg Innovation Booth SWITCH 2022
 ---
-
 ## **About SG Innovation Booth Programme**
-Visit us at the SG Innovation Booth to find out more about Startup and Innovation initiatives by Enterprise Singapore. 
+The SG Innovation Booth helps you to find out more about Startup and Innovation initiatives by Enterprise Singapore. 
 
 Learn more about existing programmes to help startups and SMEs build innovation capabilities, enter new markets and access more collaboration opportunities. 
 
 Stay tuned to exciting discussion panels across topics that matters to you - including funding raising, sustainability opporunities and understanding the impact and potential of emering technologies. 
+
+*This event has ended*
 
 Join us at @SB56 and find out more about the programming below:
 
