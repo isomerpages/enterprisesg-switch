@@ -4,10 +4,6 @@ permalink: /Ntu/
 description: ""
 third_nav_title: Lab Crawls
 ---
-
-
-
-
 ### **About SJ-NTU Corporate Lab** 
 
 Surbana Jurong-NTU Corporate Lab (SJ-NTU) is a five-year research collaboration between Surbana Jurong and NTU Singapore, supported by the National Research Foundation Singapore (NRF). The $61-million corporate lab was set up to develop next-generation sustainable solutions to tackle industrial and complex urban challenges, leveraging NTU’s strengths in engineering and sustainability research and Surbana Jurong’s track record in providing urban, infrastructure and industrial solutions to its global customers.
@@ -29,4 +25,4 @@ An essential step of utilizing the LNG cold energy is to capture and store the e
 |**Tour Slots:** | 2–2:30pm; 3–3:30pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
-|**Register Here :** | [SJ-NTU Corporate Lab (Lab Crawl) Registration.](https://docs.google.com/forms/d/e/1FAIpQLSen9fLPLSQ4AOlhykUOcVHV9Jp7RxjgOdoDDXAhJJfORycQOw/viewform) |
+|**Register Here :** | This event has ended |
