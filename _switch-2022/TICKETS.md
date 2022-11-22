@@ -6,7 +6,7 @@ description: ""
 *This page is better viewed on landscape mode*
 
 # **Connect with the global-Asia innovation community**
-Get your tickets to the SWITCH 2022 Flagship Event and unlock access to our year-long innovation programme! 
+The SWITCH 2022 Flagship Event has concluded on 28 October 2022. With your SWITCH pass, you can join us for our year-long innovation programme!
 
 **[➞ Get your tickets now!](https://community.switchsg.org/register)**
 
