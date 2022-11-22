@@ -53,9 +53,9 @@ sections:
   - infopic:
       title: View the speakers and agenda for SWITCH Global 2022
       subtitle: SWITCH Global
-      description: Expand your network into the global market at SWITCH Global’s
-        Market Access Sessions tailored for business growth and
-        internationalisation.
+      description: Recognise how SWITCH Global's Market Access Sessions for business
+        growth and internationalisation have helped you in expanding your
+        network.
       button: Learn more
       url: /switch-global-2022
       image: /images/SWITCH Global 1.jpg
