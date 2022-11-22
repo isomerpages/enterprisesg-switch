@@ -10,7 +10,7 @@ The SWITCH 2022 Flagship Event has concluded on 28 October 2022. With your SWITC
 
 **[➞ Register now!](https://community.switchsg.org/register)**
 
-## **Digital access options**
+## **Access our Videos on Demand**
 Our digital access options unlock virtual access to our Flagship Event and the year-long programme. ![](/images/SWITCH%202022%20Landing%20Page/Digital%20Access.jpeg)
 
 **[➞ Get your tickets now!](https://community.switchsg.org/register)**
