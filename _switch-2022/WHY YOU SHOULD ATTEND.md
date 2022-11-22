@@ -22,6 +22,6 @@ We will bring together startups and SMEs, investors, corporates and innovation d
 ### **Researchers/Institutes of Higher Learning (IHLs)**
 ![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Why%20Attend/Research%20Institutes%20and%20Higher%20Learning.png)
 
-What are you waiting for? **[Click here](https://community.switchsg.org/register)** to purchase your tickets now and join us in our Year-Long Innovation Programme!
+What are you waiting for? **[Click here](https://community.switchsg.org/register)** to watch our Videos-on-demand and join us in our Year-Long Innovation Programme!
 
 If you want to know more details about the tickets, **[click here](https://enterprisesg-switch-staging.netlify.app/tickets)**!
