@@ -51,26 +51,6 @@ sections:
       image: /images/Global Innovation Movement.jpg
       alt: SWITCH Connects you globally
   - infopic:
-      title: Catch the SLINGSHOT 2022 Grand Finals!
-      subtitle: Grand Stage
-      description: Watch as the SLINGSHOT Finalists compete across 5 innovation and
-        technology domains for the chance to be crowned 2022's Grand Winner on
-        our Videos on Demand!
-      button: Learn more
-      url: /slingshot-2022
-      image: /images/top 10.png
-      alt: SLINGSHOT
-  - infopic:
-      title: Meet your speakers from SWITCH Beyond
-      subtitle: SWITCH BEYOND
-      description: Hear from over 300 international speakers from Vangaurd, emerging
-        industries, and research institutes who spoke at the SWITCH Beyond
-        Conference channel.
-      button: Learn more
-      url: /switch-beyond-2022
-      image: /images/SWITCH Connect 5.jpg
-      alt: SWITCH Beyond
-  - infopic:
       title: Our SWITCH Community
       subtitle: "Partner events "
       description: Discover more about the initiatives organised by our exclusive
