@@ -83,8 +83,8 @@ sections:
   - infopic:
       title: Our SWITCH Community
       subtitle: "Partner events "
-      description: "Participate in various innovations intiatives organised by our
-        exclusive network of community builders and tech leaders  "
+      description: Discover more about the initiatives organised by our exclusive
+        network of community builders and tech leaders.
       button: Learn More
       url: https://www.switchsg.org/partner-events-2022/
       image: /images/SWITCH-69.jpg
