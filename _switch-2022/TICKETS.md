@@ -27,4 +27,3 @@ You can get a Free Trade Pass or a Premium Conference and Trade Pass to unlock a
 
 
 **[Click here](/experience-2022)** to learn more about the SWITCH experience!
-
