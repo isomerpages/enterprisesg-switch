@@ -59,4 +59,4 @@ How will emerging technologies such as the Metaverse, microelectronics, Web 3.0,
 
 _* Contents are subject to change_
 
-View the SWITCH 2022 Flagship videos-on-demand (VOD) on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register).
+View the SWITCH 2022 Flagship videos-on-demand on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register).
