@@ -19,7 +19,7 @@ Echelon 2022 is a curated, invite-only event that aims to provide intimate and f
 |**Venue:** | Resorts World Convention Centre |
 |**Location:** | Aquarius Room 1 - 4 |
 |**Price:** | USD$199 |
-|**Register Here :** | [ECHELON website](https://e27.co/echelon/asia/) |
+|**Register Here :** | This event has ended |
 
 *By attending ECHELON by e27, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
