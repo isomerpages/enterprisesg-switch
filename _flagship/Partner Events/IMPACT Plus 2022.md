@@ -20,7 +20,7 @@ IMPACT+ is a closed door, invite-only 2-day meeting consisting of intimate safe
 |**Venue:** | Resorts World Convention Centre |
 |**Location:** | Virgo Room 1 - 4 (Thu, 27 Oct), Virgo Room 1 - 2 (Fri, 28 Oct) |
 |**Price:** | SGD$999 (Early-bird) / SGD$1,499 |
-|**Register Here :** | [IMPACT+ 2022 registration link](https://web.micepad.co/switch-impactplus/registration) |
+|**Register Here :** | This event has ended |
 
 *By attending IMPACT+ 2022, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
