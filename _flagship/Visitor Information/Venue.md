@@ -4,11 +4,9 @@ permalink: /switch-venue-2022/
 description: Venue of SWITCH 2022
 third_nav_title: Visitor Information
 ---
-
-
 ![Resorts World Sentosa Convention Centre SWITCH 2022](/images/convention%20centre.jpg)
 
-## **SWITCH 2022 will be held at Resorts World Sentosa Convention Centre Singapore**
+## **SWITCH 2022 was held at Resorts World Sentosa Convention Centre Singapore**
 
 There will be signages in the area, do follow the signs and make your way to the main registration desk.
 
@@ -43,3 +41,5 @@ There will be signages in the area, do follow the signs and make your way to the
 ![Resorts World Sentosa Convention Centre](/images/convention.jpg)
 
 [More information on Resorts World Sentosa Convention Centre ](https://www.rwsentosa.com/en)
+
+*This event has ended.*

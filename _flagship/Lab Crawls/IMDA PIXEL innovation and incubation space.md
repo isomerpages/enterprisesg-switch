@@ -7,7 +7,7 @@ third_nav_title: Lab Crawls
 ### **About IMDA PIXEL innovation and incubation space** 
 PIXEL is an incubation and innovation space by Singapore’s Infocomm Media Development Authority. It focuses on helping corporates build customer-centric digital experiences through design thinking, UI/UX and digital storytelling consultancies. PIXEL also scales start-ups in the areas of data & AI, Augmented Reality/Virtual Reality, the Internet of Things and Robotics. PIXEL brings together an ecosystem of startups, corporates, government, ecosystem partners and global players.
 
-The Lab Crawl Tour will showcase PIXEL’s specialised lab facilities and co-working space, spanning over 28,000 sqft at Singapore’s One-North District.
+The Lab Crawl Tour has showcased PIXEL’s specialised lab facilities and co-working space, spanning over 28,000 sqft at Singapore’s One-North District.
 
 ![IMDA Lab Crawl SWITCH 2022](/images/IMDA.jpg)
 
@@ -33,4 +33,4 @@ PIXEL is a stone-throw away (<5 minutes walk) from One-North MRT station (exit v
 |**Tour Slots:** | 2–3pm; 3–4pm; 4–5pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (Limited to 20 pax per slot) |
-|**Register Here :** | [ IMDA PIXEL Innovation and Incubation Space Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLScvTWTyAv4sRQdCxpSIlvtzoW4DDRfxArzc9Yi2BBAxGEe63Q/viewform) |
+|**Register Here :** | This event has ended |

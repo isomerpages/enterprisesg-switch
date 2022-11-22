@@ -10,7 +10,7 @@ Y-Lab is a unique Art x Tech convergence product innovation lab, housed in one o
 
 ![Y-Lab Lab Crawl SWITCH 2022](/images/ylabngs%20-%20Enjiao%20Chen.png)
 
-Join us at the Y-Lab Open House to go behind-the-scenes and experience innovations in the National Gallery of Singapore. Come find out how we are leveraging A.I., blockchain, mixed reality and so on to enhance storytelling, how visitors interact with a museum and even how the staff works.
+The Y-Lab Open House to go behind-the-scenes and experience innovations in the National Gallery of Singapore. Come find out how we are leveraging A.I., blockchain, mixed reality and so on to enhance storytelling, how visitors interact with a museum and even how the staff works.
 
 ![Y-Lab Lab Crawl SWITCH 2022](/images/Gallery-Facade_Photo.jpg)
 
@@ -29,4 +29,4 @@ On this tour, you'll also get the experience to network with not only Gallery in
 |**Tour Slots:** | 12noon–1pm; 4–5pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
-|**Register Here :** | [ Y-Lab @ National Gallery Singapore Lab Crawl registration.](https://docs.google.com/forms/d/e/1FAIpQLSdbpQU-FoPjIP2YjhzI3xqPA9AUTqaI5G9Q1bQxntgTYL9CEA/viewform) |
+|**Register Here :** | This event has ended |

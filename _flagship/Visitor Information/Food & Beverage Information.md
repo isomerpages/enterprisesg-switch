@@ -4,7 +4,6 @@ permalink: /food-and-beverage/
 description: ""
 third_nav_title: Visitor Information
 ---
-
 #### **Refreshments**
 There will be an event bar outside the Trade Floor on B2. Attendees may purchases light refreshments and snacks from the bar. 
 
@@ -20,3 +19,5 @@ Show your SWITCH Name Badge to enjoy a 10% discount at these following F&B Estab
 * Table65
 * The Rock Bar
 * Harry's Bar
+
+*This event has ended.*

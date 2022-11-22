@@ -4,8 +4,6 @@ permalink: /accommodation/
 description: ""
 third_nav_title: Visitor Information
 ---
-
-
 ## **Accommodations during SWITCH 2022**
 
 ### **Genting Hotel Jurong**
@@ -28,3 +26,5 @@ Art lovers will appreciate a stay in this luxury hotel for its exquisite interio
 ![Hotel Michael SWITCH 2022](/images/hotel%20michael.jpg)
 
 [Book your accommodation now.](https://www.rwsentosa.com/en/hotels/hotel-michael)
+
+*This event has ended.*

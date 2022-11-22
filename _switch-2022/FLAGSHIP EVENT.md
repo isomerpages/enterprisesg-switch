@@ -5,7 +5,7 @@ description: ""
 ---
 **This page is better viewed on landscape mode*
 # **At a glance**
-Held in Singapore from **25–28 October at Resorts World Convention Centre,** the Flagship Event features 3 tracks that are carefully curated to showcase exciting frontier technologies and opportunities for collaboration. Learn more below:
+The Flagship Event, held in Singapore on the **25-28 October at Resorts World Convention Centre**, featured three tracks that have been carefully curated to showcase exciting frontier technologies and opportunities for collaboration. More information is provided below:
 
 ![SWITCH 2022 at a glance](/images/At%20A%20Glance%202022.png)
 
@@ -13,22 +13,21 @@ Held in Singapore from **25–28 October at Resorts World Convention Centre,** t
 
 ## **SWITCH Beyond Innovation Conference**
 
-SWITCH Beyond spans across the first 3 days of the Flagship Event and these are the industry focuses for each day. Look forward to industry leaders sharing more about their field of work and find out what you can stand to benefit from their innovations and findings.
+SWITCH Beyond spanned across the first three days of the Flagship Event and these are the industry focuses for each day. Industry leaders have shared about their field of work. Find out what you can stand to benefit from their innovations and findings through the videos-on-demand.
 ![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/2207%20Before%20Launch%20Beyond%20Topics%20FINAL%20VER.png)
 
 ## **SWITCH Global Market Access Conference & Trade Floor**
 
 ![SWITCH Global](/images/SWITCH%20Global%203.JPG)
 
-SWITCH Global introduces global expansion opportunities to you! Discover and connect with in-market experts from across 6 continents at the Market Access Sessions and Global Pavilions as they share on region cultures and expansion tactics. 
+SWITCH Global introduced global expansion opportunities during the Flagship Event. At the Market Access Sessions and Global Pavilions, in-market experts from across six continents shared region cultures and expansion tactics. Find out global expansion tactics through the videos-on-demand.
 
 ## **SLINGSHOT 2022 Grand Finals**
 
-![SLINGSHOT ](/images/slingshot_2021_winner_quantumcyte_web.jpeg)
+![](/images/slingshot%20day%202%20finals_web.jpeg)
 
-SLINGSHOT 2022 opens its doors to 6 challenge domains! Catch the intense competition between highly innovative and promising global startups, and be inspired by novel solutions at SWITCH 2022.
+SLINGSHOT 2022 opened its doors to six challenge domains this year. The intense competition between highly innovative and promising global startups presented inspiring novel solutions at SWITCH 2022. Watch the startups present their innovative solutions through the videos-on-demand.
 
-### **The global innovation community meets at SWITCH!**
-**[Click here](https://community.switchsg.org/register)** to purchase your tickets to the Flagship Event now! Each ticket also includes complimentary access to the SWITCH Platform and Year-long Innovation Programming.
+### **Videos-on-demand available on the SWITCH Platform !**
 
-**[Click here](https://enterprisesg-switch-staging.netlify.app/tickets)** to learn more about which SWITCH Pass best suits your needs.
+ To view the videos-on-demand, log on [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register) to access the SWITCH Platform!

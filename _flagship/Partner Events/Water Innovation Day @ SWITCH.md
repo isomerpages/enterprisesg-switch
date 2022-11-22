@@ -8,7 +8,7 @@ third_nav_title: Partner Events
 # **About**
 Co-organised by Enterprise Singapore and PUB, Singapore's National Water Agency, the Water Innovation Day @ SWITCH event aims to highlight opportunities in the water sector, both locally and in the region. This event is specially curated for and caters to water utilities companies as well as corporates, startups and investors interested in sustainability in the water sector.
 
-Join us to hear more from investors, startups and industry experts in the water sector, as they share more about the latest trends and investments in sustainable water technologies, as well as the relevant support companies can tap to develop and/or deploy innovative water solutions. You will also get the opportunity to visit the water research laboratories at the Nanyang Environment & Water Research Institute (NEWRI) and the Singapore Water Exchange (SgWX), our national water innovation launchpad, to learn more about the role of innovation in Singapore’s water journey.
+Hear more from investors, startups and industry experts in the water sector, as they share more about the latest trends and investments in sustainable water technologies, as well as the relevant support companies can tap to develop and/or deploy innovative water solutions. You will also get the opportunity to visit the water research laboratories at the Nanyang Environment & Water Research Institute (NEWRI) and the Singapore Water Exchange (SgWX), our national water innovation launchpad, to learn more about the role of innovation in Singapore’s water journey.
 
 ## **Details**
 
@@ -19,7 +19,7 @@ Join us to hear more from investors, startups and industry experts in the water 
 |**Venue:** | Resorts World Convention Centre |
 |**Location:** | Ballroom East |
 |**Price:** | Free |
-|**Register Here :** |[Water Innovation Day @SWITCH registration ](https://web.micepad.co/water-innovation-day/info?lang=en)
+|**Register Here :** | This event has ended |
 
 *By attending WATER INNOVATION DAY @ SWITCH, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 

@@ -21,7 +21,7 @@ Get inspired by our partner SMEs and startups showcasing their business innovati
 |**Venue:** | Resorts World Convention Centre |
 |**Location:** | Ballroom East |
 |**Price:** | Free |
-|**Register Here :** |[A*STAR registration ](https://form.jotform.com/222341050862446)
+|**Register Here :** | This event has ended |
 
 *By attending A\*STAR SME TECH DAY 2022, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 

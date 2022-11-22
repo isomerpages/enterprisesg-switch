@@ -6,7 +6,8 @@ third_nav_title: Partner Events
 ---
 ![FUTR ASIA AT SWITCH 2022](/images/ASIA-banner-eventbrite.png)
 # **About**
-FUTR Asia brings together the movers and shakers from brands, retailers, corporates, e-commerce, agencies and tech solutions. Our 2022 theme is focused on ‘Fostering Community & Being Bold’ as we all look forward and to see whats now, and next. Now in its 7th year, FUTR has the undisputed reputation of excellence in both content and learning. Expect to hear from the likes of Starbucks, Sephora, Levi's, Crocs, J&J, Pizza Hut, Unilever, Lego, Razor, Lazada, Coca Cola, Uber, Mondelez & more.
+FUTR Asia brought together the movers and shakers from brands, retailers, corporates, e-commerce, agencies and tech solutions. Our 2022 theme was focused on ‘Fostering Community & Being Bold’ as we all look forward and to see whats now, and next. Now in its 7th year, FUTR has the undisputed reputation of excellence in both content and learning. Hear from the likes of Starbucks, Sephora, Levi's, Crocs, J&J, Pizza Hut, Unilever, Lego, Razor, Lazada, Coca Cola, Uber, Mondelez & more.
+
 ## **Details**
 
 | **Title:** | FUTR ASIA |
@@ -17,7 +18,7 @@ FUTR Asia brings together the movers and shakers from brands, retailers, corpor
 |**Location:** | Pisces Room 2 - 4, Virgo Room 1 - 4 |
 |**Complimentary:** | For brands, retailers, corporates, government, agencies, media & publishers |
 |**Price :** | SGD$855 for tech vendors, solution providers or consultancies |
-|**Register Here :** | [FUTR Asia Summit website](https://futr.today/singapore/) |
+|**Register Here :** | This event has ended |
 
 *By attending FUTR ASIA, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 

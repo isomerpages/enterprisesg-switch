@@ -6,7 +6,7 @@ third_nav_title: Lab Crawls
 ---
 ### **About Innovation Made Real @Singapore Science Park** 
   
-Singapore Science Park is proud to be part of the Singapore Week of Innovation and Technology (SWITCH) which returns from 25–28 October 2022. Taking place in conjunction with SWITCH 2022, Innovation Made Real @Singapore Science Park celebrates the Science & Tech community for its inventiveness and pursuit of innovation to deliver impact socially, environmentally and economically.
+Singapore Science Park is proud to be part of the Singapore Week of Innovation and Technology (SWITCH) which took place from 25–28 October 2022. Taking place in conjunction with SWITCH 2022, Innovation Made Real @Singapore Science Park celebrates the Science & Tech community for its inventiveness and pursuit of innovation to deliver impact socially, environmentally and economically.
 
 [For more information on Innovation Made Real @Singapore Science Park ](https://www.innovationmadereal.sg/)
 
@@ -14,7 +14,7 @@ Singapore Science Park is proud to be part of the Singapore Week of Innovation a
 
 #### **Early Medical Centre powered by MiRXES**
 
-Visit the Early Medical Centre in Singapore Science Park 1 to learn how it will serve as an incubation hub to accelerate the adoption of preventive healthcare in Singapore.  
+The Early Medical Centre in Singapore Science Park 1 serves as an incubation hub to accelerate the adoption of preventive healthcare in Singapore.  
 
 ![Early Medical Centre powered by MiRXES SWITCH 2022](/images/early.jpg)
 *Photo courtesy of Early Medical Centre powered by MiRXES*
@@ -32,7 +32,7 @@ Conceived by leading Biotech company MiRXES, early is the future of modern healt
 |**Tour Slots:** | 1–1:30pm; 1:30–2pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (10 pax per session) |
-|**Register Here:** | [Early Medical Centre powered by MiRXES Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+|**Register Here:** | This event has ended |
 
 ***
 
@@ -42,8 +42,7 @@ NUS Enterprise@Singapore Science Park is a partnership between NUS Enterprise an
 
 ![NUS Enterprise@Singapore Science Park SWITCH 2022](/images/NUS%20Enterprise@Singapore%20Science%20Park.jpg)
 *Photo courtesy of Earnest*
-  
-Visit to understand the corporation innovation programmes offered by NUS Enterprise.
+ 
 
 [For more information on NUS Enterprise](https://enterprise.nus.edu.sg/supporting-entrepreneurs/nus-startup-runway/nus-enterprise-singapore-science-park/)
 
@@ -56,7 +55,7 @@ Visit to understand the corporation innovation programmes offered by NUS Enterpr
 |**Tour Slots:** | 2–3pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (30 pax per sessions) |
-|**Register Here:** | [NUS Enterprise@Singapore Science Park Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+|**Register Here:** | This event has ended |
 
 ***
 
@@ -81,7 +80,7 @@ Visit to understand how the Lab provides opportunities for industry players to t
 |**Tour Slots:** | 2–3pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (20 pax per sessions) |
-|**Register Here:** | [Smart Urban Co-Innovation Lab @Singapore Science Park Park Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+|**Register Here:** | This event has ended |
 
 ***
 
@@ -105,7 +104,7 @@ Visit Catapult to understand how their integrated ecosystem of Campus Spaces, Cu
 |**Tour Slots:** | 2–2:30pm, 2:30–3pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (10 pax per sessions) |
-|**Register Here:** | [Playground for Learners - Catapult by CapitaLand Park Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+|**Register Here:** | This event has ended |
 
 #### **Vectura Fertin Pharma Laboratories**
 
@@ -127,4 +126,4 @@ Visit Vectura Fertin Pharma Laboratories to see how our facility, specializing i
 |**Tour Slots:** | 2–2:45pm, 2:45–3:30pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free (15 pax per sessions) |
-|**Register Here:** | [Vectura Fertin Pharma Laboratories Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSe4D13Tp1G9vRhatcpNDfOvR6howur8V_cP4J3vUa0dEFPqBQ/viewform) |
+|**Register Here:** | This event has ended |

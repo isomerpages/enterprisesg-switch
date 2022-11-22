@@ -4,8 +4,6 @@ permalink: /palo-it/
 description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
-
-
 ### **About PALO IT Singapore** 
 
 PALO IT is a global innovation consultancy and Agile software development company dedicated to helping organizations embrace tech as a force for good. We work with clients to rapidly launch products and services, create new business models, and prepare leadership and culture for the future.
@@ -34,4 +32,4 @@ PALO IT is a global innovation consultancy and Agile software development compan
 |**Tour Slots:** | 2–3pm; 3:30–4:30pm; 5–6pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
-|**Register Here :** | [Palo IT Singapore Lab Crawl Registration.](https://docs.google.com/forms/d/e/1FAIpQLSdlBKwq42nt9hF6qKhMtih_z1cJ-nLzoxrehBvZVup5CT0vAg/viewform) |
+|**Register Here :** | This event has ended |

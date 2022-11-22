@@ -1,6 +1,6 @@
 ---
 title: WHY YOU SHOULD ATTEND
-permalink: /why-attend-2022
+permalink: /why-attend-2022/
 description: ""
 ---
 **This page is better viewed on landscape mode*
@@ -22,6 +22,4 @@ We will bring together startups and SMEs, investors, corporates and innovation d
 ### **Researchers/Institutes of Higher Learning (IHLs)**
 ![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/Why%20Attend/Research%20Institutes%20and%20Higher%20Learning.png)
 
-What are you waiting for? **[Click here](https://community.switchsg.org/register)** to purchase your tickets now and fully immerse yourself in the SWITCH Experience today!
-
-If you want to know more details about the tickets, **[click here](https://enterprisesg-switch-staging.netlify.app/tickets)**!
+View the SWITCH 2022 Flagship videos-on-demand on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register).

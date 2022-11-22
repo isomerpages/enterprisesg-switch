@@ -4,7 +4,6 @@ permalink: /seagate/
 description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
-
 ### **About Seagate** 
 
 A collaborative platform where Seagate partners with the startup ecosystem to create solutions that harness the power of data.
@@ -24,4 +23,4 @@ The session aims to share with visitors about Seagate Lyve Labs Singapore and ho
 |**Tour Slots:** | 2:30–4pm (Singapore Time / UTC +8) |
 |**Shuttle Bus Services:** | No |
 |**Price:** | Free |
-|**Register Here :** | [Seagate Lyve Labs Registration.](https://docs.google.com/forms/d/e/1FAIpQLSfIaaLCfVDrpEXb6cVyhOkkV4EVFMCdUAFWy6bYzO9s-PteRQ/viewform) |
+|**Register Here :** | This event has ended |

@@ -6,9 +6,9 @@ third_nav_title: Partner Events
 ---
 ![ECHELON by e27 at SWITCH 2022](/images/echelon-2022-poster.png)
 ## **About**
-e27’s flagship conference brings together startups, investors, corporates, governments, tech ecosystem players and customers. It aims to facilitate connections, share actionable insights, and drive towards business growth for all stakeholders. 
+e27’s flagship conference brought together startups, investors, corporates, governments, tech ecosystem players and customers. It aims to facilitate connections, share actionable insights, and drive towards business growth for all stakeholders. 
 
-Echelon 2022 is a curated, invite-only event that aims to provide intimate and focused discussions on key topics, coupled with business matching services to facilitate business-driven connections and drive towards fruitful business outcomes during the two-day event.
+Echelon 2022 was a curated, invite-only event that aims to provide intimate and focused discussions on key topics, coupled with business matching services to facilitate business-driven connections and drive towards fruitful business outcomes during the two-day event.
 
 ## **Details**
 
@@ -19,7 +19,7 @@ Echelon 2022 is a curated, invite-only event that aims to provide intimate and f
 |**Venue:** | Resorts World Convention Centre |
 |**Location:** | Aquarius Room 1 - 4 |
 |**Price:** | USD$199 |
-|**Register Here :** | [ECHELON website](https://e27.co/echelon/asia/) |
+|**Register Here :** | This event has ended |
 
 *By attending ECHELON by e27, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 

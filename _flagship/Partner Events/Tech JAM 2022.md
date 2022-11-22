@@ -6,9 +6,9 @@ third_nav_title: Partner Events
 ---
 ![Tech Jam 2022 at SWITCH](/images/Tech%20Jam.png)
 # About
-Set to be the tech-career event of the year, we’re bringing together tech talents and global tech firms to help you kickstart your career in the space.
+Set to be the tech-career event of the year, Tech Jam has brought together tech talents and global tech firms to help kickstart your career in the space.
 
-Get ready for an exciting lineup of workshops, panel discussions, and fireside chats with leading experts in the ecosystem. There will also be plenty of opportunities to chat and network with like-minded peers throughout the day.
+Tech Jam 2022 had an exciting lineup of workshops, panel discussions, and fireside chats with leading experts in the ecosystem. There were also be plenty of opportunities to chat and network with like-minded peers throughout the day.
 
 # Details
 
@@ -19,7 +19,7 @@ Get ready for an exciting lineup of workshops, panel discussions, and fireside 
 |**Venue:** | Resorts World Convention Centre |
 |**Venue:** | Aquarius Room 3 - 4 |
 |**Price:** | FREE |
-|**Register Here :** | [TECH JAM 2022 registration](https://www.eventbrite.com/e/techjam-2022-tickets-420043079157) |
+|**Register Here :** | This event has ended |
 
 *By attending TECHJAM 2022 (Developer Conference), you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
