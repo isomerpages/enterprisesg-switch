@@ -41,7 +41,7 @@ sections:
       button: experience switch
       url: /experience-2022/
   - infopic:
-      title: The Global-Asia Innovation community met at SWITCH
+      title: The Global-Asia Innovation community meets at SWITCH 2022
       subtitle: "flagship event "
       description: "SWITCH brought together leaders, entrepreneurs, creators,
         accelerators and investors from 25 - 28 Oct 2022 at Resorts World
