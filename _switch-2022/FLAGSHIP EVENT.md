@@ -5,7 +5,7 @@ description: ""
 ---
 **This page is better viewed on landscape mode*
 # **At a glance**
-Held in Singapore from **25–28 October at Resorts World Convention Centre,** the Flagship Event features 3 tracks that are carefully curated to showcase exciting frontier technologies and opportunities for collaboration. Learn more below:
+The Flagship Event, held in Singapore on the **25-28 October at Resorts World Convention Centre**, featured three tracks that have been carefully curated to showcase exciting frontier technologies and opportunities for collaboration. More information is provided below:
 
 ![SWITCH 2022 at a glance](/images/At%20A%20Glance%202022.png)
 
