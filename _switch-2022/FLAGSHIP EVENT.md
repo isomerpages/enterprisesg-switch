@@ -28,6 +28,6 @@ SWITCH Global introduced global expansion opportunities during the Flagship Even
 
 SLINGSHOT 2022 opened its doors to six challenge domains this year. The intense competition between highly innovative and promising global startups presented inspiring novel solutions at SWITCH 2022. Watch the startups present their innovative solutions through the videos-on-demand.
 
-### **Videos-on-Demand (VOD) available on the SWITCH Platform !**
+### **Videos-on-demand available on the SWITCH Platform !**
 
  To view the videos-on-demand, log on [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register) to access the SWITCH Platform!
