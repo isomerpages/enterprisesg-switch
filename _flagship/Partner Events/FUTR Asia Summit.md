@@ -17,7 +17,7 @@ FUTR Asia brings together the movers and shakers from brands, retailers, corpor
 |**Location:** | Pisces Room 2 - 4, Virgo Room 1 - 4 |
 |**Complimentary:** | For brands, retailers, corporates, government, agencies, media & publishers |
 |**Price :** | SGD$855 for tech vendors, solution providers or consultancies |
-|**Register Here :** | [FUTR Asia Summit website](https://futr.today/singapore/) |
+|**Register Here :** | This event has ended |
 
 *By attending FUTR ASIA, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
