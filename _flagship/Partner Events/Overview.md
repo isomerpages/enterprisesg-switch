@@ -7,7 +7,7 @@ third_nav_title: Partner Events
 ## Our Partners 
 Our partners play an important role within the SWITCH community, and the connections we form with one another are essential to our SWITCH ecosystem as they bring in valueable insights and understanding of various local and global markets. If you are interested in being our partner, join us at our [**SWITCH Platform**](https://community.switchsg.org/) and our [**Flagship Event** ](https://www.switchsg.org/flagship-2022)to learn more about how you can grow with SWITCH.
 
-Head over to our [**Events and Initiatives**](https://www.switchsg.org/example-resource/events-and-initiatives/) page to find out what events we will be having!
+Head over to our [**Events and Initiatives**](https://www.switchsg.org/example-resource/events-and-initiatives/) page to find out what partnering events was held at SWITCH!
 
 ![Partner Events SWITCH 2022](/images/Partner%20Events%20Schedule_20%20Oct.png)
 
