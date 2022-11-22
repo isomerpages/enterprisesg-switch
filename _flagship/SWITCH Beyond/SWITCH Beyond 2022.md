@@ -13,7 +13,7 @@ SWITCH Beyond is the sectoral thought leadership channel that brings together gl
 
 
 ### SWITCH Beyond 2022 (25 – 27 Oct) 
-SWITCH Beyond 2022 continued to bring together global business leaders, innovation champions and academic industry experts to discuss the latest trends, industry challenges and new opportunities in various sectors.
+SWITCH Beyond 2022 brought together global business leaders, innovation champions and academic industry experts to discuss the latest trends, industry challenges and new opportunities in various sectors.
 
 [View the SWITCH Beyond agenda here.](/switch-beyond-2022/agenda/)
 
