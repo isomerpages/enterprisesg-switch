@@ -4,13 +4,11 @@ permalink: /ggef-2022/
 description: ""
 third_nav_title: Partner Events
 ---
-
-
 ![Partner Event SWITCH 2022](/images/Sustainability%20Roundtable%20(2400%20x%201200px).png)
 # **About**
 To meet the growing demand of future generations and climate challenges, building sustainable and resilience cities would require more technological innovations. 
 
-In this roundtable session, we shall hear from industry experts, sustainability practitioners, policy makers and academia to share their insights on re-imagine sustainable development by integrating innovation and technology. They will also discuss how to use innovation and technology to advance in ESG practice.
+In the roundtable session, we heard from industry experts, sustainability practitioners, policy makers and academia on their insights on re-imagine sustainable development by integrating innovation and technology. They will also discuss how to use innovation and technology to advance in ESG practice.
 
 ## **Details**
 
@@ -21,7 +19,7 @@ In this roundtable session, we shall hear from industry experts, sustainability 
 |**Venue:** | Resorts World Convention Centre |
 |**Location:** | Aquarius Room 1 - 2 |
 |**Price:** | SGD$199 (full-day pass) / SGD$129 (Morning Conference + Lunch) / SGD$99 (afternoon Master Class) |
-|**Register Here:** | [GGEF Sustainability Roundtable: Re-imagine Sustainable Development by integrating Innovation & Technology registration](https://ggefsustainabilityroundtable.eventbrite.sg )
+|**Register Here:** | This event has ended |
 
 *By attending GGEF Sustainability Roundtable powered by Global Green Connect, you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
