@@ -50,26 +50,6 @@ sections:
       url: /flagship-2022
       image: /images/Global Innovation Movement.jpg
       alt: SWITCH Connects you globally
-  - infopic:
-      title: Our SWITCH Community
-      subtitle: "Partner events "
-      description: Discover more about the initiatives organised by our exclusive
-        network of community builders and tech leaders.
-      button: Learn More
-      url: https://www.switchsg.org/partner-events-2022/
-      image: /images/SWITCH-69.jpg
-      alt: Partner Events
-  - infopic:
-      title: "SLINGSHOT 2021 Grand Winner: QuantumCyte"
-      subtitle: SLINGSHOT Feature
-      description: Biotech startup, QuantumCyte, have been busy growing, developing,
-        and meeting investors since SLINGSHOT. Find out how the competition
-        opened doors for them.
-      button: Read more
-      url: /blog/slingshot-spotlight-series-quantumcyte
-      image: /images/Article Images/Article
-        QuantumCyte/SLINGSHOT_QuantumCyte_Team_Picture.jpg
-      alt: SLINGSHOT 2021 QuantumCyte
   - resources:
       title: News and Happenings
       subtitle: Explore
