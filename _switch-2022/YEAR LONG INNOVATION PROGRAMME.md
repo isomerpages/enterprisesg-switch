@@ -10,6 +10,4 @@ As part of the SWITCH experience, live and on-demand innovation-centric sessions
 
 Catch up on a series of online seminars, workshops, discussion panels, fireside chats and networking opportunities on the SWITCH Platform to reach your desired connections.
 
-The Flagship event has **ended**, [log on](https://community.switchsg.org/login) or [register](https://community.switchsg.org/register)  to the SWITCH Platform here to access our Videos-on-Demand!
-
 Register for a SWITCH Pass [here](https://form.gov.sg/#!/624d5568045bce00127c096c) and access the SWITCH Community Platform today!
