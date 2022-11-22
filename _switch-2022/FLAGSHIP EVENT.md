@@ -30,4 +30,4 @@ SLINGSHOT 2022 opened its doors to 6 challenge domains this year. The intense co
 
 ### **Videos-on-Demand available on the SWITCH Platform !**
 
- To view the Videos-on-Demand, log on [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register) to access the SWITCH Platform! 
+ To view the Videos-on-Demand, log on [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register) to access the SWITCH Platform!
