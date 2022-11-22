@@ -31,4 +31,4 @@ SWITCH Global has convened established leaders from innovation ecosystems, globa
 #### Speakers from SWITCH Global 2022
 ![Global Speakers SWITCH 2022](/images/Global.png)
 
-View the SWITCH 2022 Flagship videos-on-demand (VOD) on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register).
+View the SWITCH 2022 Flagship videos-on-demand on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register).
