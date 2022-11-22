@@ -6,7 +6,8 @@ third_nav_title: Partner Events
 ---
 ![FUTR ASIA AT SWITCH 2022](/images/ASIA-banner-eventbrite.png)
 # **About**
-FUTR Asia brings together the movers and shakers from brands, retailers, corporates, e-commerce, agencies and tech solutions. Our 2022 theme is focused on ‘Fostering Community & Being Bold’ as we all look forward and to see whats now, and next. Now in its 7th year, FUTR has the undisputed reputation of excellence in both content and learning. Expect to hear from the likes of Starbucks, Sephora, Levi's, Crocs, J&J, Pizza Hut, Unilever, Lego, Razor, Lazada, Coca Cola, Uber, Mondelez & more.
+FUTR Asia have brought together the movers and shakers from brands, retailers, corporates, e-commerce, agencies and tech solutions. Our 2022 theme is focused on ‘Fostering Community & Being Bold’ as we all look forward and to see whats now, and next. Now in its 7th year, FUTR has the undisputed reputation of excellence in both content and learning. Expect to hear from the likes of Starbucks, Sephora, Levi's, Crocs, J&J, Pizza Hut, Unilever, Lego, Razor, Lazada, Coca Cola, Uber, Mondelez & more.
+
 ## **Details**
 
 | **Title:** | FUTR ASIA |
