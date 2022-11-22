@@ -6,9 +6,9 @@ description: ""
 *This page is better viewed on landscape mode*
 
 # **Connect with the global-Asia innovation community**
-The SWITCH 2022 Flagship Event has concluded on 28 October 2022. With your SWITCH pass, you can join us for our year-long innovation programme!
+The SWITCH 2022 Flagship Event has concluded on 28 October 2022. With your SWITCH pass, you still can join us for our year-long innovation programme!
 
-**[➞ Get your tickets now!](https://community.switchsg.org/register)**
+**[➞ Register now!](https://community.switchsg.org/register)**
 
 ## **Join us in-person**
 You can get a Free Trade Pass or a Premium Conference and Trade Pass to unlock access to all events at SWITCH!
