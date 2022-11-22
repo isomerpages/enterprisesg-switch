@@ -78,7 +78,7 @@ sections:
         Winner!
       button: Learn more
       url: /slingshot-2022
-      image: /images/slingshot_2021_winner_quantumcyte_web.jpeg
+      image: /images/top 10.png
       alt: SLINGSHOT
   - infopic:
       title: Our SWITCH Community
