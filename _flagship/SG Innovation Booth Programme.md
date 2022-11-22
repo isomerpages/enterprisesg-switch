@@ -10,9 +10,9 @@ Learn more about existing programmes to help startups and SMEs build innovation 
 
 Stay tuned to exciting discussion panels across topics that matters to you - including funding raising, sustainability opporunities and understanding the impact and potential of emering technologies. 
 
-*This event has ended*
-
 Join us at @SB56 and find out more about the programming below:
+
+*This event has ended*
 
 ### **Programme Flow**
 
