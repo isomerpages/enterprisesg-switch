@@ -51,7 +51,7 @@ sections:
       image: /images/Global Innovation Movement.jpg
       alt: SWITCH Connects you globally
   - infopic:
-      title: "View the speakers and agenda for SWITCH Global "
+      title: View the speakers and agenda for SWITCH Global 2022
       subtitle: SWITCH Global
       description: Expand your network into the global market at SWITCH Global’s
         Market Access Sessions tailored for business growth and
@@ -61,11 +61,11 @@ sections:
       image: /images/SWITCH Global 1.jpg
       alt: SWITCH Global market access
   - infopic:
-      title: "Meet your speakers from SWITCH Beyond "
+      title: "Meet your speakers from SWITCH Beyond 2022 "
       subtitle: SWITCH BEYOND
-      description: Connect with over 300 international speakers from vanguard and
-        emergent industries and research institutes at the SWITCH Beyond
-        conference channel.
+      description: Hear from over 300 international speakers from Vangaurd, emerging
+        industries, and research institutes who spoke at the SWITCH Beyond
+        Conference channel.
       button: Learn more
       url: /switch-beyond-2022
       image: /images/SWITCH Connect 5.jpg
