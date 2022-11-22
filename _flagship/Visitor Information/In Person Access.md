@@ -34,3 +34,5 @@ _Or search for "SWITCH 2022" on the App Store and Play Store_
 1. Log on to the SWITCH Platform at [community.switchsg.org](https://community.switchsg.org/login)
 2. Click on your profile icon in the top right
 3. Access your QR code
+
+*This event has ended.*
