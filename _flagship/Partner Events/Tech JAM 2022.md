@@ -19,7 +19,7 @@ Get ready for an exciting lineup of workshops, panel discussions, and fireside 
 |**Venue:** | Resorts World Convention Centre |
 |**Venue:** | Aquarius Room 3 - 4 |
 |**Price:** | FREE |
-|**Register Here :** | [TECH JAM 2022 registration](https://www.eventbrite.com/e/techjam-2022-tickets-420043079157) |
+|**Register Here :** | This event has ended |
 
 *By attending TECHJAM 2022 (Developer Conference), you will also have complimentary access to the SWITCH Trade Floor on level B2.*
 
