@@ -8,11 +8,11 @@ image: /images/slingshot_2021_finalists_web.jpeg
 ![SLINGSHOT 2022 at SWITCH](/images/SLINGSHOT_2022_KeyVisual_1.png)
 
 # Asia's most exciting deep tech startup competition is back!
-Singapore was looking for new and innovative startups to compete in SLINGSHOT 2022. The startups won over **S$1.2m (US $800,000)** in attractive prizes and a chance to make Singapore the next destination to expand your business.116:27
+Singapore was looking for new and innovative startups to compete in SLINGSHOT 2022. The startups won over **S$1.2m (US $800,000)** in attractive prizes and a chance to make Singapore the next destination to expand your business.
 
 In its sixth addition, SLINGSHOT looked for startups in **five emerging challenge domains** to showcase game-changing solutions and products.
 
-The Top 50 startups have also won a \*\*sponsored trip to Singapore\*\* to be immersed in the startup ecosystem and make the pitch of a lifetime to a global audience of major investors, industry experts, and thought leaders.
+The Top 50 startups have also won a **sponsored trip to Singapore** to be immersed in the startup ecosystem and make the pitch of a lifetime to a global audience of major investors, industry experts, and thought leaders.
 
 [Meet the SLINGSHOT 2022 Top 50 startups!](/top-50-startups/)
 
