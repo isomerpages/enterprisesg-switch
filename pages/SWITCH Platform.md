@@ -4,6 +4,9 @@ permalink: /platform-2022/
 description: ""
 ---
 ## **What is on the SWITCH Platform?**
+![SWITCH Community Platform](/images/switch%20platform_web.jpg)
+
+
 The SWITCH Community Platform has networking opportunities with the global innovation community to engage through a series of webinars that share knowledge. 
 
 We have live and on-demand innovation-centric sessions features in our year-long innovation programme. Videos-on-demand that reminisce the flagship event of SWITCH 2022 is available too!
