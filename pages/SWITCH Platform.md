@@ -4,8 +4,7 @@ permalink: /platform-2022/
 description: ""
 ---
 ## **What is on the SWITCH Platform?**
-![SWITCH Community Platform](/images/switch%20platform_web.jpg)
-
+![SWITCH Community Platform](/images/switch%20platform%20web.jpg)
 
 The SWITCH Community Platform has networking opportunities with the global innovation community to engage through a series of webinars that share knowledge. 
 
