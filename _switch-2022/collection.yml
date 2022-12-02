@@ -2,6 +2,7 @@ collections:
   switch-2022:
     output: true
     order:
+      - SWITCH Platform.md
       - THE SWITCH EXPERIENCE.md
       - FLAGSHIP EVENT.md
       - YEAR LONG INNOVATION PROGRAMME.md
