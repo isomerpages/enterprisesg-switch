@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: Singapore Week of Innovation and Technology | 25–28 Oct 2022 | Resorts
-  World Convention Centre, Singapore
+title: Singapore Week of Innovation and Technology | 31 Oct–2 Nov 2023 | Sands
+  Expo & Convention Centre
 description: Asia's leading Innovation and Technology The Singapore Week of
-  Innovation and Technology (SWITCH) returns for its seventh edition from 25–28
-  Oct 2022 as a fully physical event. With a focus on championing innovation and
+  Innovation and Technology (SWITCH) returns for its eight edition from 31 Oct–2
+  Nov 2023 as a fully physical event. With a focus on championing innovation and
   creating connections, SWITCH features programming, exhibitions, pitching
   competition, and networking opportunities in the areas of innovation,
   technology, and global market access for delegates all over the world. SWITCH
@@ -15,7 +15,8 @@ notification: ""
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
-      subtitle: Our Year-Long Innovation Programme
+      subtitle: SWITCH Returns 31 October–2 November 2023 at Sands Expo & Convention
+        Centre
       background: /images/SWITCH_2021_Hero_Banner_3e.jpg
       button: "Learn More Here "
       url: /year-long-innovation-2022
@@ -55,3 +56,4 @@ sections:
       subtitle: Explore
       button: See all
 ---
+
