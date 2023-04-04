@@ -13,7 +13,7 @@ image: ""
 Founded in 2021, Forte Biotech began with an aim to empower prawn farmers by providing sustainable solutions to prawn farming and food security. Despite coming from different backgrounds, Singaporean and Vietnamese founders Kit
 and Michael, pulled their ideas together to build the biotechnology (biotech) startup, equipping prawn farmers with their disease surveillance kit known as the Robust Accurate Prawn Infection Detection (RAPID) solution, to tackle disease strikes in their prawn colonies. RAPID helps to detect diseases in prawns even before symptoms appear, while effectively monitoring pathogen levels in prawn ponds. With RAPID, Forte Biotech is changing the game for prawn farmers by increasing their productivity and reducing risks involved with prawn farming.
 
-We sit down with Kit and Michael, co-founders of Forte Biotech and EntrePass holder, to learn more about their journey as entrepreneurs behind the biotech startup transforming the lives of prawn farmers in Vietnam and around the world.
+We sit down with Kit and Michael, co-founders of Forte Biotech and [EntrePass](https://www.startupsg.gov.sg/programmes/30813/entrepass) holder, to learn more about their journey as entrepreneurs behind the biotech startup transforming the lives of prawn farmers in Vietnam and around the world.
 
 1. Tell us more about yourself and how Forte Biotech came about. 
 
@@ -64,4 +64,4 @@ In addition to our test kits, we work closely with our other players in Singapor
 
 **Michael**: A deep understanding of your target market and their unique needs will build the foundation of your product. In this world of sustainability and agritech, be prepared and be determined, but do not be discouraged when things do not work out. For us at Forte Biotech, it has not been the easiest journey and we still have a long way to go, but we have found a problem we believe is worth solving and that keeps us going. Regardless of how small or big it is, find a problem that you are committed to. Ultimately, solving many small problems builds up and you can ultimately make a huge difference.
 
-Find out how Startup SG can support you to kickstart your entrepreneur journey in Singapore here.
+Find out how Startup SG can support you to kickstart your entrepreneur journey in Singapore [here](https://www.startupsg.gov.sg/programmes/30813/entrepass).
