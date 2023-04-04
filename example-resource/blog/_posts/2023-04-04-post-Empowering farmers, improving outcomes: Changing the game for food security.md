@@ -39,3 +39,15 @@ We sit down with Kit and Michael, co-founders of Forte Biotech and EntrePass hol
 
 6. Has sustainability in the agritech space evolved? What role does Forte Biotech play in this global movement? 
 **Kit**: From a macro view, we are seeing a push for food security especially after the COVID-19 pandemic. One of the industry players, Ataraya, recently began producing container-based shrimp farms in the USA. We believe that this opens up great potential in terms of sustainable prawn farming. Michael: As for farmers, we have noticed greater receptiveness to new farming techniques and tech solutions, despite not being well-equipped with information regarding technology for sustainable farming. As such, we hope to play a crucial role in educating farmers, increasing connections, and sharing knowledge about how adopting our PCR technology into their farming methods can help them achieve sustainability and greater productivity. In line with this aim, we have sent out our diagnostic kits to small farms to raise awareness about sustainable farming since November 2022.
+
+6. While technology is disrupting the field, safety and sustainability must be at the forefront of the agritech space. Where do you see the agritech industry headed in the next 5 years? 
+
+**Michael**: Technology is constantly changing, and it is important to find ways to improve our product to stay relevant and safe. We see agritech moving towards advanced manufacturing where we are looking to achieve scalability coupled with high performance across the agriculture sector. 
+
+**Kit**: While there is an introduction of technology solutions in the agritech sector, safety and sustainability of the sector cannot be compromised. Forte Biotech focuses on achieving small increments of improvement for productivity, while ensuring our solutions remain safe and sustainable. By working directly with the farmers, we gain an in-depth understanding of the business and operational difficulties our farmers face and can tailor our solutions to address their challenges in a safe and practical manner. 
+
+8. What advice would you give like-minded individuals interested to venture into sustainability or similar space?
+
+**Kit**: Make sure you do your ground research. Go to the farms and the fields, speak to the farmers and your target customers before you develop your product. 
+
+**Michael**: A deep understanding of your target market and their unique needs will build the foundation of your product. In this world of sustainability and agritech, be prepared and be determined, but do not be discouraged when things do not work out. For us at Forte Biotech, it has not been the easiest journey and we still have a long way to go, but we have found a problem we believe is worth solving and that keeps us going. Regardless of how small or big it is, find a problem that you are
