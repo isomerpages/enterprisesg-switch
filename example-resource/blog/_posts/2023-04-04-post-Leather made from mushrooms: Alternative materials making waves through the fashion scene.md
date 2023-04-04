@@ -41,7 +41,7 @@ We are glad to have been one of the participants in TBFI’s incubation programm
 
 The programme also gave us the opportunity to learn from industry experts and build connections with global brand players as well as potential investors. Overall, it was a valuable experience we are thankful for.
 
-4.    In your opinion, how has sustainability evolved within the global fashion space? What role does MYCL play in this movement?
+4.   In your opinion, how has sustainability evolved within the global fashion space? What role does MYCL play in this movement?
 
 After the pandemic, the fashion landscape has significantly changed all around the world. Back then, most consumers were more price sensitive and would usually opt for lower-priced products. This usually encouraged less eco-friendly methods of production. However, with the pandemic influencing retail store operations, affecting consumer demand levels and disrupting supply chain logistics, many retail stores have closed, consumption is lessening, and supply chains have been disrupted.
 
