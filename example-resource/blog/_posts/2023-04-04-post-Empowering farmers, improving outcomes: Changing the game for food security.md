@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+*This article was first published on Startup SG on 1 March 2023*
+
+**Empowering farmers, improving outcomes: Changing the game for food security**
+
+Founded in 2021, Forte
