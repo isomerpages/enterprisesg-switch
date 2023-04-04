@@ -69,4 +69,4 @@ Besides funding, we are also exploring the circular economy of the palm oil indu
 Focus on “doing good” and “doing well”.
 Doing good means achieving a social purpose and doing well ensures the profitability of the business. We need to remember that these two come hand in hand and it is important to synergise both objectives to achieve something great.
 
-Find out how Startup SG can support you to kickstart your entrepreneur journey in Singapore here.
+Find out how Startup SG can support you to kickstart your entrepreneur journey in Singapore [here](https://www.startupsg.gov.sg/programmes/30813/entrepass).
