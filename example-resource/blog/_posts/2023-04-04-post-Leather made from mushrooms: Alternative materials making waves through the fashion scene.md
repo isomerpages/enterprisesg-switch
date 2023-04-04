@@ -16,6 +16,8 @@ image: ""
 
 With a vision to empower local communities through high-performance and sustainable material made for the global market, five friends, came together in 2018 to establish Mycotech (MYCL) in Singapore. The bio-based material startup cultivates agri-waste based materials bound by mushroom mycelium which acts as a natural adhesive. This innovative technology forms MYCL’s MyleaTM &nbsp;biofabrication leather, a material that resembles animal leather.
 
+![Mycotech team photo](/images/entrepassarticle_mycotechteamphoto.png)
+
 The effective leather replacement has been made into watches and other award-winning leather products through MYCL’s collaborations with both global and homegrown brands, such as Doublet and WTF! We The Future.
 Today, we speak with Adi, Co-Founder of MYCL and EntrePass holder, as he shares more about his startup journey and the road ahead for MYCL.
 
