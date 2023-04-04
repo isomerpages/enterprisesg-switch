@@ -30,3 +30,7 @@ As part of a school project while studying architecture in university, I visited
 
 Singapore plays a leading role in the sustainability movement, with sustainability, social and environmental causes widely discussed here. With that in mind, incorporating our company in Singapore accelerated our innovation and funding.
 The research facilities and institutes in Singapore also proved to be strong and have provided MYCL with abundant opportunities to collaborate and develop new technologies and improve our product through networks. We are also currently collaborating with Temasek Life Sciences to allow us to objectively evaluate the feasibility of using their proprietary bio-glue technology to adhere MYCL’s mycellium leather with fabric.
+
+We were also part of DBS Foundation’s Social Enterprise Grant programme, where we joined their bootcamp and successfully received two grants that accelerated our prototype development and scaled up efforts. Our participation in the programme helped us to further strengthen our IP and trademarking, as well as scale our business through connections with relevant stakeholders.
+
+Lastly, Singapore has a sizeable target consumer group, with Singaporeans and local companies showing keen interest in sustainable lifestyles and high demand for eco-friendly products despite its higher prices.
