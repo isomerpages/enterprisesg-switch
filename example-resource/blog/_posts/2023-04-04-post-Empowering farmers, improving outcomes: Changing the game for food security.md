@@ -23,7 +23,7 @@ We sit down with Kit and Michael, co-founders of Forte Biotech and EntrePass hol
 
 **Kit**: With Singapore being a key innovation hub in the Asia region, there are many industry events ad conventions that attract experts from around the world. We recently attended the Singapore International Agri-Food Week and connected with many like-minded business owners. We also participated in SLINGSHOT, a deep tech pitching competition for startups held at Singapore Week of Innovation and Technology, last year and are delighted to have reached the Top 100. 
 
-**Michael**: Apart from Singapore's strategic location, its stable supply chain also proves to be crucial, allowing us to receive the supply of chemicals required in a timely and predictable manner. We've also managed to gain access to investors and funcding connections in of-of_Value grant. Vietnam and around the world.
+**Michael**: Apart from Singapore's strategic location, its stable supply chain also proves to be crucial, allowing us to receive the supply of chemicals required in a timely and predictable manner. We've also managed to gain access to investors and funding connections in Singaore, through NUS GRIP and the Startup SG Tech Proof-of-Value grant. 
 
 3. How did Forte Biotech get started? 
 
