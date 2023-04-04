@@ -50,4 +50,6 @@ We sit down with Kit and Michael, co-founders of Forte Biotech and EntrePass hol
 
 **Kit**: Make sure you do your ground research. Go to the farms and the fields, speak to the farmers and your target customers before you develop your product. 
 
-**Michael**: A deep understanding of your target market and their unique needs will build the foundation of your product. In this world of sustainability and agritech, be prepared and be determined, but do not be discouraged when things do not work out. For us at Forte Biotech, it has not been the easiest journey and we still have a long way to go, but we have found a problem we believe is worth solving and that keeps us going. Regardless of how small or big it is, find a problem that you are
+**Michael**: A deep understanding of your target market and their unique needs will build the foundation of your product. In this world of sustainability and agritech, be prepared and be determined, but do not be discouraged when things do not work out. For us at Forte Biotech, it has not been the easiest journey and we still have a long way to go, but we have found a problem we believe is worth solving and that keeps us going. Regardless of how small or big it is, find a problem that you are commutted to. Ultimately, solving many small problems builds up and you can ultimately make a huge difference.
+
+Find out how Startup SG can support you to kickstart your entrepreneur journey in Singapore here.
