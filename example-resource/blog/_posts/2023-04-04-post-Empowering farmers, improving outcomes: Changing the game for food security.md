@@ -21,7 +21,9 @@ We sit down with Kit and Michael, co-founders of Forte Biotech and EntrePass hol
 
 2. Forte Biotech was founded in Singapore but conducts a lot of its business operations in Vietnam. What attracted you to incorporate in Singapore? 
 
-**Kit**: With Singapore being a key innovation hub in the Asia region, theren Vietnam and around the world.
+**Kit**: With Singapore being a key innovation hub in the Asia region, there are many industry events ad conventions that attract experts from around the world. We recently attended the Singapore International Agri-Food Week and connected with many like-minded business owners. We also participated in SLINGSHOT, a deep tech pitching competition for startups held at Singapore Week of Innovation and Technology, last year and are delighted to have reached the Top 100. 
+
+**Michael**: Apart from Singapore's strategic location, its stable supply chain also proves to be crucial, allowing us to receive the supply of chemicals required in a timely and predictable manner. We've also managed to gain access to investors and funcding connections in of-of_Value grant. Vietnam and around the world.
 
 3. How did Forte Biotech get started? 
 
@@ -30,4 +32,3 @@ We sit down with Kit and Michael, co-founders of Forte Biotech and EntrePass hol
 4. Forte Biotech currently conducts product testing with farms in Vietnam. How did you convince them to incorporate your solution into their farming practices? 
 
 **Kit**: Having Michael on our team was definitely an advantage. His knowledge of in-market culture and the ability to speak Vietnamese provided us with our first few connections. As our market research proved, the Vietnamese farmers started to recognise that our RAPID kits are essential for their sustainable farming. Once we proved the usefulness of our solutions and gained the trust of the locals, word-of mouth propelled the adoption of our products, and we were able to establish new connections with more farmers and introduce our product to the rest of this close-knitted community. Michael: We truly believe that farmers can make a difference in the agritech space. This critical mindset empowers the farmers and enables us to provide them with the right tools to farm sustainably.
-
