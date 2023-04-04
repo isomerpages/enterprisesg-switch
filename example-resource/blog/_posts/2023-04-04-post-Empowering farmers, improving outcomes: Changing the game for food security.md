@@ -22,3 +22,7 @@ We sit down with Kit and Michael, co-founders of Forte Biotech and EntrePass hol
 2. Forte Biotech was founded in Singapore but conducts a lot of its business operations in Vietnam. What attracted you to incorporate in Singapore? 
 
 **Kit**: With Singapore being a key innovation hub in the Asia region, theren Vietnam and around the world.
+
+3. How did Forte Biotech get started? 
+
+**Kit**: We worked with NUS GRIP, an EntrePass partner, who helped to connect us with experienced industry experts and introduced us to intellectual property and incubation support. The six-month programme provided us with an opportunity to make valuable connections and learn alongside like-minded entrepreneurs in the deep tech field. Michael: Being an EntrePass holder has allowed me to build my business, Forte Biotech, in a world-class biotech hub while providing me with the flexibility to commute freely to and from Singapore. This has made engaging with R&D personnel and potential investors, as well as, attending regional and international agritech exhibitions in Singapore much more convenient for me.
