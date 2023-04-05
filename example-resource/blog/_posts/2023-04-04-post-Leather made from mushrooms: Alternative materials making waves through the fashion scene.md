@@ -62,6 +62,7 @@ Brands are constantly looking for solutions that will minimise reliance on plast
 We believe that our mycelium leather is the next best alternative leather. In order to stay ahead, we are continuing our collaborations with research institutions to further improve our product.
 
 ![Collaboration between MYCL and local research institution](/images/entrepassarticle_mycotechlab2.png)
+<sup> Featured in the photo shows the collaboration between MYCL and local research institution </sup>
 
 **6. What are MYCL’s plans for 2023?**
 
@@ -70,6 +71,7 @@ As we gain traction, we intend to scale up our production of mycelium leather to
 Besides funding, we are also exploring the circular economy of the palm oil industry. One of the raw materials needed to produce mycelium leather is palm oil waste and we hope to collaborate with several Singapore and Indonesia companies to acquire and recycle their agricultural waste. The access to sufficient raw materials will enable us to speed up our production process and reduce costs at the same time.
 
 ![MYCL team photo]()
+<sup> Featured in the photo is MYCL's team </sup>
 
 **7. What advice would you give budding entrepreneurs interested to venture into the sustainability space?**
 
