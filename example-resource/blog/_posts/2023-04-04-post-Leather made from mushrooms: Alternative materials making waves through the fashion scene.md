@@ -23,14 +23,13 @@ Today, we speak with Adi, Co-Founder of MYCL and [EntrePass](https://www.startup
 
       
 
-1. Tell us more about yourself and the origins of MYCL. How did you come up with this idea?
+**1. Tell us more about yourself and the origins of MYCL. How did you come up with this idea?**
 
 As part of a school project while studying architecture in university, I visited a small village in Indonesia to better understand rural building structures and community culture. The village had no electricity or internet connection, but the local community lived fulfilling and self-sufficient lives with available resources. Inspired by their eco-conscious way of living where they incorporated agriculture into their daily lives, we built on the idea and decided to explore the potential of agriculture and its sustainable structures. This led us to the discovery of mycelium, the root-like structure of mushrooms. With our existing expertise in architecture, we originally planned to use mycelium as building materials. However, through networking among industry experts and personal connections, we unravelled a subsequent problem statement - the need for sustainable leather in fashion products like sneakers. We decided to transform myceliumsinto a material that mimicked characteristics of leather, down to the grain and feel. Naturally, this forged the future direction of MYCL and our team.
 
 ![Mycotech Mycellium Product](/images/entrepassarticle_mycotechmycelliumproduct.png)
 
-2.	What attracted you to incorporate in Singapore and was it a strategic decision?
-
+**2.	What attracted you to incorporate in Singapore and was it a strategic decision?**
 
 Singapore plays a leading role in the sustainability movement, with sustainability, social and environmental causes widely discussed here. With that in mind, incorporating our company in Singapore accelerated our innovation and funding.
 The research facilities and institutes in Singapore also proved to be strong and have provided MYCL with abundant opportunities to collaborate and develop new technologies and improve our product through networks. We are also currently collaborating with Temasek Life Sciences to allow us to objectively evaluate the feasibility of using their proprietary bio-glue technology to adhere MYCL’s mycellium leather with fabric.
@@ -40,7 +39,7 @@ We were also part of DBS Foundation’s Social Enterprise Grant programme, where
 
 Lastly, Singapore has a sizeable target consumer group, with Singaporeans and local companies showing keen interest in sustainable lifestyles and high demand for eco-friendly products despite its higher prices.
 
-##### MYCL also participated in The Bridge Fashion Innovator’s (TBFI) incubation programme in Singapore in 2019. How has this experience been beneficial for MYCL?
+**3. MYCL also participated in The Bridge Fashion Innovator’s (TBFI) incubation programme in Singapore in 2019. How has this experience been beneficial for MYCL?**
 
 We are glad to have been one of the participants in TBFI’s incubation programme. As an EntrePass partner, TBFI helped us to quickly pick up fashion trends and relevant knowledge of industry standards through its programme, all of which further confirmed our research that there was demand for sustainable offerings in the fashion industry.
 
