@@ -40,6 +40,9 @@ We sit down with Kit and Michael, co-founders of Forte Biotech and [EntrePass](h
 
 **Michael**: We truly believe that farmers can make a difference in the agritech space. This critical mindset empowers the farmers and enables 
 
+![Forte Biotech and the farmers' community]()
+<sup> Co-founders of Forte Biotech, Michael and Kit, connected with the farmers' community </sup>
+
 **5. Sustainability and urban solutions have been on the rise and in the minds of many individuals and investors. What role does Forte Biotech play in this global movement? **
 
 **Kit**: Solutions in the disease prevention agriculture field are desperately needed. Diseases present in our agriculture are a big issue across all produce in the market and can cost over US$4 billion every year globally.
