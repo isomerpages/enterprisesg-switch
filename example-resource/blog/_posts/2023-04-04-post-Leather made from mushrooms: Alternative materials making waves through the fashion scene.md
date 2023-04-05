@@ -19,6 +19,7 @@ With a vision to empower local communities through high-performance and sustaina
 <sup> Featured in the photo are Adi and the co-founders of MYCL </sup>
 
 The effective leather replacement has been made into watches and other award-winning leather products through MYCL’s collaborations with both global and homegrown brands, such as Doublet and WTF! We The Future.
+
 Today, we speak with Adi, Co-Founder of MYCL and [EntrePass](https://www.startupsg.gov.sg/programmes/30813/entrepass) holder, as he shares more about his startup journey and the road ahead for MYCL.
 
 **1. Tell us more about yourself and the origins of MYCL. How did you come up with this idea?**
