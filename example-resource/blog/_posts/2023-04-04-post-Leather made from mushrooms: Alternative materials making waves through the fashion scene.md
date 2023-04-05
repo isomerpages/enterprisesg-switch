@@ -13,7 +13,6 @@ image: ""
 
 **Leather made from mushrooms: Alternative materials making waves through the fashion scene**
 
-
 With a vision to empower local communities through high-performance and sustainable material made for the global market, five friends, came together in 2018 to establish Mycotech (MYCL) in Singapore. The bio-based material startup cultivates agri-waste based materials bound by mushroom mycelium which acts as a natural adhesive. This innovative technology forms MYCL’s MyleaTM &nbsp;biofabrication leather, a material that resembles animal leather.
 
 ![Mycotech team photo](/images/entrepassarticle_mycotechteamphoto.png)
@@ -21,8 +20,6 @@ With a vision to empower local communities through high-performance and sustaina
 
 The effective leather replacement has been made into watches and other award-winning leather products through MYCL’s collaborations with both global and homegrown brands, such as Doublet and WTF! We The Future.
 Today, we speak with Adi, Co-Founder of MYCL and [EntrePass](https://www.startupsg.gov.sg/programmes/30813/entrepass) holder, as he shares more about his startup journey and the road ahead for MYCL.
-
-      
 
 **1. Tell us more about yourself and the origins of MYCL. How did you come up with this idea?**
 
@@ -70,7 +67,7 @@ As we gain traction, we intend to scale up our production of mycelium leather to
 
 Besides funding, we are also exploring the circular economy of the palm oil industry. One of the raw materials needed to produce mycelium leather is palm oil waste and we hope to collaborate with several Singapore and Indonesia companies to acquire and recycle their agricultural waste. The access to sufficient raw materials will enable us to speed up our production process and reduce costs at the same time.
 
-![MYCL team photo]()
+![Photo of MYCL's team](/images/entrepassarticle_mycotechteamphoto2.png)
 <sup> Featured in the photo is MYCL's team </sup>
 
 **7. What advice would you give budding entrepreneurs interested to venture into the sustainability space?**
