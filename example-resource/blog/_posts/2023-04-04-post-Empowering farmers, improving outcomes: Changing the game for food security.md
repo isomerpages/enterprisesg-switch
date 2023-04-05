@@ -15,17 +15,17 @@ and Michael, pulled their ideas together to build the biotechnology (biotech) st
 
 We sit down with Kit and Michael, co-founders of Forte Biotech and [EntrePass](https://www.startupsg.gov.sg/programmes/30813/entrepass) holder, to learn more about their journey as entrepreneurs behind the biotech startup transforming the lives of prawn farmers in Vietnam and around the world.
 
-**1. Tell us more about yourself and how Forte Biotech came about. **
+**1. Tell us more about yourself and how Forte Biotech came about.**
 
 **Michael**: My co-founder, Kit, and I met in secondary school back in 2009. Back in those days, we knew we wanted to build a company together but remained unsure of the problem that we wanted to solve. During a trip to Vietnam, we met and spoke with the local farmers, and found that there was a growing challenge dealing with diseases in their prawn colonies during the farming process. We took this problem into our own hands and decided to start our company, Forte Biotech, while being enrolled in the National University of Singapore Graduate Research Innovation Programme (NUS GRIP). With disease in prawns leading to significant agriculture waste and livelihood uncertainty, we wanted to enable prawn farmers to detect diseases early, take mitigative actions to manage the risks involved, and farm more sustainably. 
 
-**2. Forte Biotech was founded in Singapore but conducts a lot of its business operations in Vietnam. What attracted you to incorporate in Singapore? **
+**2. Forte Biotech was founded in Singapore but conducts a lot of its business operations in Vietnam. What attracted you to incorporate in Singapore?**
 
 **Kit**: With Singapore being a key innovation hub in the Asia region, there are many industry events ad conventions that attract experts from around the world. We recently attended the Singapore International Agri-Food Week and connected with many like-minded business owners. We also participated in SLINGSHOT, a deep tech pitching competition for startups held at Singapore Week of Innovation and Technology, last year and are delighted to have reached the Top 100. 
 
 **Michael**: Apart from Singapore's strategic location, its stable supply chain also proves to be crucial, allowing us to receive the supply of chemicals required in a timely and predictable manner. We've also managed to gain access to investors and funding connections in Singaore, through NUS GRIP and the Startup SG Tech Proof-of-Value grant. 
 
-**3. How did Forte Biotech get started? **
+**3. How did Forte Biotech get started?**
 
 **Kit**: We worked with NUS GRIP, an EntrePass partner, who helped to connect us with experienced industry experts and introduced us to intellectual property and incubation support. The six-month programme provided us with an opportunity to make valuable connections and learn alongside like-minded entrepreneurs in the deep tech field. 
 
@@ -34,7 +34,7 @@ We sit down with Kit and Michael, co-founders of Forte Biotech and [EntrePass](h
 ![Forte Biotech Exhibition]()
 <sup> Forte Biotech showcases its RAPID tests during an exhibition </sup>
 
-**4. Forte Biotech currently conducts product testing with farms in Vietnam. How did you convince them to incorporate your solution into their farming practices? **
+**4. Forte Biotech currently conducts product testing with farms in Vietnam. How did you convince them to incorporate your solution into their farming practices?**
 
 **Kit**: Having Michael on our team was definitely an advantage. His knowledge of in-market culture and the ability to speak Vietnamese provided us with our first few connections. As our market research proved, the Vietnamese farmers started to recognise that our RAPID kits are essential for their sustainable farming. Once we proved the usefulness of our solutions and gained the trust of the locals, word-of mouth propelled the adoption of our products, and we were able to establish new connections with more farmers and introduce our product to the rest of this close-knitted community. 
 
@@ -43,7 +43,7 @@ We sit down with Kit and Michael, co-founders of Forte Biotech and [EntrePass](h
 ![Forte Biotech and the farmers' community]()
 <sup> Co-founders of Forte Biotech, Michael and Kit, connected with the farmers' community </sup>
 
-**5. Sustainability and urban solutions have been on the rise and in the minds of many individuals and investors. What role does Forte Biotech play in this global movement? **
+**5. Sustainability and urban solutions have been on the rise and in the minds of many individuals and investors. What role does Forte Biotech play in this global movement?**
 
 **Kit**: Solutions in the disease prevention agriculture field are desperately needed. Diseases present in our agriculture are a big issue across all produce in the market and can cost over US$4 billion every year globally.
 
@@ -53,13 +53,13 @@ With the support we have received from NUS and their Graduate Research and Innov
 
 In addition to our test kits, we work closely with our other players in Singapore's agritech industry to help them penetrate the Vietnam market. Acting as a bridge, we aim to help to introduce local Vietnam farmers with other innovative Singapore startups to build relationships and engage in potential collaborations.
 
-**6. Has sustainability in the agritech space evolved? What role does Forte Biotech play in this global movement? **
+**6. Has sustainability in the agritech space evolved? What role does Forte Biotech play in this global movement?**
 
 **Kit**: From a macro view, we are seeing a push for food security especially after the COVID-19 pandemic. One of the industry players, Ataraya, recently began producing container-based shrimp farms in the USA. We believe that this opens up great potential in terms of sustainable prawn farming.
 
 **Michael**: As for farmers, we have noticed greater receptiveness to new farming techniques and tech solutions, despite not being well-equipped with information regarding technology for sustainable farming. As such, we hope to play a crucial role in educating farmers, increasing connections, and sharing knowledge about how adopting our PCR technology into their farming methods can help them achieve sustainability and greater productivity. In line with this aim, we have sent out our diagnostic kits to small farms to raise awareness about sustainable farming since November 2022.
 
-**7. While technology is disrupting the field, safety and sustainability must be at the forefront of the agritech space. Where do you see the agritech industry headed in the next 5 years? **
+**7. While technology is disrupting the field, safety and sustainability must be at the forefront of the agritech space. Where do you see the agritech industry headed in the next 5 years?**
 
 **Michael**: Technology is constantly changing, and it is important to find ways to improve our product to stay relevant and safe. We see agritech moving towards advanced manufacturing where we are looking to achieve scalability coupled with high performance across the agriculture sector. 
 
