@@ -29,7 +29,10 @@ We sit down with Kit and Michael, co-founders of Forte Biotech and [EntrePass](h
 
 **Kit**: We worked with NUS GRIP, an EntrePass partner, who helped to connect us with experienced industry experts and introduced us to intellectual property and incubation support. The six-month programme provided us with an opportunity to make valuable connections and learn alongside like-minded entrepreneurs in the deep tech field. 
 
-**Michael**: Being an EntrePass holder has allowed me to build my business, Forte Biotech, in a world-class biotech hub while providing me with the flexibility to commute freely to and from Singapore. This has made engaging with R&D personnel and potential investors, as well as, attending regional and international agritech exhibitions in Singapore much more convenient for me.
+**Michael**: Being an EntrePass holder has allowed me to build my business, Forte Biotech, in a world-class biotech hub while providing me with the flexibility to commute freely to and from Singapore. This has made engaging with R&amp;D personnel and potential investors, as well as, attending regional and international agritech exhibitions in Singapore much more convenient for me.
+
+![Forte Biotech Exhibition]()
+<sup> Forte Biotech showcases its RAPID tests during an exhibition </sup>
 
 **4. Forte Biotech currently conducts product testing with farms in Vietnam. How did you convince them to incorporate your solution into their farming practices? **
 
