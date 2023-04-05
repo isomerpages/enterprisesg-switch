@@ -52,7 +52,7 @@ After the pandemic, the fashion landscape has significantly changed all around t
 
 This is where MYCL plays our role to offer sustainable fashion solutions to consumers globally. We are currently working with six brands from Germany, France, Spain and the US to explore the usage of mycelium leather.
 
-5. What technologies will front the next fashion revolution and how does MYCL plan to stay ahead?
+**5. What technologies will front the next fashion revolution and how does MYCL plan to stay ahead?**
 
 Brands are constantly looking for solutions that will minimise reliance on plastics and synthetic materials. Currently, we see a high demand for synthetic leather as a replacement for animal leather. However, synthetic leather is not sustainable as it is made from fossil fuels.
 
