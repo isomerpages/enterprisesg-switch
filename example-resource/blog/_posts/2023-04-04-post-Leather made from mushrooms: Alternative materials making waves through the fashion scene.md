@@ -40,7 +40,7 @@ We were also part of DBS Foundation’s Social Enterprise Grant programme, where
 
 Lastly, Singapore has a sizeable target consumer group, with Singaporeans and local companies showing keen interest in sustainable lifestyles and high demand for eco-friendly products despite its higher prices.
 
-##### 3. MYCL also participated in The Bridge Fashion Innovator’s (TBFI) incubation programme in Singapore in 2019. How has this experience been beneficial for MYCL?
+##### MYCL also participated in The Bridge Fashion Innovator’s (TBFI) incubation programme in Singapore in 2019. How has this experience been beneficial for MYCL?
 
 We are glad to have been one of the participants in TBFI’s incubation programme. As an EntrePass partner, TBFI helped us to quickly pick up fashion trends and relevant knowledge of industry standards through its programme, all of which further confirmed our research that there was demand for sustainable offerings in the fashion industry.
 
