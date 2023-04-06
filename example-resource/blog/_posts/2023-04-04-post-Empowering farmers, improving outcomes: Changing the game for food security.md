@@ -31,7 +31,7 @@ We sit down with Kit and Michael, co-founders of Forte Biotech and [EntrePass](h
 
 **Michael**: Being an EntrePass holder has allowed me to build my business, Forte Biotech, in a world-class biotech hub while providing me with the flexibility to commute freely to and from Singapore. This has made engaging with R&amp;D personnel and potential investors, as well as, attending regional and international agritech exhibitions in Singapore much more convenient for me.
 
-![Forte Biotech Exhibition]()
+![Forte Biotech exhibition](/images/entrepassarticle_fortebiotechexhibition.jpg)
 <sup> Forte Biotech showcases its RAPID tests during an exhibition </sup>
 
 **4. Forte Biotech currently conducts product testing with farms in Vietnam. How did you convince them to incorporate your solution into their farming practices?**
