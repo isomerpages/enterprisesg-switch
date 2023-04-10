@@ -17,7 +17,8 @@ sections:
       title: Singapore Week of Innovation & Technology
       subtitle: SWITCH Returns 31 October–2 November 2023 at Sands Expo & Convention
         Centre
-      background: /images/SWITCH_2021_Hero_Banner_3e.jpg
+      background: /images/Universal
+        Assets/switch2023_keyvisual_final_29mar_1200x450px-06.png
       button: "Learn More Here "
       url: /year-long-innovation-2022
       key_highlights:
@@ -56,4 +57,3 @@ sections:
       subtitle: Explore
       button: See all
 ---
-
