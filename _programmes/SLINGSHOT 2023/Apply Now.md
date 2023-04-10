@@ -6,6 +6,8 @@ third_nav_title: SLINGSHOT 2023
 ---
 ### Asia's most exciting deep tech startup competition is back!
 
+![SLINGSHOT 2023 Call for Entries](/images/SLINGSHOT/SLINGSHOT%202023/slingshot2023_cta_fb%201200x630.jpg)
+
 **Call for entries: now till 17 July 2023**
 
 We are looking for new and exciting startups with innovative solutions to compete in this year's SLINGSHOT competition. Stand a chance to anchor yourself in Singapore and get immersed in one of the world's top innovation nodes.
