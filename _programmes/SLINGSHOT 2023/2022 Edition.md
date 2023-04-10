@@ -48,3 +48,78 @@ Catch the SLINGSHOT 2022 Grand Finals this Thursday, 27 October 2022 at the SWIT
 ### **Environment, Energy and Green Technology**
 * CBE Eco-Solutions 
 * Peptobiotics
+
+### **Top 50 Startups**
+
+Congratulations to the Top 50 SLINGSHOT finalist who pitched at the SLINGSHOT Domain and Grand Finals that was held at SWITCH from 25–27 October 2022.
+
+#### **Health and Biomedical**
+1.  AgenT
+2.  Braizon Therapeutics
+3.  CogniAble
+4.  E3A Healthcare
+5.  EggLogics
+6.  LabSD
+7.  MayaMD
+8.  Mediktor
+9.  neoX Biotech
+10. NousQ
+11. ProsFit Technologies
+12. Wasna
+
+#### **Transformative Digital Technologies**
+1.  Chata.ai
+2.  GeoTwin
+3.  Hypersign
+4.  Sidekicks AI
+5.  SoundEye
+6.  ThinkVAL
+7.  UnoMove
+8.  Watcherr
+9.  YOV
+
+#### **Consumer Media, Goods & Services**
+1.  Cakeplabs
+2.  Cya
+3.  Divizend
+4.  Expediente Azul (Blue File)
+5.  LUPLE
+6.  Nanighar (an unit of Accelerada Marketing Consultancy)
+7.  Stemly
+8.  Vembi Technologies
+9.  VideoMonster
+
+#### **Manufacturing, Trade and Connectivity**
+1.  Augmentus
+2.  Birdstop
+3.  Blixify
+4.  blueflite
+5.  ConcreteAI
+6.  DRONAMICS
+7.  Inovo Robotics
+8.  Kiinns
+9.  SafeTruck
+10. uFraction8
+
+#### **Environment, Energy and Green Technology**
+1.  Aimbelab
+2.  Bygen
+3.  CBE Eco-Solutions
+4.  ECOSOFTT
+5.  Environmental Technology
+6.  Peptobiotics
+7.  Resync
+8.  Seatrec
+9.  SOLV8 Technology
+10. The Leaf Protein Co.
+
+### **Did you know?**
+![SLINGSHOT SWITCH 2022](/images/infographic%20slingshot.jpg)
+
+***
+
+### Apply for SLINGSHOT 2023
+
+Do you have a promising innovation and are looking to incorporate and grow your startup in Singapore? Apply [here](https://slingshot.agorize.com/2023-edition?t=A3k1pR__oMx6vDwbJAZtRw&utm_source=switchweb&utm_medium=internal&utm_campaign=slingshot2023&utm_content=launch_organic) on the Agorize platform.
+
+Submissions close 17 July 2023
