@@ -4,7 +4,7 @@ permalink: /switch-2023/flagship/beyond-series/
 description: ""
 third_nav_title: Flagship
 ---
-## SWITCH Beyond Series
+## SWITCH Beyond 
 
 ![](/images/2023/switch%20beyond%20series%20(flagship).jpg)
 
