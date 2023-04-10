@@ -5,7 +5,7 @@ description: ""
 ---
 ## Where innovation happens
 
-**Needs image of lab crawls here**
+![SWITCH Lab Crawls](/images/2023/switch_lab_crawls.jpg)
 
 SWITCH’s Signature Lab Crawls will be returning this October 2023! 
 Experience Singapore Innovation Infrastructure through our curated tours of innovation labs across Singapore. These tours will showcase various technologies and developments across different industries
