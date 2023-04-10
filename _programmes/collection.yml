@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - SLINGSHOT 2023/.keep
       - Lab Crawls/Overview.md
       - Lab Crawls/.keep
       - Year Long Innovation.md
