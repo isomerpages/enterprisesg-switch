@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Lab Crawls/.keep
       - Year Long Innovation.md
       - BEYOND Series/.keep
       - BEYOND Series/Overview.md
