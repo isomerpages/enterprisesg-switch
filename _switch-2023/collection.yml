@@ -2,6 +2,7 @@ collections:
   switch-2023:
     output: true
     order:
+      - Flagship/SWITCH GLOBAL.md
       - Flagship/SWITCH Beyond Series.md
       - Flagship/At a glance.md
       - Flagship/.keep
