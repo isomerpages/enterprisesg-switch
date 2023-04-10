@@ -13,3 +13,5 @@ This year, SWITCH 2023 will debut with 15 stages and one exhibition, consisting 
 The 13 industry stages will feature partner and co-located events that will cover deep tech topics ranging from AI, digital trust, sustainability and retail technology. They will also spotlight the signature **SWITCH Beyond** **Series**, the curated platform for sectoral thought leadership that will discuss groundbreaking innovation in Healthcare, Smart Cities and more. This year, it will also premiere an exclusive CIO CTO CSO Forum for C-suite leaders to discuss pertinent issues of today.
 
 These will be held in tandem with an exhibition encompassing over 2,000 sqm (about four basketball courts) and be action-packed with networking events and ecosystem initiatives that will gather start\-ups, innovators, corporates, investors, foreign trade and innovation agencies across sectors from around the world.
+
+![](/images/2023/at%20a%20glance%202023%20v1.jpg)
