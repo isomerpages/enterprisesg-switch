@@ -4,7 +4,8 @@ permalink: /2023/programmes/year-long/
 description: ""
 ---
 ## **Innovation all year round!**
-![SWITCH Social Banner](/images/Copy%20of%20SWITCH%20Social%20Banner%202%20(1).png)
+
+![](/images/2023/switch2023_keyvisual_final_29mar_1200x450px_v2.jpg)
 
 Our year-long innovation programme features curated thought-leadership and knowledge sharing sessions by industry and innovation leaders, as well as multiple networking and collaboration opportunities with Singaporean and International organisations to facilitate open innovation and cooperation between startups, corporations and organisations.
 
