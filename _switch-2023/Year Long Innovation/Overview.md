@@ -4,7 +4,7 @@ permalink: /2023/year-long/
 description: ""
 third_nav_title: Year Long Innovation
 ---
-## Join the year-long innovation-programme
+## Year Long Innovation Programme
 
 As part of the SWITCH experience, live and on-demand innovation-centric sessions featured in our year-long innovation programme are hosted on our SWITCH community platform throughout the year.
 
