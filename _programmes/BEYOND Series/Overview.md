@@ -6,6 +6,9 @@ third_nav_title: BEYOND Series
 ---
 ## About SWITCH Beyond Series
 ## 
+
+(insert Beyond photo)
+
 SWITCH Beyond Series is the sectoral thought leadership channel that brings together global leaders and industry experts from diverse industries and markets  to must-attend conference sessions, where innovative ideas and groundbreaking technologies that are transforming the world take place.
 
 ### SWITCH 2023 Beyond Series
