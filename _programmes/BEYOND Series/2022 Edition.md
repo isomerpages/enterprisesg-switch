@@ -6,6 +6,8 @@ third_nav_title: BEYOND Series
 ---
 ## SWITCH 2022 Beyond 
 
+(insert Beyond Photo)
+
 In 2022, SWITCH Beyond  hosted over 105 speakers from government institutions, international MNCs, venture capitals, research institutes and startups to share their knowledge and perspectives on industry trends and  innovative business strategies.
 Some topics discussed included “Open Innovation in Healthcare”, the “Outlook of Biotech Investments”, “Future of Mobility and Electrification” and “Businesses and the New Economies of the Metaverse”. 
 
