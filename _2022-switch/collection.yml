@@ -1,5 +1,5 @@
 collections:
-  switch-2022:
+  2022-switch:
     output: true
     order:
       - THE SWITCH EXPERIENCE.md
