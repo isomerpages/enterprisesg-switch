@@ -10,4 +10,4 @@ third_nav_title: Flagship
 
 Hear from global leaders and experts  at our sectoral-led thought leadership conference, which will feature sessions exploring groundbreaking developments and  innovation in Asia. The SWITCH Beyond series will span three days and will delve into the topics of Healthcare, Smart Cities and an exclusive CTO CIO CSO Forum to discuss pertinent issues shaping Asia and the world today.
 
-For more information, click [here](https://switchsg.org/2023/programmes/beyond-series).
+For more information, click [here](https://switchsg.org/2023/programmes/beyond-series/)
