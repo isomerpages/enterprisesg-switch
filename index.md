@@ -18,7 +18,7 @@ sections:
       subtitle: SWITCH Returns 31 October–2 November 2023 at Sands Expo & Convention
         Centre
       background: /images/Homepage
-        Images/switch2023_keyvisual_final_29mar_1200x450px-07.png
+        Images/switch2023_keyvisual_final_29mar_1200x450px-08.png
       button: "Learn More Here "
       url: /year-long-innovation-2022
       key_highlights:
