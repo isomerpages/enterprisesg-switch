@@ -11,7 +11,7 @@ The Singapore Week of Innovation and Technology (SWITCH) is making its return in
 
 ![](/images/2023/2023%20website%20event%20timeline%20table%20.png)
 
-We invite YOU to the SWITCH experience to be part of a network of global innovators, investors, entrepreneurs, leaders and collaborators! 
+**We invite YOU** to the SWITCH experience to be part of a network of global innovators, investors, entrepreneurs, leaders and collaborators! 
 
 View the SWITCH 2022 flagship videos-on-demand on the SWITCH platform. Log in here or register here. 
 
