@@ -7,7 +7,9 @@ The Singapore Week of Innovation and Technology (SWITCH) is making its return in
 
 ![SWITCH Experience Infographic](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/2207%20Before%20Launch%20DONE_SWITCH%20COMPONENTS%20.png)
 
-**Insert Timeline Infographic**
+### Event Timeline
+
+![](/images/2023/2023%20website%20event%20timeline%20table%20.png)
 
 We invite YOU to the SWITCH experience to be part of a network of global innovators, investors, entrepreneurs, leaders and collaborators! 
 
