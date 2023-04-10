@@ -20,20 +20,20 @@ sections:
       background: /images/Homepage
         Images/switch2023_keyvisual_final_29mar_1200x450px-08.png
       button: "Learn More Here "
-      url: /year-long-innovation-2022
+      url: /2023/experience
       key_highlights:
         - title: SWITCH Beyond
           description: Innovation & Technology Trends
-          url: /switch-beyond-2022
+          url: /2023/flagship/beyond-series
         - title: SWITCH Global
           description: Gateway to global markets
-          url: /switch-global-2022
-        - title: Partner events
-          description: More innovation-focused events
-          url: /partner-events-2022/
-        - title: Lab Crawls
-          description: Visit innovation labs
-          url: /flagship/Lab-Crawls/overview-lab-crawl/
+          url: /2023/flagship/global-conference
+        - title: SLINGSHOT 2023
+          description: Deep tech startup competition
+          url: /2023/flagship/slingshot
+        - title: Connect and Collaborate
+          description: Year-long community engagement
+          url: /2023/year-long
   - infobar:
       title: Year-long innovation movement
       subtitle: Be Part Of
