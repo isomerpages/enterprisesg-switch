@@ -2,7 +2,6 @@ collections:
   switch-2023:
     output: true
     order:
-      - SLINGSHOT 2023/.keep
       - The SWITCH Experience.md
       - Flagship/.keep
       - Flagship/At a glance.md
@@ -11,3 +10,4 @@ collections:
       - Flagship/SLINGSHOT 2023.md
       - Flagship/Trade & Exhibition Floor.md
       - Flagship/Platform & VOD.md
+      - SLINGSHOT 2023/.keep
