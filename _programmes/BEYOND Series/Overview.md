@@ -12,7 +12,7 @@ SWITCH 2023 Beyond Series
 
 The SWITCH 2023 Beyond series will gather  global  leaders, innovation champions and  industry experts to discuss sector-specific trends and explore how innovation is evolving to tackle current and future challenges in Asia and the world today.  
 
-**Day 1 – Healthcare**[\[C(2\]](#_msocom_2) [\[C(3\]](#_msocom_3) 
+**Day 1 – Healthcare**
 
 In a full-day forum, Day 1 will spotlight the topic of Healthcare from a demand and supply side perspective to tackle challenges unique to Asia.
 
@@ -38,16 +38,6 @@ Day 3 of the Beyond Series will culminate to a by-invite only CIO/CTO Forum.
 
 The half day forum will address pertinent issues that CTOs, CIOs and CSOs from various organizations face on a day to day basis and address sustainability goals through the use of technology.
 
-Attendees will be able to exchange knowledge and best practices while staying updated on emerging innovation and technology, network with peers across industries and markets and have the opportunity to establish themselves as experts in their fields.[\[C(4\]](#_msocom_4) 
+Attendees will be able to exchange knowledge and best practices while staying updated on emerging innovation and technology, network with peers across industries and markets and have the opportunity to establish themselves as experts in their fields.
 
 Stay tuned for more updates!
-
-* * *
-
-Chairman once commented that Beyond 2023 sounds like past 2023  [\[C(1\]](#_msoanchor_1) [\[C(1\]](#_msoanchor_1) [\[C(1\]](#_msoanchor_1)
-
-Program will be updated progressively as we're still confirming with partners. [\[C(2\]](#_msoanchor_2)
-
-@christine - use back the write up we have in the slide to show what it will cover. include the target audience.  [\[C(3\]](#_msoanchor_3)
-
-same comment as above.  [\[C(4\]](#_msoanchor_4) [\[C(4\]](#_msoanchor_4)
