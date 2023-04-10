@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - BEYOND Series/2022 Edition.md
       - BEYOND Series/Overview.md
       - BEYOND Series/.keep
