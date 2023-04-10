@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The SWITCH Experience.md
+      - Flagship/Partner Events.md
       - Flagship/.keep
       - Flagship/At a glance.md
       - Flagship/SWITCH BEYOND.md
