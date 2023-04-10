@@ -18,4 +18,4 @@ The Singapore Week of Innovation and Technology (SWITCH) is making its return in
 View the SWITCH 2022 flagship videos-on-demand on the SWITCH platform. Log in [here](https://community.switchsg.org) or register
 [here](https://community.switchsg.org). 
 
-To learn more about the 2023 flagship event, click here
+To learn more about the 2023 flagship event, click [here](https://switchsg.org/2023/flagship).
