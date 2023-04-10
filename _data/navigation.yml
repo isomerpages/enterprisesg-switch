@@ -7,6 +7,8 @@ links:
         url: /2023/experience/
       - title: About us
         url: /about
+      - title: Sponsors & Partners
+        url: /sponsors-partners-2022/
   - title: PROGRAMMES
     url: /
     sublinks:
@@ -20,21 +22,17 @@ links:
         url: /2023/programmes/lab-crawls/
       - title: Year Long Innovation
         url: /2023/programmes/year-long/
-  - title: YEAR-LONG PROGRAMME
-    url: /year-long-innovation-2022
+  - title: RESOURCES
+    url: /example-resource/
     sublinks:
-      - title: About
-        url: /year-long-innovation-2022
+      - title: Blog
+        url: /example-resource/blog
       - title: Events & Initiatives
         url: /example-resource/events-and-initiatives/
-  - title: SPONSORS & PARTNERS
-    url: /sponsors-partners-2022
-  - title: TICKETS
-    url: /tickets
+  - title: CONNECT
+    url: /
     sublinks:
-      - title: TICKET INFO
-        url: /tickets
-      - title: GET TICKETS
-        url: https://community.switchsg.org/register
-  - title: LOGIN
-    url: https://community.switchsg.org/home
+      - title: SWITCH Platform
+        url: /platform
+      - title: Login to SWITCH Platform
+        url: https://community.switchsg.org/login
