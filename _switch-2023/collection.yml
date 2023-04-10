@@ -2,5 +2,6 @@ collections:
   switch-2023:
     output: true
     order:
+      - Flagship/Example Title.md
       - Flagship/.keep
       - The SWITCH Experience.md
