@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - The SWITCH Experience.md
-      - Flagship/Lab Crawls.md
-      - Flagship/Partner Events.md
       - Flagship/.keep
       - Flagship/At a glance.md
       - Flagship/SWITCH BEYOND.md
       - Flagship/SWITCH GLOBAL.md
       - Flagship/Trade & Exhibition Floor.md
       - Flagship/Platform & VOD.md
+      - Flagship/Partner Events.md
+      - Flagship/Lab Crawls.md
       - SLINGSHOT 2023/SLINGSHOT 2023.md
       - SLINGSHOT 2023/.keep
