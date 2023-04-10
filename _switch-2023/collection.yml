@@ -2,6 +2,7 @@ collections:
   switch-2023:
     output: true
     order:
+      - Year Long Innovation/Platform & VOD.md
       - Year Long Innovation/Year Long Innovation.md
       - Year Long Innovation/.keep
       - The SWITCH Experience.md
