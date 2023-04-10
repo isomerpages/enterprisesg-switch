@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - GLOBAL Conference/Speakers.md
       - GLOBAL Conference/2022 Edition.md
       - GLOBAL Conference/.keep
       - SLINGSHOT 2023/Overview.md
