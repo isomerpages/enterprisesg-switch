@@ -11,11 +11,11 @@ colors:
     - title: media-color-two
       color: "#4e4d4d"
     - title: media-color-three
-      color: "#e7131a"
+      color: "#f4333d"
     - title: media-color-four
-      color: "#e7131a"
+      color: "#f4333d"
     - title: media-color-five
-      color: "#e7131a"
+      color: "#f4333d"
 resources_name: example-resource
 description: Asia's leading Innovation and Technology The Singapore Week of
   Innovation and Technology (SWITCH) returns for its eight edition from 31 Oct–2
