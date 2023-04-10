@@ -12,8 +12,8 @@ The Singapore Week of Innovation and Technology (SWITCH) brings together leaders
 
 Through the open exchange of new ideas, vibrant networks and a line-up of innovation-centric activities, SWITCH provides a global platform to catalyse meaningful collaboration between different fields and markets. The focus industries include healthcare &amp; biomedical sciences, smart cities &amp; urban solutions, trade &amp; connectivity, and emerging sustainable technologies. 
 
-In 2021, SWITCH saw over 15,000 participants from 42 markets, with more than 600 international thought leaders at over 200 conferences and masterclass sessions. SWITCH is organised by Enterprise Singapore and supported by the National Research Foundation (NRF). 
+In 2022, SWITCH saw over 9,000 in-person attendees including C-Suites, founders, and directors from global markets like the United States, Japan and Germany. SWITCH is organized by Enterprise Singapore and supported by the National Research Foundation Singapore (NRF) of the Prime Minister’s Office.
 
  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/MNNaTAO6dMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-In its seventh edition in 2022, SWITCH will return as a fully physical conference, featuring various innovation programmes including the SLINGSHOT Startup Pitching Sector Finals and Grand Finals, a Sectoral Thought Leadership Stage, Market Access Sessions as well as Industry Exhibition Showcases and Roundtable sessions.
+In its eighth edition in 2023, SWITCH returns with various innovation programmes including the SLINGSHOT startup pitching sector finals and grand finals, a sectoral thought leadership stage, market access sessions as well as industry exhibition showcases and roundtable sessions.
