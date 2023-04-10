@@ -11,5 +11,5 @@ Some topics discussed included “Open Innovation in Healthcare”, the “Outlo
 
 ### Our 2022 Speakers
 
-Our past speakers included esteemed guests from governments, global and regional corporations, start ups and research institutions. Among them, 58% are C-Suite leaders and Founders. 
- 
+Our past speakers included esteemed guests from governments, global and regional corporations, start ups and research institutions. Among them, 58% are C-Suite leaders and Founders.
+
