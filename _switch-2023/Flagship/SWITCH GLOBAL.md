@@ -4,7 +4,7 @@ permalink: /switch-2023/flagship/global-conference/
 description: ""
 third_nav_title: Flagship
 ---
-# SWITCH Global
+## SWITCH Global
 
 ![](/images/2023/switch%20global%20(flagship)_cropped.jpg)
 
