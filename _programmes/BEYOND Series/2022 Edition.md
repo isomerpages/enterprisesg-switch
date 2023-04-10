@@ -4,7 +4,7 @@ permalink: /2023/programmes/beyond-series/2022-edition/
 description: ""
 third_nav_title: BEYOND Series
 ---
-## SWITCH 2022 Beyond 
+## Recap of SWITCH Beyond: 2022 Edition
 
 (insert Beyond Photo)
 
