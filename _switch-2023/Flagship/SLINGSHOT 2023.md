@@ -4,7 +4,7 @@ permalink: /switch-2023/slingshot/
 description: ""
 third_nav_title: Flagship
 ---
-# SLINGSHOT 2023
+## SLINGSHOT 2023
 
 ![](/images/2023/slingshot%20(flagship).jpg)
 
