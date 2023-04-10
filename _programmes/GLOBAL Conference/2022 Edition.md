@@ -14,3 +14,4 @@ SWITCH Global connects you directly with our partners overseas for global expans
 
 #### Global Partners from SWITCH 2022
 
+#### Speakers from SWITCH Global 2022
