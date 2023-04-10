@@ -48,7 +48,7 @@ sections:
         accelerators and investors held on 25 - 28 Oct 2022 at Resorts World
         Convention Centre, Singapore "
       button: Learn more
-      url: /2023/
+      url: /2023/flagship
       image: /images/Global Innovation Movement.jpg
       alt: SWITCH Connects you globally
   - resources:
