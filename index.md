@@ -55,4 +55,12 @@ sections:
       title: News and Happenings
       subtitle: Explore
       button: See all
+  - infopic:
+      title: Apply to Asia's most excting deep tech startup competition
+      subtitle: SLINGSHOT 2023
+      description: Infopic description
+      button: LEARN MORE
+      url: /2023/programmes/slingshot/apply/
+      image: /images/winnerr.png
+      alt: SLINGSHOT 2022 Grand Winner
 ---
