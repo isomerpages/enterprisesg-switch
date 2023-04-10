@@ -3,13 +3,13 @@ title: Singapore Week of Innovation and Technology | 31 Oct–2 Nov 2023 | Sands
 url: https://switchsg.org
 favicon: /images/Logos/switch2023_logo_fa_full_colour.png
 colors:
-  primary-color: "#f4333d"
-  secondary-color: "#000000"
+  primary-color: "#4e4d4d"
+  secondary-color: "#f4333d"
   media-colors:
     - title: media-color-one
       color: "#f4333d"
     - title: media-color-two
-      color: "#ffffff"
+      color: "#4e4d4d"
     - title: media-color-three
       color: "#e7131a"
     - title: media-color-four
