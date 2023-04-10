@@ -7,7 +7,7 @@ third_nav_title: SLINGSHOT 2023
 ## SLINGSHOT 2022 On-demand!
 Watch the SLINGSHOT 2022 Finals and Grand Finals on the SWITCH Platform's video-on-demand video library. Learn more [here](/platform).
 
-## **SLINGSHOT 2022 Grand Winner**
+## SLINGSHOT 2022 Grand Winner
 SLINGSHOT 2022 attracted applications from over 3,600 startups across more than 150 countries. From there, our Top 250 Global Startups were invited to join our Virtual Corporate Mixer and put forward their best elevator pitch to move on to the next round. 
 
 Through a rigorous evaluation, our Top 50 Global Startups were shortlisted and flew to Singapore for our curated Physical Immersion filled with dealmaking and networking opportunities with corporates and investors from their respective industries. Right here in Singapore, our Top 10 Grand Finalists were selected after months of preparation and three days of intense pitching.
@@ -21,39 +21,38 @@ Finally, we would like to congratulate **Peptobiotics**, which has emerged as SL
 We would like to also congratulate **E3A Healthcare**
 and **Wasna** for clinching 1st Runner Up and 2nd Runner Up respectively.
 
-## **Top 10 Grand Finalists**
+## Top 10 Grand Finalists
 Congratulations to the Top 10 Grand Finalists from SLINGSHOT 2022. They were selected from a cohort of over 3600 applications from 150 countries to emerge top in their domains!
 
 Catch the SLINGSHOT 2022 Grand Finals this Thursday, 27 October 2022 at the SWITCH Grand Stage, where one of the ten finalists will emerge as Grand Winner!
 
 ![Top 10 SLINGSHOT Grand Finalists](/images/top%2010.png)
 
-### **Health and Biomedical**
+### Health and Biomedical
 * E3A Healthcare 
 * Wasna 
 
-### **Transformative Digital Technologies**
+### Transformative Digital Technologies
 * SoundEye 
 * ThinkVAL 
 
-### **Consumer Media, Goods & Services**
+### Consumer Media, Goods & Services
 * Divizend 
 * Vembi Technologies 
 
-### **Manufacturing, Trade and Connectivity**
+### Manufacturing, Trade and Connectivity
 * ConcreteAI 
 * Kiinns 
 
-
-### **Environment, Energy and Green Technology**
+### Environment, Energy and Green Technology
 * CBE Eco-Solutions 
 * Peptobiotics
 
-### **Top 50 Startups**
+## Top 50 Startups
 
 Congratulations to the Top 50 SLINGSHOT finalist who pitched at the SLINGSHOT Domain and Grand Finals that was held at SWITCH from 25–27 October 2022.
 
-#### **Health and Biomedical**
+### Health and Biomedical
 1.  AgenT
 2.  Braizon Therapeutics
 3.  CogniAble
@@ -67,7 +66,7 @@ Congratulations to the Top 50 SLINGSHOT finalist who pitched at the SLINGSHOT Do
 11. ProsFit Technologies
 12. Wasna
 
-#### **Transformative Digital Technologies**
+### Transformative Digital Technologies
 1.  Chata.ai
 2.  GeoTwin
 3.  Hypersign
@@ -78,7 +77,7 @@ Congratulations to the Top 50 SLINGSHOT finalist who pitched at the SLINGSHOT Do
 8.  Watcherr
 9.  YOV
 
-#### **Consumer Media, Goods & Services**
+### Consumer Media, Goods & Services
 1.  Cakeplabs
 2.  Cya
 3.  Divizend
@@ -89,7 +88,7 @@ Congratulations to the Top 50 SLINGSHOT finalist who pitched at the SLINGSHOT Do
 8.  Vembi Technologies
 9.  VideoMonster
 
-#### **Manufacturing, Trade and Connectivity**
+### Manufacturing, Trade and Connectivity
 1.  Augmentus
 2.  Birdstop
 3.  Blixify
@@ -101,7 +100,7 @@ Congratulations to the Top 50 SLINGSHOT finalist who pitched at the SLINGSHOT Do
 9.  SafeTruck
 10. uFraction8
 
-#### **Environment, Energy and Green Technology**
+### Environment, Energy and Green Technology
 1.  Aimbelab
 2.  Bygen
 3.  CBE Eco-Solutions
@@ -113,12 +112,12 @@ Congratulations to the Top 50 SLINGSHOT finalist who pitched at the SLINGSHOT Do
 9.  SOLV8 Technology
 10. The Leaf Protein Co.
 
-### **Did you know?**
+## Did you know?
 ![SLINGSHOT SWITCH 2022](/images/infographic%20slingshot.jpg)
 
 ***
 
-### Apply for SLINGSHOT 2023
+## Apply for SLINGSHOT 2023
 
 Do you have a promising innovation and are looking to incorporate and grow your startup in Singapore? Apply [here](https://slingshot.agorize.com/2023-edition?t=A3k1pR__oMx6vDwbJAZtRw&utm_source=switchweb&utm_medium=internal&utm_campaign=slingshot2023&utm_content=launch_organic) on the Agorize platform.
 
