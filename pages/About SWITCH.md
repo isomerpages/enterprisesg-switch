@@ -14,6 +14,8 @@ Through the open exchange of new ideas, vibrant networks and a line-up of innova
 
 In 2022, SWITCH saw over 9,000 in-person attendees including C-Suites, founders, and directors from global markets like the United States, Japan and Germany. SWITCH is organized by Enterprise Singapore and supported by the National Research Foundation Singapore (NRF) of the Prime Minister’s Office.
 
- <center><iframe width="560" height="315" src="https://www.youtube.com/embed/MNNaTAO6dMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
-
 In its eighth edition in 2023, SWITCH returns with various innovation programmes including the SLINGSHOT startup pitching sector finals and grand finals, a sectoral thought leadership stage, market access sessions as well as industry exhibition showcases and roundtable sessions.
+
+**Highlights from SWITCH 2022**
+
+ <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CDpp_6Ih26w" height="315" width="560"></iframe></center>
