@@ -12,7 +12,7 @@ SWITCH 2023 Beyond Series
 
 The SWITCH 2023 Beyond series will gather  global  leaders, innovation champions and  industry experts to discuss sector-specific trends and explore how innovation is evolving to tackle current and future challenges in Asia and the world today.  
 
-**Day 1 – Healthcare**
+##### **Day 1 – Healthcare**
 
 In a full-day forum, Day 1 will spotlight the topic of Healthcare from a demand and supply side perspective to tackle challenges unique to Asia.
 
@@ -22,7 +22,7 @@ The Beyond Series for Healthcare is best recommended for healthcare providers, h
 
 Attendees will gain insights to healthcare innovation in Asia, uncover solutions specific to the region’s landscape and forge new connections with experts and leaders in Healthcare that could give rise to new collaborations and further innovation.
 
-**Day 2 – Smart Cities**
+##### **Day 2 – Smart Cities**
 
 In a full-day forum, Day 2 will address Asia’s adoption of digital technologies to accelerate smart and sustainable urban development.
 
@@ -32,7 +32,7 @@ The Beyond Series for Smart Cities is best recommended for urban planners, city 
 
 Attendees will gain insights on the issues and opportunities surrounding urbanization in Asia, while exploring upcoming solutions that may revolutionize how cities function. Attendees will also be able to network with city governors, developers, corporates in the smart city space and eco-system players like investors and system integrators from Singapore and the region.
 
-**Day 3 – CTO CIO CSO Tech x Sustainability Forum**
+##### **Day 3 – CTO CIO CSO Tech x Sustainability Forum**
 
 Day 3 of the Beyond Series will culminate to a by-invite only CIO/CTO Forum.
 
