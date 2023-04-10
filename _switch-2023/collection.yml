@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Year Long Innovation/Platform & VOD.md
-      - Year Long Innovation/Year Long Innovation.md
+      - Year Long Innovation/Overview.md
       - Year Long Innovation/.keep
       - The SWITCH Experience.md
       - Flagship/.keep
