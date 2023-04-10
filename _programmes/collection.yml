@@ -2,19 +2,19 @@ collections:
   programmes:
     output: true
     order:
-      - GLOBAL Conference/Overview.md
-      - GLOBAL Conference/Speakers.md
-      - GLOBAL Conference/2022 Edition.md
-      - GLOBAL Conference/.keep
-      - SLINGSHOT 2023/Overview.md
-      - SLINGSHOT 2023/Apply Now.md
-      - SLINGSHOT 2023/Mentorship Opportunities.md
-      - SLINGSHOT 2023/2022 Edition.md
-      - SLINGSHOT 2023/.keep
-      - Lab Crawls/Overview.md
-      - Lab Crawls/.keep
-      - Year Long Innovation.md
       - BEYOND Series/.keep
       - BEYOND Series/Overview.md
       - BEYOND Series/2023 Speakers.md
       - BEYOND Series/2022 Edition.md
+      - GLOBAL Conference/.keep
+      - GLOBAL Conference/Overview.md
+      - GLOBAL Conference/Speakers.md
+      - GLOBAL Conference/2022 Edition.md
+      - SLINGSHOT 2023/.keep
+      - SLINGSHOT 2023/Overview.md
+      - SLINGSHOT 2023/Apply Now.md
+      - SLINGSHOT 2023/Mentorship Opportunities.md
+      - SLINGSHOT 2023/2022 Edition.md
+      - Lab Crawls/.keep
+      - Lab Crawls/Overview.md
+      - Year Long Innovation.md
