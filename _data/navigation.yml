@@ -7,27 +7,17 @@ links:
         url: /2023/experience/
       - title: About us
         url: /about
-  - title: FLAGSHIP EVENT
-    url: /flagship-2022
+  - title: Programmes
+    url: /
     sublinks:
-      - title: About
-        url: /flagship-2022
-      - title: SWITCH Beyond
-        url: /switch-beyond-2022
-      - title: SWITCH Global
-        url: /switch-global-2022
-      - title: SLINGSHOT
-        url: /slingshot-2022
-      - title: Partner Events
-        url: /partner-events-2022/
-      - title: SG Innovation Booth
-        url: /sg-innovation-2022/
+      - title: BEYOND Series
+        url: /2023/programmes/beyond-series/
+      - title: GLOBAL Conference
+        url: /2023/programmes/global-conference/
+      - title: SLINGSHOT 2023
+        url: /2023/programmes/slingshot/apply/
       - title: Lab Crawls
-        url: /flagship/Lab-Crawls/overview-lab-crawl/
-      - title: Visitor Information
-        url: /switch-venue-2022/
-      - title: Event Guide
-        url: /files/Event_Guide/SWITCH_2022-Event_Guide_web_v4.pdf
+        url: /2023/programmes/lab-crawls/
   - title: YEAR-LONG PROGRAMME
     url: /year-long-innovation-2022
     sublinks:
