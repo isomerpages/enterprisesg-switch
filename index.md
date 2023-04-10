@@ -35,13 +35,12 @@ sections:
           description: Year-long community engagement
           url: /2023/year-long
   - infobar:
-      title: Year-long innovation movement
-      subtitle: Be Part Of
-      description: SWITCH is a community of innovators with a year-long programme of
-        knowledge sharing and networking, featuring a flagship conference and
-        access to our platform.
-      button: experience switch
-      url: /experience-2022/
+      title: Connect with fellow innovators and project collaborators
+      subtitle: Global Community
+      description: The SWITCH Platform is a virtual community for innovators and
+        entrepreneurs to network, collaborate, and share knowledge.
+      button: Learn more
+      url: /platform
   - infopic:
       title: The Global-Asia Innovation community meets at SWITCH
       subtitle: "flagship event "
