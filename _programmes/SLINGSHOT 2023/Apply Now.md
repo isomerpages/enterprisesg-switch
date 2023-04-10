@@ -25,11 +25,3 @@ Apply [now](https://slingshot.agorize.com/2023-edition?t=A3k1pR__oMx6vDwbJAZtRw
 * Consumer Media, Goods and Services
 * Health and Biomedical
 * Manufacturing, Trade and Connectivity
-
-***
-
-### Apply for SLINGSHOT 2023
-
-Do you have a promising innovation and are looking to incorporate and grow your startup in Singapore? Apply [here](https://slingshot.agorize.com/2023-edition?t=A3k1pR__oMx6vDwbJAZtRw&utm_source=switchweb&utm_medium=internal&utm_campaign=slingshot2023&utm_content=launch_organic) on the Agorize platform.
-
-Submissions close 17 July 2023
