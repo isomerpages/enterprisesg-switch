@@ -34,13 +34,16 @@ sections:
         - title: Connect and Collaborate
           description: Year-long community engagement
           url: /2023/year-long
-  - infobar:
-      title: Connect with fellow innovators and project collaborators
-      subtitle: Global Community
-      description: The SWITCH Platform is a virtual community for innovators and
-        entrepreneurs to network, collaborate, and share knowledge.
-      button: Learn more
-      url: /platform
+  - infopic:
+      title: Apply to Asia's most excting deep tech startup competition
+      subtitle: SLINGSHOT 2023
+      description: Up to SGD$200,000 in grant prizes and the chance to anchor yourself
+        in Singapore and get immersed in one of the world’s top innovation
+        nodes!
+      button: LEARN MORE
+      url: /2023/programmes/slingshot/apply/
+      image: /images/winnerr.png
+      alt: SLINGSHOT 2022 Grand Winner
   - infopic:
       title: The Global-Asia Innovation community meets at SWITCH
       subtitle: "flagship event "
@@ -51,16 +54,15 @@ sections:
       url: /2023/flagship
       image: /images/Global Innovation Movement.jpg
       alt: SWITCH Connects you globally
+  - infobar:
+      title: Connect with fellow innovators and project collaborators
+      subtitle: Global Community
+      description: The SWITCH Platform is a virtual community for innovators and
+        entrepreneurs to network, collaborate, and share knowledge.
+      button: Learn more
+      url: /platform
   - resources:
       title: News and Happenings
       subtitle: Explore
       button: See all
-  - infopic:
-      title: Apply to Asia's most excting deep tech startup competition
-      subtitle: SLINGSHOT 2023
-      description: Infopic description
-      button: LEARN MORE
-      url: /2023/programmes/slingshot/apply/
-      image: /images/winnerr.png
-      alt: SLINGSHOT 2022 Grand Winner
 ---
