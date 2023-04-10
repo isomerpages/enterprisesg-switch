@@ -4,10 +4,9 @@ permalink: /2023/programmes/beyond-series/
 description: ""
 third_nav_title: BEYOND Series
 ---
-## About SWITCH Beyond Series
-## 
+## For thought leaders and idea sharing
 
-(insert Beyond photo)
+![A speaker at SWITCH BEYOND](/images/2023/switch%20beyond%20series%20(flagship).jpg)
 
 SWITCH Beyond Series is the sectoral thought leadership channel that brings together global leaders and industry experts from diverse industries and markets  to must-attend conference sessions, where innovative ideas and groundbreaking technologies that are transforming the world take place.
 
