@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Year Long Innovation.md
       - BEYOND Series/.keep
       - BEYOND Series/Overview.md
       - BEYOND Series/2023 Speakers.md
