@@ -11,7 +11,7 @@ third_nav_title: Flagship
 SWITCH’s Signature Lab Crawls will be returning this October 2023! 
 Experience Singapore Innovation Infrastructure through our curated tours of innovation labs across Singapore. These tours will showcase various technologies and developments across different industries.
 
-For more information, click [here](https://switchsg.org/2023/programmes/lab-crawls).
+For more information, click [here](/2023/programmes/lab-crawls).
 
 #### Participating Lab Crawls at SWITCH 2022
 
