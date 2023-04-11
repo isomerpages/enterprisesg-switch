@@ -39,3 +39,5 @@ There will be signages in the area, do follow the signs and make your way to the
 * Alight at Bayfront MRT station (CE1/DT16) 
 
 * Exit station via Exit E to reach Sands Expo & Convention Centre
+
+Click [here](https://www.marinabaysands.com/company-information/directions-to-marina-bay-sands.html ) for more information for other transport services
