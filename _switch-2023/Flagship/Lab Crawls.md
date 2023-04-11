@@ -12,3 +12,16 @@ SWITCH’s Signature Lab Crawls will be returning this October 2023!
 Experience Singapore Innovation Infrastructure through our curated tours of innovation labs across Singapore. These tours will showcase various technologies and developments across different industries.
 
 For more information, click [here](https://switchsg.org/2023/programmes/lab-crawls).
+
+#### Participating Lab Crawls at SWITCH 2022
+
+1. Singapore Science Park
+2. JTC Corporation (JTC)
+3. Aquaculture Innovation Centre, Temasek Polytechnic
+4. Environmental and Water Technology Centre of Innovation
+5. IMDA PIXEL innovation and incubation space
+6. PALO IT Singapore
+7.  PUB
+8.  Seagate
+9.  SJ-NTU Corporate Lab
+10. Y-Lab, National Gallery Singapore
