@@ -3,6 +3,8 @@ title: Visitor Information
 permalink: /2023/flagship/visitor-information/
 description: ""
 ---
+![](/images/2023/mbs%20interior%20photo.jpeg)
+
 ### SWITCH 2023 will be held at Sands Expo & Convention Centre 
 
 There will be signages in the area, do follow the signs and make your way to the main registration desk. 
