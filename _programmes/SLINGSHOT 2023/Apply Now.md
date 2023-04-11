@@ -31,7 +31,7 @@ Apply [now](https://slingshot.agorize.com/2023-edition?t=A3k1pR__oMx6vDwbJAZtRw
 
 ***
 
-| ![SLINGSHOT Pitch and Win](/images/SLINGSHOT_Icon_Pitch_and_Win.png) | **Pitch and win**. Present to a global audience at the Finals and win up to S$1.2 million (US$800,000) worth of grant prizes |
+| ![SLINGSHOT Pitch and Win](/images/SLINGSHOT_Icon_Pitch_and_Win.png) | **Pitch and win.** Present to a global audience at the Finals and win up to S$1.2 million (US$800,000) worth of grant prizes |
 | -------- | -------- |
 | ![SLINGSHOT Network](/images/SLINGSHOT_Icon_Network.png)     | **Network.** Meet global leading investors, accelerators and corporates from regional demo days, deal-mixers, and qualifiers through to the finals     |
 | ![SLINGSHOT Immerse](/images/SLINGSHOT_Icon_Immerse.png)     | **Immerse.** Exclusive pitch-coaching, corporate site visits, lab crawls in the vibrant Singapore startup ecosystem    |
