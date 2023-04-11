@@ -30,7 +30,7 @@ sections:
           url: /2023/flagship/global-conference
         - title: SLINGSHOT 2023
           description: Deep tech startup competition
-          url: /2023/flagship/slingshot
+          url: /2023/slingshot
         - title: Connect and Collaborate
           description: Year-long community engagement
           url: /2023/year-long
