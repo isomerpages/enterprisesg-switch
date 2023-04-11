@@ -1,6 +1,6 @@
 ---
 title: SLINGSHOT 2023
-permalink: /2023/flagship/slingshot-2023/
+permalink: /2023/flagship/slingshot/
 description: ""
 third_nav_title: Flagship
 ---
