@@ -3,10 +3,10 @@ links:
   - title: ABOUT
     url: /about
     sublinks:
-      - title: SWITCH 2023
-        url: /2023/experience/
       - title: About us
         url: /about
+      - title: About SWITCH 2023
+        url: /2023/experience/
       - title: Sponsors & Partners
         url: /sponsors-partners/
   - title: PROGRAMMES
