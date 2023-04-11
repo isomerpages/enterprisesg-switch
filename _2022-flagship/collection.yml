@@ -1,5 +1,5 @@
 collections:
-  flagship:
+  2022-flagship:
     output: true
     order:
       - SWITCH Beyond/.keep

@@ -17,30 +17,33 @@ sections:
       title: Singapore Week of Innovation & Technology
       subtitle: SWITCH Returns 31 October–2 November 2023 at Sands Expo & Convention
         Centre
-      background: /images/SWITCH_2021_Hero_Banner_3e.jpg
+      background: /images/Homepage
+        Images/switch2023_keyvisual_final_29mar_1200x450px-08.png
       button: "Learn More Here "
-      url: /year-long-innovation-2022
+      url: /2023/experience
       key_highlights:
         - title: SWITCH Beyond
           description: Innovation & Technology Trends
-          url: /switch-beyond-2022
+          url: /2023/flagship/beyond-series
         - title: SWITCH Global
           description: Gateway to global markets
-          url: /switch-global-2022
-        - title: Partner events
-          description: More innovation-focused events
-          url: /partner-events-2022/
-        - title: Lab Crawls
-          description: Visit innovation labs
-          url: /flagship/Lab-Crawls/overview-lab-crawl/
-  - infobar:
-      title: Year-long innovation movement
-      subtitle: Be Part Of
-      description: SWITCH is a community of innovators with a year-long programme of
-        knowledge sharing and networking, featuring a flagship conference and
-        access to our platform.
-      button: experience switch
-      url: /experience-2022/
+          url: /2023/flagship/global-conference
+        - title: SLINGSHOT 2023
+          description: Deep tech startup competition
+          url: /2023/flagship/slingshot
+        - title: Connect and Collaborate
+          description: Year-long community engagement
+          url: /2023/year-long
+  - infopic:
+      title: Apply to Asia's most excting deep tech startup competition
+      subtitle: SLINGSHOT 2023
+      description: Up to SGD$200,000 in grant prizes and the chance to anchor yourself
+        in Singapore and get immersed in one of the world’s top innovation
+        nodes!
+      button: LEARN MORE
+      url: /2023/programmes/slingshot/apply/
+      image: /images/winnerr.png
+      alt: SLINGSHOT 2022 Grand Winner
   - infopic:
       title: The Global-Asia Innovation community meets at SWITCH
       subtitle: "flagship event "
@@ -48,12 +51,18 @@ sections:
         accelerators and investors held on 25 - 28 Oct 2022 at Resorts World
         Convention Centre, Singapore "
       button: Learn more
-      url: /flagship-2022
+      url: /2023/flagship
       image: /images/Global Innovation Movement.jpg
       alt: SWITCH Connects you globally
+  - infobar:
+      title: Connect with fellow innovators and project collaborators
+      subtitle: Global Community
+      description: The SWITCH Platform is a virtual community for innovators and
+        entrepreneurs to network, collaborate, and share knowledge.
+      button: Learn more
+      url: /platform
   - resources:
       title: News and Happenings
       subtitle: Explore
       button: See all
 ---
-

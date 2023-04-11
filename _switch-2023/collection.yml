@@ -1,0 +1,16 @@
+collections:
+  switch-2023:
+    output: true
+    order:
+      - The SWITCH Experience.md
+      - Flagship/.keep
+      - Flagship/At a Glance.md
+      - Flagship/SWITCH BEYOND.md
+      - Flagship/SWITCH GLOBAL.md
+      - Flagship/SLINGSHOT 2023.md
+      - Flagship/Trade & Exhibition Floor.md
+      - Flagship/Partner Events.md
+      - Flagship/Lab Crawls.md
+      - Year Long Innovation/.keep
+      - Year Long Innovation/Overview.md
+      - Year Long Innovation/Platform & VOD.md
