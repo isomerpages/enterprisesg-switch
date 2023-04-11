@@ -35,9 +35,8 @@ There will be signages in the area, do follow the signs and make your way to the
 * Take buses 97, 97e, 106, 133, 502, 502A, 518 or 518A and alight at Bayfront Stn Exit A (located opposite Sands Expo & Convention Centre) 
 
 ##### By MRT 
+*   Alight at Bayfront MRT station (CE1/DT16)
 
-* Alight at Bayfront MRT station (CE1/DT16) 
+*   Exit station via Exit E to reach Sands Expo & Convention Centre
 
-* Exit station via Exit E to reach Sands Expo & Convention Centre
-
-Click [here](https://www.marinabaysands.com/company-information/directions-to-marina-bay-sands.html ) for more information for other transport services
+[More information on other transport services](https://www.marinabaysands.com/company-information/directions-to-marina-bay-sands.html)
