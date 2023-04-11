@@ -7,6 +7,7 @@ third_nav_title: SLINGSHOT 2023
 ## SLINGSHOT: Mentorship Opportunties
 
 Passionate about helping entrepreneurial startups in their growth journey? 
+
 Join us at SLINGSHOT 2023, where you will get the opportunity to guide and inspire emerging startups to shape the future of the industry! Be part of the growth journey of promising deep tech startups as they look to grow their businesses and expand into Singapore!
 
 Register [here](https://web.micepad.co/slingshot-2023-judges/registration/tickets?lang=en)
