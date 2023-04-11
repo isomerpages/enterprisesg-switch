@@ -3,6 +3,8 @@ title: Sponsors & Partners
 permalink: /sponsors-partners/
 description: ""
 ---
+**2022 Sponsors & Partners**
+
 ##### Platinum Sponsor
 ![Platinum sponsor SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/Platinum%20Sponsor.png)
 
