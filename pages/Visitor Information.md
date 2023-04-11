@@ -40,3 +40,5 @@ There will be signages in the area, do follow the signs and make your way to the
 *   Exit station via Exit E to reach Sands Expo & Convention Centre
 
 [More information on other transport services](https://www.marinabaysands.com/company-information/directions-to-marina-bay-sands.html)
+
+[More information on Sands Expo & Convention Centre](https://www.marinabaysands.com/expo-events-and-convention-centre.html/?utm_source=google&utm_medium=gmb&utm_campaign=sands_convention_info_main)
