@@ -18,4 +18,4 @@ The 13 industry stages will feature a host of partner and co-located events that
 
 ![](/images/2023/switch%20stage.jpg)
 
-These will be held in tandem with an exhibition encompassing over 2,000 sqm (about four basketball courts) and be action-packed with networking events and ecosystem initiatives that will gather start\-ups, innovators, corporates, investors, foreign trade and innovation agencies across sectors from around the world.
+These will be held in tandem with exhibitions encompassing over 2,000 sqm (about four basketball courts) and be action-packed with networking events and ecosystem initiatives that will gather start\-ups, innovators, corporates, investors, foreign trade and innovation agencies across sectors from around the world.
