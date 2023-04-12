@@ -14,7 +14,7 @@ The 2023 edition of the SWITCH flagship event will be held in Singapore on the 3
 
 This year, SWITCH 2023 will debut with 15 stages and one exhibition, consisting of **SLINGSHOT**, the start-up stage showcasing Asia’s most exciting deep tech start-up competition, **SWITCH Global**, the center stage for international expansion and 13 industry stages.
 
-The 13 industry stages will feature partner and co-located events that will cover deep tech topics ranging from AI, digital trust, sustainability and retail technology. They will also spotlight the signature **SWITCH Beyond** **Series**, the curated platform for sectoral thought leadership that will discuss groundbreaking innovation in Healthcare, Smart Cities and more. This year, it will also premiere an exclusive CIO CTO CSO Forum for C-suite leaders to discuss pertinent issues of today.
+The 13 industry stages will feature a host of partner and co-located events that will cover deep tech topics ranging from AI, digital trust, sustainability and retail technology. One of the stages will also spotlight the signature **SWITCH Beyond Series**, the curated platform for sectoral thought leadership that will discuss groundbreaking innovation in Healthcare and Smart Cities. An exclusive CIO CTO CSO Forum will also premiere for C-suite leaders to discuss pertinent issues of today.
 
 ![](/images/2023/switch%20stage.jpg)
 
