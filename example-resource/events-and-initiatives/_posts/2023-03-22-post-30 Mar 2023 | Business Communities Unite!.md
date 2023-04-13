@@ -11,7 +11,7 @@ image: ""
 #### Event details
 
 
-| **Title** | China-Singapore AI Ecosystem Collaboration Forum|
+| **Title** | Business Communities Unite!: Collaborative Networks for Tech Startups & SMEs to Grow|
 | -------- | -------- |
 |**Date** | Saturday, 3 September 2022 
 | **Time**    | 2 - 5pm (Singapore Time / UTC +8) |
