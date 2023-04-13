@@ -16,6 +16,8 @@ image: ""
 
 **Revolutionising Zero Emissions; Sustainable and Scalable Green Hydrogen Production** 
 
+![](/images/Article%20Images/sungreenh2%20-%20foundingteam.jpg)
+
 SunGreenH2 is transforming green hydrogen production by building the world's highest performance electrolysers using a platform technology to incorporate proprietary advanced nanostructured materials into electrolyser components. The company manufactures electrolysers made with its materials to double production and decrease energy consumption with significant reduction of the use of expensive platinum group metals. 
 
 Founded by Tulika Raj and Dr. Saeid Masudy Panah, SunGreenH2 takes on a sustainable approach to create core components for electrolyser cells, stacks and systems, enabling its customers to produce affordable green hydrogen. The company has combined cutting-edge research in electrochemistry and nanotechnology to provide a solution through high-efficiency, low-cost green hydrogen production. 
