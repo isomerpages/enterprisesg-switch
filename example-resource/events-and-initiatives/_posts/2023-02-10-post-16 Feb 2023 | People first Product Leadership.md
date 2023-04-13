@@ -14,7 +14,7 @@ image: ""
 | **Title** | People-first Product Leadership|
 | -------- | -------- |
 |**Date** | Thursday, 16 February 2023 
-| **Time**    | 8 - 9pm (Singapore Time / UTC +8) |
+| **Time**    | 8 - 9am (Singapore Time / UTC +8) |
 |**Venue** | SWITCH Platform
 | **Register** | This event has ended |
 
