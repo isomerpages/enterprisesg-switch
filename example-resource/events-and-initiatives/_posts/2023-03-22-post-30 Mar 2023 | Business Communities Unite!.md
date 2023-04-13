@@ -15,7 +15,7 @@ image: ""
 | -------- | -------- |
 |**Date** | Thursday, 30 March 2023 
 | **Time**    | 2 - 5pm (Singapore Time / UTC +8) |
-|**Venue** | SWITCH Platform
+|**Venue** | The Meeting Point at LaunchPad @ one-north
 | **Register** | [Click here](https://events.hubilo.com/switchsg/register) |
 
 #### About
