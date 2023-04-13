@@ -7,3 +7,20 @@ description: ""
 image: ""
 ---
 ![](/images/2023/202301_webinar%20asset.png)
+
+#### Event details
+
+
+| **Title** |Growth Hacking Product Activation|
+| -------- | -------- |
+|**Date** | Thursday, 12 January 2023 
+| **Time**    | 3 - 4pm (Singapore Time / UTC +8) |
+|**Venue** | SWITCH Platform
+| **Register** | This event has ended |
+
+#### About
+Grow your business with the right connections! 
+
+Gain networks and collaboration opportunities to grow your business at “Business Communities Unite! Collaborative Networks for Tech Startups & SMEs to Grow” on **Thursday 30 March 2023**! 
+
+At this gathering of tech founders, entrepreneurs, leaders and connectors, you will also join a series of curated content sessions on topics such as brand awareness and growth, business inventory optimization, as well as a collaboration session with Finnish startups on new market opportunities!
