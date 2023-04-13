@@ -16,7 +16,7 @@ image: ""
 |**Date** | Thursday, 30 March 2023 
 | **Time**    | 2 - 5pm (Singapore Time / UTC +8) |
 |**Venue** | The Meeting Point at LaunchPad @ one-north
-| **Register** | [Click here](https://events.hubilo.com/switchsg/register) |
+| **Register** | [Click here](https://web.micepad.co/business-communities-unite/info?lang=en) |
 
 #### About
 Learn how we can foster the collaboration between the China-Singapore AI ecosystems to mutually reinforce AI4Good to utilise opportunities and address unforeseen risks such as DeepFake and disinformation!  
