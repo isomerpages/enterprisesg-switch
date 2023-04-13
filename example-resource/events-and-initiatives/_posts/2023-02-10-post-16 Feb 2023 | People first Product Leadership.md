@@ -13,9 +13,9 @@ image: ""
 
 | **Title** | People-first Product Leadership|
 | -------- | -------- |
-|**Date** | Thursday, 30 March 2023 
-| **Time**    | 2 - 5pm (Singapore Time / UTC +8) |
-|**Venue** | The Meeting Point at LaunchPad @ one-north
+|**Date** | Thursday, 16 February 2023 
+| **Time**    | 8 - 9pm (Singapore Time / UTC +8) |
+|**Venue** | SWITCH Platform
 | **Register** | This event has ended |
 
 #### About
