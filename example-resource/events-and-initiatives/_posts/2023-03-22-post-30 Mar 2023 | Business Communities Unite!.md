@@ -13,7 +13,7 @@ image: ""
 
 | **Title** | Business Communities Unite!: Collaborative Networks for Tech Startups & SMEs to Grow|
 | -------- | -------- |
-|**Date** | Saturday, 3 September 2022 
+|**Date** | Thursday, 30 March 2023 
 | **Time**    | 2 - 5pm (Singapore Time / UTC +8) |
 |**Venue** | SWITCH Platform
 | **Register** | [Click here](https://events.hubilo.com/switchsg/register) |
