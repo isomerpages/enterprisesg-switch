@@ -19,9 +19,11 @@ image: ""
 | **Register** | [Click here](https://web.micepad.co/business-communities-unite/info?lang=en) |
 
 #### About
-Learn how we can foster the collaboration between the China-Singapore AI ecosystems to mutually reinforce AI4Good to utilise opportunities and address unforeseen risks such as DeepFake and disinformation!  
-  
-Join us in the upcoming webinar, "China-Singapore AI Ecosystem Collaboration Forum" on **3 September, 2.00pm** to learn more about the partnership of two robust tech centres: China and Singapore!
+Grow your business with the right connections! 
+
+Gain networks and collaboration opportunities to grow your business at “Business Communities Unite! Collaborative Networks for Tech Startups & SMEs to Grow” on **Thursday 30 March 2023**! 
+
+At this gathering of tech founders, entrepreneurs, leaders and connectors, you will also join a series of curated content sessions on topics such as brand awareness and growth, business inventory optimization, as well as a collaboration session with Finnish startups on new market opportunities! 
 #### Register
 
 This event is part of the SWITCH Year-long Innovation Programme. Register for a FREE Trade Pass to attend this event, as well as the SWITCH 2022 Flagship Event from 25 - 28 Oct 2022 at Resorts World Convention Centre, Singapore. 
