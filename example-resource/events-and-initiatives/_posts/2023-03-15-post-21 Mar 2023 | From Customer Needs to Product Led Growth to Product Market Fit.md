@@ -35,3 +35,5 @@ In this session, David will share insights on:
 3.       Collecting product-market fit signals to acquire and convert customers
 
 David is an independent professional on Wizly a future-of-work platform that helps companies collaborate with highly-skilled independent professionals to solve business problems, share knowledge and advise them.
+
+David Isaac is a strategist, Chief Growth Officer and Managing Director, with 18 years in Tech, Growth, and management consulting working for C-Suites. In product-led growth, he is known for launching new digital businesses for MNCs by aligning monetization, marketing, and product strategy to deliver high retention customer experiences.
