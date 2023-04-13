@@ -51,3 +51,5 @@ In 2023, we are scouting for suitable locations within the Asia Pacific, Europe 
 “Take the plunge if you feel strongly enough about an idea or business plan. One must have the resilience and passion to persist in good and bad days.” 
 
 Starting a company is a roller coaster ride, especially during the initial days of venture building and scaling the business. A startup founder will have both good and bad days while on this ride. Therefore, to be a founder, one must have resilience and passion, along with a sound business plan right from the beginning, so one knows exactly what the clear goal is and can stay focused while working towards the end goal.
+
+Find out how Startup SG can support you to kickstart your entrepreneur journey in Singapore [here](https://www.startupsg.gov.sg/programmes/30813/entrepass).
