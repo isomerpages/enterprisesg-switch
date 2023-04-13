@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/2023/202303_webinar%20asset.png)
