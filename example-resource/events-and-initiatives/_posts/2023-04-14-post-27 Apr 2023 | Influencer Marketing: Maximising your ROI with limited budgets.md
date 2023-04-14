@@ -7,3 +7,15 @@ description: ""
 image: ""
 ---
 ![](/images/2023/202304_webinar%20asset.png)
+
+#### Event details
+
+
+| **Title** | Influencer Marketing: Maximising your ROI with limited budgets|
+| -------- | -------- |
+|**Date** | Thursday, 27 April 2023 
+| **Time**    | 11am - 12pm (Singapore Time / UTC +8) |
+|**Venue** | SWITCH Platform
+| **Register** |   [https://community.switchsg.org/register](https://community.switchsg.org/register) |
+
+#### About
