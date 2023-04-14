@@ -32,6 +32,7 @@ This event will also have a networking session after the panel sessions.
 
 | Time | Programme | 
 | -------- | --------- | 
+| 3.20pm | Registration |
 | 4.00pm | Introduction of Event| 
 | 4.05pm | Opening Remarks by Enterprise Singapore|
 | 4.10pm | Presentation by Associate Professor Edward Tay |
