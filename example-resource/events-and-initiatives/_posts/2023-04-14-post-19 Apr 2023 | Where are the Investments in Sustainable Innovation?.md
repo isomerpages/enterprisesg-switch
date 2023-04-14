@@ -33,8 +33,9 @@ This event will also have a networking session after the panel sessions.
 | Time | Programme | 
 | -------- | --------- | 
 | 4.00pm | Introduction of Event| 
-| 4.05pm | Opening Remarks by Enterprise Singapore
-| 4.10pm | Presentation by Associate Professor Edward Tay
-| 4.20pm | Panel 1: Investors' Perspectives
-| 4.55pm | Panel 2: Founders' Perspectives
-| 5.30pm | Networking
+| 4.05pm | Opening Remarks by Enterprise Singapore |
+| 4.10pm | Presentation by Associate Professor Edward Tay |
+| 4.20pm | Panel 1: Investors' Perspectives |
+| 4.55pm | Panel 2: Founders' Perspectives |
+| 5.30pm | Networking |
+
