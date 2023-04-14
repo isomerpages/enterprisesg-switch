@@ -25,10 +25,6 @@ Tech for Business Growth.
 
 Join us for the upcoming webinar, Growth Hacking Product Activation with Vishal Rewari, CEO of Optiblack.
 
-Date: Thursday, 12 January 2023
-
-Time: 3pm – 4pm (SGT)
-
 In this session, attendees will learn about designing and developing growth solutions and experiences for SaaS platforms and customers. Through frameworks and actionable insights, you will learn how to identify potential conversions, anticipate user behaviour and make better business decisions to add value to your customers.  
   
 Optiblack is a SaaS product growth firm created to make software business successful. Vishal Rewari is a digital product growth specialist and has worked with Housing.com, Deloitte, McKinsey, 15+ SaaS companies and 25+ strategic products.
