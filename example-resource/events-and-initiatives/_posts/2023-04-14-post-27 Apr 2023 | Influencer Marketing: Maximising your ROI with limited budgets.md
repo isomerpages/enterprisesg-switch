@@ -16,6 +16,6 @@ image: ""
 |**Date** | Thursday, 27 April 2023 
 | **Time**    | 11am - 12pm (Singapore Time / UTC +8) |
 |**Venue** | SWITCH Platform
-| **Register** |   [https://community.switchsg.org/register](https://community.switchsg.org/register) |
+| **Register** |   [Click here](https://community.switchsg.org/register) |
 
 #### About
