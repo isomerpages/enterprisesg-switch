@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/2023/202304_event%20investments%20in%20sustainable%20innovation.png)
+
 #### Event details
 
 
@@ -29,4 +31,3 @@ image: ""
 | 4.20pm | Panel 1: Investors' Perspectives
 | 4.55pm | Panel 2: Founders' Perspectives
 | 5.30pm | Networking
-
