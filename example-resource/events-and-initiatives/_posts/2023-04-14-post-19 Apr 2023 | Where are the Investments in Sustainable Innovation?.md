@@ -22,7 +22,7 @@ image: ""
 
 As Singapore pursues a greener and sustainable future where innovation is pervasive and technology is used to improve lives and create new opportunities in green spaces for everyone to participate in, one question needs to be asked: Where are the investments in sustainable innovation?
 
-As part of Earth Day 2023, join us at **Investment in Sustainable Innovation: Perspectives from Investors & Founders** , a community and networking event with industry leaders and connectors in Singapore’s green and sustainability sectors.
+As part of Earth Day 2023, join us at **Investment in Sustainable Innovation: Perspectives from Investors & Founders**, a community and networking event with industry leaders and connectors in Singapore’s green and sustainability sectors.
 
 Hear deep and insightful perspectives from the investors and startup founders who are charting the course of Singapore’s sustainability story as they share the trends and opportunities within this exciting and essential sector, as well as how you can be involved.
 
