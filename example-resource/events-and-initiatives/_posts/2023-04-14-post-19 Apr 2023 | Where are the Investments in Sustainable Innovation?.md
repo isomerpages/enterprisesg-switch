@@ -42,7 +42,7 @@ This event will also have a networking session after the panel sessions.
 
 #### WHO’S ATTENDING?
 
-**Green Tree Initiative (GTI)** is a community project supported by Enterprise Singapore SWITCH. Launched by Singapore Minister of State, Ms. Low Yen Ling on 25 Oct 2022, it promotes sustainability knowledge through industry partnership with trade associations and academia and to build an ecosystem that incubates and pollinates ideas that taps on innovation and technology to solve climate challenges. Industry partners include NUS Business School, Asia Sustainability Forum and Global Green Connect.
+**Green Tree Initiative (GTI)** is a community project supported by the Singapore Week of Innovation and Technology (SWITCH). Launched by Singapore Minister of State, Ms. Low Yen Ling on 25 Oct 2022, it promotes sustainability knowledge through industry partnership with trade associations and academia and to build an ecosystem that incubates and pollinates ideas that taps on innovation and technology to solve climate challenges. Industry partners include NUS Business School, Asia Sustainability Forum and Global Green Connect.
 
 **Asia Sustainability Forum (ASF)** is a platform for stakeholders to build strong connections and share thought leadership on sustainability efforts. As a group, they seek to guide and align activities towards low-carbon and climate-resilient development – towards a livable and sustainable future for generations to come in Asia. ASF have organized community events with corporate partners such as Enterprise Singapore, National Library Board, National University of Singapore, Singapore Management University & Singapore Deep Technology Alliance.
 
