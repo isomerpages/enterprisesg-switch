@@ -28,12 +28,12 @@ At this webinar, powered by Wizly, Nisarg Shah, Co-founder and CEO of affable.ai
 
 In this session, Nisarg will cover:
 
-1.  Why influencer marketing is a flexible marketing investment option.
+1. Why influencer marketing is a flexible marketing investment option.
     
-2.  How influencer marketing can be more authentic and relatable than traditional marketing methods.
+2. How influencer marketing can be more authentic and relatable than traditional marketing methods.
     
-3.  How to create a trusted voice that consumers turn to in times of a recession.
+3. How to create a trusted voice that consumers turn to in times of a recession.
     
-4.  How influencers are affiliates, who can create measurable ROI and produce massive reach.
+4. How influencers are affiliates, who can create measurable ROI and produce massive reach.
     
 Nisarg is an independent professional on Wizly, a future-of-work platform that helps companies collaborate with independent professionals to solve business problems, share knowledge and advise them. He is the Co-Founder & CEO of  [affable.ai](http://www.affable.ai) with two offices in the United States and Singapore. affable is building an AI platform to help brands run highly effective influencer marketing campaigns. Using the power of Big Data and Machine Learning, affable helps brands like H&M, Lenovo, and Nespresso as well as eCommerce brands like BlendJet engage with authentic and relevant influencers. At affable, Nisarg works closely with these marketers helping them use data and insights to plan and measure their influencer marketing strategy. affable is backed by Prime Venture Partners, Decacorn Capital, SG Innovate, and Entrepreneur First.
