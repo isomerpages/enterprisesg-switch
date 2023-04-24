@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/2023/202304_webinar%20asset.png)
+![](/images/2023/(edited)%20hubilo_banner_influencer_marketing_nisarg_shah_27_apr_2023.png)
 
 #### Event details
 
