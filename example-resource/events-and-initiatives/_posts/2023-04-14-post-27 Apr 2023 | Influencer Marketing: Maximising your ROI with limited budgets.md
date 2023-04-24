@@ -30,10 +30,13 @@ In this session, Nisarg will cover:
 
 1.  Why influencer marketing is a flexible marketing investment option.
     
+		
 2.  How influencer marketing can be more authentic and relatable than traditional marketing methods.
     
+		
 3.  How to create a trusted voice that consumers turn to in times of a recession.
     
+		
 4. How influencers are affiliates, who can create measurable ROI and produce massive reach.
     
 Nisarg is an independent professional on Wizly, a future-of-work platform that helps companies collaborate with independent professionals to solve business problems, share knowledge and advise them. He is the Co-Founder & CEO of  [affable.ai](http://www.affable.ai) with two offices in the United States and Singapore. 
