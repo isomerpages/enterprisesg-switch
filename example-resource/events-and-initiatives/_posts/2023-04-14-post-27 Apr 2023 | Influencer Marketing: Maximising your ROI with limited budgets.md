@@ -24,25 +24,7 @@ Looking for a differentiated approach to marketing? 
 
 As marketing budgets tighten and reaching customers is more challenging than before, marketing campaigns need to deliver on visibility, engagement, and ultimately conversions. 
 
-  
-
 At this webinar, powered by Wizly, Nisarg Shah, Co-founder and CEO of affable.ai, will demonstrate how influencer marketing can be a viable marketing tactic as well as how you can get started, particularly when budgets are challenging. 
-
-  
-
-Event details
-
-📅 Date: Thursday, 27 April 2023
-
-⌚ Time: 11am–12pm (SGT)
-
-📍 Venue: SWITCH Platform (Livestream)
-
-  
-
-To attend the webinar, log into the SWITCH Platform or register for your FREE Digital Trade Pass at [https://community.switchsg.org/register](https://community.switchsg.org/register) to join us!
-
-  
 
 In this session, Nisarg will cover:
 
