@@ -60,3 +60,33 @@ strategic location provides easy access to the region and its growing consumer m
 
 ![](/images/Article%20Images/Entrepass%20Articles/planet07%20astar_artc.jpeg)
 <sup> Planet07's founder, Dr Guenther Hoffman, participated in the A*STAR Advanced Manufacturing Startup Challenge 2022 </sup>
+
+Key partnerships such as my collaboration with the Advanced Remanufacturing and Technology
+Centre (ARTC) led to our success. In 2022, I collaborated with ARTC, a partnership with Nanyang
+Technological University (NTU), Singapore, led by the Agency for Science, Technology and Research
+(A*STAR). It was a four-month long collaboration where we researched on closed loop production
+planning and scheduling. The objective for the project was to reduce the labour intensiveness for Omni
+Mold, a plastic injection mold making company with a complicated scheduling process. It has opened
+doors to the wider manufacturing industry in Singapore. Through the connections of ARTC, I have
+established business partnerships with Omni Mold and Anewtech Systems. I also found a great
+mentor, Mr Siah Chong Cheong, who helped me find local system integrators to expand business
+opportunities. Mr Siah is a passionate individual who nurtures technopreneurer for Singapore and the
+region, converting technology into successful businesses.
+
+**4. Planet07 was also one of our Top 100 Global Startups at SLINGSHOT 2020. Tell us more
+about your experience.**
+
+I thoroughly enjoyed SLINGSHOT and felt that it was a great platform for Planet07’s LexaTexer AI
+platform. Working out of the US and Europe regions for over ten years, we had an initial market
+hypothesis about Singapore and the Southeast Asia region. However, we quickly found that we had
+to adapt our software, use cases and sales strategy to Singapore and the Southeast Asia region.
+
+Being part of SLINGSHOT gave me a platform to test-bed my hypothesis with Singapore in mind and
+allowed me to meet with mentors who provided constructive feedback and pitching tips. Most
+importantly, I was able to build new connections with key industry leaders that fast tracked our growth
+in Singapore.
+
+In Singapore and throughout Southeast Asia, being part of an ecosystem is essential. My decision to
+be part of an ecosystem through taking part in events such as SLINGSHOT has opened multiple doors
+for us. I have established relations with multiple ecosystem partners such as ARTC, the German
+Accelerator, IoT Tribe, and British Standards Institute (BSI) through IMDA’s Innovation Platform.
