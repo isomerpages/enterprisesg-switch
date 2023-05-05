@@ -92,3 +92,4 @@ for us. I have established relations with multiple ecosystem partners such as AR
 Accelerator, IoT Tribe, and British Standards Institute (BSI) through IMDA’s Innovation Platform.
 
 ![](/images/Article%20Images/Entrepass%20Articles/planet07%20bsi-imda%20open%20innovation%20challenge%20award%202022.jpg)
+<sup> Planet07 emerged as a finalist at the BSI-IMDA Open Innovation Challenge Award 2022 with their LexaTexer enterprise AI solution. </sup>
