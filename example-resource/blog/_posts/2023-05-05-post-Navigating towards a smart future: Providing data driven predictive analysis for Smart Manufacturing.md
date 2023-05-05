@@ -55,3 +55,8 @@ startup ecosystem.
 It is undeniable that Singapore is a gateway to Southeast Asia. LexaTexer’s users are generally highly
 mature corporates, which come mainly from Singapore and the Southeast Asia region. Singapore’s
 strategic location provides easy access to the region and its growing consumer market.
+
+**3. What are the key factors to Planet07’s success so far?**
+
+![](/images/Article%20Images/Entrepass%20Articles/planet07%20astar_artc.jpeg)
+<sup> Planet07's founder, Dr Guenther Hoffman, participated in the A*STAR Advanced Manufacturing Startup Challenge 2022 </sup>
