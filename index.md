@@ -19,7 +19,7 @@ sections:
         Centre
       background: /images/Homepage
         Images/switch2023_keyvisual_final_29mar_1200x450px-08.png
-      button: Connect with us
+      button: Register Interest
       url: http://eepurl.com/iqDazw
       key_highlights:
         - title: SWITCH Beyond
