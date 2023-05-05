@@ -90,3 +90,5 @@ In Singapore and throughout Southeast Asia, being part of an ecosystem is essent
 be part of an ecosystem through taking part in events such as SLINGSHOT has opened multiple doors
 for us. I have established relations with multiple ecosystem partners such as ARTC, the German
 Accelerator, IoT Tribe, and British Standards Institute (BSI) through IMDA’s Innovation Platform.
+
+![](/images/Article%20Images/Entrepass%20Articles/planet07%20bsi-imda%20open%20innovation%20challenge%20award%202022.jpg)
