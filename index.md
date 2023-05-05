@@ -19,8 +19,8 @@ sections:
         Centre
       background: /images/Homepage
         Images/switch2023_keyvisual_final_29mar_1200x450px-08.png
-      button: "Learn More Here "
-      url: /2023/experience
+      button: Connect with us
+      url: http://eepurl.com/iqDazw
       key_highlights:
         - title: SWITCH Beyond
           description: Innovation & Technology Trends
