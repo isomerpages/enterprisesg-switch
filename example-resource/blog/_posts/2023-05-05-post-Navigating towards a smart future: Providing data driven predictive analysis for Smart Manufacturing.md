@@ -93,3 +93,8 @@ Accelerator, IoT Tribe, and British Standards Institute (BSI) through IMDA’s I
 
 ![](/images/Article%20Images/Entrepass%20Articles/planet07%20bsi-imda%20open%20innovation%20challenge%20award%202022.jpg)
 <sup> Planet07 emerged as a finalist at the BSI-IMDA Open Innovation Challenge Award 2022 with their LexaTexer enterprise AI solution. </sup>
+
+**5. What are Planet07's business plans for LexaTexer moving forward?**
+We remain committed to our goal to serve manufacturing customers with a localised approach and are looking forward to grow further in the Southeast Asia region, through Singapore as a regional hub.
+
+**6. What are some upcoming trends in smart manufacturing?**
