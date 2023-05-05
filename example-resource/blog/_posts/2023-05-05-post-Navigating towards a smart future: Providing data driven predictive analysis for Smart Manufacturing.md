@@ -19,7 +19,7 @@ recent years. Meet Planet07 – the smart manufacturing company behind LexaTexer
 artificial intelligence (AI) platform, that drives greater effectiveness through increased productivity,
 lower costs, and reduced human error.
 
-In this article, we sit down with Dr. Guenther Hoffmann, co-founder of Planet07 and EntrePass holder,
+In this article, we sit down with Dr. Guenther Hoffmann, co-founder of Planet07 and [EntrePass](https://www.startupsg.gov.sg/programmes/30813/entrepass) holder,
 to find out how deep tech solutions in smart manufacturing can eliminate system weaknesses, such
 as inaccuracies and slow speeds, hence transforming manufacturing processes for greater
 effectiveness.
