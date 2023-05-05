@@ -95,6 +95,12 @@ Accelerator, IoT Tribe, and British Standards Institute (BSI) through IMDA’s I
 <sup> Planet07 emerged as a finalist at the BSI-IMDA Open Innovation Challenge Award 2022 with their LexaTexer enterprise AI solution. </sup>
 
 **5. What are Planet07's business plans for LexaTexer moving forward?**
+
 We remain committed to our goal to serve manufacturing customers with a localised approach and are looking forward to grow further in the Southeast Asia region, through Singapore as a regional hub.
 
-**6. What are some upcoming trends in smart manufacturing?**
+**6. What are some upcoming trends in smart 
+manufacturing?**
+
+Digital maturity is crucial for manufacturing companies' growth. With digital maturity, manufacturing companies can address important topics like improvements in operational excellence, automated scheduling, sales, and operational planning optimisation.
+
+Find out how we can support your journey as an entrepreneur in Singapore [here](https://www.startup.gov.sg/programmes/30813/entrepass)
