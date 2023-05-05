@@ -31,12 +31,14 @@ Intelligence (AI) research experience working at multiple research institutes su
 University Berlin, Duke University, North Carolina and the Massachusetts Institute of Technology, I
 realised that although AI is a cool buzzword, customers are not buying AI as an industrial solution.
 Instead, they are looking for end-to-end solutions that comprises of AI.
+
 A business user is interested in the value of the solution that comprises AI. To roll out any AI driven
 solution, the solution needs to adhere to standards which make it painless to read customers’ data,
 configure the AI driven solution to provide value, scale the solution and integrate it into the legacy
 processes and IT systems. Hence, making the AI solution implementable. Planet07’s flagship solution,
 LexaTexer, was as such started to provide an entire software framework covering all necessary aspects
 from building, testing, scaling and integrating of its solutions according to security and compliance.
+
 LexaTexer helps companies connect their business, supply partners and channel partners, so that they
 can have end-to-end visibility from the manufacturing to sales process. This allows our customers to
 stay ahead of customer needs, adapt to market trends and make changes that matter most to their
@@ -49,6 +51,7 @@ journey in Singapore’s startup ecosystem been like?**
 My initial journey in Singapore’s startup ecosystem started when I first participated in the IMDA Open
 Innovation Platform. Through the innovation challenge, I made my initial connections in Singapore’s
 startup ecosystem.
+
 It is undeniable that Singapore is a gateway to Southeast Asia. LexaTexer’s users are generally highly
 mature corporates, which come mainly from Singapore and the Southeast Asia region. Singapore’s
 strategic location provides easy access to the region and its growing consumer market.
