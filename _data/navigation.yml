@@ -38,3 +38,8 @@ links:
         url: /platform
       - title: Login to SWITCH Platform
         url: https://community.switchsg.org/login
+  - title: PARTNER WITH US
+    url: /partner-with-us
+    sublinks:
+      - title: SWITCH 2022
+        url: /partner-with-us/switch-2022
