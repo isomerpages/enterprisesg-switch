@@ -103,4 +103,4 @@ manufacturing?**
 
 Digital maturity is crucial for manufacturing companies' growth. With digital maturity, manufacturing companies can address important topics like improvements in operational excellence, automated scheduling, sales, and operational planning optimisation.
 
-Find out how we can support your journey as an entrepreneur in Singapore [here](https://www.startup.gov.sg/programmes/30813/entrepass)
+Find out how we can support your journey as an entrepreneur in Singapore [here](https://www.startupsg.gov.sg/programmes/30813/entrepass)
