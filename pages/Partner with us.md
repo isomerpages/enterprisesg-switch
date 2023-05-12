@@ -3,6 +3,8 @@ title: Partner with us
 permalink: /partner-with-us/
 description: ""
 ---
+## Become a partner with SWITCH
+## 
 Want to grow your presence and connect with a wider audience? Join us at SWITCH 2023 by signing up [here](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1)!
 
 ### Who attends SWITCH?
