@@ -7,7 +7,7 @@ description: ""
 
 ## Innovation-centric companies partner with SWITCH
 
-When it comes to the world's leading companies, they partner with SWITCH - and for good reason. As the global gateway to innovation in Asia, SWITCH is the premier platform to connect with the top decision-makers and trailblazers.
+When it comes to the innovation-driven businesses, they partner with SWITCH - and for good reason. As the global gateway to innovation in Asia, SWITCH is the premier platform to connect with the top decision-makers and trailblazers.
 
 Join leading companies like AWS, TikTok and Google Cloud in being at the forefront in paving thee way for innovation and technology.
 
