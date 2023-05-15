@@ -7,7 +7,7 @@ description: ""
 
 ## The most dominant industry players partner with SWITCH
 
-Join leading companies like AWS, TikTok and Google Cloud in being at the forefront in paving the way for innovation and technology
+And we invite you to join them. Join leading companies like AWS, TikTok and Google Cloud in being at the forefront in paving the way for innovation and technology
 
 [Become a partner with SWITCH](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1)
 
