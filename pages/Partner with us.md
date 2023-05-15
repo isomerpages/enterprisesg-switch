@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/2023/partner%20with%20us%20exhibition_cropped.jpg)
 
-## Innovation-centric businesses partner with SWITCH
+## Innovation-centric companies partner with SWITCH
 
 When it comes to the world's leading companies, they partner with SWITCH - and for good reason. As the global gateway to innovation in Asia, SWITCH is the premier platform to connect with the top decision-makers and trailblazers.
 
