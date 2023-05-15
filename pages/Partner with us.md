@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/2023/partner%20with%20us%20exhibition_cropped.jpg)
 
-## The most dominant industry players partner with SWITCH
+## Innovation-centric businesses partner with SWITCH
 
 And we invite you to join them. Join leading companies like AWS, TikTok and Google Cloud in being at the forefront in paving the way for innovation and technology
 
