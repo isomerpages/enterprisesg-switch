@@ -5,9 +5,11 @@ description: ""
 ---
 ![](/images/2023/partner%20with%20us%20exhibition_cropped.jpg)
 
-## Become a partner with SWITCH
-## 
-Want to grow your presence and connect with a wider audience? Join us at SWITCH 2023 by signing up [here](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1)!
+## The most dominant industry players partner with SWITCH
+
+Join leading companies like AWS, TikTok and Google Cloud in being at the forefront in paving the way for innovation and technology
+
+[Become a partner with SWITCH](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1)
 
 ### Who attends SWITCH?
 ##### About SWITCH 2022:
