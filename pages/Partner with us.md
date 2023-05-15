@@ -13,6 +13,8 @@ Join leading companies like AWS, TikTok and Google Cloud in being at the forefro
 
 [Become a partner with SWITCH](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1)
 
+### Why partner with SWITCH?
+
 ### Who attends SWITCH?
 ##### About SWITCH 2022:
 ![](/images/2023/2023%20website%20(2022%20stats)%20visitor%20demographics.png)
