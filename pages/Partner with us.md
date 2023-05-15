@@ -3,7 +3,7 @@ title: Partner with us
 permalink: /partner-with-us/
 description: ""
 ---
-![](/images/2023/partner%20with%20us%20exhibition.jpg)
+![](/images/2023/partner%20with%20us%20exhibition_cropped.jpg)
 
 ## Become a partner with SWITCH
 ## 
