@@ -15,6 +15,19 @@ Join leading companies like AWS, TikTok and Google Cloud in being at the forefro
 
 ### Why partner with SWITCH?
 
+##### Position your brand where it belongs
+Establish your brand at the intersection of innovation and Asia with SWITCH's trade and exhibition showcase
+
+##### Grow your influence as a thought leader
+Showcase your expertise to a global audience at the SWITCH Beyond and Global conferences
+
+##### Find your next business opportunity
+Build valuable relationships with the people most important to you at festival touchpoints like the Networking Zone
+
+##### Connect with your next client
+Gain qualified leads with leading innovation and technology players, where SWITCH attendees are actively seeking out brands like yours
+
+
 ### Who attends SWITCH?
 ##### About SWITCH 2022:
 ![](/images/2023/2023%20website%20(2022%20stats)%20visitor%20demographics.png)
