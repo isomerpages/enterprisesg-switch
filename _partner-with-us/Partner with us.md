@@ -29,3 +29,5 @@ Build valuable relationships with the people most important to you at festival t
 
 ##### Connect with your next client
 Gain qualified leads with leading innovation and technology players, where SWITCH attendees are actively seeking out brands like yours.
+
+[Download the 2023 Sponsorship & Exhibition prospectus >>](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1)
