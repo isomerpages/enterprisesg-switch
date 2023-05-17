@@ -18,6 +18,7 @@ Join leading companies like AWS, TikTok and Google Cloud in being at the forefro
 ##### Position your brand where it belongs
 Establish your brand at the intersection of innovation and Asia with SWITCH's trade and exhibition showcase.
 
+![](/images/2023/switch%20thought%20leadership.jpg)
 ##### Grow your influence as a thought leader
 Showcase your expertise to a global audience at the SWITCH Beyond and Global conferences.
 
