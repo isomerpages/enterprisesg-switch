@@ -27,7 +27,7 @@ Showcase your expertise to a global audience at the SWITCH Beyond and Global con
 ##### Find your next business opportunity
 Build valuable relationships with the people most important to you at festival touchpoints like the Networking Zone.
 
-![](/images/2023/switch%20connect%20with%20your%20next%20client.jpg)
+![](/images/2023/connect%20with%20your%20next%20client.jpg)
 ##### Connect with your next client
 Gain qualified leads with leading innovation and technology players, where SWITCH attendees are actively seeking out brands like yours.
 
