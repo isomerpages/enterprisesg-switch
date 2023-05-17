@@ -21,6 +21,7 @@ Establish your brand at the intersection of innovation and Asia with SWITCH's tr
 ##### Grow your influence as a thought leader
 Showcase your expertise to a global audience at the SWITCH Beyond and Global conferences.
 
+![](/images/2023/partner%20with%20us%20networking_%20cropped.jpg)
 ##### Find your next business opportunity
 Build valuable relationships with the people most important to you at festival touchpoints like the Networking Zone.
 
