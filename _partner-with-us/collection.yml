@@ -2,4 +2,5 @@ collections:
   partner-with-us:
     output: true
     order:
+      - SWITCH 2022.md
       - Partner with us.md
