@@ -2,5 +2,6 @@ collections:
   partner-with-us:
     output: true
     order:
+      - 2022 Sponsors and Partners.md
       - SWITCH 2022.md
       - Partner with us.md
