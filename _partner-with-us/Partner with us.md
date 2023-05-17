@@ -11,7 +11,7 @@ When it comes to innovation-driven businesses, they partner with SWITCH - and fo
 
 Join leading companies like AWS, TikTok and Google Cloud in being at the forefront in paving the way for innovation and technology.
 
-[Become a partner with SWITCH](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1)
+Enquire [here](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1) for the 2023 sponsorship and exhibition prospectus
 
 ### Why partner with SWITCH?
 
