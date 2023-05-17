@@ -11,18 +11,18 @@ When it comes to innovation-driven businesses, they partner with SWITCH - and fo
 
 Join leading companies like AWS, TikTok and Google Cloud in being at the forefront in paving the way for innovation and technology.
 
-Enquire [here](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1) for the 2023 sponsorship and exhibition prospectus
+Enquire [here](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1) for the 2023 sponsorship and exhibition prospectus.
 
 ### Why partner with SWITCH?
 
 ##### Position your brand where it belongs
-Establish your brand at the intersection of innovation and Asia with SWITCH's trade and exhibition showcase
+Establish your brand at the intersection of innovation and Asia with SWITCH's trade and exhibition showcase.
 
 ##### Grow your influence as a thought leader
-Showcase your expertise to a global audience at the SWITCH Beyond and Global conferences
+Showcase your expertise to a global audience at the SWITCH Beyond and Global conferences.
 
 ##### Find your next business opportunity
-Build valuable relationships with the people most important to you at festival touchpoints like the Networking Zone
+Build valuable relationships with the people most important to you at festival touchpoints like the Networking Zone.
 
 ##### Connect with your next client
-Gain qualified leads with leading innovation and technology players, where SWITCH attendees are actively seeking out brands like yours
+Gain qualified leads with leading innovation and technology players, where SWITCH attendees are actively seeking out brands like yours.
