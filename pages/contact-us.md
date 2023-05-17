@@ -14,4 +14,10 @@ locations:
         description: "*Closed on public holidays"
     maps_link: https://goo.gl/maps/7PEwFMypgP7TPVSt8
     title: SWITCH
+contacts:
+  - content:
+      - phone: ""
+      - email: partnerships@switchsg.org
+      - other: ""
+    title: Sponsorships & Exhibitions
 ---
