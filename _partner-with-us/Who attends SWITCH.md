@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/2023/2023%20website%20(2022%20stats)%20visitor%20demographics.png)
 
-![](/images/2023/organisation%20breakdown.png)
+![](/images/2023/2023%20website%20(2022%20stats)%20org%20breakdown%20.png)
 
 ![](/images/2023/2023%20website%20(2022%20stats)%20conferences%20&%20trade%20floor.png)
 
