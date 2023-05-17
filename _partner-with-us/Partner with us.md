@@ -15,7 +15,7 @@ Join leading companies like AWS, TikTok and Google Cloud in being at the forefro
 
 ### Why partner with SWITCH?
 
-![](/images/2023/baker%20mckenzie.jpg)
+![](/images/2023/baker%20mckenzie%20branding.jpg)
 ##### Position your brand where it belongs
 Establish your brand at the intersection of innovation and Asia with SWITCH's trade and exhibition showcase.
 
