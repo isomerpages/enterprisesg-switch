@@ -3,7 +3,7 @@ title: Partner with us
 permalink: /partner-with-us/
 description: ""
 ---
-![](/images/2023/partner%20with%20us%20exhibition_cropped.jpg)
+![](/images/2023/shortlist_exhibition_showcase_2.jpg)
 
 ## Innovation-centric companies partner with SWITCH
 
