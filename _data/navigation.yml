@@ -39,5 +39,9 @@ links:
       - title: Login to SWITCH Platform
         url: https://community.switchsg.org/login
   - title: PARTNER WITH US
-    url: /switchsg.org/partner-with-us/
-    sublinks: []
+    url: /
+    sublinks:
+      - title: Partner with Us
+        url: partner-with-us
+      - title: Who attends SWITCH
+        url: partner-with-us/who-attends-switch/
