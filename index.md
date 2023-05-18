@@ -45,6 +45,15 @@ sections:
       image: /images/winnerr.png
       alt: SLINGSHOT 2022 Grand Winner
   - infopic:
+      title: Innovation-centric companies partner with SWITCH
+      subtitle: PARTNER WITH US
+      description: When it comes to innovation-driven businesses, they partner with
+        SWITCH - and for good reason.
+      button: LEARN MORE
+      url: /partner-with-us/
+      image: /images/2023/connect with your next client.jpg
+      alt: Building connections at SWITCH
+  - infopic:
       title: The Global-Asia Innovation community meets at SWITCH
       subtitle: "flagship event "
       description: "SWITCH brought together leaders, entrepreneurs, creators,
