@@ -26,11 +26,11 @@ Learn how to overcome growing pains at the upcoming session, “Scaling efficien
 
 From attending this session, you can expect to:
 
-1.  Learn how you can use Wizly to manage the growth of your company efficiently and boost your sales and investment cycles 
+1.  Learn about new tools that can help manage growth of your company efficiently and boost your sales and investment cycles 
 
 2. Gain insights from founders and C-suites who overcame challenges and scaled their companies, and how you can too
 
-3. Get guidance from the Wizly team on how you can work, learn, and collaborate with experts to grow your company
+3. Get guidance on how you can work, learn, and collaborate with experts to grow your company
 
 Register for the event [here](https://forms.gle/gCqMS1WHMCzksfX17) 
 
