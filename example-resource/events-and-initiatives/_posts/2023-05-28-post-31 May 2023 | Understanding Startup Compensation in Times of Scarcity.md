@@ -17,3 +17,8 @@ image: ""
 | **Register** | This event has ended |
 
 #### About
+Looking to build a high-performing startup team?  
+  
+As the business landscape grows increasingly volatile, it is challenging for startups to thrive.  
+  
+Join us at “Deep Dive into the New Talent Landscape: Understanding Startup Compensation in Times of Scarcity” on Wednesday 31 May 2023 at 2pm at Glints Office for panel discussions on how startups are building their talents in a competitive and resource-scarce landscape.
