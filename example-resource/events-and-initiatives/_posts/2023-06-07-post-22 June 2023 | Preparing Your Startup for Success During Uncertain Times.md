@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 #### Event details
 
 
@@ -18,3 +17,9 @@ image: ""
 | **Register** |   [Click here](https://tiktokstartup.splashthat.com) |
 
 #### About
+
+Seeking to grow your startup in today’s challenging landscape?
+
+In the current economic climate, startups are advised to optimize their profits to ensure financial success. Startups are faced with the rising pressure to increase revenue while cutting costs.
+
+Join us at “Startup Networking Event with TikTok & SWITCH: Preparing Your Startup for Success During Uncertain Times” on Thursday 22 June 2023 at 4pm at The Meeting Point for panel discussions on the best practices of how to navigate this funding landscape to high-growth companies sharing on their past mistakes, learnings, and how to stay motivated during challenging times.
