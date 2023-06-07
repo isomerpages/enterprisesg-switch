@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/2023/glints%20event%20socmed.jpg)
+
 #### Event details
 
 
