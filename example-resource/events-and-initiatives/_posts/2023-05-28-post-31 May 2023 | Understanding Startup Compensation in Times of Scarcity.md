@@ -15,7 +15,7 @@ image: ""
 | -------- | -------- |
 |**Date** | Wednesday, 31 May 2023 
 | **Time**    | 2pm - 5pm (Singapore Time / UTC +8) |
-|**Venue** | Glints Office
+|**Venue** | 77 Ayer Rajah Crescent, #03-23
 | **Register** | This event has ended |
 
 #### About
