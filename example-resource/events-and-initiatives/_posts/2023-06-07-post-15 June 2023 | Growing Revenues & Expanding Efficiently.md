@@ -11,11 +11,11 @@ image: ""
 #### Event details
 
 
-| **Title** | Influencer Marketing: Maximising your ROI with limited budgets|
+| **Title** | Growing Revenues & Expanding Efficiently |
 | -------- | -------- |
-|**Date** | Thursday, 27 April 2023 
-| **Time**    | 11am - 12pm (Singapore Time / UTC +8) |
-|**Venue** | SWITCH Platform
-| **Register** |   [Click here](https://community.switchsg.org/register) |
+|**Date** | Thursday, 15 June 2023
+| **Time**    | 4pm - 6pm (Singapore Time / UTC +8) |
+|**Venue** | Enterprise Singapore, Singapore Room
+| **Register** |   [Click here](https://forms.gle/gCqMS1WHMCzksfX17) |
 
 #### About
