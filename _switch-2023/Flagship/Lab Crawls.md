@@ -14,7 +14,7 @@ Experience Singapore Innovation Infrastructure through our curated tours of inno
 
 For more information, click [here](/2023/programmes/lab-crawls).
 
-#### Participating Lab Crawls at SWITCH 2022
+#### Participating Lab Crawls from SWITCH 2022
 
 1. Singapore Science Park
 2. JTC Corporation (JTC)
