@@ -3,23 +3,6 @@ title: TICKETS
 permalink: /tickets/
 description: ""
 ---
-*This page is better viewed on landscape mode*
+![Price table for SWITCH 2023](/images/2023/Infographics/infographic_switch2023_tickets_earlybird_1200p_v1.png)
 
-# **Connect with the global-Asia innovation community**
-The SWITCH 2022 Flagship Event has concluded on 28 October 2022. With your SWITCH pass, you still can join us for our year-long innovation programme!
-
-**[➞ Register now!](https://community.switchsg.org/register)**
-
-## **Access our Videos on Demand**
-Our digital access options unlock virtual access to our Flagship Event and the year-long programme. ![](/images/SWITCH%202022%20Landing%20Page/Digital%20Access.jpeg)
-
-**[➞ Register Now!](https://community.switchsg.org/register)**
-
-## **Join us in-person**
-The in-person Flagship event has ended
-![](/images/SWITCH%202022%20Landing%20Page/CONFIRMED%20PRICE%20CHART.jpeg)
-
-![](/images/SWITCH%202022%20Landing%20Page/CONFIRMED%20PRICE%20BREAKDOWN.jpeg)
-
-
-**[Click here](/experience-2022)** to learn more about the SWITCH experience!
+# **[➞ Register now!](https://www.2023.switchsg.org/event/6c0fef40-8246-423a-8e02-c256dbdaf617/summary)**
