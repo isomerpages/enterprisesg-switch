@@ -8,8 +8,12 @@ third_nav_title: SWITCH @ one North
 
 ![SWITCH Lab Crawls](/images/2023/switch_lab_crawls.jpg)
 
-SWITCH’s Signature Lab Crawls will be returning this October 2023 and happening alongside [SWITCH @ one-north!](/2023/programmes/at-one-north/)
+SWITCH’s Signature Lab Crawls will be returning this October 2023 and will be curated alongside [SWITCH @ one-north!](/2023/programmes/at-one-north/)
 
 Experience Singapore Innovation Infrastructure through our curated tours of innovation labs across Singapore. These tours will showcase various technologies and developments across different industries
 
 Stay tuned for more information!
+
+To attend a lab crawl or innovation tour, you will need to be a **FREE Trade Pass** holder.
+
+### [➞ Get your tickets here!](/register)
