@@ -4,7 +4,7 @@ permalink: /2023/flagship/global-conference/
 description: ""
 third_nav_title: Flagship
 ---
-## SWITCH Global
+## SWITCH Global Market Access Sessions
 
 ![](/images/2023/switch%20global%20(flagship)_cropped.jpg)
 
@@ -12,3 +12,5 @@ Connect with business leaders from more than 15 markets to discuss latest tech t
 Interact with changemakers at our exhibition trade floor and glean insights from market leaders and local industry experts at our market access sessions and global pavilion.
 
 For more information, click [here](/2023/programmes/global-conference).
+
+### [➞ Get your tickets here!](/register)
