@@ -8,7 +8,7 @@ description: SWITCH @ one-north, an outdoor extension of the SWITCH festival,
 
 ![An innovation showcase of an unmanned aerial drone](/images/2023/Photos/switch_one_north_03_1200p.JPG)
 
-### The Heart of Singapore's Startup Ecosystem
+### Experience the pulse of Singapore's startup ecosystem
 
 For the first time, SWITCH will be expanded across two locations with an experiential innovation showcase at one-north, Singapore’s leading research & development (R&D) hub. The two-day carnival, SWITCH @ one-north, will run from 1 – 2 November, offering attendees a diversified and immersive experience featuring the vibrant innovation ecosystem in Singapore.
 
