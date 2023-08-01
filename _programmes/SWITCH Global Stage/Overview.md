@@ -15,3 +15,5 @@ Speak to our global partners to learn more on how to expand into their various m
 ### Connect with International Trade and Business Leaders
 
 SWITCH Global has convened established leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors.
+
+### [➞ Get your tickets here!](/register)
