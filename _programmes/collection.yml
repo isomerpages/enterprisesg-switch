@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - SWITCH at one north.md
       - BEYOND Series/.keep
       - BEYOND Series/Overview.md
       - BEYOND Series/Speakers.md
@@ -17,5 +16,6 @@ collections:
       - SLINGSHOT 2023/Be a Mentor.md
       - SLINGSHOT 2023/Be a Judge.md
       - SLINGSHOT 2023/2022 Edition.md
+      - SWITCH at one north.md
       - Lab Crawls.md
       - Year Long Innovation.md
