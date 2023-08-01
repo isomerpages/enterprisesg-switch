@@ -74,4 +74,14 @@ sections:
       title: News and Happenings
       subtitle: Explore
       button: See all
+  - infopic:
+      title: Experience the vibrancy of Singapore's ecosystem
+      subtitle: SWITCH @ one-north
+      description: Immerse yourself in Singapore's startup culture and community at
+        this extended innovation experience happening at one-north, Singapore's
+        R&D and startup hub.
+      button: Learn more
+      url: /2023/programmes/at-one-north/
+      image: /images/2023/Photos/switch_one_north_03_1200p.JPG
+      alt: A showcase featuring a drone.
 ---
