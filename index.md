@@ -35,15 +35,25 @@ sections:
           description: Experience SG's startup scene
           url: /2023/programmes/at-one-north/
   - infopic:
-      title: Apply to Asia's most excting deep tech startup competition
-      subtitle: SLINGSHOT 2023
-      description: Up to SGD$200,000 in grant prizes and the chance to anchor yourself
-        in Singapore and get immersed in one of the world’s top innovation
-        nodes!
-      button: LEARN MORE
-      url: /2023/programmes/slingshot/apply/
-      image: /images/winnerr.png
-      alt: SLINGSHOT 2022 Grand Winner
+      title: Are you ready to meet fellow innovators at SWITCH?
+      subtitle: SWITCH 2023 Highlights
+      description: Experience the pulse of innovation and the vibrancy of global
+        startup culture at SWITCH. Happening at Sands Expo & Convention from 31
+        Oct–2 Nov 2023.
+      button: Learn more
+      url: /2023/flagship
+      image: /images/Global Innovation Movement.jpg
+      alt: SWITCH Connects you globally
+  - infopic:
+      title: Get your tickets to SWITCH 2023
+      subtitle: Info
+      description: Find out if the FREE Trade Pass or SWITCH Beyond Conference Pass
+        better suits your objectives for being at SWITCH. Either way, there's
+        something for everyone!
+      button: Learn more
+      url: /register
+      image: /images/2023/partner with us networking_ cropped.jpg
+      alt: A group having a discussion.
   - infopic:
       title: Innovation-centric companies partner with SWITCH
       subtitle: PARTNER WITH US
@@ -53,16 +63,6 @@ sections:
       url: /partner-with-us/
       image: /images/2023/connect with your next client.jpg
       alt: Building connections at SWITCH
-  - infopic:
-      title: The Global-Asia Innovation community meets at SWITCH
-      subtitle: flagship event
-      description: SWITCH brought together leaders, entrepreneurs, creators,
-        accelerators and investors held on 25 - 28 Oct 2022 at Resorts World
-        Convention Centre, Singapore
-      button: Learn more
-      url: /2023/flagship
-      image: /images/Global Innovation Movement.jpg
-      alt: SWITCH Connects you globally
   - infobar:
       title: Connect with fellow innovators and project collaborators
       subtitle: Global Community
