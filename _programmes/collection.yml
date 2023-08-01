@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - SWITCH @ one North/SWITCH at one north.md
       - SWITCH @ one North/.keep
       - BEYOND Series/.keep
       - BEYOND Series/Overview.md
