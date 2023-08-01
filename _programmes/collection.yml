@@ -2,10 +2,10 @@ collections:
   programmes:
     output: true
     order:
-      - BEYOND Series/.keep
-      - BEYOND Series/Overview.md
-      - BEYOND Series/Speakers.md
-      - BEYOND Series/2022 Edition.md
+      - SWITCH Beyond Series/.keep
+      - SWITCH Beyond Series/Overview.md
+      - SWITCH Beyond Series/Speakers.md
+      - SWITCH Beyond Series/2022 Edition.md
       - GLOBAL Conference/.keep
       - GLOBAL Conference/Overview.md
       - GLOBAL Conference/Speakers.md
