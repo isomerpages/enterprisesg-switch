@@ -8,6 +8,8 @@ third_nav_title: SWITCH Beyond Series
 
 Our 2023 speakers include vanguard leaders from  governments, corporates, startups, venture capitals and institutions from across the world. Join us in person to engage with the best and the brightest as we discuss current and emergent topics that will shape the future of our communities and economies.
 
-**2022 Speakers**
+### [➞ Get your tickets here!](/register)
+
+**Our luminaries from 2022**
 
 ![SWITCH 2022 Beyond Speakers Highlights](/images/SWITCH_2022_Speakers_Beyond_Highlights_V2.png)
