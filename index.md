@@ -19,8 +19,8 @@ sections:
         Centre
       background: /images/Homepage
         Images/switch2023_keyvisual_final_29mar_1200x450px-08.png
-      button: Register Interest
-      url: http://eepurl.com/iqDazw
+      button: REGISTER FOR SWITCH 2023!
+      url: /register
       key_highlights:
         - title: SWITCH Beyond
           description: Innovation & Technology Trends
@@ -31,9 +31,9 @@ sections:
         - title: SLINGSHOT 2023
           description: Deep tech startup competition
           url: /2023/flagship/slingshot
-        - title: Connect and Collaborate
-          description: Year-long community engagement
-          url: /2023/year-long
+        - title: SWITCH @ one-north
+          description: Experience SG's startup scene
+          url: /2023/programmes/at-one-north/
   - infopic:
       title: Apply to Asia's most excting deep tech startup competition
       subtitle: SLINGSHOT 2023
@@ -55,10 +55,10 @@ sections:
       alt: Building connections at SWITCH
   - infopic:
       title: The Global-Asia Innovation community meets at SWITCH
-      subtitle: "flagship event "
-      description: "SWITCH brought together leaders, entrepreneurs, creators,
+      subtitle: flagship event
+      description: SWITCH brought together leaders, entrepreneurs, creators,
         accelerators and investors held on 25 - 28 Oct 2022 at Resorts World
-        Convention Centre, Singapore "
+        Convention Centre, Singapore
       button: Learn more
       url: /2023/flagship
       image: /images/Global Innovation Movement.jpg
