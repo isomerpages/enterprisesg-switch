@@ -2,7 +2,6 @@ collections:
   switch-2023:
     output: true
     order:
-      - Tickets.md
       - The SWITCH Experience.md
       - Flagship/.keep
       - Flagship/At a Glance.md
@@ -15,3 +14,4 @@ collections:
       - Year Long Innovation/.keep
       - Year Long Innovation/Overview.md
       - Year Long Innovation/Platform & VOD.md
+      - Tickets.md
