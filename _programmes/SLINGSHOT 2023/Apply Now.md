@@ -8,15 +8,17 @@ third_nav_title: SLINGSHOT 2023
 
 ![SLINGSHOT 2023 Call for Entries](/images/SLINGSHOT/SLINGSHOT%202023/slingshot2023_cta_fb%201200x630.jpg)
 
-**Call for entries: Extended till 31 July 2023, 23:59 (GMT+8)**
+**The call for entries was closed on 31 July 2023**
+
+*Thank you to all the startups who applied. The Top 250 will be announced in September 2023. Stay tuned till then for the next phase of SLINGSHOT!*
+
+*** 
 
 We are looking for new and exciting startups with innovative solutions to compete in this year's SLINGSHOT competition. Stand a chance to anchor yourself in Singapore and get immersed in one of the world's top innovation nodes.
 
 What's more? Showcase your game-changing solutions to a global audience of investors and key industry leaders from five emerging challenge domains, and compete for over S$1.2 million in attractive prizes!
 
 SLINGSHOT 2023's Top 50 Global Startups will win a sponsored trip to Singapore to be immersed in Asia's leading startup community. Make the pitch of a lifetime at the SLINGSHOT 2023 Finals, which will be held at Singapore Week of Innovation and Technology (SWITCH) 2023.
-
-Apply [now](https://slingshot.agorize.com/2023-edition?t=A3k1pR__oMx6vDwbJAZtRw&utm_source=switchweb&utm_medium=internal&utm_campaign=slingshot2023&utm_content=launch_organic) on the Agorize platform.
 
 ***
 
