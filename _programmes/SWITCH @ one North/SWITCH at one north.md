@@ -29,15 +29,4 @@ SWITCH @ one-north, an outdoor extension of the SWITCH festival, will provide at
 * Experiential startup showcases in the fields of robotics, drone mobility and medtech
 * Curated tours to leading R&D and innovation facilities at one-north
 
-***
-
-### Details
-
-
-|  |  |
-| -------- | -------- |
-| Dates    | Wednesday–Thursday, 1–2 November 2023    |
-| Time    | 9am–6pm daily  |
-| Venue   | LaunchPad @ one-north     |
-| Address    | 73B Ayer Rajah Crescent, Singapore 139966     |
-| Learn more    | [JTC one-north Website](https://www.jtc.gov.sg/find-land/land-for-long-term-development/one-north)  |
+Click [here](https://www.jtc.gov.sg/find-land/land-for-long-term-development/one-north) to learn more about one-north.
