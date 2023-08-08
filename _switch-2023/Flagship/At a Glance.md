@@ -10,7 +10,7 @@ third_nav_title: Flagship
 
 The 2023 edition of the SWITCH flagship event will be held in Singapore on the 31 October–2 November at the Sands Expo & Convention Centre, featuring the following tracks that have been carefully curated to showcase exciting frontier technologies and opportunities for collaboration. More information is provided below:
 
-![Infographic of SWITCH 2023 features](/images/2023/Infographics/infographic_switch2023_glance_overall_1200p_v1.png)
+![Infographic of SWITCH 2023 at a glance.](/images/2023/Infographics/infographic_switch2023_glance_overall_1200p_v2.png)
 
 ### Partner events at SWITCH 2023
 
