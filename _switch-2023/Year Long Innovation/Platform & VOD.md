@@ -16,5 +16,3 @@ Our year-long innovation programme features curated thought-leadership and knowl
 ### **Videos-on-demand**
 
 Our videos-on-demand feature keynotes and panel sessions on startup and industry innovationw, as well as global market access from over 350 invited speakers.
-
-Re-live the moments of SWITCH 2022 flagship event by viewing the videos on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register for a 2022 Trade Pass [here](https://community.switchsg.org/register).

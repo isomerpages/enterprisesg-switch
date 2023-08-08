@@ -19,8 +19,8 @@ sections:
         Centre
       background: /images/Homepage
         Images/switch2023_keyvisual_final_29mar_1200x450px-08.png
-      button: Register Interest
-      url: http://eepurl.com/iqDazw
+      button: REGISTER FOR SWITCH 2023!
+      url: /register
       key_highlights:
         - title: SWITCH Beyond
           description: Innovation & Technology Trends
@@ -31,19 +31,39 @@ sections:
         - title: SLINGSHOT 2023
           description: Deep tech startup competition
           url: /2023/flagship/slingshot
-        - title: Connect and Collaborate
-          description: Year-long community engagement
-          url: /2023/year-long
+        - title: SWITCH @ one-north
+          description: Experience SG's startup scene
+          url: /2023/programmes/at-one-north/
   - infopic:
-      title: Apply to Asia's most excting deep tech startup competition
-      subtitle: SLINGSHOT 2023
-      description: Up to SGD$200,000 in grant prizes and the chance to anchor yourself
-        in Singapore and get immersed in one of the world’s top innovation
-        nodes!
-      button: LEARN MORE
-      url: /2023/programmes/slingshot/apply/
-      image: /images/winnerr.png
-      alt: SLINGSHOT 2022 Grand Winner
+      title: Are you ready to meet fellow innovators at SWITCH?
+      subtitle: SWITCH 2023 Highlights
+      description: Experience the pulse of innovation and the vibrancy of global
+        startup culture at SWITCH. Happening at Sands Expo & Convention from 31
+        Oct–2 Nov 2023.
+      button: Learn more
+      url: /2023/flagship
+      image: /images/Global Innovation Movement.jpg
+      alt: SWITCH Connects you globally
+  - infopic:
+      title: Get your tickets to SWITCH 2023
+      subtitle: Info
+      description: Find out if the FREE Trade Pass or SWITCH Beyond Conference Pass
+        better suits your objectives for being at SWITCH. Either way, there's
+        something for everyone!
+      button: Learn more
+      url: /register
+      image: /images/2023/partner with us networking_ cropped.jpg
+      alt: A group having a discussion.
+  - infopic:
+      title: Experience the vibrancy of Singapore's ecosystem
+      subtitle: SWITCH @ one-north
+      description: Immerse yourself in Singapore's startup culture and community at
+        this extended innovation experience happening at one-north, Singapore's
+        R&D and startup hub.
+      button: Learn more
+      url: /2023/programmes/at-one-north/
+      image: /images/2023/Photos/switch_one_north_03_1200p.JPG
+      alt: A showcase featuring a drone.
   - infopic:
       title: Innovation-centric companies partner with SWITCH
       subtitle: PARTNER WITH US
@@ -53,16 +73,6 @@ sections:
       url: /partner-with-us/
       image: /images/2023/connect with your next client.jpg
       alt: Building connections at SWITCH
-  - infopic:
-      title: The Global-Asia Innovation community meets at SWITCH
-      subtitle: "flagship event "
-      description: "SWITCH brought together leaders, entrepreneurs, creators,
-        accelerators and investors held on 25 - 28 Oct 2022 at Resorts World
-        Convention Centre, Singapore "
-      button: Learn more
-      url: /2023/flagship
-      image: /images/Global Innovation Movement.jpg
-      alt: SWITCH Connects you globally
   - infobar:
       title: Connect with fellow innovators and project collaborators
       subtitle: Global Community

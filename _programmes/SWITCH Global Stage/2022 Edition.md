@@ -2,7 +2,7 @@
 title: 2022 Edition
 permalink: /2023/programmes/global-conference/2022-edition/
 description: ""
-third_nav_title: GLOBAL Conference
+third_nav_title: SWITCH Global Stage
 ---
 ### SWITCH Global 2022
 
@@ -18,4 +18,4 @@ SWITCH Global connects you directly with our partners overseas for global expans
 
 #### Speakers from SWITCH Global 2022
 
-![Global Speakers SWITCH 2022](/images/Global.png) 
+![Global Speakers SWITCH 2022](/images/Global.png)
