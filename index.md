@@ -20,7 +20,7 @@ sections:
       background: /images/Homepage
         Images/switch2023_keyvisual_final_29mar_1200x450px-08.png
       button: REGISTER FOR SWITCH 2023!
-      url: /register
+      url: https://2023.switchsg.org/qA08l?RefId=Isomer
       key_highlights:
         - title: SWITCH Beyond
           description: Innovation & Technology Trends
