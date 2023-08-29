@@ -11,7 +11,7 @@ How will emerging technologies change the way we live, work and interact in the 
 
 ##### SWITCH Beyond Agenda - Day 3 // 10 Nov 2021
 
-[![SWITCH 2021 Show Directory](/images/Platform_Banner_SWITCH_2021_Show_Directory_var_2.png)](https://directory.switchsg.org)
+[![SWITCH 2021 Show Directory](/images/platform_banner_switch_2021_show_directory_var_2.png)](https://directory.switchsg.org)
 
 <sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
 
@@ -54,4 +54,4 @@ How will emerging technologies change the way we live, work and interact in the 
 
 ##### Highlight Speakers
 
-![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Beyond_Day3_Highlights_v3.png)
+![SWITCH 2021 Speakers](/images/switch_2021_speakers_beyond_day3_highlights_v3.png)

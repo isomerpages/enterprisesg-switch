@@ -6,7 +6,7 @@ description: SWITCH @ one-north, an outdoor extension of the SWITCH festival,
   innovation and startup ecosystem.
 third_nav_title: SWITCH @ one North
 ---
-![An innovation showcase of an unmanned aerial drone](/images/2023/Photos/switch_one_north_03_1200p.JPG)
+![An innovation showcase of an unmanned aerial drone](/images/2023/photos/switch_one_north_03_1200p.jpg)
 
 ### Experience the vibrancy of Singapore's startup ecosystem
 
@@ -20,7 +20,7 @@ All **FREE Trade Pass** and **SWITCH Beyond Conference Pass** holders will be ab
 
 ***
 
-![A photo of a man pointing at an electric vehicle.](/images/2023/Photos/switch_one_north_05_1200p.JPG)
+![A photo of a man pointing at an electric vehicle.](/images/2023/photos/switch_one_north_05_1200p.jpg)
 
 ### What to expect
 

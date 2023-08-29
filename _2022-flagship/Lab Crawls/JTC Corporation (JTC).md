@@ -57,7 +57,7 @@ ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the
 
 Guided by the Grab Way, our mission is to drive Southeast Asia forward by creating economic empowerment for everyone.
 
-![Grab Lab Crawl SWITCH 2022](/images/Grab-HQ_1.jpg)
+![Grab Lab Crawl SWITCH 2022](/images/grab-hq_1.jpg)
 *Photo Courtesy of Grab*
 
 [For more information on Grab](https://www.grab.com/sg/)

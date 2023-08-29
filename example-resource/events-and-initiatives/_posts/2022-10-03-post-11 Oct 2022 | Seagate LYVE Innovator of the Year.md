@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: /images/Seagate LYVE_Event.png
 ---
-![Seagate LYVE Innovator of the Year 2022](/images/Seagate%20LYVE_Event.png)
+![Seagate LYVE Innovator of the Year 2022](/images/seagate%20lyve_event.png)
 
 #### Event details
 

@@ -13,7 +13,7 @@ description: ""
 ---
 
 ## Legendary leaders who spoke
-![](/images/ISOMER%20pages-SPEAKERS-01.jpg)
+![](/images/isomer%20pages-speakers-01.jpg)
 
 ---
 

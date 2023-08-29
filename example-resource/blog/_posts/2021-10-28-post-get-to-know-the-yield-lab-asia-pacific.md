@@ -18,7 +18,7 @@ Read on to learn more about some of [The Yield Lab Asia Pacific’s](https://www
 
 ##### [Fasal](https://fasal.co/)
 
-![Alt text for image on Isomer site](/images/Fasal_Shailendra_web.JPG)
+![Alt text for image on Isomer site](/images/fasal_shailendra_web.jpg)
 <sub>*(Shailendra Tiwari, Founder, Fasal, on the fields with Fasal’s device. Photo kindly provided by Fasal)*</sub> 
 
 Fasal was a selected as a Top 100 finalist of SLINGSHOT 2020. It is a precision agriculture company that has developed proprietary algorithms to prescribe farming actions for plantation crops like palm oil, and tropical fruits like bananas. Fasal has helped farmers save 50% in disease and pest management costs, reduced water usage by 50% and is on track to roll out to 22,000 hectares of small and large farms by 2022. Fasal was recently included in Forbes Asia’s 100 To Watch list, and also won ‘Best use of AI in Agriculture’ at the Global AI Summit 2021. 
@@ -32,7 +32,7 @@ CreditAI also participated in SLINGSHOT 2020 and was amongst the Top 500 start-u
 Another recent investment by The Yield Lab Asia Pacific is Singapore-based Umami Meats. The company’s product replaces fetal bovine serum in the production of cell-based meat.  Focused on seafood, Umami Meat’s innovation will significantly lower the cost of producing cell-based seafood. Umami Meats has made it to the semi-final round of the XPRIZE Feed the Next Billion competition. 
 
 ##### [DiMuto](https://www.dimuto.io/)
-![Alt text for image on Isomer site](/images/DiMuto_web.jpg)
+![Alt text for image on Isomer site](/images/dimuto_web.jpg)
 <sub>*(Image kindly provided by DiMuto)*</sub>
 
 DiMuto is the latest addition to The Yield Lab portfolio featuring a suite of farm-to-fork track-and-trace solutions that create transparency across complex fresh produce supply chains. These solutions improve fruit and vegetable produce quality, reduce trade claims disputes, and enable fresh trade financing with complete end-to-end data oversight. DiMuto currently provides its affordable solution for all stakeholders of the supply chain with customers spanning across the globe. 

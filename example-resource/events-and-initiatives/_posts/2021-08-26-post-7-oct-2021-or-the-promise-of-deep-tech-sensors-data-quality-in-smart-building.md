@@ -4,7 +4,7 @@ date: 2021-08-26
 permalink: /events/the-promise-of-deep-tech/
 layout: post
 ---
-![Alt text for image on Isomer site](/images/SWITCH_webinars_SGInnovate_Sensor_Data_Quality_Event_Banner.jpg)
+![Alt text for image on Isomer site](/images/switch_webinars_sginnovate_sensor_data_quality_event_banner.jpg)
 #### Event details
 
 

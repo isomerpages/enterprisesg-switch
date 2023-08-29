@@ -9,7 +9,7 @@ Explore opportunities in over 40 markets with international business experts at 
 
 ##### SWITCH Global Agenda - Day 1 // 8 Nov 2021
 
-[![SWITCH 2021 Show Directory](/images/Platform_Banner_SWITCH_2021_Show_Directory_var_2.png)](https://directory.switchsg.org)
+[![SWITCH 2021 Show Directory](/images/platform_banner_switch_2021_show_directory_var_2.png)](https://directory.switchsg.org)
 
 <sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
 
@@ -38,4 +38,4 @@ Explore opportunities in over 40 markets with international business experts at 
 
 #### Highlight Speakers
 
-![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Global_Day1_Highlights_v2.png)
+![SWITCH 2021 Speakers](/images/switch_2021_speakers_global_day1_highlights_v2.png)

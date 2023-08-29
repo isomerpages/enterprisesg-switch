@@ -7,7 +7,7 @@ description: The Singapore Week of Innovation and Technology (SWITCH) brings
 image: /images/SWITCH Connect 5.jpg
 third_nav_title: SWITCH Beyond
 ---
-![](/images/SWITCH%20Connect%205.jpg)
+![](/images/switch%20connect%205.jpg)
 ### About SWITCH Beyond
 SWITCH Beyond is the sectoral thought leadership channel that brings together global leaders and industry experts from diverse industries to must-attend conference sessions, where groundbreaking innovative ideas and technologies that are transforming the world take place.
 
@@ -20,11 +20,11 @@ SWITCH Beyond 2022 brought together global business leaders, innovation champion
 
 ### Overview of SWITCH Beyond
 
-![Infographic of the SWITCH Beyond 2022 Agenda. ](/images/SWITCH%202022%20Infographics/Agenda_Beyond_Overview_R2.png)
+![Infographic of the SWITCH Beyond 2022 Agenda. ](/images/switch%202022%20infographics/agenda_beyond_overview_r2.png)
 
 ### Our 2022 Speakers
 Our past guests included vanguard leaders from industries, governments, and institutions all across the world.  Join us in 2022 to engage with the brightest minds for discussions on emergent topics that shape the future of our communities and economies.
 
-![SWITCH 2022 Beyond Speakers Highlights](/images/SWITCH_2022_Speakers_Beyond_Highlights_V2.png)
+![SWITCH 2022 Beyond Speakers Highlights](/images/switch_2022_speakers_beyond_highlights_v2.png)
 
 View the SWITCH 2022 Flagship videos-on-demand on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register).

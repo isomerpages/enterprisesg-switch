@@ -3,7 +3,7 @@ title: Competition Timeline
 permalink: /channels/slingshot-2021/competition-timeline/
 ---
 
-![](/images/SLINGSHOT%203.jpg)
+![](/images/slingshot%203.jpg)
 
 # Application Phase
 **30 Apr–1 Aug 2021**

@@ -12,4 +12,4 @@ SWITCH Global convenes established leaders from innovation ecosystems, global tr
 
 **Our luminaries from 2022**
 
-![Global Speakers SWITCH 2022](/images/Global.png)
+![Global Speakers SWITCH 2022](/images/global.png)

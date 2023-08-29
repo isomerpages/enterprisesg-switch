@@ -9,7 +9,7 @@ layout: post
 # Crayon Data
 ### A big data and artificial intelligence (AI) startup with a mission to help businesses provide personalization experiences to their customers through their flagship product maya.ai 
 
-![Alt text for image on Isomer site](/images/Article_SLINGSHOT_Spotlight_CrayonData_1_web.JPG)
+![Alt text for image on Isomer site](/images/article_slingshot_spotlight_crayondata_1_web.jpg)
 <sub>(Caption: Crayon Data CEO and Founder, Suresh V Shankar, pitching at the SLINGSHOT 2020 Grand Finals)</sub>
 
 In the fourth edition of our SLINGSHOT Startup Spotlight series we had a chat with Rohit Ghosh who handles the sales and business development efforts as well as partnerships in Southeast Asia, Australia and New Zealand regions for Crayon Data.
@@ -32,7 +32,7 @@ We’ve been working closely with a lot of partners to achieve our goal. Enterpr
 
 As a winner of the Huawei SPARK competition, we were also onboarded as a Huawei cloud partner and worked together to sign deals with Huawei’s clients to further close businesses in both Singapore and Asia. Through our partnership with Huawei, we were also able to work with them to develop new product offerings on their cloud platform. 
 
-![Alt text for image on Isomer site](/images/Article_SLINGSHOT_Spotlight_CrayonData_4_web.JPG)
+![Alt text for image on Isomer site](/images/article_slingshot_spotlight_crayondata_4_web.jpg)
 <sub>(Caption: Judges at SLINGSHOT 2020 Grand Finals on 9 December 2020.)</sub>
 
 **Q: Has internationalisation been a key focus for Crayon Data, and do you have other markets you are keen on going into?**

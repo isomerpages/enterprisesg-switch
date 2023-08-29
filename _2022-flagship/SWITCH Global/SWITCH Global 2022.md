@@ -29,6 +29,6 @@ SWITCH Global has convened established leaders from innovation ecosystems, globa
 ![Global Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(20).png)
 
 #### Speakers from SWITCH Global 2022
-![Global Speakers SWITCH 2022](/images/Global.png)
+![Global Speakers SWITCH 2022](/images/global.png)
 
 View the SWITCH 2022 Flagship videos-on-demand on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register).

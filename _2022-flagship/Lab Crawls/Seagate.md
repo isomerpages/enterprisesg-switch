@@ -8,7 +8,7 @@ third_nav_title: Lab Crawls
 
 A collaborative platform where Seagate partners with the startup ecosystem to create solutions that harness the power of data.
 
-![Lyvelabs Lab Crawl SWITCH 2022](/images/Lyve-Labs-Singapore.png)
+![Lyvelabs Lab Crawl SWITCH 2022](/images/lyve-labs-singapore.png)
 
 The session aims to share with visitors about Seagate Lyve Labs Singapore and how we support innovation and startups in the region. We will also invite some startups in our community to present their solutions and experiences working with us. In the end, we will have a networking session to promote interaction among the visitors.
 

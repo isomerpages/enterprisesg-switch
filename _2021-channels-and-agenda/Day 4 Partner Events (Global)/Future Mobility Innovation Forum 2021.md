@@ -4,7 +4,7 @@ permalink: /future-mobility-innovation-forum-2021/
 third_nav_title: Day 4 Partner Events (Global)
 ---
 
-![SWITCH 2021 - Future Mobility Innovation Forum](/images/SWITCH_2021_Day_4_ZGC_Future_Mobility_Forum.png)
+![SWITCH 2021 - Future Mobility Innovation Forum](/images/switch_2021_day_4_zgc_future_mobility_forum.png)
 
 ##### Event Details
 

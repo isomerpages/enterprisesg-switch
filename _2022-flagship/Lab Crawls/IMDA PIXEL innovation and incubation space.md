@@ -9,7 +9,7 @@ PIXEL is an incubation and innovation space by Singapore’s Infocomm Media Deve
 
 The Lab Crawl Tour has showcased PIXEL’s specialised lab facilities and co-working space, spanning over 28,000 sqft at Singapore’s One-North District.
 
-![IMDA Lab Crawl SWITCH 2022](/images/IMDA.jpg)
+![IMDA Lab Crawl SWITCH 2022](/images/imda.jpg)
 
 #### **Tour Programme Highlights**
 * Get to know how PIXEL and the Open Innovation Platform by IMDA can help you in your innovation journey
@@ -20,7 +20,7 @@ The Lab Crawl Tour has showcased PIXEL’s specialised lab facilities and co-wor
 
 #### **Getting to PIXEL**
 PIXEL is a stone-throw away (<5 minutes walk) from One-North MRT station (exit via Portsdown road)
-![Pixel Map Lab Crawl SWITCH 2022](/images/PIXEL%20Map.png)
+![Pixel Map Lab Crawl SWITCH 2022](/images/pixel%20map.png)
 
 [For more information on IMDA PIXEL ](https://impixel.imda.gov.sg/)
  

@@ -48,7 +48,7 @@ China is far from homogenous, with major differences even among Tier One cities 
 * Guangzhou is a major transport hub and key gateway city in the Guangdong-Hongkong-Macao Greater Bay Area (GBA);
 * Shenzhen, also a core city in the GBA, is renowned for manufacturing and hardware innovation
 
-![](/images/SWITCH-Nan_sha_Port_in_Guangzhou.jpg)
+![](/images/switch-nan_sha_port_in_guangzhou.jpg)
 
 <sup>A view of the Chinese port of Nansha in Guangdong province.</sup>
 
@@ -60,7 +60,7 @@ Emerging first-tier cities such as Chengdu, Chongqing, Hangzhou, Suzhou, Nanjing
 
 Zhou Wei, Founder and CEO of Shanghai-based startup and corporate accelerator XNode, cautioned against underestimating the competition in China. He advised companies to be prepared for head-to-head competition with domestic and other foreign players, not just for consumer dollars, but also for talent and capital. In particular, newer brands in China might find it challenging to hire top talents locally.
 
-![](/images/SWITCH-2020_Xnode_session.png)
+![](/images/switch-2020_xnode_session.png)
 
 One strategy is to build partnerships with local companies. For example, BreadTalk Group, Song Fa and Shenzhen’s Pindao Food & Beverage Management Company joined hands to bring the highly popular bak kut teh to consumers in South China<sup>4</sup>. The tripartite alliance leverages Pindao’s resourcefulness in securing strategic outlet locations and developing talent pipelines, giving both Singapore companies a leg up in the highly competitive food scene in China.
 
@@ -74,7 +74,7 @@ From tweaking your menus to suit local palates, to modifying your mobile apps to
 
 Venturing to China takes patience. No matter how established you are in the rest of the world, it takes time for your business to be recognised, accepted and take root in China. As Luuk Eliens, Chief Commercial Officer at XNode, shared at SWITCH, it takes at least a year to build a business in Shanghai. However, once you have successfully established your brand, your pace of growth can accelerate. Therefore, it helps to arm yourself with a long-term expansion plan, such as expanding into different cities and regions of China, or deepening your roots in one core market.
 
-![](/images/SWITCH-2020_Xnode2_session.png)
+![](/images/switch-2020_xnode2_session.png)
 
 **6. Are you prepared to be flexible?**
 
@@ -88,7 +88,7 @@ Having a trusted in-market business partner or consultant will help to connect y
 
 Businesses with a focus on technology and innovation can tap the [Global Innovation Alliance (GIA)](https://www.enterprisesg.gov.sg/industries/hub/startup/global-innovation-alliance/), a joint initiative by Enterprise Singapore and the Singapore Economic Development Board. The Alliance will provide support for firms to understand the market, find their product-market fit, receive mentorship opportunities, and visit potential clients and partners in China. Within China, our in-market partners are DayDayUp in [Beijing](https://www.enterprisesg.gov.sg/industries/hub/startup/global-innovation-alliance/china/beijing/daydayup) , and XNode in [Shanghai](https://www.enterprisesg.gov.sg/industries/hub/startup/global-innovation-alliance/china/shanghai/xnode) and [Shenzhen](https://www.enterprisesg.gov.sg/industries/hub/startup/global-innovation-alliance/china/shenzhen/xnode).
 
-![](/images/SWITCH_GIA-Shanghai.png)
+![](/images/switch_gia-shanghai.png)
 
 Looking to get started on doing business in China? Check out our Market Guide and Global Talent Mobility Guide to learn more about the nuts and bolts of setting up shop in Asia’s largest economy!
 

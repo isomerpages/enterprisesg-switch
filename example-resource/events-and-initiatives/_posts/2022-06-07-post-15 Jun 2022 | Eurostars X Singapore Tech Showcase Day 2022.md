@@ -5,7 +5,7 @@ date: 2022-06-07
 layout: post
 description: ""
 ---
-![Eurostars X Singapore Tech Showcase Day](/images/Eurostars%20X%20Singapore%20Tech%20Showcase%20Day.png)
+![Eurostars X Singapore Tech Showcase Day](/images/eurostars%20x%20singapore%20tech%20showcase%20day.png)
 #### Event details
 
 

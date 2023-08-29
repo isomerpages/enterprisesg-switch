@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SLINGSHOT
 image: /images/slingshot_2021_finalists_web.jpeg
 ---
-![SLINGSHOT 2022 at SWITCH](/images/SLINGSHOT_2022_KeyVisual_1.png)
+![SLINGSHOT 2022 at SWITCH](/images/slingshot_2022_keyvisual_1.png)
 
 # Asia's most exciting deep tech startup competition is back!
 Singapore was looking for new and innovative startups to compete in SLINGSHOT 2022. The startups won over **S$1.2m (US $800,000)** in attractive prizes and a chance to make Singapore the next destination to expand your business.
@@ -24,22 +24,22 @@ SLINGSHOT has returned physically at the Resorts World Convention Centre during 
 
 The SWITCH Grand Stage hosted startup focused content, particularly the **SLINGSHOT** Domain and Grand Finals, alongside Keynotes, Panels and Masterclasses. 
 
-![Programme Highlights SWITCH Grand Stage and SLINGSHOT Grand Finals](/images/SWITCH%202022%20Infographics/Programme%20Highlights%20Grand%20Stage_R2.png)
+![Programme Highlights SWITCH Grand Stage and SLINGSHOT Grand Finals](/images/switch%202022%20infographics/programme%20highlights%20grand%20stage_r2.png)
 
 [View the SWITCH Grand Stage agenda here ](/slingshot-2022/grand-stage-agenda/)
 
 #### **SLINGSHOT speakers**
 ![SLINGSHOT speakers SWITCH 2022](/images/slingshot%20speakers%201.png)
-![SLINGSHOT Speakers SWITCH 2022](/images/Slingshot%20speakers%20page%202.png)
-![SLINGSHOT Speakers for SWITCH 2022](/images/Slingshot%20speakers.png)
+![SLINGSHOT Speakers SWITCH 2022](/images/slingshot%20speakers%20page%202.png)
+![SLINGSHOT Speakers for SWITCH 2022](/images/slingshot%20speakers.png)
 
 ***
 ##### 2022 Challenge Domains
 
-| ![SLINGSHOT Domain Transformative Digital Technology](/images/SLINGSHOT_Thumbnail_Domain_Transformative_Digital_Tech.jpg) | ![SLINGSHOT Domain Environment Energy and Green Technology](/images/SLINGSHOT_Thumbnail_Domain_Environment_Energy_Green_Tech.jpg) |
+| ![SLINGSHOT Domain Transformative Digital Technology](/images/slingshot_thumbnail_domain_transformative_digital_tech.jpg) | ![SLINGSHOT Domain Environment Energy and Green Technology](/images/slingshot_thumbnail_domain_environment_energy_green_tech.jpg) |
 | -------- | -------- |
-| ![SLINGSHOT Domain Consumer Media Goods and Services](/images/SLINGSHOT_Thumbnail_Domain_Consumer_Media_Goods_Services.jpg)     | ![SLINGSHOT Domain Health and Biomedical](/images/SLINGSHOT_Thumbnail_Domain_Health_Biomedical.jpg)     |
-| ![SLINGSHOT Domain Manufacturing Trade Connectivity](/images/SLINGSHOT_Thumbnail_Domain_Manufacturing_Trade_Connectivity.jpg)     |      |
+| ![SLINGSHOT Domain Consumer Media Goods and Services](/images/slingshot_thumbnail_domain_consumer_media_goods_services.jpg)     | ![SLINGSHOT Domain Health and Biomedical](/images/slingshot_thumbnail_domain_health_biomedical.jpg)     |
+| ![SLINGSHOT Domain Manufacturing Trade Connectivity](/images/slingshot_thumbnail_domain_manufacturing_trade_connectivity.jpg)     |      |
 
 ***
 ##### About the SLINGSHOT Grand Finals
@@ -50,11 +50,11 @@ The SLINGSHOT Top 50 Global Startups had the opportunity to join an immersion pr
 
 ***
 
-| ![SLINGSHOT Pitch and Win](/images/SLINGSHOT_Icon_Pitch_and_Win.png) | **Pitch and win**. Present to a global audience at the Finals and win up to S$1.2 million (US$800,000) worth of grant prizes |
+| ![SLINGSHOT Pitch and Win](/images/slingshot_icon_pitch_and_win.png) | **Pitch and win**. Present to a global audience at the Finals and win up to S$1.2 million (US$800,000) worth of grant prizes |
 | -------- | -------- |
-| ![SLINGSHOT Network](/images/SLINGSHOT_Icon_Network.png)     | **Network.** Meet global leading investors, accelerators and corporates from regional demo days, deal-mixers, and qualifiers through to the finals     |
-| ![SLINGSHOT Immerse](/images/SLINGSHOT_Icon_Immerse.png)     | **Immerse.** Exclusive pitch-coaching, corporate site visits, lab crawls in the vibrant Singapore startup ecosystem    |
-| ![SLINGSHOT Collaborate](/images/SLINGSHOT_Icon_Collaborate.png)     | **Collaborate.** Ideate and co-innovate with MNCs and homegrown players to fast-track your ideas into the market     |
+| ![SLINGSHOT Network](/images/slingshot_icon_network.png)     | **Network.** Meet global leading investors, accelerators and corporates from regional demo days, deal-mixers, and qualifiers through to the finals     |
+| ![SLINGSHOT Immerse](/images/slingshot_icon_immerse.png)     | **Immerse.** Exclusive pitch-coaching, corporate site visits, lab crawls in the vibrant Singapore startup ecosystem    |
+| ![SLINGSHOT Collaborate](/images/slingshot_icon_collaborate.png)     | **Collaborate.** Ideate and co-innovate with MNCs and homegrown players to fast-track your ideas into the market     |
 
 ***
 

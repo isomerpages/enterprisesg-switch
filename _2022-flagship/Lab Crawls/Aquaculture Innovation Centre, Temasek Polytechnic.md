@@ -8,7 +8,7 @@ third_nav_title: Lab Crawls
 
 Aquaculture Innovation Centre (AIC) is the first-ever Centre of Innovation and it is a Research lab for aquaculture related trials and study (COI). Supported by Singapore Food Agency (SFA) that adopts an inclusive and collaborative approach involving a consortium of 10 research institutes, agencies, universities & polytechnics.
 
-![Aquaculture Innovation Centre SWITCH 2022](/images/AIC%20Logo%20Krishnasamy%20Susila.jpg)
+![Aquaculture Innovation Centre SWITCH 2022](/images/aic%20logo%20krishnasamy%20susila.jpg)
 
 AIC strives to support and develop the SMEs in the aquaculture industry with the aim of enhancing farming productivity through a variety of ways.
 

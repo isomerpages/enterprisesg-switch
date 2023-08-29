@@ -19,7 +19,7 @@ Government-led initiatives have been helpful to young companies hoping to establ
 
 ### Urbantech – a growing focus on smart and green cities
 
-![](/images/SWITCH_innovation_in_india_01.jpg)
+![](/images/switch_innovation_in_india_01.jpg)
 
 One of the most prolific innovation campaigns is the 100 Smart Cities Mission that was launched in mid-2015 by Prime Minister Narendra Modi. A budget of US$14 billion (S$18.5 billion) was set aside to develop 100 smart cities and rejuvenate 500 others.
 
@@ -35,7 +35,7 @@ Based on a study by Honeywell India<sup>5</sup>, India’s airports and hotels c
 
 ### Beyond the hardware
 
-![](/images/SWITCH_innovation_in_india_02.jpg)
+![](/images/switch_innovation_in_india_02.jpg)
 
 Smart city living is also about improving the residents’ quality of life. This includes meeting the academic aspirations of families and ensuring their total well-being.
 
@@ -61,7 +61,7 @@ Even rural merchants with no online shopfronts are now doing brisk business on m
 
 ### Advice from the pros
 
-![](/images/SWITCH_innovation_in_india_03.jpg)
+![](/images/switch_innovation_in_india_03.jpg)
 
 For all its allure, several panellists reiterated that “India is not for the faint-hearted”, and companies must prepare if they want to succeed. If you’re planning to expand to India, here are some things you should note:
 

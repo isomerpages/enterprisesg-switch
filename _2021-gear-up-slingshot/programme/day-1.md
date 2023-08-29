@@ -8,4 +8,4 @@ Gear Up will be conducted on the SWITCH Platform. Please [visit community.switch
 
 ##### 19 October, Tuesday, Day 1: Pitching & Fundraising
 
-![Alt text for image on Isomer site](/images/SLINGSHOT_131021_GUP_Prog_Day_1_Oct21_v2_20211013.png)
+![Alt text for image on Isomer site](/images/slingshot_131021_gup_prog_day_1_oct21_v2_20211013.png)

@@ -8,15 +8,15 @@ third_nav_title: Lab Crawls
 
 Y-Lab is a unique Art x Tech convergence product innovation lab, housed in one of the largest museums in Southeast Asia. This lab tour and networking will feature how the arts and culture sector is innovating on the art experience, visitor experience and work experience will technologies such as A.I., blockchain, mixed reality, and so on.
 
-![Y-Lab Lab Crawl SWITCH 2022](/images/ylabngs%20-%20Enjiao%20Chen.png)
+![Y-Lab Lab Crawl SWITCH 2022](/images/ylabngs%20-%20enjiao%20chen.png)
 
 The Y-Lab Open House to go behind-the-scenes and experience innovations in the National Gallery of Singapore. Come find out how we are leveraging A.I., blockchain, mixed reality and so on to enhance storytelling, how visitors interact with a museum and even how the staff works.
 
-![Y-Lab Lab Crawl SWITCH 2022](/images/Gallery-Facade_Photo.jpg)
+![Y-Lab Lab Crawl SWITCH 2022](/images/gallery-facade_photo.jpg)
 
 On this tour, you'll also get the experience to network with not only Gallery innovation teams, but also a host of other innovation labs from the arts and culture sector, namely: National Arts Council, National Heritage Board, and Singapore Art Museum.
 
-![Y-Lab Lab Crawl SWITCH 2022](/images/Inside-Y-Lab.jpg)
+![Y-Lab Lab Crawl SWITCH 2022](/images/inside-y-lab.jpg)
 
 [For more information on Y-Lab @ National Gallery Singapore](http://ylab.sg/)
  

@@ -4,7 +4,7 @@ date: 2021-08-27
 permalink: /events/intro-quantum-computing-ecosystem/
 layout: post
 ---
-![Alt text for image on Isomer site](/images/SWITCH_webinar_quantum-computing_ecosystem_2160x1080px_0.jpg)
+![Alt text for image on Isomer site](/images/switch_webinar_quantum-computing_ecosystem_2160x1080px_0.jpg)
 #### Event details
 
 

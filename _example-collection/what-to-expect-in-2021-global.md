@@ -4,7 +4,7 @@ permalink: /channels/switch-global-2021/what-to-expect/
 ---
 
 
-![Alt text for image on Isomer site](/images/Booths.jpg)
+![Alt text for image on Isomer site](/images/booths.jpg)
 # Global Gateway for Innovation and Collaboration
 SWITCH Global will allow attendees worldwide to tap on resources from the various local ecosystem builders around the world and build global connections through SWITCH.
 

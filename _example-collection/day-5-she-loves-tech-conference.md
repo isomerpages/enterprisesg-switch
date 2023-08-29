@@ -4,7 +4,7 @@ permalink: /channels/switch-beyond-2021/day-5-she-loves-tech/
 ---
 
 
-![Alt text for image on Isomer site](/images/SLT_Opt05_1200x900_R019.jpg)
+![Alt text for image on Isomer site](/images/slt_opt05_1200x900_r019.jpg)
 
 #### Day 5 // 12 Nov 2021
 ##### SHE LOVES TECH @ SWITCH

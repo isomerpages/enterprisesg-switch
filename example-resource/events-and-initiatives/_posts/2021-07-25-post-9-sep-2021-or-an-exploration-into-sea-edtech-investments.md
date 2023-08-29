@@ -4,7 +4,7 @@ date: 2021-07-25
 permalink: /events/sea-edtech-investments/
 layout: post
 ---
-![Alt text for image on Isomer site](/images/SWITCH_Event_SEA_EdTech_Investments.jpg)
+![Alt text for image on Isomer site](/images/switch_event_sea_edtech_investments.jpg)
 
 #### Event details
 
