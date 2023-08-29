@@ -1,7 +1,7 @@
 ---
 title: 7 key questions to ready your business for the China market
 date: 2021-04-09
-permalink: /blog/ready-your-business-for-china-market
+permalink: /blog/ready-your-business-for-china-market/
 ---
 _This article was [first published](https://www.enterprisesg.gov.sg/blog/7-key-questions-to-ready-your-business-for-the-china-market) on Enterprise Singapore on 9 April 2021_
 

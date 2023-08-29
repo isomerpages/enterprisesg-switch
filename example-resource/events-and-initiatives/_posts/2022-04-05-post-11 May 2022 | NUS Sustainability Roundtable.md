@@ -1,6 +1,6 @@
 ---
 title: 11 May 2022 | NUS Sustainability Roundtable
-permalink: /events/nus-sustainability-roundtable
+permalink: /events/nus-sustainability-roundtable/
 date: 2022-04-05
 layout: post
 description: ""

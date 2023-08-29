@@ -1,6 +1,6 @@
 ---
 title: "Day 2 Agenda: SLINGSHOT 2021 (9 Nov)"
-permalink: /channels/slingshot-2021/agenda-day-2
+permalink: /channels/slingshot-2021/agenda-day-2/
 third_nav_title: Slingshot
 ---
 ##### SLINGSHOT 2021 Agenda - Day 2 // 9 Nov 2021

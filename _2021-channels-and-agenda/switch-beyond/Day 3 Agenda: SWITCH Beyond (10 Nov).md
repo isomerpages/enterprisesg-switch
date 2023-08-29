@@ -1,6 +1,6 @@
 ---
 title: "Day 3 Agenda: SWITCH Beyond (10 Nov)"
-permalink: /channels/switch-beyond/agenda-day-3
+permalink: /channels/switch-beyond/agenda-day-3/
 third_nav_title: Switch Beyond
 ---
 ### Envisioning The Future

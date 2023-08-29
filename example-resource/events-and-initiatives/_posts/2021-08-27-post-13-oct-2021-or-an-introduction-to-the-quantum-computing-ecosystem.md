@@ -1,7 +1,7 @@
 ---
 title: 13 Oct 2021 | An Introduction to the Quantum Computing Ecosystem
 date: 2021-08-27
-permalink: /events/intro-quantum-computing-ecosystem
+permalink: /events/intro-quantum-computing-ecosystem/
 layout: post
 ---
 ![Alt text for image on Isomer site](/images/SWITCH_webinar_quantum-computing_ecosystem_2160x1080px_0.jpg)

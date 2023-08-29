@@ -1,6 +1,6 @@
 ---
 title: Competition Timeline
-permalink: /channels/slingshot-2021/competition-timeline
+permalink: /channels/slingshot-2021/competition-timeline/
 ---
 
 ![](/images/SLINGSHOT%203.jpg)

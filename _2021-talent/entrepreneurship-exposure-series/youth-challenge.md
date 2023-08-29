@@ -1,6 +1,6 @@
 ---
 title: Youth Challenge
-permalink: /talent/ees/youth-challenge
+permalink: /talent/ees/youth-challenge/
 third_nav_title: Entrepreneurship Exposure Series
 ---
 # Are you a youth with a passion for sustainability and an interest to turn your ideas into actionable solutions?

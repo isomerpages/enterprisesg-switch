@@ -1,6 +1,6 @@
 ---
 title: Meet the judges
-permalink: /channels/slingshot-2021/2021/judges
+permalink: /channels/slingshot-2021/2021/judges/
 third_nav_title: Slingshot
 ---
 

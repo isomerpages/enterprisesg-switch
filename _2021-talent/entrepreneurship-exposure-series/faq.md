@@ -1,6 +1,6 @@
 ---
 title: "FAQ "
-permalink: /talent/ees/faq
+permalink: /talent/ees/faq/
 third_nav_title: Entrepreneurship Exposure Series
 ---
 # Frequently Asked Questions

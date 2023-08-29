@@ -1,6 +1,6 @@
 ---
 title: SJ NTU Corporate Lab
-permalink: /Ntu/
+permalink: /ntu/
 description: ""
 third_nav_title: Lab Crawls
 ---

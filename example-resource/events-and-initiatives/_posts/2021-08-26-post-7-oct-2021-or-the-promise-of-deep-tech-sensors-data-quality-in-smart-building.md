@@ -1,7 +1,7 @@
 ---
 title: "7 Oct 2021 | The Promise of Deep Tech: Sensors Data Quality in Smart Building"
 date: 2021-08-26
-permalink: /events/the-promise-of-deep-tech
+permalink: /events/the-promise-of-deep-tech/
 layout: post
 ---
 ![Alt text for image on Isomer site](/images/SWITCH_webinars_SGInnovate_Sensor_Data_Quality_Event_Banner.jpg)

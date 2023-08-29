@@ -1,6 +1,6 @@
 ---
 title: "Day 5: She Loves Tech Conference"
-permalink: /channels/switch-beyond-2021/day-5-she-loves-tech
+permalink: /channels/switch-beyond-2021/day-5-she-loves-tech/
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Looking back on SLINGSHOT 2020:  The Yield Lab Agtech Innovation Award
   Winner, ProAgni"
 date: 2021-09-22
-permalink: /blog/slingshot-2020-yield-lab-agtech-proagni
+permalink: /blog/slingshot-2020-yield-lab-agtech-proagni/
 layout: post
 ---
 ![Alt text for image on Isomer site](/images/SWITCH_2021_The_Yield_Lab_ProAgni_1.jpg)

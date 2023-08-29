@@ -1,6 +1,6 @@
 ---
 title: Mentor Clinics
-permalink: /gear-up-slingshot-2021/mentor-clinics
+permalink: /gear-up-slingshot-2021/mentor-clinics/
 ---
 #### Mentor Clinics
 

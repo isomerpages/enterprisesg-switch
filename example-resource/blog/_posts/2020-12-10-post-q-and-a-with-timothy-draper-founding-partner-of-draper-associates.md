@@ -1,7 +1,7 @@
 ---
 title: Q and A With Timothy Draper Founding Partner Of Draper Associates
 date: 2020-12-10
-permalink: /blog/switch-2020-timothy-draper-associates
+permalink: /blog/switch-2020-timothy-draper-associates/
 ---
 
 

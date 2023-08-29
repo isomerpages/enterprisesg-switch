@@ -1,7 +1,7 @@
 ---
 title: "Innovation In India: A Snapshot Of Sectors To Watch"
 date: 2021-03-26
-permalink: /blog/innovation-in-india-a-snapshot-of-sectors
+permalink: /blog/innovation-in-india-a-snapshot-of-sectors/
 ---
 _This article was [first published](https://www.enterprisesg.gov.sg/blog/innovation-in-india-a-snapshot-of-the-sectors-to-watch) on Enterprise Singapore on 26 March 2021_
 

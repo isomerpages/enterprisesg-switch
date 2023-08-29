@@ -2,7 +2,7 @@
 title: 7 Sep 2021 | Entrepreneurship Exposure Series Session 3 |  Learn about
   startup success in Singapore!
 date: 2021-07-24
-permalink: /events/ees-session-3
+permalink: /events/ees-session-3/
 layout: post
 ---
 ![Alt text for image on Isomer site](/images/All%20social%20media%20posts%20revised_EDM%20header.png)

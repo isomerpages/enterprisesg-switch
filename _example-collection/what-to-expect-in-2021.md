@@ -1,6 +1,6 @@
 ---
 title: What to expect in 2021
-permalink: /channels/switch-beyond-2021/what-to-expect
+permalink: /channels/switch-beyond-2021/what-to-expect/
 ---
 
 

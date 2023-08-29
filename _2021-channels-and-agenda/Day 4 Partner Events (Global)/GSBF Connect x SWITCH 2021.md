@@ -1,6 +1,6 @@
 ---
 title: GSBF Connect x SWITCH 2021
-permalink: /gsbf-2021
+permalink: /gsbf-2021/
 third_nav_title: Day 4 Partner Events (Global)
 ---
 

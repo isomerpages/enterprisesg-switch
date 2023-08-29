@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /channels/switch-global-2021/overview
+permalink: /channels/switch-global-2021/overview/
 third_nav_title: Switch Global
 ---
 ![](/images/SWITCH%20Global%201.jpg)

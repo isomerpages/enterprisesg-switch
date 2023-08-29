@@ -1,6 +1,6 @@
 ---
 title: SFFxSWITCH
-permalink: /about-us/sffxswitch
+permalink: /about-us/sffxswitch/
 ---
 
 #### SFFxSWITCH

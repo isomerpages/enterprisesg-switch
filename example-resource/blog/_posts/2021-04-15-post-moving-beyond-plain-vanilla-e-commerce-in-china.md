@@ -1,7 +1,7 @@
 ---
 title: Moving beyond plain vanilla e-commerce in China
 date: 2021-04-15
-permalink: /blog/moving-beyond-plain-vanilla-ecommerce-china
+permalink: /blog/moving-beyond-plain-vanilla-ecommerce-china/
 ---
 _This article was [first published](https://www.enterprisesg.gov.sg/blog/moving-beyond-plain-vanilla-e-commerce-in-china) on Enterprise Singapore on 15 April 2021_
 

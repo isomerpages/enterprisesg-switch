@@ -1,7 +1,7 @@
 ---
 title: "Innovation & Entrepreneurship at Our Polytechnics And ITE: A Look Behind
   The Scenes!"
-permalink: /pollinate-innovation-enterprise
+permalink: /pollinate-innovation-enterprise/
 description: ""
 third_nav_title: Day 4 Partner Events (Beyond)
 ---

@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /channels/switch-beyond-2021/overview
+permalink: /channels/switch-beyond-2021/overview/
 third_nav_title: Switch Beyond
 ---
 ![](/images/SWITCH%20Connect%205.jpg)

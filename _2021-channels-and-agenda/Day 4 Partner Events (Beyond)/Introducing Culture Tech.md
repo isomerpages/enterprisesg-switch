@@ -1,6 +1,6 @@
 ---
 title: Introducing Culture Tech
-permalink: /culture-tech-2021
+permalink: /culture-tech-2021/
 third_nav_title: Day 4 Partner Events (Beyond)
 ---
 

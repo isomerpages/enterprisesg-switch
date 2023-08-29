@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /gear-up-slingshot-2021/overview
+permalink: /gear-up-slingshot-2021/overview/
 ---
 This is an exclusive opportunity for the TOP 100 Global Startups of SLINGSHOT 2021! 
 

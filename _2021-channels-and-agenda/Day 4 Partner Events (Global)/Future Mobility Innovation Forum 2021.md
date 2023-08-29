@@ -1,6 +1,6 @@
 ---
 title: Future Mobility Innovation Forum 2021
-permalink: /future-mobility-innovation-forum-2021
+permalink: /future-mobility-innovation-forum-2021/
 third_nav_title: Day 4 Partner Events (Global)
 ---
 

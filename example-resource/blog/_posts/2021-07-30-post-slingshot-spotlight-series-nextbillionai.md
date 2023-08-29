@@ -1,7 +1,7 @@
 ---
 title: "SLINGSHOT Spotlight Series: NextBillion.ai"
 date: 2021-07-30
-permalink: /blog/slingshot-spotlight-series-nextbillionai
+permalink: /blog/slingshot-spotlight-series-nextbillionai/
 layout: post
 ---
 *The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2022, please [click here.](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022)*

@@ -1,6 +1,6 @@
 ---
 title: "SLINGSHOT Spotlight Series: QuantumCyte 2021 Grand Winner"
-permalink: /blog/slingshot-spotlight-series-quantumcyte
+permalink: /blog/slingshot-spotlight-series-quantumcyte/
 date: 2022-04-21
 layout: post
 description: Learn more about the innovation of SLINGSHOT 2021 Grand Winner,

@@ -1,6 +1,6 @@
 ---
 title: Mentorship Programme
-permalink: /talent/ees/mentorship-programme
+permalink: /talent/ees/mentorship-programme/
 third_nav_title: Entrepreneurship Exposure Series
 ---
 # Get mentored by an industry professional on career-related skills and more!

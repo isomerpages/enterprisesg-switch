@@ -1,7 +1,7 @@
 ---
 title: 10 Startups That Are Helping To Fight Covid-19 In The Uk
 date: 2020-08-31
-permalink: /blog/10-startups-fight-covid19-uk
+permalink: /blog/10-startups-fight-covid19-uk/
 ---
 In times of crises, innovation is crucial for enabling our public health systems, businesses, and societies to adapt to new realities. Thanks to the hard work of the startups rising up to the challenges of our times and pushing the boundaries of healthcare and technology, we are better able to cope with this global pandemic.
 

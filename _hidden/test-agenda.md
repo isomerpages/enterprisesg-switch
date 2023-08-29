@@ -1,6 +1,6 @@
 ---
 title: Test Agenda
-permalink: /test-agenda
+permalink: /test-agenda/
 ---
 # SWITCH Beyond
 SWITCH Beyond is a conference channel that explores how developments in innovation and emergent technologies can create a more positive and sustainable society for all of us. The following themes will be explored over three days at the annual SWITCH conference:

@@ -1,6 +1,6 @@
 ---
 title: "Day 2 Agenda: SWITCH Beyond (9 Nov)"
-permalink: /channels/switch-beyond/agenda-day-2
+permalink: /channels/switch-beyond/agenda-day-2/
 third_nav_title: Switch Beyond
 ---
 ### Impacting Lives

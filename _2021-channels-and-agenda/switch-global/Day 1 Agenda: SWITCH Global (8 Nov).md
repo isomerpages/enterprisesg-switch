@@ -1,6 +1,6 @@
 ---
 title: "Day 1 Agenda: SWITCH Global (8 Nov)"
-permalink: /channels/switch-global-2021/agenda-day-1
+permalink: /channels/switch-global-2021/agenda-day-1/
 third_nav_title: Switch Global
 ---
 #### SWITCH Global: Day 1 

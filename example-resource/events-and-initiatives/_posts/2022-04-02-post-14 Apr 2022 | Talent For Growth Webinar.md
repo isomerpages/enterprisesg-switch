@@ -1,6 +1,6 @@
 ---
 title: 14 Apr 2022 | Talent For Growth Webinar
-permalink: /events/talent-for-growth-webinar
+permalink: /events/talent-for-growth-webinar/
 date: 2022-04-02
 layout: post
 description: Building offshore tech teams has become an increasingly viable

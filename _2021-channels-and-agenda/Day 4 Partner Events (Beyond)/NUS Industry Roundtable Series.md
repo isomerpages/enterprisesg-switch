@@ -1,6 +1,6 @@
 ---
 title: NUS Industry Roundtable Series
-permalink: /nus-industry-roundtable-series
+permalink: /nus-industry-roundtable-series/
 description: ""
 third_nav_title: Day 4 Partner Events (Beyond)
 ---

@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /channels/slingshot-2021/overview
+permalink: /channels/slingshot-2021/overview/
 third_nav_title: Slingshot
 ---
 ### Launch your startup into Asia!

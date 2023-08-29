@@ -1,6 +1,6 @@
 ---
 title: "Day 3 Agenda: SWITCH Global (10 Nov)"
-permalink: /channels/switch-global-2021/agenda-day-3
+permalink: /channels/switch-global-2021/agenda-day-3/
 third_nav_title: Switch Global
 ---
 #### SWITCH Global: Day 3

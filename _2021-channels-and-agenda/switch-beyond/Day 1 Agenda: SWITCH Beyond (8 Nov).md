@@ -1,6 +1,6 @@
 ---
 title: "Day 1 Agenda: SWITCH Beyond (8 Nov)"
-permalink: /channels/switch-beyond/agenda-day-1
+permalink: /channels/switch-beyond/agenda-day-1/
 third_nav_title: Switch Beyond
 ---
 ### Transforming Industries

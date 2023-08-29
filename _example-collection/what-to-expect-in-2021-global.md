@@ -1,6 +1,6 @@
 ---
 title: What to expect in 2021 (Global)
-permalink: /channels/switch-global-2021/what-to-expect
+permalink: /channels/switch-global-2021/what-to-expect/
 ---
 
 

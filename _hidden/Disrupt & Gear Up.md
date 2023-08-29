@@ -1,6 +1,6 @@
 ---
 title: Disrupt & Gear Up
-permalink: /channels/slingshot-2021/disrupt-gear-up
+permalink: /channels/slingshot-2021/disrupt-gear-up/
 ---
 
 ![Alt text for image on Isomer site](/images/Connections%202.jpg)
