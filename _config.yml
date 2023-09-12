@@ -1,7 +1,7 @@
 title: Singapore Week of Innovation and Technology | 31 Oct–2 Nov 2023 | Sands
   Expo & Convention Centre
 url: https://switchsg.org
-favicon: /images/Logos/SWITCH-Logo_Eng-Light_BG_sq.jpg
+favicon: /images/logos/switch-logo_eng-light_bg_sq.jpg
 colors:
   primary-color: "#f4333d"
   secondary-color: "#f4333d"
@@ -61,7 +61,7 @@ staging: https://staging.d3cpov96j8dxzr.amplifyapp.com/
 prod: https://master.d3cpov96j8dxzr.amplifyapp.com/
 is_government: false
 google_analytics: UA-124054828-1
-shareicon: /images/SWITCH_2021_Hero_Banner_03a.jpg
+shareicon: /images/switch_2021_hero_banner_03a.jpg
 facebook-pixel: ""
 linkedin-insights: ""
 google_analytics_ga4: G-0TWE6PTJ1E
