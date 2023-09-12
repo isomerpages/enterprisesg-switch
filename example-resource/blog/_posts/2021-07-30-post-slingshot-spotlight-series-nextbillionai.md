@@ -8,7 +8,7 @@ layout: post
 # NextBillion.ai
 ### This startup wants to use their spatial data and AI expertise to help enterprises build high performance and configurable maps to create more operational saving and time efficiencies. 
 
-![Alt text for image on Isomer site](/images/Article_slingshot_spotlight_nextbillion_002.jpeg)
+![Alt text for image on Isomer site](/images/article_slingshot_spotlight_nextbillion_002.jpeg)
 <sub>(Caption: NextBillion.ai awarded Grand Winner at SLINGSHOT 2020)</sub>
 
 Headquartered in Singapore with offices in San Francisco, Bengaluru, Hyderabad and Beijing, Nextbillion.ai believes centralised mapping technology is a thing of the past. By providing enterprises with location tools and API’s that help them adopt an AI-first approach to solve all their client’s map-related business issues, their solution can be customized to be hyper-local and provide pinpoint accuracy for extremely complex mapping and analysis cases.
