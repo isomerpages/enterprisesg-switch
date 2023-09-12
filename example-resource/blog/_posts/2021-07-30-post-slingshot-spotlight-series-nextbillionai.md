@@ -27,7 +27,7 @@ Today, a ride-hailing mobile application can know where you are, and it will be 
 
 Essentially, we are trying to create a new era of mapping that allows enterprises to power a new era of services. For example, food delivery in Singapore happens mostly on e-scooters not on cars. Whereas, in the US, it is the opposite. When we have these nuances, e-scooters can't go on main roads, they need foot paths. Is there a foot path map of the world? It's still not there. This is the sort of sophisticated problem statements that NextBillion.ai is trying to tackle.
 
-![Alt text for image on Isomer site](/images/article_alingshot_spotlight_nextbillion_009.jpeg)
+![Alt text for image on Isomer site](/images/article_slingshot_spotlight_nextbillion_009.jpeg)
 <sub>(Caption: NextBillion.ai pitching to a hybrid audience at SLINGSHOT 2020)</sub>
 
 **Q: How was your experience participating in SLINGSHOT 2020?**
