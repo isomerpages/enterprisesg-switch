@@ -33,7 +33,7 @@ In summary, these are the possible combinations:
 
 You can refer to the below for the different combinations of programmes you can take on and what they entail. Do also ensure that you are able to commit to the programmes before applying. 
 
-![Alt text for image on Isomer site](/images/EES_participation.jpeg)
+![Alt text for image on Isomer site](/images/ees_participation.jpeg)
 
 ***Application for the EES and its complementary programmes has closed. However, you can get your [1-For-1 SWITCH Pass ](https://events.hubilo.com/switchsg/register)by 30 September to access the EES and all of SWITCH’s year-long webinars through 2022.***
 

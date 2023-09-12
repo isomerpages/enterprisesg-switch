@@ -58,7 +58,7 @@ strategic location provides easy access to the region and its growing consumer m
 
 **3. What are the key factors to Planet07’s success so far?**
 
-![](/images/Article%20Images/Entrepass%20Articles/planet07%20astar_artc.jpeg)
+![](/images/article%20images/entrepass%20articles/planet07%20astar_artc.jpeg)
 <sup> Planet07's founder, Dr Guenther Hoffman, participated in the A*STAR Advanced Manufacturing Startup Challenge 2022 </sup>
 
 Key partnerships such as my collaboration with the Advanced Remanufacturing and Technology
