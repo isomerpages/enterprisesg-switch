@@ -5,7 +5,7 @@ description: SWITCH Beyond is the sectoral thought leadership channel that
   brings together global leaders and industry experts from diverse industries to
   must-attend conference sessions, where groundbreaking innovative ideas and
   technologies that are transforming the world take place.
-image: /images/SWITCH Connect 3.jpg
+image: /images/switch connect 3.jpg
 third_nav_title: SWITCH Beyond
 ---
 ## SWITCH Beyond Agenda

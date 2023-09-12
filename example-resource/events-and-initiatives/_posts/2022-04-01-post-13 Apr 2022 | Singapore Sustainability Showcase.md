@@ -10,7 +10,7 @@ description: Looking to know more about innovation opportunities and
   solutions for the Eureka Clusters Sustainability Call!
 image: /images/20220413_session_banner-sustainability_showcase.png
 ---
-![Singapore Sustainability Showcase (13 Apr 2022)](/images/20220413_Session_Banner-Sustainability_Showcase.png)
+![Singapore Sustainability Showcase (13 Apr 2022)](/images/20220413_session_banner-sustainability_showcase.png)
 #### Event details
 
 

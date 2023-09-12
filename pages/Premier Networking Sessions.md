@@ -2,7 +2,7 @@
 title: Premier Networking Sessions
 permalink: /premier-networking-sessions-2022/
 description: Premier Networking Sessions at SWITCH 2022
-image: /images/Connections 2.jpg
+image: /images/connections 2.jpg
 ---
 
 ### **Networking zone at SWITCH 2022**

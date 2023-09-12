@@ -9,7 +9,7 @@ description: Asia's leading Innovation and Technology The Singapore Week of
   competition, and networking opportunities in the areas of innovation,
   technology, and global market access for delegates all over the world. SWITCH
   is organised by Enterprise Singapore.
-image: /images/SWITCH_2021_Hero_Banner_03a.jpg
+image: /images/switch_2021_hero_banner_03a.jpg
 permalink: /
 notification: ""
 sections:
@@ -42,7 +42,7 @@ sections:
         Oct–2 Nov 2023.
       button: Learn more
       url: /2023/flagship
-      image: /images/Global Innovation Movement.jpg
+      image: /images/global innovation movement.jpg
       alt: SWITCH Connects you globally
   - infopic:
       title: Get your tickets to SWITCH 2023
@@ -62,7 +62,7 @@ sections:
         R&D and startup hub.
       button: Learn more
       url: /2023/programmes/at-one-north/
-      image: /images/2023/Photos/switch_one_north_03_1200p.JPG
+      image: /images/2023/photos/switch_one_north_03_1200p.jpg
       alt: A showcase featuring a drone.
   - infopic:
       title: Innovation-centric companies partner with SWITCH

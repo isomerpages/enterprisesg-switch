@@ -8,4 +8,4 @@ third_nav_title: SLINGSHOT
 
 
 ## **SLINGSHOT Corporate Mixers Partners**
-![SLINGSHOT Corporate Mixers Partners](/images/Sponsors%20&%20Partners_Cards%20(16).png)
+![SLINGSHOT Corporate Mixers Partners](/images/sponsors%20&%20partners_cards%20(16).png)

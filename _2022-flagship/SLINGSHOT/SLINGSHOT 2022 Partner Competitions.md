@@ -7,4 +7,4 @@ third_nav_title: SLINGSHOT
 
 
 ## **SLINGSHOT Partner Competitions**
-![SLINGSHOT Partner Competitions SWITCh 2022](/images/Sponsors%20&%20Partners_Cards%20(17).png)
+![SLINGSHOT Partner Competitions SWITCh 2022](/images/sponsors%20&%20partners_cards%20(17).png)

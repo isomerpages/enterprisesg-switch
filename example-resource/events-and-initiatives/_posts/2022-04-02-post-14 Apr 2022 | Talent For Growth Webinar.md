@@ -10,7 +10,7 @@ description: Building offshore tech teams has become an increasingly viable
   local teams.
 image: /images/20220414_session_banner-talent_webinar.png
 ---
-![Talent For Growth Webinar (14 Apr 2022)](/images/20220414_Session_Banner-Talent_Webinar.png)
+![Talent For Growth Webinar (14 Apr 2022)](/images/20220414_session_banner-talent_webinar.png)
 #### Event details
 
 

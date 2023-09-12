@@ -3,7 +3,7 @@ title: In Person Access
 permalink: /in-person-access-2022/
 description: In-person access to SWITCH 2022 Flagship Event requires a valid
   FREE Trade Pass or PREMIUM Conference + Trade Pass.
-image: /images/Connections 2.jpg
+image: /images/connections 2.jpg
 third_nav_title: Visitor Information
 ---
 ### **Attendee Information for SWITCH 2022**
