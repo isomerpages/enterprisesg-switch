@@ -6,30 +6,30 @@ description: ""
 **2022 Sponsors & Partners**
 
 ##### Platinum Sponsor
-![Platinum sponsor SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/Platinum%20Sponsor.png)
+![Platinum sponsor SWITCH 2022](/images/sponsor%20cards/sponsor%20cards%20(2022)/platinum%20sponsor.png)
 
 ##### Gold Sponsors
-![Gold Sponsors SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(15).png)
+![Gold Sponsors SWITCH 2022](/images/sponsors%20&%20partners_cards%20(15).png)
 
 ##### Silver Sponsors
-![Silver Sponsors SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(11).png)
+![Silver Sponsors SWITCH 2022](/images/sponsors%20&%20partners_cards%20(11).png)
 
 ##### Global Partners
-![Global Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(20).png)
+![Global Partners SWITCH 2022](/images/sponsors%20&%20partners_cards%20(20).png)
 
 ##### SLINGSHOT Corporate Partners 
-![SLINGSHOT Corporate Partners](/images/Corporate%20Partners%20final.png)
+![SLINGSHOT Corporate Partners](/images/corporate%20partners%20final.png)
 
 ##### Strategic Media Partners
-![STrategic Media PArtners SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/Strategic%20Media%20%20Partners.png)
+![STrategic Media PArtners SWITCH 2022](/images/sponsor%20cards/sponsor%20cards%20(2022)/strategic%20media%20%20partners.png)
 
 ##### Content Partners
-![Beyond Content Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(21).png)
+![Beyond Content Partners SWITCH 2022](/images/sponsors%20&%20partners_cards%20(21).png)
 
 ##### Community Partners 
-![Community Partners SWITCH 2022](/images/Community%20Partners%202022_Cards%20(3).png)
+![Community Partners SWITCH 2022](/images/community%20partners%202022_cards%20(3).png)
 
 ##### Organised by
-![Evergreen SWITCH 2022](/images/Sponsor%20Cards/Sponsor%20Cards%20(2022)/evergreen.png)
+![Evergreen SWITCH 2022](/images/sponsor%20cards/sponsor%20cards%20(2022)/evergreen.png)
 
 [Download the 2023 Sponsorship & Exhibition prospectus >>](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1)

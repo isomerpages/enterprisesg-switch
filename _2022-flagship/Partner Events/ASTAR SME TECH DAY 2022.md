@@ -1,6 +1,6 @@
 ---
 title: ASTAR SME TECH DAY 2022
-permalink: /Astar-sme-tech-day/
+permalink: /astar-sme-tech-day/
 description: A*STAR SME TECH DAY 2022 at SWITCH
 third_nav_title: Partner Events
 ---

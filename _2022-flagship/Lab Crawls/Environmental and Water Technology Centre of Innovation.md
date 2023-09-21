@@ -8,7 +8,7 @@ third_nav_title: Lab Crawls
 
 The Environmental & Water Technology Centre of Innovation (EWTCOI) is a dedicated centre that aims to partner with strategic industry sectors in applied R&D and consultancy projects to translate ideas into practical solutions or innovations for a sustainable environment. 
 
-![Environmental and Water Technology Centre of Innovation (EWTCOI) Lab Crawl SWITCh 2022](/images/Lab%20pic%20Xiaoli%20Yan.png)
+![Environmental and Water Technology Centre of Innovation (EWTCOI) Lab Crawl SWITCh 2022](/images/lab%20pic%20xiaoli%20yan.png)
 
 As the flagship facility in EWTCOI, the membrane innovation lab hosts a suite of membrane development facilities including characterisation, fabrication, scale-up, and performance evaluation. The membrane innovation lab is a seamless platform for companies to develop and commercialise innovative membrane products and technologies.
 

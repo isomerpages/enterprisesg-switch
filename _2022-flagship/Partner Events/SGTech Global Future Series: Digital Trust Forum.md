@@ -4,7 +4,7 @@ permalink: /sgtech-digital-trust-forum/
 description: ""
 third_nav_title: Partner Events
 ---
-![SGTech Future Series: Digital Trust Forum at SWITCH 2022](/images/Digital%20Trust%20Forum%20-%20A%20Partner%20Event%20Of-01.jpg)
+![SGTech Future Series: Digital Trust Forum at SWITCH 2022](/images/digital%20trust%20forum%20-%20a%20partner%20event%20of-01.jpg)
 # **About**
 In today’s rapidly digitalising and inter-connected world, understanding Digital Trust and how to capitalise on its opportunities is an imperative for anyone interacting in the digital economy. 
 

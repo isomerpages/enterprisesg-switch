@@ -7,7 +7,7 @@ description: Experience the latest developments in innovations and technology at
 
 The Singapore Week of Innovation and Technology (SWITCH) is making its return in 2023! The SWITCH experience consists of two components: **a year-long programme** of innovation-centric community events and opportunities that began in March 2023, and our signature **flagship event** that will be taking place from 31 October–2 November 2023 at Sands Expo & Convention Centre, Singapore.
 
-![SWITCH Experience Infographic](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/2207%20Before%20Launch%20DONE_SWITCH%20COMPONENTS%20.png)
+![SWITCH Experience Infographic](/images/switch%202022%20landing%20page/yiran_2207%20before%20launch/2207%20before%20launch%20done_switch%20components%20.png)
 
 ### Event Timeline
 

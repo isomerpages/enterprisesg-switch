@@ -1,6 +1,6 @@
 ---
 title: 14 Apr 2022 | Talent For Growth Webinar
-permalink: /events/talent-for-growth-webinar
+permalink: /events/talent-for-growth-webinar/
 date: 2022-04-02
 layout: post
 description: Building offshore tech teams has become an increasingly viable
@@ -8,9 +8,9 @@ description: Building offshore tech teams has become an increasingly viable
   past two years. Join us to hear from SGTech, Glints, Web Synergies and ESG on
   the regional tech talent landscape and ways to augment and complement your
   local teams.
-image: /images/20220414_Session_Banner-Talent_Webinar.png
+image: /images/20220414_session_banner-talent_webinar.png
 ---
-![Talent For Growth Webinar (14 Apr 2022)](/images/20220414_Session_Banner-Talent_Webinar.png)
+![Talent For Growth Webinar (14 Apr 2022)](/images/20220414_session_banner-talent_webinar.png)
 #### Event details
 
 

@@ -40,7 +40,7 @@ Conceived by leading Biotech company MiRXES, early is the future of modern healt
 
 NUS Enterprise@Singapore Science Park is a partnership between NUS Enterprise and CapitaLand Development to spearhead Singapore’s first Deep Technology Hub in Singapore Science Park. By fostering a community of deep technology start-ups and connecting corporates to talents, research capabilities, and technologies of NUS, it aims to cultivate and aggregate a vibrant tech ecosystem and community towards disruptive innovations.  
 
-![NUS Enterprise@Singapore Science Park SWITCH 2022](/images/NUS%20Enterprise@Singapore%20Science%20Park.jpg)
+![NUS Enterprise@Singapore Science Park SWITCH 2022](/images/nus%20enterprise@singapore%20science%20park.jpg)
 *Photo courtesy of Earnest*
  
 
@@ -64,7 +64,7 @@ NUS Enterprise@Singapore Science Park is a partnership between NUS Enterprise an
 
 The Smart Urban Co-Innovation Lab @Singapore Science Park is the first industry-led lab in Southeast Asia focused on smart city solutions development. Initiated by CapitaLand and supported by CapitaLand Ascendas Real Estate Investment Trust, Infocomm Media Development Authority and Enterprise Singapore, it brings together various industry players - local technology startups, system integrators and global corporate enterprises - to co-create solutions for smart sustainable cities, from ideation to testing to commercialisation.  
 
-![Smart Urban Co-Innovation Lab @Singapore Science Park SWITCH 2022](/images/Smart%20Urban%20Co-Innovation%20Lab%20@Singapore%20Science%20Park.png)
+![Smart Urban Co-Innovation Lab @Singapore Science Park SWITCH 2022](/images/smart%20urban%20co-innovation%20lab%20@singapore%20science%20park.png)
 *Photo courtesy of CapitaLand*
   
 Visit to understand how the Lab provides opportunities for industry players to testbed their solutions at the 5G-enabled Singapore Science Park and how provides supports in initiating call-for-proposals, organising workshops to promote exchange of ideas as well as facilitating proof-of-concepts and deployment.
@@ -88,7 +88,7 @@ Visit to understand how the Lab provides opportunities for industry players to t
 
 Catapult by CapitaLand is the first leadership learning hub in Southeast Asia designed to groom Asia’s next generation of leaders by curating learning experiences focused on Leadership, Innovation and Energy for Peak Performance delivered through experiential, immersive and impactful learning journeys.  
 
-![Playground for Learners - Catapult by CapitaLand SWITCH 2022](/images/Playground%20for%20Learners%20-%20Catapult%20by%20CapitaLand.png)
+![Playground for Learners - Catapult by CapitaLand SWITCH 2022](/images/playground%20for%20learners%20-%20catapult%20by%20capitaland.png)
 *Photo courtesy of CapitaLand*
   
 Visit Catapult to understand how their integrated ecosystem of Campus Spaces, Curriculum and Community is designed to catapult your company's leaders to the global stage.
@@ -110,7 +110,7 @@ Visit Catapult to understand how their integrated ecosystem of Campus Spaces, Cu
 
 Vectura Fertin Pharma Laboratories brings together expertise in drug delivery to the lungs, inhalation drug-device combination, oral delivery systems and preclinical safety toxicology capabilities to build upon existing, novel, and repurposed therapeutic products to make them better for consumers and patients of tomorrow..  
 
-![Vectura Lab Crawl SWITCH 2022](/images/Vectura%20Fertin%20Pharma%20Laboratories.jpg)
+![Vectura Lab Crawl SWITCH 2022](/images/vectura%20fertin%20pharma%20laboratories.jpg)
 *Photo courtesy of Vectura Fertin Pharma*
   
 Visit Vectura Fertin Pharma Laboratories to see how our facility, specializing in inhalation sciences, can support both local and global pharmaceutical / biotechnology partners to achieve their preclinical research goals with customizable laboratory services.

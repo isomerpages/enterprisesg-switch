@@ -1,14 +1,14 @@
 ---
 title: "SLINGSHOT Spotlight Series: NextBillion.ai"
 date: 2021-07-30
-permalink: /blog/slingshot-spotlight-series-nextbillionai
+permalink: /blog/slingshot-spotlight-series-nextbillionai/
 layout: post
 ---
 *The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2022, please [click here.](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022)*
 # NextBillion.ai
 ### This startup wants to use their spatial data and AI expertise to help enterprises build high performance and configurable maps to create more operational saving and time efficiencies. 
 
-![Alt text for image on Isomer site](/images/Article_SLINGSHOT_Spotlight_NextBillion_002.jpeg)
+![Alt text for image on Isomer site](/images/article_slingshot_spotlight_nextbillion_002.jpeg)
 <sub>(Caption: NextBillion.ai awarded Grand Winner at SLINGSHOT 2020)</sub>
 
 Headquartered in Singapore with offices in San Francisco, Bengaluru, Hyderabad and Beijing, Nextbillion.ai believes centralised mapping technology is a thing of the past. By providing enterprises with location tools and API’s that help them adopt an AI-first approach to solve all their client’s map-related business issues, their solution can be customized to be hyper-local and provide pinpoint accuracy for extremely complex mapping and analysis cases.
@@ -27,7 +27,7 @@ Today, a ride-hailing mobile application can know where you are, and it will be 
 
 Essentially, we are trying to create a new era of mapping that allows enterprises to power a new era of services. For example, food delivery in Singapore happens mostly on e-scooters not on cars. Whereas, in the US, it is the opposite. When we have these nuances, e-scooters can't go on main roads, they need foot paths. Is there a foot path map of the world? It's still not there. This is the sort of sophisticated problem statements that NextBillion.ai is trying to tackle.
 
-![Alt text for image on Isomer site](/images/Article_SLINGSHOT_Spotlight_NextBillion_009.jpeg)
+![Alt text for image on Isomer site](/images/article_slingshot_spotlight_nextbillion_009.jpeg)
 <sub>(Caption: NextBillion.ai pitching to a hybrid audience at SLINGSHOT 2020)</sub>
 
 **Q: How was your experience participating in SLINGSHOT 2020?**
@@ -44,7 +44,7 @@ Essentially, we are trying to create a new era of mapping that allows enterprise
 
 Many times, when you are in the technology sector, you are mostly obsessed with other tech companies and technologies in your field of interest. But SLINGSHOT opened our eyes to an array of companies because the verticals were so interesting. There was a prosthetic arm company, an eggs company and many more at the finals. These are startups and innovations that you would never have access to if you did not attend SLINGSHOT. I would say the experience is definitely worth it. 
 
-![Alt text for image on Isomer site](/images/Article_SLINGSHOT_Spotlight_NextBillion_010.jpeg)
+![Alt text for image on Isomer site](/images/article_slingshot_spotlight_nextbillion_010.jpeg)
 <sub>(Caption: NextBillion.ai pitching to a hybrid audience at SLINGSHOT 2020)</sub>
 
 **Q: Do you find that being in Singapore helps you with your international expansion?**

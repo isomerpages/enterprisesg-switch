@@ -1,6 +1,6 @@
 ---
 title: SME Day 2021
-permalink: /sme-day-2021
+permalink: /sme-day-2021/
 third_nav_title: Day 4 Partner Events (Beyond)
 ---
 #### SME Day 2021

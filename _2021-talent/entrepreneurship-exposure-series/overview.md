@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /talent/entrepreneurship-exposure-series/overview
+permalink: /talent/entrepreneurship-exposure-series/overview/
 third_nav_title: Entrepreneurship Exposure Series
 ---
 ![Alt text for image on Isomer site](/images/ees_banner.png)
@@ -83,17 +83,17 @@ You can refer to the below infographic for the different combinations of program
 
 ![Alt text for image on Isomer site](/images/EES_participation.jpeg)
 # Why you should attend:
-![Alt text for image on Isomer site](/images/Others%202.jpg)
+![Alt text for image on Isomer site](/images/others%202.jpg)
 ### Deep dive into the startup ecosystem from the lens of different players
 Acquire exclusive and actionable knowledge and tips from industry experts from different ecosystem bodies - Singaporean and International startups, investors, government and corporations - gathered for your full understanding of entrepreneurship as an ecosystem.
 
-![Alt text for image on Isomer site](/images/Others.jpg)
+![Alt text for image on Isomer site](/images/others.jpg)
 ### Embark on your career exploration journey
 Interested in a startup or innovation career but not sure about how the ecosystem works? Learn and find out more from the experience of speakers and mentors who have achieved success in their journey.
 
 If you wish to pursue a startup career after the series, the sessions would have not only equipped you with the knowledge on entrepreneurship and innovation, but also the increased confidence and ability to sustain conversations and network with players in the ecosystem, bringing you nearer to starting your entrepreneurship journey.
 
-![Alt text for image on Isomer site](/images/Youth4.jpg)
+![Alt text for image on Isomer site](/images/youth4.jpg)
 ### Connect with SWITCH delegates and fellow future entrepreneurs
 With access to SWITCH 2021 and its other year-long events, network with fellow SWITCH delegates including youths relevant to your projects and ventures on the always-on SWITCH platform throughout the year. With virtual networking features like one-to-one meetings and networking lounge, Talent @ SWITCH EES and SWITCH 2021 will be where you make meaningful connections.
 

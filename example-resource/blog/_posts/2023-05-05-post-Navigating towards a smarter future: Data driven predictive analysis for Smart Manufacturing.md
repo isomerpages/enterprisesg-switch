@@ -11,7 +11,7 @@ image: ""
 
 **Navigating towards a smarter future: Providing data-driven predictive analysis for Smart Manufacturing**
 
-![](/images/Article%20Images/Entrepass%20Articles/planet07%20cover%20image.jpg)
+![](/images/article%20images/entrepass%20articles/planet07%20cover%20image.jpg)
 
 Real-time production data is changing the manufacturing sector rapidly and dramatically. With
 accelerated adoption of digital technologies, the manufacturing industry has changed significantly in
@@ -58,7 +58,7 @@ strategic location provides easy access to the region and its growing consumer m
 
 **3. What are the key factors to Planet07’s success so far?**
 
-![](/images/Article%20Images/Entrepass%20Articles/planet07%20astar_artc.jpeg)
+![](/images/article%20images/entrepass%20articles/planet07%20astar_artc.jpeg)
 <sup> Planet07's founder, Dr Guenther Hoffman, participated in the A*STAR Advanced Manufacturing Startup Challenge 2022 </sup>
 
 Key partnerships such as my collaboration with the Advanced Remanufacturing and Technology
@@ -91,7 +91,7 @@ be part of an ecosystem through taking part in events such as SLINGSHOT has open
 for us. I have established relations with multiple ecosystem partners such as ARTC, the German
 Accelerator, IoT Tribe, and British Standards Institute (BSI) through IMDA’s Innovation Platform.
 
-![](/images/Article%20Images/Entrepass%20Articles/planet07%20bsi-imda%20open%20innovation%20challenge%20award%202022.jpg)
+![](/images/article%20images/entrepass%20articles/planet07%20bsi-imda%20open%20innovation%20challenge%20award%202022.jpg)
 <sup> Planet07 emerged as a finalist at the BSI-IMDA Open Innovation Challenge Award 2022 with their LexaTexer enterprise AI solution. </sup>
 
 **5. What are Planet07's business plans for LexaTexer moving forward?**

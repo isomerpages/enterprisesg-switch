@@ -7,9 +7,9 @@ description: ""
 
 # **The SWITCH experience**
 The Singapore Week of Innovation and Technology (SWITCH) made it's return in 2022! The SWITCH Experience consists of two components a **Year-long Programme** of innovation-centric community events and opportunities that began in July 2022, and our signature **Flagship Event** that took place from **25-28 October 2022 at Resorts World Convention Centre, Singapore.**
-![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/2207%20Before%20Launch%20DONE_SWITCH%20COMPONENTS%20.png)
+![](/images/switch%202022%20landing%20page/yiran_2207%20before%20launch/2207%20before%20launch%20done_switch%20components%20.png)
 ## **Event Timeline** 
-![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/2207%20Before%20Launch%20DONE_TIMELINE%20.png)
+![](/images/switch%202022%20landing%20page/yiran_2207%20before%20launch/2207%20before%20launch%20done_timeline%20.png)
 
 **We invite YOU** to the SWITCH Experience to be part of a network of innovators, investors, entrepreneurs, leaders and collaborators! 
 

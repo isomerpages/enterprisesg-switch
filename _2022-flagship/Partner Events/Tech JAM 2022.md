@@ -4,7 +4,7 @@ permalink: /tech-jam-2022/
 description: ""
 third_nav_title: Partner Events
 ---
-![Tech Jam 2022 at SWITCH](/images/Tech%20Jam.png)
+![Tech Jam 2022 at SWITCH](/images/tech%20jam.png)
 # About
 Set to be the tech-career event of the year, Tech Jam has brought together tech talents and global tech firms to help kickstart your career in the space.
 

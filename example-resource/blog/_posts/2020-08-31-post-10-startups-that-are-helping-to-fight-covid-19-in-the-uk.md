@@ -1,7 +1,7 @@
 ---
 title: 10 Startups That Are Helping To Fight Covid-19 In The Uk
 date: 2020-08-31
-permalink: /blog/10-startups-fight-covid19-uk
+permalink: /blog/10-startups-fight-covid19-uk/
 ---
 In times of crises, innovation is crucial for enabling our public health systems, businesses, and societies to adapt to new realities. Thanks to the hard work of the startups rising up to the challenges of our times and pushing the boundaries of healthcare and technology, we are better able to cope with this global pandemic.
 
@@ -14,7 +14,7 @@ We have collaborated with our conference content partner, UK Department for Inte
 
 Qure.Ai, an Artificial Intelligence (AI) healthcare startup, applies deep learning technology to radiology exams for medical imaging professionals, generating automated interpretations of the scans. The result is faster diagnoses and speedier treatment times.
 
-![](/images/SWITCH_2020-QureAI.jpg)
+![](/images/switch_2020-qureai.jpg)
 
 Qure.Ai has tapped on their experience in tackling tuberculosis (TB) to develop qXR to fight COVID-19. With new enhancements, using a combination of the location, size and type of abnormalities observed by the algorithm, to their existing chest X-ray automation and interpretation solution, qXR can classify patients as High, Medium or Low risk for COVID-19. This enables healthcare workers to screen COVID-19 patients who require further testing, and to monitor patients’ progress. This can help prioritise who needs to be tested and who needs to self-isolate.
 
@@ -36,7 +36,7 @@ They have thousands of locum healthcare workers on their app, accessing function
 
 FarmaTrust is a UK-based Artificial Intelligence (AI) and blockchain company active in the medical supply chain industry since 2017. FarmaTrust combines its expertise in blockchain and AI to ensure the integrity of pharmaceutical supply chains during the COVID-19 pandemic.
 
-![](/images/SWITCH_2020-FarmaTrust.png)
+![](/images/switch_2020-farmatrust.png)
 
 During the pandemic, poor traceability and provenance, hoarding, and bad actors lead to manufacturing issues, supply distortions, trade restrictions and panic buying. FarmaTrust’s user-friendly solution will provide accurate real-time data, enabling demand planning and supply chain scenario simulations.
 
@@ -50,11 +50,11 @@ IamYIAM strongly believes prevention is better than cure, personalisation is bet
 
 This is where their AI virtual health companion, See Yourself Differently (SYD), comes in. The app analyses four key drivers—lifestyle choices, genetic makeup, social circumstances, and healthcare system to determine quality of life and performance.
 
-![](/images/SWITCH_2020-IAMYIAM.png)
+![](/images/switch_2020-iamyiam.png)
 
 Since health is even more crucial during the COVID-19 crisis in the UK, IamYIAM has extended free access to SYD to all working from home, patients, and emergency staff. The demand for SYD has increased during this period, with most users selecting the COVID-19-specific goal in the app, providing them with daily recommendations to keep physically and mentally fit while confined at home.
 
-![](/images/SWITCH_2020-IAMYIAM_2.png)
+![](/images/switch_2020-iamyiam_2.png)
 
 SYD provides a real-time anonymised population dashboard of integrated human health and predictive analytics for organisations to develop strategies to optimise quality of life for their employees, patients, clients, etc. The dashboards are tailored to meet the information needs of the organisation and provide data for wider population health management systems.
 
@@ -92,7 +92,7 @@ During the crisis, Huma’s solution allows hospitals to continuously monitor an
 
 AMPLYFI developed the [‘Coronavirus Gateway’](https://coronavirusgateway.com/corona/desktop/en/search.html), a public search engine connecting to leading information sites, to create a one-stop shop for the best available information on the pandemic. 
 
-![](/images/SWITCH_2020-Amplyfi.png)
+![](/images/switch_2020-amplyfi.png)
 
 Coronavirus Gateway connects to a wide variety of leading news, government, academic, and other renowned sources around the globe to provide the latest and most relevant information as possible.
 
@@ -110,7 +110,7 @@ Unmanned Life’s platform is a single management interface with a centralised c
 
 The central control platform, which eliminates the need for multiple operators, acts as the brain of all connected robots and allows them to work together to achieve specific goals as one autonomous robot team. This enables autonomous robot teams to assist governments, law enforcement agencies, and healthcare workers in the battlefields against COVID-19.
 
-![](/images/SWITCH_2020-Unmanned_Life.jpg)
+![](/images/switch_2020-unmanned_life.jpg)
 
 Unmanned Life’s solution offers assistance in enforcing lockdowns and social distancing, making public announcements, tracking people with fever, disinfecting indoor and outdoor spaces, and carrying out last-mile deliveries of food, medicine, and other goods to those in isolation. It also helps in the transportation of test samples from test centres to hospitals, and urgent medical supplies to test centres.
 

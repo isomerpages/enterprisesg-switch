@@ -4,7 +4,7 @@ permalink: /switch-global-2022/
 description: The Singapore Week of Innovation and Technology (SWITCH) brings
   together leaders, entrepreneurs, creators, accelerators and investors from the
   Global-Asia innovation ecosystem.
-image: /images/SWITCH Global 3.JPG
+image: /images/switch global 3.jpg
 third_nav_title: SWITCH Global
 ---
 #### Expansion Opportunities at SWITCH Global 
@@ -16,7 +16,7 @@ Speak to our global partners to learn more on how to expand into their various m
 #### SWITCH Global 2022 (25 – 27 Oct) 
 SWITCH Global 2022 focused on key industry and expansion opportunities across all 6 continents through curated Market Access sessions and Global Pavilions helmed by local experts in: 
 
-![Programme Higlights SWITCH 2022](/images/PROGRAMME%20HIGHLIGHTS%20(Beyond,%20Global,%20Grand%20Stage)%20(2).png)
+![Programme Higlights SWITCH 2022](/images/programme%20highlights%20(beyond,%20global,%20grand%20stage)%20(2).png)
 
 SWITCH Global connects you directly with our partners overseas for global expansion opportunities. Free consultations with in-market experts have expanded networks and contacts at the Global Pavilions.
 
@@ -26,9 +26,9 @@ SWITCH Global connects you directly with our partners overseas for global expans
 SWITCH Global has convened established leaders from innovation ecosystems, global trade agencies, multinational companies, and vanguard entrepreneurs and investors.
 
 #### Global Partners from SWITCH 2022
-![Global Partners SWITCH 2022](/images/Sponsors%20&%20Partners_Cards%20(20).png)
+![Global Partners SWITCH 2022](/images/sponsors%20&%20partners_cards%20(20).png)
 
 #### Speakers from SWITCH Global 2022
-![Global Speakers SWITCH 2022](/images/Global.png)
+![Global Speakers SWITCH 2022](/images/global.png)
 
 View the SWITCH 2022 Flagship videos-on-demand on the SWITCH Platform. Log in [here](https://community.switchsg.org/login) or register [here](https://community.switchsg.org/register).

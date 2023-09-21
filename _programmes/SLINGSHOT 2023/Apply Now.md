@@ -6,7 +6,7 @@ third_nav_title: SLINGSHOT 2023
 ---
 ### Asia's most exciting deep tech startup competition is back!
 
-![SLINGSHOT 2023 Call for Entries](/images/SLINGSHOT/SLINGSHOT%202023/slingshot2023_cta_fb%201200x630.jpg)
+![SLINGSHOT 2023 Call for Entries](/images/slingshot/slingshot%202023/slingshot2023_cta_fb%201200x630.jpg)
 
 **The call for entries was closed on 31 July 2023**
 
@@ -24,20 +24,20 @@ SLINGSHOT 2023's Top 50 Global Startups will win a sponsored trip to Singapore t
 
 ### 2023 Challenge Domains
 
-| ![SLINGSHOT Domain Transformative Digital Technology](/images/SLINGSHOT_Thumbnail_Domain_Transformative_Digital_Tech.jpg) | ![SLINGSHOT Domain Environment Energy and Green Technology](/images/SLINGSHOT_Thumbnail_Domain_Environment_Energy_Green_Tech.jpg) |
+| ![SLINGSHOT Domain Transformative Digital Technology](/images/slingshot_thumbnail_domain_transformative_digital_tech.jpg) | ![SLINGSHOT Domain Environment Energy and Green Technology](/images/slingshot_thumbnail_domain_environment_energy_green_tech.jpg) |
 | -------- | -------- |
-| ![SLINGSHOT Domain Consumer Media Goods and Services](/images/SLINGSHOT_Thumbnail_Domain_Consumer_Media_Goods_Services.jpg)     | ![SLINGSHOT Domain Health and Biomedical](/images/SLINGSHOT_Thumbnail_Domain_Health_Biomedical.jpg)     |
-| ![SLINGSHOT Domain Manufacturing Trade Connectivity](/images/SLINGSHOT_Thumbnail_Domain_Manufacturing_Trade_Connectivity.jpg)     |      |
+| ![SLINGSHOT Domain Consumer Media Goods and Services](/images/slingshot_thumbnail_domain_consumer_media_goods_services.jpg)     | ![SLINGSHOT Domain Health and Biomedical](/images/slingshot_thumbnail_domain_health_biomedical.jpg)     |
+| ![SLINGSHOT Domain Manufacturing Trade Connectivity](/images/slingshot_thumbnail_domain_manufacturing_trade_connectivity.jpg)     |      |
 
 #### About the SLINGSHOT Experience!
 
 ***
 
-| ![SLINGSHOT Pitch and Win](/images/SLINGSHOT_Icon_Pitch_and_Win.png) | **Pitch and win.** Present to a global audience at the Finals and win up to S$1.2 million (US$800,000) worth of grant prizes |
+| ![SLINGSHOT Pitch and Win](/images/slingshot_icon_pitch_and_win.png) | **Pitch and win.** Present to a global audience at the Finals and win up to S$1.2 million (US$800,000) worth of grant prizes |
 | -------- | -------- |
-| ![SLINGSHOT Network](/images/SLINGSHOT_Icon_Network.png)     | **Network.** Meet global leading investors, accelerators and corporates from regional demo days, deal-mixers, and qualifiers through to the finals     |
-| ![SLINGSHOT Immerse](/images/SLINGSHOT_Icon_Immerse.png)     | **Immerse.** Exclusive pitch-coaching, corporate site visits, lab crawls in the vibrant Singapore startup ecosystem    |
-| ![SLINGSHOT Collaborate](/images/SLINGSHOT_Icon_Collaborate.png)     | **Collaborate.** Ideate and co-innovate with MNCs and homegrown players to fast-track your ideas into the market     |
+| ![SLINGSHOT Network](/images/slingshot_icon_network.png)     | **Network.** Meet global leading investors, accelerators and corporates from regional demo days, deal-mixers, and qualifiers through to the finals     |
+| ![SLINGSHOT Immerse](/images/slingshot_icon_immerse.png)     | **Immerse.** Exclusive pitch-coaching, corporate site visits, lab crawls in the vibrant Singapore startup ecosystem    |
+| ![SLINGSHOT Collaborate](/images/slingshot_icon_collaborate.png)     | **Collaborate.** Ideate and co-innovate with MNCs and homegrown players to fast-track your ideas into the market     |
 
 ***
 

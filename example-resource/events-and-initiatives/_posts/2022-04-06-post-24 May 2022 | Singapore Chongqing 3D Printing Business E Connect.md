@@ -1,11 +1,11 @@
 ---
 title: 24 May 2022 | Singapore Chongqing 3D Printing Business E Connect
-permalink: /events/singapore-chongqing-3d-printing-business-econnect
+permalink: /events/singapore-chongqing-3d-printing-business-econnect/
 date: 2022-04-06
 layout: post
 description: ""
 ---
-![ASTAR Singapore-Chongqing 3D Printing Event Session ](/images/CHINA%20EVENT%20SESSSION%20BANNER.png)
+![ASTAR Singapore-Chongqing 3D Printing Event Session ](/images/china%20event%20sesssion%20banner.png)
 #### Event details
 
 

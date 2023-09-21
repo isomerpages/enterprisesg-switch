@@ -28,7 +28,7 @@ Attendees will gain insights to healthcare innovation in Asia, uncover solutions
 
 **Agenda: Day 1**
 
-![Agenda of SWITCH Beyond 2023 Day 1: Accessible Healthcare in Asia](/images/2023/Agendas/infographic_switch2023_beyond_agenda_day_1_1200p_v1.png)
+![Agenda of SWITCH Beyond 2023 Day 1: Accessible Healthcare in Asia](/images/2023/agendas/infographic_switch2023_beyond_agenda_day_1_1200p_v1.png)
 
 <sup>**Agenda is subject to change.*</sup>
 
@@ -48,7 +48,7 @@ To steer conversations and spearhead cross-sector collaborations in the Green Tr
 
 **Agenda: Day 2**
 
-![Agenda for SWITCH Beyond Day 2: The Green Transition and Net Zero in Asia.](/images/2023/Agendas/infographic_switch2023_beyond_agenda_day_2_1200p_v1.png)
+![Agenda for SWITCH Beyond Day 2: The Green Transition and Net Zero in Asia.](/images/2023/agendas/infographic_switch2023_beyond_agenda_day_2_1200p_v1.png)
 
 <sup>**Agenda is subject to change.*</sup>
 

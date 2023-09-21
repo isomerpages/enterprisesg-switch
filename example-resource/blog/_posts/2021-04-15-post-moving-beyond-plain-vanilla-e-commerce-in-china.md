@@ -1,7 +1,7 @@
 ---
 title: Moving beyond plain vanilla e-commerce in China
 date: 2021-04-15
-permalink: /blog/moving-beyond-plain-vanilla-ecommerce-china
+permalink: /blog/moving-beyond-plain-vanilla-ecommerce-china/
 ---
 _This article was [first published](https://www.enterprisesg.gov.sg/blog/moving-beyond-plain-vanilla-e-commerce-in-china) on Enterprise Singapore on 15 April 2021_
 
@@ -17,7 +17,7 @@ What’s interesting is that the shift caused by the pandemic isn’t purely onl
 
 Nowhere is this more evident than in China, the world’s top e-commerce market. In 2019, e-commerce sales in China topped US$1.9 trillion (~S$2.5 trillion), more than three times that of the US, which was at second place with US$586.9 billion (~S$774.6 billion).<sup>1</sup>
 
-![](/images/SWITCH-beyond_plain_vanilla_ecommerce_01.jpg)
+![](/images/switch-beyond_plain_vanilla_ecommerce_01.jpg)
 
 ### Data is king, distribution is queen
 
@@ -33,7 +33,7 @@ While China is the world’s largest e-commerce market, it’s also forecast to 
 
 They can be set up in as quickly as eight hours and integrated with the Internet of Things (IoT) hardware to help retailers capture data about their customers, track footfall, change pricing strategy on the fly with digital price tags, as well as engage customers with livestream content while they are browsing.
 
-![](/images/SWITCH-beyond_plain_vanilla_ecommerce_02.jpg)
+![](/images/switch-beyond_plain_vanilla_ecommerce_02.jpg)
 
 Ms Teo noted that when brands opt for an omnichannel strategy, they are not simply tapping technology to enhance customer experience. Rather, technology is also integral in helping businesses make strategic commercial decisions based on data collected on their customers.
 

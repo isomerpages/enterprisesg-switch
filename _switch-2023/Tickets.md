@@ -14,6 +14,6 @@ For the latest discussions and insights on innovation and frontier technology tr
 
 Learn more at the table below:
 
-![Price table for SWITCH 2023](/images/2023/Infographics/infographic_switch2023_tickets_earlybird_1200p_v3.png)
+![Price table for SWITCH 2023](/images/2023/infographics/infographic_switch2023_tickets_earlybird_1200p_v3.png)
 
 ### [➞ Get your tickets here!](https://2023.switchsg.org/qA08l?RefId=Isomer)

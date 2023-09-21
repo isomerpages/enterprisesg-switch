@@ -1,7 +1,7 @@
 ---
 title: Q and A With Timothy Draper Founding Partner Of Draper Associates
 date: 2020-12-10
-permalink: /blog/switch-2020-timothy-draper-associates
+permalink: /blog/switch-2020-timothy-draper-associates/
 ---
 
 
@@ -9,7 +9,7 @@ As a renowned global venture capital investor and founder of Draper Associates, 
 
 At the Singapore Week of Innovation and TeCHnology (SWITCH) 2020, we are honoured to have Tim Draper on board where he shared his vision on the future of innovation and what he looks for in aspiring entrepreneurs.
 
-![](/images/SWITCH_2020-Tim_Draper_QnA.PNG)
+![](/images/switch_2020-tim_draper_qna.png)
 
 A strong advocator of globalisation, Tim Draper believed that entrepreneurs should do more than just making money—they should be driving fundamental changes to solve the world’s problems with simple and unique solutions.
 

@@ -1,10 +1,10 @@
 ---
 title: MENA Singapore DEAL DAY
-permalink: /mena-singapore-deal-day-2021
+permalink: /mena-singapore-deal-day-2021/
 third_nav_title: Day 4 Partner Events (Global)
 ---
 
-![SWITCH 2021 MENA Deal Day](/images/SWITCH_2021_Day_4_MENA_Deal_Day.png)
+![SWITCH 2021 MENA Deal Day](/images/switch_2021_day_4_mena_deal_day.png)
 
 ##### Event Details
 

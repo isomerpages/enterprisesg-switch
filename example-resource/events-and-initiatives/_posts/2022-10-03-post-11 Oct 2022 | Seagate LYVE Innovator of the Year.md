@@ -4,9 +4,9 @@ permalink: /events/seagate-lyve-innovator-of-the-year/
 date: 2022-10-03
 layout: post
 description: ""
-image: /images/Seagate LYVE_Event.png
+image: /images/seagate lyve_event.png
 ---
-![Seagate LYVE Innovator of the Year 2022](/images/Seagate%20LYVE_Event.png)
+![Seagate LYVE Innovator of the Year 2022](/images/seagate%20lyve_event.png)
 
 #### Event details
 

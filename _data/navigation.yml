@@ -1,4 +1,4 @@
-logo: /images/Logos/switch2023_logo_fa_full_colour.png
+logo: /images/logos/switch2023_logo_fa_full_colour.png
 links:
   - title: ABOUT
     url: /about
@@ -20,8 +20,6 @@ links:
         url: /2023/programmes/slingshot/apply/
       - title: SWITCH @ one-north
         url: /2023/programmes/at-one-north/
-      - title: Lab Crawls
-        url: /2023/programmes/lab-crawls/
       - title: Year Long Innovation
         url: /2023/programmes/year-long/
   - title: RESOURCES

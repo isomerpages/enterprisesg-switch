@@ -1,11 +1,11 @@
 ---
 title: "SWITCH x AIII: China Singapore Technovation Ecosystem Summit"
-permalink: /switch-aiii-technovation-ecosystem-summit
+permalink: /switch-aiii-technovation-ecosystem-summit/
 description: ""
 third_nav_title: Day 4 Partner Events (Beyond)
 ---
 
-![Alt text for image on Isomer site](/images/SWITCH_AIII_Technovation_Forum.png)
+![Alt text for image on Isomer site](/images/switch_aiii_technovation_forum.png)
 
 ##### Event Details
 

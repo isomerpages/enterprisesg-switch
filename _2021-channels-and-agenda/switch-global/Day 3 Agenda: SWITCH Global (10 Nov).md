@@ -1,6 +1,6 @@
 ---
 title: "Day 3 Agenda: SWITCH Global (10 Nov)"
-permalink: /channels/switch-global-2021/agenda-day-3
+permalink: /channels/switch-global-2021/agenda-day-3/
 third_nav_title: Switch Global
 ---
 #### SWITCH Global: Day 3
@@ -9,7 +9,7 @@ Explore opportunities in over 40 markets with international business experts at 
 
 ##### SWITCH Global Agenda - Day 3 // 10 Nov 2021
 
-[![SWITCH 2021 Show Directory](/images/Platform_Banner_SWITCH_2021_Show_Directory_var_2.png)](https://directory.switchsg.org)
+[![SWITCH 2021 Show Directory](/images/platform_banner_switch_2021_show_directory_var_2.png)](https://directory.switchsg.org)
 
 <sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
 
@@ -38,4 +38,4 @@ Explore opportunities in over 40 markets with international business experts at 
 
 #### Highlight Speakers
 
-![SWITCH Global Speakers](/images/SWITCH_2021_Speakers_Global_Day3_Highlights_v1.png)
+![SWITCH Global Speakers](/images/switch_2021_speakers_global_day3_highlights_v1.png)

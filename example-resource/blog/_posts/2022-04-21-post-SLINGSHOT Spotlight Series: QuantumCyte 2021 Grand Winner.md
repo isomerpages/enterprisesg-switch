@@ -1,6 +1,6 @@
 ---
 title: "SLINGSHOT Spotlight Series: QuantumCyte 2021 Grand Winner"
-permalink: /blog/slingshot-spotlight-series-quantumcyte
+permalink: /blog/slingshot-spotlight-series-quantumcyte/
 date: 2022-04-21
 layout: post
 description: Learn more about the innovation of SLINGSHOT 2021 Grand Winner,
@@ -10,7 +10,7 @@ image: /images/Article Images/Article
 ---
 *The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the SLINGSHOT alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2022, please [click here](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022).*
 
-![SLINGSHOT 2021 Grand Winner QuantumCyte](/images/Article%20Images/Article%20QuantumCyte/SLINGSHOT_QuantumCyte_2022_Grand_Prize_Winner.png)
+![SLINGSHOT 2021 Grand Winner QuantumCyte](/images/article%20images/article%20quantumcyte/slingshot_quantumcyte_2022_grand_prize_winner.png)
 <sub>QuantumCyte being crowned Grand Winner at SLINGSHOT 2021. Image courtesy of SLINGSHOT</sub>
 
 Can we do more to help cancer patients who suffer from lack of treatment due to non-conclusive diagnosis with non-diagnosable biopsies? 
@@ -19,7 +19,7 @@ This question was the starting point for biotech company QuantumCyte, which was 
  
 Their solution uses an AI-machine learning platform that integrates digital pathology with precise extraction of molecular data. This first-to-market platform harnesses the power of AI for digital pathology to deliver precise & pure cellular data.
 
-![SLINGSHOT QuantumCyte Bidhan Platform Box](/images/Article%20Images/Article%20QuantumCyte/SLINGSHOT_QuantumCyte_Bidhan_Platform_Box.jpg)
+![SLINGSHOT QuantumCyte Bidhan Platform Box](/images/article%20images/article%20quantumcyte/slingshot_quantumcyte_bidhan_platform_box.jpg)
 <sub>The QuantumCyte Platform Box. Image courtesy of QuantumCyte</sub>
 
 Designed to be highly scalable and cost-effective, the QuantumCyte platform annotates, enriches and extracts molecular material directly from targeted cancer cells, delivering genomic data that leads to actionable insights for both clinicians and researchers needing complete molecular data to advance patient care.
@@ -36,7 +36,7 @@ We were impressed by the team and the “machinery” behind the entire event as
  
 After winning SLINGSHOT, we were able to forge meaningful connections with members of the jury such as Nick Nash from Asia Partners and Paul Santos from Wavemaker Partners; they shared more insights and mentored us further on our pitch. We were also approached by other companies and wealth offices when they read about our win at SLINGSHOT. These companies include Qritive and the Melaxmi Group, a private wealth fund with a strong network into healthcare in India. 
 
-![SLINGSHOT QuantumCyte Audience](/images/Article%20Images/Article%20QuantumCyte/SLINGSHOT_QuantumCyte_Audience.jpg)
+![SLINGSHOT QuantumCyte Audience](/images/article%20images/article%20quantumcyte/slingshot_quantumcyte_audience.jpg)
 <sub>Pitching at SLINGSHOT 2021. Image courtesy of SLINGSHOT</sub>
 
 ##### **Q: What are your key takeaways from SLINGSHOT 2021?**
@@ -63,7 +63,7 @@ Our partnership with SGH has since translated into clinical trials for colon and
  
 Beyond the clinical market, we are actively looking to establish strategic partnerships with the region’s leading commercial and public research institutions. To add to that, we are now working with one of the world’s top 3 hospitals based in the US where we combine AI-integrated digital pathology algorithms with tissue dissection. This allows us to be able to analyse all patient tissue samples.
 
-![SLINGSHOT QuantumCyte Team Picture](/images/Article%20Images/Article%20QuantumCyte/SLINGSHOT_QuantumCyte_Team_Picture.jpg)
+![SLINGSHOT QuantumCyte Team Picture](/images/article%20images/article%20quantumcyte/slingshot_quantumcyte_team_picture.jpg)
 <sub>The QuantumCyte team. Image courtesy of QuantumCyte</sub>
  
 ##### **Q: Moving forward, what can we look forward to from QuantumCyte in the next two to five years?**

@@ -1,10 +1,10 @@
 ---
 title: GSBF Connect x SWITCH 2021
-permalink: /gsbf-2021
+permalink: /gsbf-2021/
 third_nav_title: Day 4 Partner Events (Global)
 ---
 
-![GSBF Connect x SWITCH 2021](/images/SWITCH_GSBF_Connect_Plenary.png)
+![GSBF Connect x SWITCH 2021](/images/switch_gsbf_connect_plenary.png)
 
 ##### Event Details
 
@@ -22,6 +22,6 @@ Both our German and Singaporean business communities have readily embraced techn
 
 ##### Breakout Sessions
 
-![GSBF Connect x SWITCH 2021](/images/SWITCH_GSBF_Connect_1.png)
+![GSBF Connect x SWITCH 2021](/images/switch_gsbf_connect_1.png)
 
-![GSBF Connect x SWITCH 2021](/images/SWITCH_GSBF_Connect_2.png)
+![GSBF Connect x SWITCH 2021](/images/switch_gsbf_connect_2.png)

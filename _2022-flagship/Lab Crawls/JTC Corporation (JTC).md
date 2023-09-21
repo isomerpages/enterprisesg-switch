@@ -20,7 +20,7 @@ Join JTC for a specially curated tour in JTC's one-north and Jurong Innovation D
 
 Audacity is a movement to catalyse a humanity-centric future supported by innovative technologies. We orchestrate amidst chaos and seek aufheben moments with our philosophy of Unlearning conventions, Unlocking innovation and Unleashing transformation.
 
-![Audacity Lab Crawl SWITCH 2022](/images/Audacity-Permacolony.jpeg)
+![Audacity Lab Crawl SWITCH 2022](/images/audacity-permacolony.jpeg)
 *Photo Courtesy of Audacity World*
 
 Audacity welcomes innovators who can look beyond the current technology paradigm and test hypotheses across our agenda focus areas. With inclusivity as a core value, our initiatives are guided by a values-based culture to solve issues in communities, food, energy, work, education, healthcare and urbanisation.
@@ -57,7 +57,7 @@ ARTC’s expertise in advanced manufacturing and remanufacturing accelerates the
 
 Guided by the Grab Way, our mission is to drive Southeast Asia forward by creating economic empowerment for everyone.
 
-![Grab Lab Crawl SWITCH 2022](/images/Grab-HQ_1.jpg)
+![Grab Lab Crawl SWITCH 2022](/images/grab-hq_1.jpg)
 *Photo Courtesy of Grab*
 
 [For more information on Grab](https://www.grab.com/sg/)

@@ -1,6 +1,6 @@
 ---
 title: "Day 2 Agenda: SWITCH Beyond (9 Nov)"
-permalink: /channels/switch-beyond/agenda-day-2
+permalink: /channels/switch-beyond/agenda-day-2/
 third_nav_title: Switch Beyond
 ---
 ### Impacting Lives
@@ -11,7 +11,7 @@ How can technology revolutionise our existing systems and progress society? Dive
 
 ##### SWITCH Beyond Agenda - Day 2 // 9 Nov 2021
 
-[![SWITCH 2021 Show Directory](/images/Platform_Banner_SWITCH_2021_Show_Directory_var_2.png)](https://directory.switchsg.org)
+[![SWITCH 2021 Show Directory](/images/platform_banner_switch_2021_show_directory_var_2.png)](https://directory.switchsg.org)
 
 <sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
 
@@ -46,4 +46,4 @@ How can technology revolutionise our existing systems and progress society? Dive
 
 ##### Highlight Speakers
 
-![SWITCH 2021 Speakers](/images/SWITCH_2021_Speakers_Beyond_Day2_Highlights_v4.png)
+![SWITCH 2021 Speakers](/images/switch_2021_speakers_beyond_day2_highlights_v4.png)

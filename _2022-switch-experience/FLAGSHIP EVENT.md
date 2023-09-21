@@ -7,18 +7,18 @@ description: ""
 # **At a glance**
 The Flagship Event, held in Singapore on the **25-28 October at Resorts World Convention Centre**, featured three tracks that have been carefully curated to showcase exciting frontier technologies and opportunities for collaboration. More information is provided below:
 
-![SWITCH 2022 at a glance](/images/At%20A%20Glance%202022.png)
+![SWITCH 2022 at a glance](/images/at%20a%20glance%202022.png)
 
-![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/2207%20Before%20launch%20Pillars%20Final%20VER.png)
+![](/images/switch%202022%20landing%20page/yiran_2207%20before%20launch/2207%20before%20launch%20pillars%20final%20ver.png)
 
 ## **SWITCH Beyond Innovation Conference**
 
 SWITCH Beyond spanned across the first three days of the Flagship Event and these are the industry focuses for each day. Industry leaders have shared about their field of work. Find out what you can stand to benefit from their innovations and findings through the videos-on-demand.
-![](/images/SWITCH%202022%20Landing%20Page/Yiran_2207%20Before%20Launch/2207%20Before%20Launch%20Beyond%20Topics%20FINAL%20VER.png)
+![](/images/switch%202022%20landing%20page/yiran_2207%20before%20launch/2207%20before%20launch%20beyond%20topics%20final%20ver.png)
 
 ## **SWITCH Global Market Access Conference & Trade Floor**
 
-![SWITCH Global](/images/SWITCH%20Global%203.JPG)
+![SWITCH Global](/images/switch%20global%203.jpg)
 
 SWITCH Global introduced global expansion opportunities during the Flagship Event. At the Market Access Sessions and Global Pavilions, in-market experts from across six continents shared region cultures and expansion tactics. Find out global expansion tactics through the videos-on-demand.
 

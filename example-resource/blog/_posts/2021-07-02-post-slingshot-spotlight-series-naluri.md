@@ -1,7 +1,7 @@
 ---
 title: "SLINGSHOT Spotlight Series: Naluri"
 date: 2021-07-02
-permalink: /blog/slingshot-spotlight-series-naluri
+permalink: /blog/slingshot-spotlight-series-naluri/
 layout: post
 ---
 *The SLINGSHOT Startup Spotlight series is a collection of stories featuring SLINGSHOT alumni who continue to blaze the trail post-SLINGSHOT. In each instalment, the founders and teams from the alumni share their experience in building and growing their companies. To apply for SLINGSHOT 2021, please [click here.](https://slingshot.agorize.com/2022-edition?t=SChLjY1dWUEJ5fLsq5wh9g&utm_source=switch&utm_medium=external&utm_campaign=slingshot2022)*
@@ -18,7 +18,7 @@ Earlier this year, despite the challenge to fundraise during the pandemic, Nalur
 
 We caught up with Naluri in a recent interview where we asked them about their exciting journey since SLINGSHOT 2020…
 
- ![Naluri Cofounders](/images/SLINGSHOT_Naluri_Cofounders_web.jpg)
+ ![Naluri Cofounders](/images/slingshot_naluri_cofounders_web.jpg)
 <sub>(Caption: Naluri Co-founders Azran Osman-Rani and Dr Jeremy Ting. *Image courtesy of Naluri.*)</sub>
 
 **Q:  What were some of the challenges your startups faced over this arduous time since the pandemic and how has the startup ecosystem support your endeavors to overcome obstacles?**

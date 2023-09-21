@@ -5,7 +5,7 @@ description: Have the world’s opportunities right at your fingertips. SWITCH
   Global congregates business and market leaders to champion conversation on
   emerging growth opportunities across different regions, business strategies
   and expansion approaches.
-image: /images/Booths.jpg
+image: /images/booths.jpg
 third_nav_title: SWITCH Global
 ---
 ## SWITCH Global Agenda

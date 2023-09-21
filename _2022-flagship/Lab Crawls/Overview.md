@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /flagship/Lab-Crawls/overview-lab-crawl/
+permalink: /flagship/lab-crawls/overview-lab-crawl/
 description: Lab Crawl SWITCH 2022
 third_nav_title: Lab Crawls
 ---
@@ -13,11 +13,11 @@ Find out more about these Lab Crawls below!
 
 ### Schedule (12–3pm)
 *The grey slots indicate an on-going Lab Crawl*
-![Lab Crawl SWITCH 2022](/images/SWITCH%202022%20At%20a%20Glance%20v3.png)
+![Lab Crawl SWITCH 2022](/images/switch%202022%20at%20a%20glance%20v3.png)
 
 ### Schedule (3–6pm)
 *The grey slots indicate an on-going Lab Crawl*
-![Lab Crawl SWITCH 2022](/images/SWITCH%202022%20At%20a%20Glancev31.png)
+![Lab Crawl SWITCH 2022](/images/switch%202022%20at%20a%20glancev31.png)
 
 ##### Register your interest for these Lab Crawls at their respective pages here: 
 

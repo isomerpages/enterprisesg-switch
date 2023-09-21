@@ -1,16 +1,16 @@
 ---
 title: 21 Apr 2022 | Why India is becoming a magnet for ambitious Singaporean
   and SEA companies
-permalink: /events/india-for-sg-sea-companies
+permalink: /events/india-for-sg-sea-companies/
 date: 2022-04-03
 layout: post
 description: Interested to expand your business overseas and considering India
   as your destination? Learn from industry practitioners in this session on why
   India is an ideal location to expand your business to or build a global
   workforce in!
-image: /images/20220421_Session_Banner-SKUAD_Webinar.png
+image: /images/20220421_session_banner-skuad_webinar.png
 ---
-![Skuad's event: India becoming a magnet for ambitious Singaporean and South East Asian companies.](/images/Skuad%20(new)%20PSB_2%20(3).png)
+![Skuad's event: India becoming a magnet for ambitious Singaporean and South East Asian companies.](/images/skuad%20(new)%20psb_2%20(3).png)
 #### Event details
 
 

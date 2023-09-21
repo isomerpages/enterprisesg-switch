@@ -1,6 +1,6 @@
 ---
 title: "Day 2 Agenda: SWITCH Global (9 Nov)"
-permalink: /channels/switch-global-2021/agenda-day-2
+permalink: /channels/switch-global-2021/agenda-day-2/
 third_nav_title: Switch Global
 ---
 #### SWITCH Global: Day 2
@@ -9,7 +9,7 @@ Explore opportunities in over 40 markets with international business experts at 
 
 ##### SWITCH Global Agenda - Day 2 // 9 Nov 2021
 
-[![SWITCH 2021 Show Directory](/images/Platform_Banner_SWITCH_2021_Show_Directory_var_2.png)](https://directory.switchsg.org)
+[![SWITCH 2021 Show Directory](/images/platform_banner_switch_2021_show_directory_var_2.png)](https://directory.switchsg.org)
 
 <sub>**Note: All timings are in SGT/UTC +8. Agenda and timings are subject to change**</sub>
 
@@ -37,4 +37,4 @@ Explore opportunities in over 40 markets with international business experts at 
 
 #### Highlight Speakers
 
-![Alt text for image on Isomer site](/images/SWITCH_2021_Speakers_Global_Day2_Highlights_v3.png)
+![Alt text for image on Isomer site](/images/switch_2021_speakers_global_day2_highlights_v3.png)

@@ -4,9 +4,9 @@ permalink: /events/china-singapore-ai-ecosystem-collab-forum/
 date: 2022-08-31
 layout: post
 description: ""
-image: /images/WAIC China-Singapore AI Ecosystem Collaboration Forum (800x368) (1).png
+image: /images/waic china-singapore ai ecosystem collaboration forum (800x368) (1).png
 ---
-![](/images/WAIC%20China-Singapore%20AI%20Ecosystem%20Collaboration%20Forum%20(800x368)%20(1).png)
+![](/images/waic%20china-singapore%20ai%20ecosystem%20collaboration%20forum%20(800x368)%20(1).png)
 
 #### Event details
 
