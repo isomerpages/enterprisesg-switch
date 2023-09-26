@@ -2,7 +2,7 @@
 title: Innovation and Lab Tours
 permalink: /2023/programmes/innovation-lab-tours/
 description: ""
-third_nav_title: SWITCH @ one North
+third_nav_title: SWITCH @ one north
 ---
 ## Where innovation happens
 
@@ -10,7 +10,7 @@ third_nav_title: SWITCH @ one North
 
 SWITCH’s Signature Lab Crawls will be returning this October 2023 and will be curated alongside [SWITCH @ one-north!](/2023/programmes/at-one-north/)
 
-JTC's one-north has played an integral role at the centre of Singapore’s innovation and startup ecosystem. The R&D hub is home to growth sectors including biomedical sciences, infocomm technology and media, as well as startups, with over 400 leading companies, 700 startups and 50,000 knowledge workers.
+JTC's [one-north](https://www.jtc.gov.sg/find-land/land-for-long-term-development/one-north?utm_source=switchsg&utm_medium=website&utm_id=switch+on) has played an integral role at the centre of Singapore’s innovation and startup ecosystem. The R&D hub is home to growth sectors including biomedical sciences, infocomm technology and media, as well as startups, with over 400 leading companies, 700 startups and 50,000 knowledge workers.
 
 Experience Singapore Innovation Infrastructure through our curated tours of innovation labs across Singapore. These tours will showcase various technologies and developments across different industries
 
