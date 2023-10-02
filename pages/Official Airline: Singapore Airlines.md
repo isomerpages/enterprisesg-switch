@@ -8,6 +8,8 @@ description: Singapore Airlines is the Official Airline for SWITCH 2023 and
 ---
 **Singapore Airlines** is the Official Airline for SWITCH 2023 and **discounts of up to 12%** are offered on certain booking classes. This special offer will only be available for Trade Visitors, Beyond Conference Pass Holders, and registered attendees of SWITCH 2023 Partner Events.
 
+[](/files/2023/switch_2023_official_airline_promotion.pdf)Download the instructions here.
+
 #### Promotion Details
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
