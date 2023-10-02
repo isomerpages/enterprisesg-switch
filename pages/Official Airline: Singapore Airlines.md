@@ -80,9 +80,15 @@ description: Singapore Airlines is the Official Airline for SWITCH 2023 and
 
 Please visit Singapore Airlines booking page [here](https://www.singaporeair.com/en_UK/promocode/) and enter the promo code from your confirmation email in the empty field below.
 
+![SWITCH 2023 Official Airline Promotion: Singapore Airlines (SQ)](/images/2023/promotion_sq_promo_guide_1.png)
+
 After you have keyed in the promo code, you should be able to see the page below:
 
+![SWITCH 2023 Official Airline Promotion: Singapore Airlines (SQ)](/images/2023/promotion_sq_promo_guide_2.png)
+
 Search for your flight and proceed to complete your booking with the accompanying instructions on the website.
+
+![SWITCH 2023 Official Airline Promotion: Singapore Airlines (SQ)](/images/2023/promotion_sq_promo_guide_3.png)
 
 **Note:**
 * This promotional fare is only offered on www.singaporeair.com and may not be available anymore in case you choose to make flight changes. In some cases, you may be required to pay an additional fare for newly selected flights.
