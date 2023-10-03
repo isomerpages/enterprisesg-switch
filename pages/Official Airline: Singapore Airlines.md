@@ -12,71 +12,88 @@ description: Singapore Airlines is the Official Airline for SWITCH 2023 and
 
 #### Promotion Details
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="198" valign="top" style="width:148.35pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><b><span lang="EN-US">Outbound Travel Period</span></b></p></td><td width="426" valign="top" style="width:319.15pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><span lang="EN-US">17 October 2023 – 21 November 2023</span></p></td></tr><tr style="mso-yfti-irow:1"><td width="198" valign="top" style="width:148.35pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><b><span lang="EN-US" style="color:black;mso-color-alt:windowtext">Travel Completion Date</span><span lang="EN-US"></span></b></p></td><td width="426" valign="top" style="width:319.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><span lang="EN-US" style="color:black;mso-color-alt:windowtext">16 November 2023</span><span lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="198" valign="top" style="width:148.35pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><b><span lang="EN-US" style="color:black;mso-color-alt:windowtext">Booking Deadline</span><span lang="EN-US"></span></b></p></td><td width="426" valign="top" style="width:319.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><span lang="EN-US" style="color:black;mso-color-alt:windowtext">31 October 2023</span><span lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:3"><td width="198" valign="top" style="width:148.35pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><b><span lang="EN-US" style="color:black;mso-color-alt:windowtext">Minimum Passenger</span><span lang="EN-US"></span></b></p></td><td width="426" valign="top" style="width:319.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><span lang="EN-US" style="color:black;mso-color-alt:windowtext">One Pax</span><span lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:4"><td width="198" valign="top" style="width:148.35pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><b><span lang="EN-US" style="color:black;mso-color-alt:windowtext">Cabin Classes</span><span lang="EN-US"></span></b></p></td><td width="426" valign="top" style="width:319.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><span lang="EN-US" style="color:black;mso-color-alt:windowtext">Economy, Premium Economy, Business</span><span lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:5"><td width="198" valign="top" style="width:148.35pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><b><span lang="EN-US" style="color:black;mso-color-alt:windowtext">Trip Type</span><span lang="EN-US"></span></b></p></td><td width="426" valign="top" style="width:319.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><span lang="EN-US" style="color:black;mso-color-alt:windowtext">Return</span><span lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:6"><td width="198" rowspan="4" valign="top" style="width:148.35pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:150%"><b><span lang="EN-US" style="color:black;mso-color-alt:windowtext">Departing From (City)</span><span lang="EN-US"></span></b></p></td><td width="426" valign="top" style="width:319.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><b><span lang="EN-US" style="color:black;
-  mso-color-alt:windowtext">A-E:</span></b><span lang="EN-US" style="color:black;
-  mso-color-alt:windowtext"> Ahmedabad, Amsterdam, Bangalore, Bangkok, Barcelona, Beijing, Bengaluru, Chengdu, Chennai, Chongqing, Delhi, Denpasar (Bali), Dubai</span><span lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:7"><td width="426" valign="top" style="width:319.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><b><span lang="EN-US" style="color:black;
-  mso-color-alt:windowtext">F-L:</span></b><span lang="EN-US" style="color:black;
-  mso-color-alt:windowtext"> Frankfurt, Fukuoka, Guangzhou, Houston, Hyderabad, Jakarta, Kochi, Kolkata, Kuala Lumpur, London, Los Angeles</span><span lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:8"><td width="426" valign="top" style="width:319.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><b><span lang="EN-US" style="color:black;
-  mso-color-alt:windowtext">M-R:</span></b><span lang="EN-US" style="color:black;
-  mso-color-alt:windowtext"> Manchester, Medan, Mumbai, Munich, Nagoya, Newark, New York City, Osaka, Paris, Penang, Phuket, Rome</span><span lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes"><td width="426" valign="top" style="width:319.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><b><span lang="EN-US" style="color:black;
-  mso-color-alt:windowtext">S-Z:</span></b><span lang="EN-US" style="color:black;
-  mso-color-alt:windowtext"> San Francisco, Seattle, Seoul (Incheon), Shanghai, Shenzhen, Surabaya, Taipei, Tokyo (Haneda, Narita), Vancouver, Xiamen</span><span lang="EN-US"></span></p></td></tr></tbody></table>
+<div style="margin-left:0pt;" id="docs-internal-guid-ff1f5315-7fff-f027-22fd-d084ec506009" dir="ltr" align="center">
+<table style="border:none;border-collapse:collapse;">
+	<colgroup>
+		<col width="240">
+		<col width="441">
+	</colgroup>
+	<tbody>
+		<tr style="height:36pt">
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><strong style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:700; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">Outbound Travel Period</strong></p>
+			</td>
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:400; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">17 Oct 2023–21 Nov 2023</span></p>
+			</td>
+		</tr>
+		<tr style="height:36pt">
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><strong style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:700; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">Travel Completion Date</strong></p>
+			</td>
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:400; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">16 Nov 2023</span></p>
+			</td>
+		</tr>
+		<tr style="height:36pt">
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><strong style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:700; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">Booking Deadline</strong></p>
+			</td>
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:400; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">31 Oct 2023</span></p>
+			</td>
+		</tr>
+		<tr style="height:36pt">
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><strong style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:700; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">Minimum Passenger</strong></p>
+			</td>
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:400; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">One Pax</span></p>
+			</td>
+		</tr>
+		<tr style="height:36pt">
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><strong style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:700; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">Cabin Classes</strong></p>
+			</td>
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:400; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">Economy, Premium Economy, Business</span></p>
+			</td>
+		</tr>
+		<tr style="height:36pt">
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><strong style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:700; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">Trip Type</strong></p>
+			</td>
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:400; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">Return</span></p>
+			</td>
+		</tr>
+		<tr style="height:50.4pt">
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;" rowspan="4">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><strong style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:700; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">Departing From (City)</strong></p>
+			</td>
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><strong style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:700; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">A-E:</strong><span style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:400; text-decoration:none; vertical-align:baseline; white-space:pre-wrap"> Ahmedabad, Amsterdam, Bangalore, Bangkok, Barcelona, Beijing, Bengaluru, Chengdu, Chennai, Chongqing, Delhi, Denpasar (Bali), Dubai</span></p>
+			</td>
+		</tr>
+		<tr style="height:50.4pt">
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><strong style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:700; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">F-L:</strong><span style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:400; text-decoration:none; vertical-align:baseline; white-space:pre-wrap"> Frankfurt, Fukuoka, Guangzhou, Houston, Hyderabad, Jakarta, Kochi, Kolkata, Kuala Lumpur, London, Los Angeles</span></p>
+			</td>
+		</tr>
+		<tr style="height:50.4pt">
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><strong style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:700; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">M-R:</strong><span style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:400; text-decoration:none; vertical-align:baseline; white-space:pre-wrap"> Manchester, Medan, Mumbai, Munich, Nagoya, Newark, New York City, Osaka, Paris, Penang, Phuket, Rome</span></p>
+			</td>
+		</tr>
+		<tr style="height:50.4pt">
+			<td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+			<p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><strong style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:700; text-decoration:none; vertical-align:baseline; white-space:pre-wrap">S-Z:</strong><span style="background-color:transparent; color:#000000; font-family:arial,sans-serif; font-size:11pt; font-style:normal; font-variant:normal; font-weight:400; text-decoration:none; vertical-align:baseline; white-space:pre-wrap"> San Francisco, Seattle, Seoul (Incheon), Shanghai, Shenzhen, Surabaya, Taipei, Tokyo (Haneda, Narita), Vancouver, Xiamen</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
 	
 #### 	 How to make your booking with the Official Airline Promo Code
 
