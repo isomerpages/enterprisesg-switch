@@ -14,6 +14,8 @@ Join our exciting line up of featured speakers across 3 of our industry stages a
 
 Access the SWITCH Global Stage and SLINGSHOT Stage with a Free SWITCH Trade Pass, or be part of SWITCH Beyond Conference Series with a SWITCH Beyond Conference Pass.
 
+#### [➞ Get your tickets here!](/register)
+
 #### Your speakers at SWITCH 2023
 
 ![2023 SWITCH Highlight Speakers](/images/2023/Speakers/2023_switch_highlight%20speakers_all%20stages_v1_1200p.png)
