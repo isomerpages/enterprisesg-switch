@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - The SWITCH Experience.md
-      - Flagship/Speakers.md
       - Flagship/.keep
       - Flagship/At a Glance.md
+      - Flagship/Speakers.md
       - Flagship/SWITCH BEYOND.md
       - Flagship/SWITCH GLOBAL.md
       - Flagship/SLINGSHOT 2023.md
