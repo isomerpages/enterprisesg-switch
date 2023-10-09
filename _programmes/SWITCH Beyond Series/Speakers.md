@@ -10,6 +10,6 @@ Our 2023 speakers include vanguard leaders from  governments, corporates, startu
 
 ### [➞ Get your tickets here!](/register)
 
-**Our luminaries from 2022**
+**Our luminaries from 2023**
 
 ![2023 SWITCH Highlight Speakers](/images/2023/Speakers/2023_switch_highlight%20speakers_all%20stages_v1_1200p.png)
