@@ -12,4 +12,4 @@ Our 2023 speakers include vanguard leaders from  governments, corporates, startu
 
 **Our luminaries from 2022**
 
-![SWITCH 2022 Beyond Speakers Highlights](/images/switch_2022_speakers_beyond_highlights_v2.png)
+![2023 SWITCH Highlight Speakers](/images/2023/Speakers/2023_switch_highlight%20speakers_all%20stages_v1_1200p.png)
