@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - SWITCH Beyond Series/.keep
-      - SWITCH Beyond Series/Overview.md
+      - SWITCH Beyond Series/Overview & Agenda.md
       - SWITCH Beyond Series/Speakers.md
       - SWITCH Global Stage/.keep
       - SWITCH Global Stage/Overview.md
