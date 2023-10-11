@@ -41,37 +41,36 @@ PIER71™, founded by NUS Enterprise and the Maritime and Port Authority of Sing
 ---
 
 #### Mediacorp
-![SWITCH Innovation Lab Crawls Genomics](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_genomics1.jpg)
-<sup>_Photo courtesy of [MiRXES](http://www.mirxes.com)_
+![SWITCH 2023 Innovation Lab Tours at Mediacorp](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_mediacorp.jpg)
+<sup>_Photo courtesy of [Mediacorp](https://www.mediacorp.sg/)_
 	
-Mirxes’s Genomics Lab, a purpose-built multi-omics laboratory, is located in one-north’s Biopolis and houses the cutting-edge [DNBSEQ-T10×4RS Genetic Sequencing System (T10)](https://mirxes.com/mirxes-unveiled-apacs-first-t10-ultra-high-throughput-sequencing-platform/), the world’s largest and highest throughput next generation sequencer.
-	
-The T10 is the first of its kind installed and operationalized in the Asia-Pacific Region, outside of China, and will provide a significant boost to Singapore’s sequencing power and enable ultra-high throughput multi-omics research including a transformational, high-resolution spatial-temporal transcriptomics pipeline powered by BGI-Research’s Stereo-seq technology.
+Mediacorp is Singapore’s national media network and largest content creator. Its purpose is to create engaging and trusted content, as well as to connect communities and inspire people. Mediacorp reaches over four million people in Singapore weekly across four languages on its digital platforms including mewatch, melisten and CNA.asia, six TV channels and 11 radio stations. Beyond Singapore, Mediacorp also has a growing international audience through CNA and content distributed across markets.
 
-T10 can produce up to 20TB data per day or equivalent of 200 whole human genomes sequenced at 30×. A single T10 system can produce more than 50,000 WGS per year, which is eight to ten times of other sequencers in the market today.
+**Mediacorp Lab Crawl Details**
 
-Having APAC’s first T10 sequencing platform based in Singapore, an important hub for biomedical and clinical research, will enable Mirxes to forge collaborations with academic and clinical institutions and companies globally by giving access to cutting-edge capabilities to generate novel biological insights into complex diseases such as cancers, cardiovascular and neurological disorders, and allow for discovery of new biomarkers and pathways for targeted drug development. This will enable Mirxes to scale the positive impact of genomics for Singapore and the region.
-	
-**Genomics Lab Crawl Details**
-* Name of Lab: Genomics Lab
-* Lab Address: 8 Biomedical Grove, 02-01/04 Neuros, Singapore 138665
+* Name of Lab: Mediacorp
+* Lab Address: 1 Stars Ave, Singapore 138507
 	
 ***
 	
 #### NSG Biolabs
 
-![SWITCH 2023 Innovation Lab Crawls Shopee](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_shopee.jpg)
-<sup>_Photo courtesy of [Shopee](https://careers.shopee.sg/about)_</sup>
+![SWITCH 2023 Innovation Lab Tours at NSG BioLabs](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_nsgbiolabs.png)
+<sup>_Photo courtesy of [NSG BioLabs](https://nsgbio.com/)_</sup>
 
-Shopee is the leading e-commerce platform in Southeast Asia &amp; Taiwan. Shopee promotes an inclusive and sustainable digital ecosystem by enabling businesses to digitalise and grow their online presence, helping more people access and benefit from digital services, and uplifting local communities.
+NSG BioLabs, is Singapore's largest and only certified BSL-2 co-working laboratory and office space. Situated in the heart of Biopolis, Singapore’s primary biomedical research hub, is the only fully HEPA-filtered BSL-2 wet-lab and office co-working space that comprises of three fully-equipped laboratory and office facilities spread across 35,000 sq ft.
 
-Shopee offers an easy, secure, and engaging experience that is enjoyed by millions of people daily. Shopee is also a key contributor to the region’s digital economy with a firm commitment to helping homegrown brands and entrepreneurs succeed in e-commerce.
+NSG BioLabs supports growing life sciences companies with scalable BSL2 wet-lab and office infrastructure.&nbsp; Together with its investment arm NSG Ventures, a global biotech venture capital firm, and NSG Tomorrow, a sponsorship and grant programme for early-stage biotech companies, the NSG group helps companies and entrepreneurs take full advantage of Singapore’s research strength and rapidly growing academic and startup environment to translate innovative technologies into breakthrough global biotech companies.
 
-**Shopee Lab Crawl Details**
-* Name of Lab: Shopee
-* Lab Address: 5 Science Park Drive, Shopee Building, Singapore 118265</sup>
+Our BSL-2 certified co-working laboratory space features state-of-the-art technology designed to maximize your workflow efficiency while providing a comfortable and professional environment. Our laboratory, equipped with more than 300+ equipment, meets the research needs of our residents.
+
+**NSG BioLabs Lab Crawl Details**
+
+* Name of Lab: NSG BioLabs
+* Lab Address: 21 Biopolis Rd, #02-03/05 &amp; #05-01/02, Nucleos North Tower, Singapore 138567
 
 ***
+
 **[Regitster for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
 
-_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_
+_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
