@@ -20,7 +20,7 @@ third_nav_title: Innovation Lab Crawls
 
 <sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
 
----
+***
 
 #### Labs you will visit
 
@@ -35,7 +35,7 @@ Carousell Group is the leading multi-category platform for secondhand in Greater
 * Name of Lab: Carousell Campus
 * Lab Address: 79 Ayer Rajah Crescent, 03-01, Singapore 139955
 
----
+***
 
 #### Esco Aster
 ![SWITCH Innovation Lab Tour at Esco Aster](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_ecoaster.jpg)
