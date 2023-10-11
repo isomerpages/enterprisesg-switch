@@ -24,7 +24,7 @@ third_nav_title: Innovation Lab Crawls
 
 #### Labs you will visit
 
-#### NUS Enterprise
+#### HATCH
 
 ![SWITCH 2023 Innovation Lab Crawls at NUS Enterprise](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_nusenterprise2.jpg)
 <sup>Photo courtesy of [NUS Enterprise](https://www.nus.edu.sg/)</sup>
@@ -48,7 +48,7 @@ PIER71™, founded by NUS Enterprise and the Maritime and Port Authority of Sing
 
 ---
 
-#### Mediacorp
+#### ION Mobility
 ![SWITCH 2023 Innovation Lab Tours at Mediacorp](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_mediacorp.jpg)
 <sup>_Photo courtesy of [Mediacorp](https://www.mediacorp.sg/)_
 	
@@ -60,8 +60,8 @@ Mediacorp is Singapore’s national media network and largest content creator. I
 * Lab Address: 1 Stars Ave, Singapore 138507
 	
 ***
-	
-#### NSG Biolabs
+
+#### Wilmar
 
 ![SWITCH 2023 Innovation Lab Tours at NSG BioLabs](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_nsgbiolabs.png)
 <sup>_Photo courtesy of [NSG BioLabs](https://nsgbio.com/)_</sup>
@@ -81,4 +81,4 @@ Our BSL-2 certified co-working laboratory space features state-of-the-art techno
 
 **[Register for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
 
-_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
+<sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup></sup>
