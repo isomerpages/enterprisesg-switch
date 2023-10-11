@@ -1,8 +1,16 @@
 ---
 title: Lab Crawls
 permalink: /2023/flagship/lab-crawls/
-description: ""
+description: The Singapore Week of Innovation and Technology (SWITCH) brings
+  together leaders, entrepreneurs, creators, accelerators and investors from the
+  Global-Asia innovation ecosystem. Through the open exchange of new ideas,
+  vibrant networks and a line-up of innovation-centric activities, SWITCH
+  provides a global platform to catalyse meaningful collaboration between
+  different fields and markets. The focus industries include healthcare &
+  biomedical sciences, smart cities & urban solutions, trade & connectivity, and
+  emerging sustainable technologies.
 third_nav_title: Flagship
+image: /images/2023/photos/switch_highlight_1.jpg
 ---
 ### Lab Crawls
 
@@ -12,7 +20,7 @@ SWITCH’s Signature Lab Crawls will be returning in October 2023 as part of the
  
 Experience Singapore Innovation Infrastructure through our curated tours of innovation labs across Singapore. These tours will showcase various technologies and developments across different industries.
 
-For more information, click [here](/2023/programmes/lab-crawls).
+For more information, click [here](/2023/programmes/innovation-lab-crawls).
 
 #### Participating Lab Crawls from SWITCH 2022
 

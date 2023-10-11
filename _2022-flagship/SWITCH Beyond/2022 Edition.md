@@ -2,7 +2,7 @@
 title: 2022 Edition
 permalink: /2023/programmes/beyond-series/2022-edition/
 description: ""
-third_nav_title: SWITCH Beyond Series
+third_nav_title: SWITCH Beyond
 ---
 ## Recap of SWITCH Beyond: 2022 Edition
 

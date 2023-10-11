@@ -3,21 +3,25 @@ collections:
     output: true
     order:
       - SWITCH Beyond Series/.keep
-      - SWITCH Beyond Series/Overview.md
+      - SWITCH Beyond Series/Overview & Agenda.md
       - SWITCH Beyond Series/Speakers.md
-      - SWITCH Beyond Series/2022 Edition.md
       - SWITCH Global Stage/.keep
-      - SWITCH Global Stage/Overview.md
+      - SWITCH Global Stage/Overview & Agenda.md
       - SWITCH Global Stage/Speakers.md
-      - SWITCH Global Stage/2022 Edition.md
-      - SLINGSHOT 2023/Doman Finals & Grand Finals.md
       - SLINGSHOT 2023/.keep
+      - SLINGSHOT 2023/Doman Finals & Grand Finals.md
       - SLINGSHOT 2023/Physical Immersion.md
       - SLINGSHOT 2023/Be a Mentor.md
       - SLINGSHOT 2023/Be a Judge.md
       - SLINGSHOT 2023/2022 Edition.md
       - SLINGSHOT 2023/Apply Now (Closed).md
-      - SWITCH @ one north/.keep
-      - SWITCH @ one north/SWITCH @ one north.md
-      - SWITCH @ one north/Innovation and Lab Tours.md
+      - SWITCH @ one north.md
+      - Innovation Lab Crawls/.keep
+      - Innovation Lab Crawls/Innovation Lab Crawls.md
+      - Innovation Lab Crawls/Group 1A.md
+      - Innovation Lab Crawls/Group 1B.md
+      - Innovation Lab Crawls/Group 2A.md
+      - Innovation Lab Crawls/Group 2B.md
+      - Innovation Lab Crawls/Group 3A.md
+      - Innovation Lab Crawls/Group 3B.md
       - Year Long Innovation.md

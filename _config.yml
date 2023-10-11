@@ -1,5 +1,5 @@
-title: Singapore Week of Innovation and Technology | 31 Oct–2 Nov 2023 | Sands
-  Expo & Convention Centre
+title: Singapore Week of Innovation and Technology | 31 Oct–2 Nov 2023 | Marina
+  Bay Sands, Sands Expo & Convention Centre
 url: https://switchsg.org
 favicon: /images/logos/switch-logo_eng-light_bg_sq.jpg
 colors:
@@ -17,13 +17,14 @@ colors:
     - title: media-color-five
       color: "#f4333d"
 resources_name: example-resource
-description: Asia's leading Innovation and Technology The Singapore Week of
-  Innovation and Technology (SWITCH) returns for its eight edition from 31 Oct–2
-  Nov 2023 as a fully physical event. With a focus on championing innovation and
-  creating connections, SWITCH features programming, exhibitions, pitching
-  competition, and networking opportunities in the areas of innovation,
-  technology, and global market access for delegates all over the world. SWITCH
-  is organised by Enterprise Singapore.
+description: The Singapore Week of Innovation and Technology (SWITCH) brings
+  together leaders, entrepreneurs, creators, accelerators and investors from the
+  Global-Asia innovation ecosystem. Through the open exchange of new ideas,
+  vibrant networks and a line-up of innovation-centric activities, SWITCH
+  provides a global platform to catalyse meaningful collaboration between
+  different fields and markets. The focus industries include healthcare &
+  biomedical sciences, smart cities & urban solutions, trade & connectivity, and
+  emerging sustainable technologies.
 permalink: none
 baseurl: ""
 exclude:
@@ -61,7 +62,7 @@ staging: https://staging.d3cpov96j8dxzr.amplifyapp.com/
 prod: https://master.d3cpov96j8dxzr.amplifyapp.com/
 is_government: false
 google_analytics: UA-124054828-1
-shareicon: /images/switch_2021_hero_banner_03a.jpg
+shareicon: /images/2023/photos/switch_highlight_1.jpg
 facebook-pixel: ""
 linkedin-insights: ""
 google_analytics_ga4: G-0TWE6PTJ1E
