@@ -59,3 +59,8 @@ Shopee offers an easy, secure, and engaging experience that is enjoyed by millio
 **Shopee Lab Crawl Details**
 * Name of Lab: Shopee
 * Lab Address: 5 Science Park Drive, Shopee Building, Singapore 118265</sup>
+
+***
+**[Regitster for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
+
+_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_
