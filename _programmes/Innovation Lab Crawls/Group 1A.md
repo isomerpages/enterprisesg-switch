@@ -39,7 +39,7 @@ Grab has expanded our offerings across Southeast Asia to include deliveries, mob
 
 #### Genomics Lab
 ![SWITCH Innovation Lab Crawls Genomics](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_genomics1.jpg)
-<sup>_Photo courtesy of [MiRXES](http://www.mirxes.com)_
+<sup>_Photo courtesy of [MiRXES](http://www.mirxes.com)_</sup>
 	
 Mirxes’s Genomics Lab, a purpose-built multi-omics laboratory, is located in one-north’s Biopolis and houses the cutting-edge [DNBSEQ-T10×4RS Genetic Sequencing System (T10)](https://mirxes.com/mirxes-unveiled-apacs-first-t10-ultra-high-throughput-sequencing-platform/), the world’s largest and highest throughput next generation sequencer.
 	
@@ -71,4 +71,4 @@ Shopee offers an easy, secure, and engaging experience that is enjoyed by millio
 ***
 **[Register for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
 
-<sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup></sup>
+<sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
