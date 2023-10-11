@@ -81,4 +81,4 @@ Our BSL-2 certified co-working laboratory space features state-of-the-art techno
 
 **[Regitster for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
 
-_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
+<sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup></sup>
