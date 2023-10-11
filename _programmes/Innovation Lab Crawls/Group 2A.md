@@ -43,7 +43,7 @@ At our innovation hub in LaunchPad, our Hatch &amp; Match programme conducts mar
 
 #### ION Mobility
 ![SWITCH Innovation Lab Tours at ION Mobility](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_ionmobility.jpg)
-<sup>_Photo courtesy of [ION Mobility](https://ionmobility.com/)_
+<sup>_Photo courtesy of [ION Mobility](https://ionmobility.com/)_</sup>
 	
 ION Mobility is an automotive and technology OEM on a mission to create aspirational products and sustainable solutions, beginning with electric motorcycles (E2Ws) and energy storage systems (ESS). Our vision is to be Southeast Asia’s top technology company leading our region’s transition towards a low-carbon economy across Southeast Asia.
 
@@ -73,4 +73,4 @@ Wilmar International Limited, founded in 1991 and headquartered in Singapore, is
 
 **[Register for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
 
-<sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup></sup>
+<sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
