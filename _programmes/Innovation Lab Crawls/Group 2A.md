@@ -26,56 +26,48 @@ third_nav_title: Innovation Lab Crawls
 
 #### HATCH
 
-![SWITCH 2023 Innovation Lab Crawls at NUS Enterprise](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_nusenterprise2.jpg)
-<sup>Photo courtesy of [NUS Enterprise](https://www.nus.edu.sg/)</sup>
+![SWITCH Innovation Lab Crawls at HATCH](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_hatch.png)
+<sup>Photo courtesy of [HATCH](https://thehatchx.com/)</sup>
 
-**BLOCK71 Singapore**
+Established by Home Team Science and Technology Agency (HTX), Hatch brings technologies from companies across the globe to trailblaze innovations for public safety and security.
 
-BLOCK71 is an initiative by NUS Enterprise in collaborative and strategic partnerships with established corporates and government agencies. It is a technology-focused ecosystem builder and global connector which catalyses and aggregates the start-up community. In Singapore, we spearhead new initiatives and provide mentorship and growth opportunities in key local, regional, and global markets.
+One of our core programmes is the Open Innovation Challenge, which seeks to validate dual-use technologies from international start-ups through collaborative development with operational end-users and technical staff.
 
-**ICE71**
+At our innovation hub in LaunchPad, our Hatch &amp; Match programme conducts market trend analysis, scouting start-ups and validating emerging technologies and start-ups across industry verticals.
 
-ICE71 ‘Innovation Cybersecurity Ecosystem at Block71’ is the region’s first cybersecurity entrepreneur hub. Founded by Singtel Innov8 and NUS Enterprise, we aim to strengthen Singapore’s growing cybersecurity ecosystem by attracting and developing competencies and deep technologies to help mitigate the rapidly increasing cybersecurity risks in the region.
-
-**PIER71TM**
-
-PIER71™, founded by NUS Enterprise and the Maritime and Port Authority of Singapore (MPA), is an industry-focused start-up ecosystem that brings stakeholders together to advance innovation in the maritime industry. Through its programmes and flagship Smart Port Challenge annual competition, PIER71™ draws in talent, creates opportunities for the exchange of knowledge and ideas, accelerates ventures and attracts investments for its start-up Alumni.&nbsp;&nbsp;
-
-**NUS Enterprise Lab Crawl Details**
-
-* Name of Lab: NUS Enterprise
-* Lab Address: 71 Ayer Rajah Crescent, #02-01, Singapore 139951
+**HATCH Lab Crawl Details**
+* Name of Lab: HATCH    
+* Lab Address: 79 Ayer Rajah Crescent #04-03/04, Singapore 139955
 
 ---
 
 #### ION Mobility
-![SWITCH 2023 Innovation Lab Tours at Mediacorp](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_mediacorp.jpg)
-<sup>_Photo courtesy of [Mediacorp](https://www.mediacorp.sg/)_
+![SWITCH Innovation Lab Tours at ION Mobility](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_ionmobility.jpg)
+<sup>_Photo courtesy of [ION Mobility](https://ionmobility.com/)_
 	
-Mediacorp is Singapore’s national media network and largest content creator. Its purpose is to create engaging and trusted content, as well as to connect communities and inspire people. Mediacorp reaches over four million people in Singapore weekly across four languages on its digital platforms including mewatch, melisten and CNA.asia, six TV channels and 11 radio stations. Beyond Singapore, Mediacorp also has a growing international audience through CNA and content distributed across markets.
+ION Mobility is an automotive and technology OEM on a mission to create aspirational products and sustainable solutions, beginning with electric motorcycles (E2Ws) and energy storage systems (ESS). Our vision is to be Southeast Asia’s top technology company leading our region’s transition towards a low-carbon economy across Southeast Asia.
 
-**Mediacorp Lab Crawl Details**
+Founded in 2019, Singaporean-startup ION Mobility unveiled the M1-S electric motorcycle to consumers at the 2022 Indonesia Motorcycle Show (IMOS) in Jakarta after approximately 2.5 years of multi-disciplinary R&amp;D. Since its unveiling, ION Mobility has been setting up a manufacturing and assembly factory in Karawang in West Java, a larger and more mature version of ION Mobility’s assembly line inside Block 67 at JTC LaunchPad.
 
-* Name of Lab: Mediacorp
-* Lab Address: 1 Stars Ave, Singapore 138507
+Join us to see the internal workings of an EV battery and how a pack is assembled, feel the instant torque delivered by the M1-S on a motorcycle dynamometer and watch the M1-S take off and reach 50 km/h in 3.7 seconds from standstill.
+
+**ION Mobility Lab Crawl Details**
+* Name of Lab: ION Mobility
+* Lab Address: Blk 67 Ayer Rajah Crescent, #01-05, Singapore 139950
 	
 ***
 
 #### Wilmar
 
-![SWITCH 2023 Innovation Lab Tours at NSG BioLabs](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_nsgbiolabs.png)
-<sup>_Photo courtesy of [NSG BioLabs](https://nsgbio.com/)_</sup>
+![SWITCH Innovation Lab Tours at Wilmar](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_wilmar.jpg)
+<sup>_Photo courtesy of [Wilmar](https://www.wilmar-international.com/)_</sup>
 
-NSG BioLabs, is Singapore's largest and only certified BSL-2 co-working laboratory and office space. Situated in the heart of Biopolis, Singapore’s primary biomedical research hub, is the only fully HEPA-filtered BSL-2 wet-lab and office co-working space that comprises of three fully-equipped laboratory and office facilities spread across 35,000 sq ft.
+Wilmar International Limited, founded in 1991 and headquartered in Singapore, is today Asia’s leading agribusiness group. Collaborating with established scientists and researchers in world-class facilities, Wilmar carries out robust research and development (R&amp;D) activities focused on improving manufacturing processes to enhance the quality of existing products as well as to develop new and innovative ones. This collective R&amp;D effort has resulted in 371 patents granted to date.
 
-NSG BioLabs supports growing life sciences companies with scalable BSL2 wet-lab and office infrastructure.&nbsp; Together with its investment arm NSG Ventures, a global biotech venture capital firm, and NSG Tomorrow, a sponsorship and grant programme for early-stage biotech companies, the NSG group helps companies and entrepreneurs take full advantage of Singapore’s research strength and rapidly growing academic and startup environment to translate innovative technologies into breakthrough global biotech companies.
+**Wilmar Lab Crawl Details**
+* Name of Lab: Wilmar
+* Lab Address: 28 Biopolis Road, Singapore 138568
 
-Our BSL-2 certified co-working laboratory space features state-of-the-art technology designed to maximize your workflow efficiency while providing a comfortable and professional environment. Our laboratory, equipped with more than 300+ equipment, meets the research needs of our residents.
-
-**NSG BioLabs Lab Crawl Details**
-
-* Name of Lab: NSG BioLabs
-* Lab Address: 21 Biopolis Rd, #02-03/05 &amp; #05-01/02, Nucleos North Tower, Singapore 138567
 
 ***
 
