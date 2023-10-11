@@ -20,7 +20,7 @@ image: /images/2023/photos/switch_highlight_1.jpg
 
 <sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
 
----
+***
 
 #### Labs you will visit
 
@@ -35,7 +35,7 @@ Grab has expanded our offerings across Southeast Asia to include deliveries, mob
 * Name of Lab: Grab
 * Lab Address: 3 Media Cl, Singapore 138498
 
----
+***
 
 #### Genomics Lab
 ![SWITCH Innovation Lab Crawls Genomics](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_genomics1.jpg)
@@ -69,6 +69,7 @@ Shopee offers an easy, secure, and engaging experience that is enjoyed by millio
 * Lab Address: 5 Science Park Drive, Shopee Building, Singapore 118265
 
 ***
+
 **[Register for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
 
 <sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
