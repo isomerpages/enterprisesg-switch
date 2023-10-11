@@ -39,7 +39,7 @@ Carousell Group is the leading multi-category platform for secondhand in Greater
 
 #### Esco Aster
 ![SWITCH Innovation Lab Tour at Esco Aster](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_ecoaster.jpg)
-<sup>_Photo courtesy of [Esco Aster](http://www.escoaster.com/)_
+<sup>_Photo courtesy of [Esco Aster](http://www.escoaster.com/)_</sup>
 	
 Esco Aster is a vertically-integrated contract research, development, and manufacturing organization (CRDMO), founded and deeply rooted by scientists to enable the translation of innovative benchside discoveries into life-saving diagnostics, therapeutics, cosmeceuticals, and cellular agriculture, at affordable pricing. We make complex manufacturing simple via our proprietary best-in-class continuous manufacturing platforms providing a reliable and linearly scalable outcomes.
 
@@ -64,4 +64,4 @@ Designed for the next-generation travelers, lyf is a unique co-living concept th
 
 **[Register for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
 
-<sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup></sup>
+<sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
