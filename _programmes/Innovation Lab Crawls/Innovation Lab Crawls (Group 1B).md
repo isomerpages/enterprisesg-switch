@@ -16,20 +16,31 @@ third_nav_title: Innovation Lab Crawls
 
 #### Labs you will visit
 
-#### Grab
+#### NUS Enterprise
 
-![SWITCH Innovation Lab Craw - Grab](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_grab.jpg)
-<sup>Photo courtesy of [Grab](https://www.grab.com/sg/)</sup>
+![SWITCH 2023 Innovation Lab Crawls at NUS Enterprise](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_nusenterprise2.jpg)
+<sup>Photo courtesy of [NUS Enterprise](https://www.nus.edu.sg/)</sup>
 
-Grab has expanded our offerings across Southeast Asia to include deliveries, mobility, financial services, enterprise, and others—all through one superapp. These services connect consumers from all walks of life with everyday entrepreneurs, providing delightful experiences and fulfilling the everyday needs of millions across 428 cities and 8 countries.
+**BLOCK71 Singapore**
 
-**Grab Lab Crawl Details**
-* Name of Lab: Grab
-* Lab Address: 3 Media Cl, Singapore 138498
+BLOCK71 is an initiative by NUS Enterprise in collaborative and strategic partnerships with established corporates and government agencies. It is a technology-focused ecosystem builder and global connector which catalyses and aggregates the start-up community. In Singapore, we spearhead new initiatives and provide mentorship and growth opportunities in key local, regional, and global markets.
+
+**ICE71**
+
+ICE71 ‘Innovation Cybersecurity Ecosystem at Block71’ is the region’s first cybersecurity entrepreneur hub. Founded by Singtel Innov8 and NUS Enterprise, we aim to strengthen Singapore’s growing cybersecurity ecosystem by attracting and developing competencies and deep technologies to help mitigate the rapidly increasing cybersecurity risks in the region.
+
+**PIER71TM**
+
+PIER71™, founded by NUS Enterprise and the Maritime and Port Authority of Singapore (MPA), is an industry-focused start-up ecosystem that brings stakeholders together to advance innovation in the maritime industry. Through its programmes and flagship Smart Port Challenge annual competition, PIER71™ draws in talent, creates opportunities for the exchange of knowledge and ideas, accelerates ventures and attracts investments for its start-up Alumni.&nbsp;&nbsp;
+
+**NUS Enterprise Lab Crawl Details**
+
+* Name of Lab: NUS Enterprise
+* Lab Address: 71 Ayer Rajah Crescent, #02-01, Singapore 139951
 
 ---
 
-#### Genomics Lab
+#### Mediacorp
 ![SWITCH Innovation Lab Crawls Genomics](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_genomics1.jpg)
 <sup>_Photo courtesy of [MiRXES](http://www.mirxes.com)_
 	
@@ -47,7 +58,7 @@ Having APAC’s first T10 sequencing platform based in Singapore, an important h
 	
 ***
 	
-#### Shopee
+#### NSG Biolabs
 
 ![SWITCH 2023 Innovation Lab Crawls Shopee](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_shopee.jpg)
 <sup>_Photo courtesy of [Shopee](https://careers.shopee.sg/about)_</sup>
