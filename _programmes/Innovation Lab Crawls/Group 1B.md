@@ -20,7 +20,7 @@ image: /images/2023/photos/switch_highlight_1.jpg
 
 <sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
 
----
+***
 
 #### Labs you will visit
 
@@ -46,7 +46,7 @@ PIER71™, founded by NUS Enterprise and the Maritime and Port Authority of Sing
 * Name of Lab: NUS Enterprise
 * Lab Address: 71 Ayer Rajah Crescent, #02-01, Singapore 139951
 
----
+***
 
 #### Mediacorp
 ![SWITCH 2023 Innovation Lab Tours at Mediacorp](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_mediacorp.jpg)
