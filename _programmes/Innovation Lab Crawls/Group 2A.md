@@ -20,7 +20,7 @@ third_nav_title: Innovation Lab Crawls
 
 <sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
 
----
+***
 
 #### Labs you will visit
 
@@ -39,7 +39,7 @@ At our innovation hub in LaunchPad, our Hatch &amp; Match programme conducts mar
 * Name of Lab: HATCH    
 * Lab Address: 79 Ayer Rajah Crescent #04-03/04, Singapore 139955
 
----
+***
 
 #### ION Mobility
 ![SWITCH Innovation Lab Tours at ION Mobility](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_ionmobility.jpg)
