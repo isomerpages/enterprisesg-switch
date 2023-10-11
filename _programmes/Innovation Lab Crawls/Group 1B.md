@@ -50,7 +50,7 @@ PIER71™, founded by NUS Enterprise and the Maritime and Port Authority of Sing
 
 #### Mediacorp
 ![SWITCH 2023 Innovation Lab Tours at Mediacorp](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_mediacorp.jpg)
-<sup>_Photo courtesy of [Mediacorp](https://www.mediacorp.sg/)_
+<sup>_Photo courtesy of [Mediacorp](https://www.mediacorp.sg/)_</sup>
 	
 Mediacorp is Singapore’s national media network and largest content creator. Its purpose is to create engaging and trusted content, as well as to connect communities and inspire people. Mediacorp reaches over four million people in Singapore weekly across four languages on its digital platforms including mewatch, melisten and CNA.asia, six TV channels and 11 radio stations. Beyond Singapore, Mediacorp also has a growing international audience through CNA and content distributed across markets.
 
@@ -81,4 +81,4 @@ Our BSL-2 certified co-working laboratory space features state-of-the-art techno
 
 **[Regitster for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
 
-<sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup></sup>
+<sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
