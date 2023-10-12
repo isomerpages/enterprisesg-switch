@@ -11,8 +11,8 @@ description: The Singapore Week of Innovation and Technology (SWITCH) brings
   emerging sustainable technologies.
 image: /images/2023/photos/switch_highlight_1.jpg
 ---
-
 ![SGTech Global Future Series banner](/images/2023/Partner%20Events/sgtech_global_future_series_website_banner.jpg)
+
 #### Tech and Trust: Achieving Sustainability in the Digital Age
 
 SGTech Global Future Series - the premier event for exploring the latest and greatest advancements in technology. Our event is the ultimate platform for connecting with like-minded individuals and businesses from around the world and discovering the new frontiers of the technology industry.
