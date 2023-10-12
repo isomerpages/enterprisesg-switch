@@ -2,10 +2,10 @@ collections:
   partner-events:
     output: true
     order:
-      - TechInnovation.md
-      - SME Tech Day.md
-      - SGTech Global Future Series.md
-      - FUTR Asia.md
-      - Deal Fridays x SEEDS Capital.md
-      - Circular Economy Innovation Day.md
       - AIMX.md
+      - Circular Economy Innovation Day.md
+      - Deal Fridays x SEEDS Capital.md
+      - FUTR Asia.md
+      - SGTech Global Future Series.md
+      - SME Tech Day.md
+      - TechInnovation.md
