@@ -2,5 +2,6 @@ collections:
   partner-events:
     output: true
     order:
+      - Deal Fridays x SEEDS Capital.md
       - Circular Economy Innovation Day.md
       - AIMX.md
