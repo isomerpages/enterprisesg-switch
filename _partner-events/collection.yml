@@ -1,0 +1,4 @@
+collections:
+  partner-events:
+    output: true
+    order: []
