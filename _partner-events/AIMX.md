@@ -19,7 +19,7 @@ The AIMX Summit 2023 is a two-day conference that will bring together AI leaders
 
 AIMX provides a platform that will deep-dive into the world of practical and successful implementations of Artificial Intelligence and Big Data. This inaugural event will partner with global AI organisations and institutions to converge and engage the AI communities at SWITCH to create a vibrant and sustainable ecosystem.
 
-AIMX is a partner event of SWITCH. All registrations to this event will also be able to access the [SWITCH Trade Floor](https://2023.switchsg.org/mvKw9?RefId=Trade) from 31 Oct–2 Nov 2023.
+*AIMX is a partner event of SWITCH. All registrations to this event will also be able to access the [SWITCH Trade Floor](https://2023.switchsg.org/mvKw9?RefId=Trade) from 31 Oct–2 Nov 2023.*
 
 [LEARN MORE &gt;](https://aimx.global)
 
