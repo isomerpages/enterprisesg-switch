@@ -28,6 +28,23 @@ links:
         url: /2023/programmes/innovation-lab-crawls/
       - title: Year Long Innovation
         url: /2023/programmes/year-long/
+  - title: PARTNER EVENTS
+    url: /2023/partner-events/aimx/
+    sublinks:
+      - title: AIMX
+        url: /2023/partner-events/aimx/
+      - title: Circular Economy InnovationDay
+        url: /2023/partner-events/circular-economy-innovation-day/
+      - title: Deal Fridays x SEEDS Capital
+        url: /2023/partner-events/deal-fridays-seeds-capital/
+      - title: FUTR Asia
+        url: /2023/partner-events/futr-asia/
+      - title: SGTech Global Future Series
+        url: /2023/partner-events/sgtech-global-future-series/
+      - title: SME Tech Day
+        url: /2023/partner-events/sme-tech-day/
+      - title: TechInnovation
+        url: /2023/partner-events/techinnovation/
   - title: RESOURCES
     url: /example-resource/
     sublinks:
