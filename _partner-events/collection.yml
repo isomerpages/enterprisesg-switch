@@ -2,6 +2,7 @@ collections:
   partner-events:
     output: true
     order:
+      - TechInnovation.md
       - SME Tech Day.md
       - SGTech Global Future Series.md
       - FUTR Asia.md
