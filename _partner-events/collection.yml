@@ -2,4 +2,5 @@ collections:
   partner-events:
     output: true
     order:
+      - Circular Economy Innovation Day.md
       - AIMX.md
