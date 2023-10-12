@@ -6,7 +6,7 @@ description: The Singapore Week of Innovation and Technology (SWITCH) brings
   Global-Asia innovation ecosystem.
 image: /images/switch_main.jpg
 ---
-![](/images/switch_main.jpg)
+![SWITCH highlight image](/images/2023/photos/switch_highlight_1.jpg)
 # What is SWITCH?
 The Singapore Week of Innovation and Technology (SWITCH) brings together leaders, entrepreneurs, creators, accelerators and investors from the Global-Asia innovation ecosystem. 
 
