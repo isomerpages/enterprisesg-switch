@@ -2,7 +2,7 @@ collections:
   partner-events:
     output: true
     order:
-      - AIMX.md
+      - AIMX 2023.md
       - Circular Economy Innovation Day.md
       - Deal Fridays x SEEDS Capital.md
       - FUTR Asia.md
