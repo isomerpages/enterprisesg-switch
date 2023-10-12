@@ -18,7 +18,7 @@ image: /images/2023/photos/switch_highlight_1.jpg
 
 **[Register for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
 
-<sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
+<sup>*To attend an innovation lab crawl tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)*</sup>
 
 ***
 
@@ -72,4 +72,4 @@ Shopee offers an easy, secure, and engaging experience that is enjoyed by millio
 
 **[Register for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
 
-<sup>_To attend a lab crawl or innovation tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)_</sup>
+<sup>*To attend an innovation lab crawl tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)*</sup>
