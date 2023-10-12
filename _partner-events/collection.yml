@@ -1,4 +1,5 @@
 collections:
   partner-events:
     output: true
-    order: []
+    order:
+      - AIMX.md
