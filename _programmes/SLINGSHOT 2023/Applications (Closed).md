@@ -1,5 +1,5 @@
 ---
-title: Apply Now (Closed)
+title: Applications (Closed)
 permalink: /2023/programmes/slingshot/apply/
 description: The Singapore Week of Innovation and Technology (SWITCH) brings
   together leaders, entrepreneurs, creators, accelerators and investors from the
