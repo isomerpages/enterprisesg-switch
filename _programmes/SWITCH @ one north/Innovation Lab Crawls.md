@@ -56,3 +56,12 @@ A government agency under Singapore’s Ministry of Trade and Industry, JTC is p
 **[Register for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
 
 <sup>*To attend an innovation lab crawl tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)*</sup>
+
+***
+**More details on each Group:**
+
+[Group 1A](https://www.switchsg.org/2023/programmes/innovation-lab-crawls/group-1a/) <br>
+[Group 1B](https://www.switchsg.org/2023/programmes/innovation-lab-crawls/group-1b/) <br>
+[Group 2A](https://www.switchsg.org/programmes/innovation-lab-crawls/group-2a/)<br>[Group 2B](https://www.switchsg.org/2023/programmes/innovation-lab-crawls/2b/)<br>
+[Group 3A](https://www.switchsg.org/2023/programmes/innovation-lab-crawls/group-3a/)<br>
+[Group 3B](https://www.switchsg.org/2023/programmes/innovation-lab-crawls/group-3b/)
