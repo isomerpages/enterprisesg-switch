@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Let’s Connect Stage/SWITCH @ one north.md
       - Let’s Connect Stage/.keep
       - SWITCH Beyond Series/.keep
       - SWITCH Beyond Series/Overview & Agenda.md
