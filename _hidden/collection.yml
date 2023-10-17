@@ -2,7 +2,6 @@ collections:
   hidden:
     output: true
     order:
-      - SWITCH @ one north.md
       - SWITCH 2020 Impact.md
       - SFFxSWITCH.md
       - Competition Timeline.md
