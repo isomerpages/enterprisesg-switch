@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - SWITCH @ one north.md
       - SWITCH Beyond Series/.keep
       - SWITCH Beyond Series/Overview & Agenda.md
       - SWITCH Beyond Series/Speakers.md
@@ -19,6 +18,7 @@ collections:
       - SWITCH @ one north/.keep
       - SWITCH @ one north/Overview.md
       - SWITCH @ one north/Let’s Connect Stage.md
+      - SWITCH @ one north.md
       - Innovation Lab Crawls/.keep
       - Innovation Lab Crawls/Innovation Lab Crawls.md
       - Innovation Lab Crawls/Group 1A.md
