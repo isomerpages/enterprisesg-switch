@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - SWITCH @ one north.md
-      - Let’s Connect Stage/.keep
+      - SWITCH @ one north/.keep
       - SWITCH Beyond Series/.keep
       - SWITCH Beyond Series/Overview & Agenda.md
       - SWITCH Beyond Series/Speakers.md
