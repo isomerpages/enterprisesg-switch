@@ -20,6 +20,8 @@ To [sign up for a test ride](https://form.gov.sg/6524fbda6b6c180012d60019), you 
 	
 table
 
+
+
 ##### **Scooterson**
 		logo
 
@@ -51,4 +53,3 @@ Red Dot Mobility is a one-stop solution for electric motorcycle developing advan
 4. EV related components: Anything related with EV, we offer customise design: VCU, BMS, IOT, Lighting, Radar, DCDC, smart display. Available for ODM/OEM"
 
 [For more information on Red Dot Mobility](https://reddotmobility.com/)
-	
