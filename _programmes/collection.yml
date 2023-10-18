@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Visit Singapore.md
       - SWITCH Beyond Series/.keep
       - SWITCH Beyond Series/Overview & Agenda.md
       - SWITCH Beyond Series/Speakers.md
@@ -16,8 +15,8 @@ collections:
       - SLINGSHOT 2023/Be a Judge.md
       - SLINGSHOT 2023/2022 Edition.md
       - SLINGSHOT 2023/Applications (Closed).md
-      - SWITCH @ one north/Overview.md
       - SWITCH @ one north/.keep
+      - SWITCH @ one north/Overview.md
       - SWITCH @ one north/Let’s Connect Stage.md
       - SWITCH @ one north/Experiential Showcases.md
       - SWITCH @ one north/Startup Career Fair.md
@@ -29,3 +28,4 @@ collections:
       - Innovation Lab Crawls/Group 3A.md
       - Innovation Lab Crawls/Group 3B.md
       - Year Long Innovation.md
+      - Visit Singapore.md
