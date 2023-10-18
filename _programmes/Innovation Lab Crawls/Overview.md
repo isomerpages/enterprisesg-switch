@@ -21,8 +21,6 @@ To attend a lab crawl or innovation tour, you will need to be a SWITCH Trade Pas
 [GET YOUR PASS &gt;](https://2023.switchsg.org/event/6c0fef40-8246-423a-8e02-c256dbdaf617/websitePage:07eaa027-beb8-45d9-a619-1d2458fd7747?RefId=Isomer)<br>
 Trade Passes are free to register!
 
-\*\*\*
-
 ##### **About JTC Corporation**
 
 ![](https://lh7-us.googleusercontent.com/9t7tXnq4-b_LCPLsrfu0J8QcpH8DAH1o4d1Yev4US1R5Mx9RiJFTUAeMr298-NEeEeQxs4K3atfehxHA4wt0q07VE6dSp9z0mV-RpgiDk4zSR5wqWRSkxmbwDNUbSa7nu5sVanwOVUo8x4ggjnwekXA)
