@@ -4,8 +4,6 @@ permalink: /programmes/innovation-lab-crawls/
 description: ""
 third_nav_title: Innovation Lab Crawls
 ---
-
-
 #### **Where Innovation Happens at one-north**
 
 ![](https://lh7-us.googleusercontent.com/HMAXHSPVtV4U6Mysi8yJpAJSJ4mosvjonneSRdXBoBtNLGwjZBiWEzXNPNP6bSWA4Bm_sjFd-oDYG6mJKVksU32245DipJnJKeNmhHoB2WUw6VcfXvuW5PyrKrTCif0Urg54aoYNc8cHoSGUwicCP30)
