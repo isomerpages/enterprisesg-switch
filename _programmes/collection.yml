@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Visit Singapore.md
       - SWITCH Beyond Series/.keep
       - SWITCH Beyond Series/Overview & Agenda.md
       - SWITCH Beyond Series/Speakers.md
