@@ -4,7 +4,7 @@ permalink: /programmes/switch-at-one-north/lets-connect-stage/
 description: ""
 third_nav_title: SWITCH @ one north
 ---
-#### **For entrepreneurs and passionate innovators**
+### **For entrepreneurs and passionate innovators**
 
 
 Gain insights from our panel of industry leaders and trailblazers, while having a cup of *kopi* or *teh* at Timbre+ at one-north. Gain firsthand knowledge of the latest trends and their personal challenges during their entrepreneurship journey.
