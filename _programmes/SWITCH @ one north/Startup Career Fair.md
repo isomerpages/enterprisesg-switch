@@ -4,7 +4,7 @@ permalink: /programmes/switch-at-one-north/startup-career-fair/
 description: ""
 third_nav_title: SWITCH @ one north
 ---
-##### **Startup Career Fair**
+### **Embark on a career with a start-up**
 
 **![A couple of women wearing face masks
 Description automatically generated](https://lh7-us.googleusercontent.com/DzwxZHaACSScnIHoHggABQ_Nr5FmD0n7rZ7GQJF7KMkRvxeyhKEFmPaD_c1wrnIIvzijBOiGx7YGTfYld447ZqbCxfhG3UwfJ0GnSpZksRMKL4i63qkWEvUMoAPTsUtVxNkfYZc-DeVmvpiSvhLAqQ)**
