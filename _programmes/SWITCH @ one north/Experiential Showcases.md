@@ -4,7 +4,7 @@ permalink: /programmes/switch-at-one-north/experiential-showcases/
 description: ""
 third_nav_title: SWITCH @ one north
 ---
-##### **Experience innovation firsthand with the experiential showcases and mobility test rides**
+### **Experience innovation firsthand with the experiential showcases and mobility test rides**
 
 **![](https://lh4.googleusercontent.com/h1AWBmmSLbxtIXsfjsaeKQ7BmO5iaJxyzWAVaeLzIt5NiNiwH42xQmvB5hpF_4QkZJn4e7x4vijjkBuix93UwcnGtxYXL_E3VceDG8RvpOwx7O_mNznJ3QVBDlp_bc1QYAFyBVK97ZTi-DM556QJjw)**
 
