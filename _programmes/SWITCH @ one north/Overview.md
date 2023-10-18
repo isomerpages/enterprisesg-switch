@@ -7,9 +7,9 @@ description: SWITCH @ one-north, an outdoor extension of the SWITCH festival,
 image: /images/2023/photos/switch_highlight_1.jpg
 third_nav_title: SWITCH @ one north
 ---
-![An innovation showcase of an unmanned aerial drone](/images/2023/photos/switch_one_north_03_1200p.jpg)
+#### Experience the vibrancy of Singapore's startup ecosystem
 
-### Experience the vibrancy of Singapore's startup ecosystem
+![An innovation showcase of an unmanned aerial drone](/images/2023/photos/switch_one_north_03_1200p.jpg)
 
 From startups to investors, incubators and accelerators, innovation is at the heart of Singapore's startup ecosystem.
 
