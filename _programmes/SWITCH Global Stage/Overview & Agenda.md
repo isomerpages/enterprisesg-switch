@@ -12,7 +12,7 @@ description: The Singapore Week of Innovation and Technology (SWITCH) brings
 third_nav_title: SWITCH Global Stage
 image: /images/2023/photos/switch_highlight_1.jpg
 ---
-### Expansion opportunities at SWITCH Global
+### **Expansion opportunities at SWITCH Global**
 
 ![](/images/2023/switch%20global%20(expand%20to%20brazil).jpg)
 
