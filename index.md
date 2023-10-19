@@ -34,7 +34,7 @@ sections:
           url: /2023/flagship/slingshot
         - title: SWITCH @ one-north
           description: Experience SG's startup scene
-          url: /2023/programmes/at-one-north/
+          url: /2023/programmes/switch-at-one-north/
   - infopic:
       title: Are you ready to meet fellow innovators at SWITCH?
       subtitle: SWITCH 2023 Highlights
