@@ -35,8 +35,8 @@ description: ""
 ##### Content Partners
 ![Beyond Content Partners SWITCH 2022](/images/2023/Sponsors%20&%20Partners/beyond%20content%20partners.png)
 
-##### Community Partners NEED TO CHANGE
-![Community Partners SWITCH 2022](/images/community%20partners%202022_cards%20(3).png)
+##### SLINGSHOT Partners
+![Community Partners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/slingshot%20partners%20for%20switch%20website.png)
 
 ##### Organised By
 ![Organised by SWITCH 2022](/images/2023/Sponsors%20&%20Partners/organised%20by.png)
