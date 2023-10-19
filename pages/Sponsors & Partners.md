@@ -21,7 +21,7 @@ description: ""
 ![Official Media PArtners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/official%20media%20partners.png)
 
 ##### Official Production Partner
-![Official Media PArtners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/unearthed%20productions.png)
+![Official Media PArtners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/official%20production%20partner.png)
 
 ##### Official Airlines Partner
 ![Official Airlines Partners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/official%20airline%20partner.png)
