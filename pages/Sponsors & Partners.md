@@ -36,10 +36,10 @@ description: ""
 ![Held in SWITCH 2023](/images/2023/Sponsors%20&%20Partners/supporting%20partners.png)
 
 ##### Content Partners
-![Beyond Content Partners SWITCH 2022](/images/2023/Sponsors%20&%20Partners/beyond%20content%20partners.png)
+![Beyond Content Partners SWITCH 2022](/images/2023/Sponsors%20&%20Partners/beyond%20content%20partners%20(2400%20x%20800%20px).png)
 
 ##### SLINGSHOT Partners
-![Community Partners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/slingshot%20partners%20for%20switch%20website.png)
+![Community Partners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/slingshot%20partners%20(2400%20x%206300%20px).png)
 
 ##### Organised By
 ![Organised by SWITCH 2022](/images/2023/Sponsors%20&%20Partners/organised%20by.png)
