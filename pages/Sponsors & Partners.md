@@ -3,7 +3,7 @@ title: Sponsors & Partners
 permalink: /sponsors-partners/
 description: ""
 ---
-**2022 Sponsors & Partners**
+**2023 Sponsors & Partners**
 
 ##### Platinum Sponsor
 ![Platinm sponsor SWITCH 2023](/images/2023/Sponsors%20&%20Partners/platinum%20sponsors.png)
