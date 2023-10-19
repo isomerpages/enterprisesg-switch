@@ -18,14 +18,10 @@ Connect with these high-potential startups and explore opportunities in deal-flo
 **The 2023 Challenge Domains are:**
 
 *   Transformative Digital Technologies
-    
-*   Environment, Energy and Green Technologies
-    
-*   Consumer Media, Goods and Services
-    
 *   Health and Biomedical
-    
+*   Consumer Media, Goods and Services
 *   Manufacturing, Trade and Connectivity
+*   Environment, Energy and Green Technologies
 
 #### [➞ Get your tickets here!](/register)
 
