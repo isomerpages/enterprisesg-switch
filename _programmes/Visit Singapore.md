@@ -3,7 +3,7 @@ title: Visit Singapore
 permalink: /programmes/visit-singapore/
 description: ""
 ---
-[**![](https://lh5.googleusercontent.com/P26RSxQsiHCSTXmXBH1dS_XkU_zYcSS4fd8hjVWgfUrJhiyQY2d9Lf4FJ8gRPtzT9hqdZGe2chZ4Vz85249L26j9Wd5dxcYAhcdEs337f8tXZrcPqgW-RU0wYCdL7WIEicxncWd66T1Yslm63MhBiw)**](**[https://www.visitsingapore.com/en/](https://www.visitsingapore.com/en/)**)
+[**![](https://lh5.googleusercontent.com/P26RSxQsiHCSTXmXBH1dS_XkU_zYcSS4fd8hjVWgfUrJhiyQY2d9Lf4FJ8gRPtzT9hqdZGe2chZ4Vz85249L26j9Wd5dxcYAhcdEs337f8tXZrcPqgW-RU0wYCdL7WIEicxncWd66T1Yslm63MhBiw)**]([https://www.visitsingapore.com/en/])
 [**![](https://lh6.googleusercontent.com/Z1zSw-n__LTJvFVw0m5kIm3VcBRlMCwrDclZZ7pDAsprvk9vYikl39Follmy9-NtiegxqpDYnuhD5tp3y5GDHJxyMwoTDoUB-8LDf6OUO4uLltEdG9mka4kbnB9jghVWYNdJHWISYxKgZ_86rGEokQ)**](https://www.visitsingapore.com/dining-drinks-singapore/)
 [**![](https://lh5.googleusercontent.com/Tw2lyfgVlxI63ZMD6h8rGlprfpymXh4-NoSSyd9WxOSLTU0IUZL1uW6w9yl3_JYFt_3ZzZwN7lxM_4U_-01aVz0iZ1clm3zAxz4rd9hKzW_ipm05eHo7L64Zxk78scp4aYKh3JdII-N8tBFz9TMXuQ)**](https://www.visitsingapore.com/singapore-shopping/)
 [**![](https://lh5.googleusercontent.com/IzsGD-Xx6qbVLmGdG-vcWVY8F-CaYsLHE_nNRBd1PLnCXEc9ZdTPK9UIPg_bQ7JkJdEF3zcyk6CdClf03uJ63VMqqAB_924EK7iMd6ZROCoBi0C7HXrmqi7FzuLVEtQXaSRW_l77Vra5QjNDJK5S5A)**](https://www.visitsingapore.com/singapore-itineraries/)
