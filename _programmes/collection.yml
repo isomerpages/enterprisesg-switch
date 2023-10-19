@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Networking Zone.md
       - SWITCH Beyond Series/.keep
       - SWITCH Beyond Series/Overview & Agenda.md
       - SWITCH Beyond Series/Speakers.md
@@ -21,8 +20,8 @@ collections:
       - SWITCH @ one north/Let’s Connect Stage.md
       - SWITCH @ one north/Experiential Showcases.md
       - SWITCH @ one north/Startup Career Fair.md
-      - Innovation Lab Crawls/Overview.md
       - Innovation Lab Crawls/.keep
+      - Innovation Lab Crawls/Overview.md
       - Innovation Lab Crawls/Group 1A.md
       - Innovation Lab Crawls/Group 1B.md
       - Innovation Lab Crawls/Group 2A.md
@@ -30,4 +29,5 @@ collections:
       - Innovation Lab Crawls/Group 3A.md
       - Innovation Lab Crawls/Group 3B.md
       - Year Long Innovation.md
+      - Networking Zone.md
       - Visit Singapore.md
