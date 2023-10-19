@@ -6,27 +6,31 @@ description: ""
 **2022 Sponsors & Partners**
 
 ##### Platinum Sponsor
-![Platinum sponsor SWITCH 2022](/images/sponsor%20cards/sponsor%20cards%20(2022)/platinum%20sponsor.png)
+![Platinm sponsor SWITCH 2023](/images/2023/Sponsors%20&%20Partners/platinum%20sponsors.png)
 
 ##### Gold Sponsors
-![Gold Sponsors SWITCH 2022](/images/sponsors%20&%20partners_cards%20(15).png)
+![Gold Sponsors SWITCH 2023](/images/2023/Sponsors%20&%20Partners/gold%20sponsors.png)
 
 ##### Silver Sponsors
-![Silver Sponsors SWITCH 2022](/images/sponsors%20&%20partners_cards%20(11).png)
+![Silver Sponsors SWITCH 2023](/images/2023/Sponsors%20&%20Partners/silver%20sponsors.png)
 
 ##### Global Partners
-![Global Partners SWITCH 2022](/images/sponsors%20&%20partners_cards%20(20).png)
+![Global Partners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/global%20partners.png)
 
-##### SLINGSHOT Corporate Partners 
-![SLINGSHOT Corporate Partners](/images/corporate%20partners%20final.png)
+##### Official Media Partner
+![Official Media PArtners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/official%20media%20partners.png)
 
-##### Strategic Media Partners
-![STrategic Media PArtners SWITCH 2022](/images/sponsor%20cards/sponsor%20cards%20(2022)/strategic%20media%20%20partners.png)
+##### Official Airlines Partner
+![Official Airlines Partners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/official%20airline%20partner.png)
 
-##### Content Partners
+##### Held in
+![Held in SWITCH 2023]
+![](/images/2023/Sponsors%20&%20Partners/held%20in.png)
+
+##### Content Partners NEED TO CHANGE
 ![Beyond Content Partners SWITCH 2022](/images/sponsors%20&%20partners_cards%20(21).png)
 
-##### Community Partners 
+##### Community Partners NEED TO CHANGE
 ![Community Partners SWITCH 2022](/images/community%20partners%202022_cards%20(3).png)
 
 ##### Organised by
