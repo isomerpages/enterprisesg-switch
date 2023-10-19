@@ -24,8 +24,13 @@ description: ""
 ![Official Airlines Partners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/official%20airline%20partner.png)
 
 ##### Held in
-![Held in SWITCH 2023]
-![](/images/2023/Sponsors%20&%20Partners/held%20in.png)
+![Held in SWITCH 2023](/images/2023/Sponsors%20&%20Partners/held%20in.png)
+
+##### With Support By
+![With Support By SWITCH 2023](/images/2023/Sponsors%20&%20Partners/with%20support%20by.png)
+
+##### Supporting Partners
+![Held in SWITCH 2023](/images/2023/Sponsors%20&%20Partners/supporting%20partners.png)
 
 ##### Content Partners NEED TO CHANGE
 ![Beyond Content Partners SWITCH 2022](/images/sponsors%20&%20partners_cards%20(21).png)
@@ -33,5 +38,11 @@ description: ""
 ##### Community Partners NEED TO CHANGE
 ![Community Partners SWITCH 2022](/images/community%20partners%202022_cards%20(3).png)
 
-##### Organised by
-![Evergreen SWITCH 2022](/images/sponsor%20cards/sponsor%20cards%20(2022)/evergreen.png)
+##### Organised By
+![Organised by SWITCH 2022](/images/2023/Sponsors%20&%20Partners/organised%20by.png)
+
+##### Premier Partners
+![Evergreen SWITCH 2022](/images/2023/Sponsors%20&%20Partners/premier%20partners.png)
+
+##### Supported By
+![Evergreen SWITCH 2022](/images/2023/Sponsors%20&%20Partners/supported%20by.png)
