@@ -32,8 +32,8 @@ description: ""
 ##### Supporting Partners
 ![Held in SWITCH 2023](/images/2023/Sponsors%20&%20Partners/supporting%20partners.png)
 
-##### Content Partners NEED TO CHANGE
-![Beyond Content Partners SWITCH 2022](/images/sponsors%20&%20partners_cards%20(21).png)
+##### Content Partners
+![Beyond Content Partners SWITCH 2022](/images/2023/Sponsors%20&%20Partners/beyond%20content%20partners.png)
 
 ##### Community Partners NEED TO CHANGE
 ![Community Partners SWITCH 2022](/images/community%20partners%202022_cards%20(3).png)
