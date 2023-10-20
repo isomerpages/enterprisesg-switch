@@ -2,6 +2,7 @@ collections:
   partner-events:
     output: true
     order:
+      - GIA 1 to 1 Market Discovery.md
       - AIMX 2023.md
       - Circular Economy Innovation Day 2023.md
       - FUTR Asia 2023.md
