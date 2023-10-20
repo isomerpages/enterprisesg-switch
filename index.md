@@ -66,6 +66,15 @@ sections:
       image: /images/2023/photos/switch_one_north_03_1200p.jpg
       alt: A showcase featuring a drone.
   - infopic:
+      title: Step into an Immersive Innovation Journey
+      subtitle: Innovation Showcase
+      id: infopic
+      description: Hop on a startup’s journey in Singapore’s vibrant innovation ecosystem!
+      button: Learn more
+      url: /programmes/innovation-showcase/overview/
+      image: /images/2023/innovation showcase.png
+      alt: Image alt text
+  - infopic:
       title: Innovation-centric companies partner with SWITCH
       subtitle: PARTNER WITH US
       description: When it comes to innovation-driven businesses, they partner with

@@ -20,4 +20,4 @@ SWITCH Global convenes established leaders from innovation ecosystems, global tr
 
 **Your 2023 Speakers**
 
-![2023 SWITCH Highlight Speakers](/images/2023/Speakers/2023_switch_highlight%20speakers_all%20stages_v1_1200p.png)
+![](/images/2023/Speakers/2023%20switch%20highlight%20speakers%20(all%20stages)__v2.jpg)

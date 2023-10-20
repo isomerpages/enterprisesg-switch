@@ -1,5 +1,5 @@
 ---
-title: Doman Finals & Grand Finals
+title: Domain Finals & Grand Finals
 permalink: /2023/programmes/slingshot/domain-grand-finals/
 description: Catch the finals of Asia’s premier deep tech startup
   pitching  competition! Watch the top 50 global startups pitch to an audience
