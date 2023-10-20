@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - GIA Market Discovery Clinics/.keep
       - SWITCH Beyond Series/.keep
       - SWITCH Beyond Series/Overview & Agenda.md
       - SWITCH Beyond Series/Speakers.md
@@ -29,6 +28,7 @@ collections:
       - Innovation Lab Crawls/Group 2B.md
       - Innovation Lab Crawls/Group 3A.md
       - Innovation Lab Crawls/Group 3B.md
+      - GIA Market Discovery Clinics/.keep
       - Year Long Innovation.md
       - Networking Zone.md
       - Visit Singapore.md
