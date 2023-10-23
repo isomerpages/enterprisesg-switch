@@ -18,5 +18,4 @@ Access the SWITCH Global Stage and SLINGSHOT Stage with a Free SWITCH Trade Pass
 #### [➞ Get your tickets here!](/register)
 
 #### Your speakers at SWITCH 2023
-
-![](/images/2023/Speakers/2023%20switch%20highlight%20speakers%20(all%20stages)__v2.jpg)
+![](/images/2023/Speakers/2023%20switch%20highlight%20speakers%20(all%20stages)_v2.jpg)

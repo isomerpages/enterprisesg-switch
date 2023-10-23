@@ -4,10 +4,9 @@ permalink: /programmes/gia-market-discovery-clinics/
 description: ""
 third_nav_title: Innovation Showcase
 ---
-![A black and white background with white text
-Description automatically generated](https://lh7-us.googleusercontent.com/8gd1sIpID2F8AiVywf_zBWV_vBNR7yMIS6WKUndHzwK794kKLH_hEoT2tLPk-akc6_ZJaWw4bw_72JTGQm2lNfH6Uw3qQSDEYxzXsbg89FT4tiRd7BT0t9Q1BF5q2OWleWWPFcOgP79LfEHH_wRGww)
+#### About Global Innovation Alliance 1 to 1 Market Discovery
 
-  
+![](/images/2023/gia%20clinics%20(at%20switch)%20micepad%20banner%20(1200%20x%20800%20px).png)
 
 Interested to expand into a new market, and looking for connections and knowledge? Sign up for 1-to-1 Market Discovery sessions conducted by in-market partners of the Global Innovation Alliance (GIA). Participants can gain market insights and consult our GIA partners on the potential market fit of their product. Participants will also learn about the various GIA Acceleration Programmes, which are highly subsidised market expansion programmes.&nbsp;
 
