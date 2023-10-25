@@ -29,7 +29,7 @@ SWITCH Global has convened established leaders from innovation ecosystems, globa
 ***
 ##### **SWITCH Global Agenda (31 Oct 2023)**
 
-![SWITCH 2023 Global Agenda Day 1](/images/2023/agendas/Global/2023%20agenda%20(global)_day%201_25%20oct.png)
+![SWITCH 2023 Global Agenda Day 1](/images/2023/agendas/Global/2023%20agenda%20(global)_day%201_26%20oct.png)
 
 <sup>**Agenda is subject to change.*</sup>
 
@@ -38,7 +38,7 @@ SWITCH Global has convened established leaders from innovation ecosystems, globa
 ***
 ##### **SWITCH Global Agenda (1 Nov 2023)**
 
-![SWITCH 2023 Global Agenda Day 2](/images/2023/agendas/Global/2023%20agenda%20(global)_day%202_25%20oct.png)
+![SWITCH 2023 Global Agenda Day 2]![](/images/2023/agendas/Global/2023%20agenda%20(global)_day%202_26%20oct.png)
 
 <sup>**Agenda is subject to change.*</sup>
 
