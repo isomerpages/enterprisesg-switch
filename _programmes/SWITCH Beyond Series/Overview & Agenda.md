@@ -56,7 +56,7 @@ To steer conversations and spearhead cross-sector collaborations in the Green Tr
 
 **Agenda: Day 2**
 
-![SWITCH 2023 Beyond Day 2 Agenda: Green Transition and Net Zero in Asia](/images/2023/agendas/Beyond/2023%20agenda%20(beyond%20day%202)%20-%20as%20of%2029%20sep%202023.png)
+![](/images/2023%20agenda%20(beyond%20day%202)%20-%20as%20of%2024%20oct%202023.png)
 
 <sup>**Agenda is subject to change.*</sup>
 
