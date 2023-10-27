@@ -1,0 +1,12 @@
+collections:
+  partner-events:
+    output: true
+    order:
+      - AIMX 2023.md
+      - Circular Economy Innovation Day 2023.md
+      - FUTR Asia 2023.md
+      - SGTech Global Future Series 2023.md
+      - SME Tech Day 2023.md
+      - TechInnovation 2023.md
+      - US Market Spotlight.md
+      - IPOS Where Blockchain Meets IP.md

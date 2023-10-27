@@ -1,0 +1,68 @@
+title: Singapore Week of Innovation and Technology | 31 Oct–2 Nov 2023 | Marina
+  Bay Sands, Sands Expo & Convention Centre
+url: https://switchsg.org
+favicon: /images/logos/switch-logo_eng-light_bg_sq.jpg
+colors:
+  primary-color: "#f4333d"
+  secondary-color: "#f4333d"
+  media-colors:
+    - title: media-color-one
+      color: "#f4333d"
+    - title: media-color-two
+      color: "#4e4d4d"
+    - title: media-color-three
+      color: "#f4333d"
+    - title: media-color-four
+      color: "#f4333d"
+    - title: media-color-five
+      color: "#f4333d"
+resources_name: example-resource
+description: The Singapore Week of Innovation and Technology (SWITCH) brings
+  together leaders, entrepreneurs, creators, accelerators and investors from the
+  Global-Asia innovation ecosystem. Through the open exchange of new ideas,
+  vibrant networks and a line-up of innovation-centric activities, SWITCH
+  provides a global platform to catalyse meaningful collaboration between
+  different fields and markets. The focus industries include healthcare &
+  biomedical sciences, smart cities & urban solutions, trade & connectivity, and
+  emerging sustainable technologies.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d3cpov96j8dxzr.amplifyapp.com/
+prod: https://master.d3cpov96j8dxzr.amplifyapp.com/
+is_government: false
+google_analytics: UA-124054828-1
+shareicon: /images/2023/photos/switch_highlight_1.jpg
+facebook-pixel: ""
+linkedin-insights: ""
+google_analytics_ga4: G-0TWE6PTJ1E

@@ -1,0 +1,76 @@
+---
+title: Group 2A
+permalink: /programmes/innovation-lab-crawls/group-2a/
+description: The Singapore Week of Innovation and Technology (SWITCH) brings
+  together leaders, entrepreneurs, creators, accelerators and investors from the
+  Global-Asia innovation ecosystem. Through the open exchange of new ideas,
+  vibrant networks and a line-up of innovation-centric activities, SWITCH
+  provides a global platform to catalyse meaningful collaboration between
+  different fields and markets. The focus industries include healthcare &
+  biomedical sciences, smart cities & urban solutions, trade & connectivity, and
+  emerging sustainable technologies.
+image: /images/2023/photos/switch_highlight_1.jpg
+third_nav_title: Innovation Lab Crawls
+---
+#### Details
+
+<table style="border:none;border-collapse:collapse;"><colgroup><col width="240"><col width="576"></colgroup><tbody><tr style="height:50.4pt"><td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;background-color:#efefef;padding:5.76pt 5.76pt 5.76pt 5.76pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Name of Segment:</span></p></td><td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:5.76pt 5.76pt 5.76pt 5.76pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Innovation Lab Crawls at one-north (led by JTC) - Group 2A</span></p></td></tr><tr style="height:50.4pt"><td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;background-color:#efefef;padding:5.76pt 5.76pt 5.76pt 5.76pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Reporting Address:</span></p></td><td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:5.76pt 5.76pt 5.76pt 5.76pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">one-north Gallery</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Level 21 Symbiosis Tower, 3 Fusionopolis Way, Singapore 138633</span></p></td></tr><tr style="height:50.4pt"><td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;background-color:#efefef;padding:5.76pt 5.76pt 5.76pt 5.76pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Date:</span></p></td><td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:5.76pt 5.76pt 5.76pt 5.76pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Thu, 2 Nov 2023</span></p></td></tr><tr style="height:50.4pt"><td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;background-color:#efefef;padding:5.76pt 5.76pt 5.76pt 5.76pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tour Slot:</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(Singapore Time / UTC +8)</span></p></td><td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:5.76pt 5.76pt 5.76pt 5.76pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Group 2A</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> (9.30am–1.30pm, 2 Nov 2023)</span></p></td></tr><tr style="height:50.4pt"><td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;background-color:#efefef;padding:5.76pt 5.76pt 5.76pt 5.76pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Route</span></p></td><td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:5.76pt 5.76pt 5.76pt 5.76pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">JTC: one-north Gallery</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(9.30am–10.15am)</span></p><br><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">HATCH at LaunchPad</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(10.30am–11.15am)</span></p><br><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">ION Mobility at LaunchPad</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(11.30am–12.15pm)</span></p><br><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Wilmar HQ at one-north</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(12.30–1.15pm)</span></p></td></tr><tr style="height:50.4pt"><td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;background-color:#efefef;padding:5.76pt 5.76pt 5.76pt 5.76pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Price:</span></p></td><td style="border-left:solid #d9d9d9 1pt;border-right:solid #d9d9d9 1pt;border-bottom:solid #d9d9d9 1pt;border-top:solid #d9d9d9 1pt;vertical-align:middle;padding:5.76pt 5.76pt 5.76pt 5.76pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Free</span></p></td></tr></tbody></table>
+
+**[Register for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
+
+<sup>*To attend an innovation lab crawl tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)*</sup>
+
+***
+
+#### Labs you will visit
+
+#### HATCH
+
+![SWITCH Innovation Lab Crawls at HATCH](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_hatch.png)
+<sup>Photo courtesy of [HATCH](https://thehatchx.com/)</sup>
+
+Established by Home Team Science and Technology Agency (HTX), Hatch brings technologies from companies across the globe to trailblaze innovations for public safety and security.
+
+One of our core programmes is the Open Innovation Challenge, which seeks to validate dual-use technologies from international start-ups through collaborative development with operational end-users and technical staff.
+
+At our innovation hub in LaunchPad, our Hatch &amp; Match programme conducts market trend analysis, scouting start-ups and validating emerging technologies and start-ups across industry verticals.
+
+**HATCH Lab Crawl Details**
+* Name of Lab: HATCH    
+* Lab Address: 79 Ayer Rajah Crescent #04-03/04, Singapore 139955
+
+***
+
+#### ION Mobility
+![SWITCH Innovation Lab Tours at ION Mobility](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_ionmobility.jpg)
+<sup>_Photo courtesy of [ION Mobility](https://ionmobility.com/)_</sup>
+	
+ION Mobility is an automotive and technology OEM on a mission to create aspirational products and sustainable solutions, beginning with electric motorcycles (E2Ws) and energy storage systems (ESS). Our vision is to be Southeast Asia’s top technology company leading our region’s transition towards a low-carbon economy across Southeast Asia.
+
+Founded in 2019, Singaporean-startup ION Mobility unveiled the M1-S electric motorcycle to consumers at the 2022 Indonesia Motorcycle Show (IMOS) in Jakarta after approximately 2.5 years of multi-disciplinary R&amp;D. Since its unveiling, ION Mobility has been setting up a manufacturing and assembly factory in Karawang in West Java, a larger and more mature version of ION Mobility’s assembly line inside Block 67 at JTC LaunchPad.
+
+Join us to see the internal workings of an EV battery and how a pack is assembled, feel the instant torque delivered by the M1-S on a motorcycle dynamometer and watch the M1-S take off and reach 50 km/h in 3.7 seconds from standstill.
+
+**ION Mobility Lab Crawl Details**
+* Name of Lab: ION Mobility
+* Lab Address: Blk 67 Ayer Rajah Crescent, #01-05, Singapore 139950
+	
+***
+
+#### Wilmar
+
+![SWITCH Innovation Lab Tours at Wilmar](/images/2023/Lab%20Crawls/2023_switch_lab_crawls_wilmar.jpg)
+<sup>_Photo courtesy of [Wilmar](https://www.wilmar-international.com/)_</sup>
+
+Wilmar International Limited, founded in 1991 and headquartered in Singapore, is today Asia’s leading agribusiness group. Collaborating with established scientists and researchers in world-class facilities, Wilmar carries out robust research and development (R&amp;D) activities focused on improving manufacturing processes to enhance the quality of existing products as well as to develop new and innovative ones. This collective R&amp;D effort has resulted in 371 patents granted to date.
+
+**Wilmar Lab Crawl Details**
+* Name of Lab: Wilmar
+* Lab Address: 28 Biopolis Road, Singapore 138568
+
+
+***
+
+**[Register for Innovation Lab Crawl ➞](https://form.gov.sg/651a2ea118495900138c314a)**
+
+<sup>*To attend an innovation lab crawl tour, you will need a SWITCH Trade Pass or SWITCH Beyond Pass. [Get your pass here ➞](/register)*</sup>

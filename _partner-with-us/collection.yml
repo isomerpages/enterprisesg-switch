@@ -1,0 +1,7 @@
+collections:
+  partner-with-us:
+    output: true
+    order:
+      - Partner with us.md
+      - Who attends SWITCH.md
+      - Previous Sponsors and Partners.md

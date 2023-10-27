@@ -1,0 +1,5 @@
+collections:
+  2023-event-guide:
+    output: true
+    order:
+      - Switch 2023 Event Guide.md

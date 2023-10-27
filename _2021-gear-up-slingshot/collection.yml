@@ -1,0 +1,12 @@
+collections:
+  2021-gear-up-slingshot:
+    output: true
+    order:
+      - overview.md
+      - programme/.keep
+      - programme/full-agenda.md
+      - programme/day-1.md
+      - programme/day-2.md
+      - programme/day-3.md
+      - pitch-coaching.md
+      - mentor-clinics.md
