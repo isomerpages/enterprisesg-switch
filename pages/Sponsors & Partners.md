@@ -39,7 +39,7 @@ description: ""
 ![Beyond Content Partners SWITCH 2022](/images/2023/Sponsors%20&%20Partners/beyond%20content%20partners%20(2400%20x%20800%20px).png)
 
 ##### SLINGSHOT Partners
-![Community Partners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/slingshot%20partners%20(2400%20x%205500%20px).png)
+![Community Partners SWITCH 2023](/images/2023/Sponsors%20&%20Partners/slingshot%20partners%20(2400%20x%205500%20px)_31%20oct.jpg)
 
 ##### Organised By
 ![Organised by SWITCH 2022](/images/2023/Sponsors%20&%20Partners/organised%20by.png)
