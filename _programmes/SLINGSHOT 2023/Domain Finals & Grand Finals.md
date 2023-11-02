@@ -20,10 +20,25 @@ The first runner-up was **Bering Lab Inc.**, which provides domain-specific tran
 #### Top 10 Grand Finalists
 ![](/images/2023/a1b09702.JPG)
 
-**Transformative Digital Technologies**
+##### Transformative Digital Technologies
 * Bering Lab
 * MetaTrust Labs
 
+##### Health &amp; Biomedical
+* Kinexcs
+* Somnial 
+
+##### Consumer Media, Goods &amp; Services
+* Krosslinker
+* Bonocle
+
+##### Manufacturing, Trade &amp; Connectivity
+* FLITE Material Science Corp
+* AP PLASMA Corporation
+
+##### Environment, Energy &amp; Green Technologies
+* Emrod
+* Thermalytica
 
 
 ***
