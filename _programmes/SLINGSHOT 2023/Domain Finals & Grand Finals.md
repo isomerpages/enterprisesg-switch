@@ -8,7 +8,7 @@ image: /images/winnerr.png
 third_nav_title: SLINGSHOT 2023
 variant: markdown
 ---
-#### SLINGSHOT 2023 Grand Winner
+#### SLINGSHOT 2023 Winners
 ![](/images/2023/st5_4082-min.JPG)
 
 Imagine energy-efficient household appliances, sustainable construction practices, and the realisation of net-zero energy buildings. This is a future made possible through the novel tech solution offered by **Thermalytica Inc**., which emerged as
