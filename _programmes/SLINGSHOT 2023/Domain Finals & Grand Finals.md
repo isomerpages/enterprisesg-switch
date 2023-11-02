@@ -40,7 +40,6 @@ The first runner-up was **Bering Lab Inc.**, which provides domain-specific tran
 * Emrod
 * Thermalytica
 
-
 ***
 
 #### Top 50 Global Startups
