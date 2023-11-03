@@ -6,48 +6,39 @@ description: Catch the finals of Asia’s premier deep tech startup pitching
   investors and industry leaders to vie for the top prize at the  grand finals.
 image: /images/winnerr.png
 third_nav_title: SLINGSHOT 2023
+variant: markdown
 ---
-![](/images/winnerr.png)
+#### SLINGSHOT 2023 Winners
+![](/images/2023/st5_4082-min.JPG)
 
-##### **Meet the Top 50 startups from SLINGSHOT 2023!**
+Imagine energy-efficient household appliances, sustainable construction practices, and the realisation of net-zero energy buildings. This is a future made possible through the novel tech solution offered by **Thermalytica Inc**., which emerged as
+the Grand Winner of SLINGSHOT 2023.
 
-Catch the finals of Asia’s premier deep tech startup pitching competition! Watch the top 50 global startups pitch to an audience of major investors and industry leaders to vie for the top prize at the grand finals.
-
-Connect with these high-potential startups and explore opportunities in deal-flow or collaboration!
-
-**The 2023 Challenge Domains are:**
-
-*   Transformative Digital Technologies
-*   Health and Biomedical
-*   Consumer Media, Goods and Services
-*   Manufacturing, Trade and Connectivity
-*   Environment, Energy and Green Technologies
-
-#### [➞ Get your tickets here!](/register)
+The first runner-up was **Bering Lab Inc.**, which provides domain-specific translation engines and tools powered by Artificial Intelligence (AI) for the legal and patent industries; while the second runner-up was **Kinexcs Private Limited**, an AI-driven digital health and wearables company focused on enabling mobility for patients with musculoskeletal conditions. 
 
 ***
+#### Top 10 Grand Finalists
+![](/images/2023/a1b09702.JPG)
 
-#### Day 1: Tuesday, 31 October 2023
+##### Transformative Digital Technologies
+* Bering Lab
+* MetaTrust Labs
 
-![2023 SWITCH Opening Address by Mr Heng Swee Keat](/images/2023/Banners/2023_switch_leaderboard_dpm_heng_(728x90)_v2.png)
+##### Health &amp; Biomedical
+* Kinexcs
+* Somnial 
 
-![](/images/2023%20agenda%20(slingshot%20day%201)%20-%20as%20of%202%20oct%202023%20(4).png)
+##### Consumer Media, Goods &amp; Services
+* Krosslinker
+* Bonocle
 
-#### Day 2: Wednesday, 1 November 2023
+##### Manufacturing, Trade &amp; Connectivity
+* FLITE Material Science Corp
+* AP PLASMA Corporation
 
-![2023 SWITCH Leaderboard Banner Garry Tan, CEO, Y Combinator](/images/2023/Banners/2023_switch_leaderboard_garry%20tan%20(728x90)_v2.png)
-
-![](/images/2023%20agenda%20(slingshot%20day%202)%20-%20as%20of%202%20oct%202023.png)
-
-
-#### Day 3: Thursday, 2 November 2023
-
-![2023 SWITCH Leaderboard Banner Shailendra Singh, MD, Peak XV](/images/2023/Banners/2023_switch_leaderboard_shailendra%20singh%20(728x90)_v2.png)
-
-![](/images/2023%20agenda%20(slingshot%20day%203)%20-%20as%20of%202%20oct%202023.png)
-
-
-#### [➞ Get your tickets here!](/register)
+##### Environment, Energy &amp; Green Technologies
+* Emrod
+* Thermalytica
 
 ***
 
