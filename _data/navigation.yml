@@ -8,10 +8,10 @@ links:
   - title: COMMUNITY
     url: /example-resource/
     sublinks:
-      - title: Blog
-        url: /example-resource/blog
       - title: Events & Initiatives
         url: /example-resource/events-and-initiatives/
+      - title: Blog
+        url: /example-resource/blog
       - title: Mailing List
         url: http://eepurl.com/iqDazw
   - title: PARTNER WITH US
