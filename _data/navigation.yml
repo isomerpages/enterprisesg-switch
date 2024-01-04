@@ -16,6 +16,11 @@ links:
         url: /example-resource/blog
       - title: Mailing List
         url: http://eepurl.com/iqDazw
+  - title: SLINGSHOT
+    url: /
+    sublinks:
+      - title: 2023 Edition
+        url: /slingshot/2023-edition/
   - title: PARTNER WITH US
     url: /partner-with-us/
     sublinks:
