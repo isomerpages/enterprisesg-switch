@@ -35,6 +35,17 @@ sections:
       url: https://www.youtube.com/watch?v=wSJ82Mn61bc
       image: /images/2023/innovation showcase.png
       alt: SWITCH 2023 Highlight Video
+  - infopic:
+      title: SLINGSHOT your startup to new heights!
+      subtitle: Startup Pitching Competition
+      id: infopic
+      description: For startup teams of high-potential solutions eager to build, test
+        & grow with Singapore's exceptional tech infrastructure & network. 2024
+        edition opening soon!
+      button: Learn more
+      url: /slingshot/2023-edition/
+      image: /images/2023/a1b09702.JPG
+      alt: Image alt text
   - resources:
       title: News and Happenings
       subtitle: Explore
