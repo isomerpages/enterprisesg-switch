@@ -1,5 +1,10 @@
 logo: /images/logos/switch2023_logo_fa_full_colour.png
 links:
+  - title: ABOUT
+    url: /about
+    sublinks:
+      - title: About us
+        url: /about
   - title: COMMUNITY
     url: /example-resource/
     sublinks:
@@ -14,19 +19,6 @@ links:
     sublinks:
       - title: Partner with us
         url: /partner-with-us/
-  - title: ABOUT
-    url: /about
-    sublinks:
-      - title: About us
-        url: /about
-      - title: About SWITCH 2023
-        url: /2023/experience/
-      - title: At a Glance
-        url: /2023/flagship/
-      - title: Speakers
-        url: /2023/flagship/speakers/
-      - title: Sponsors & Partners
-        url: /sponsors-partners/
   - title: PAST EDITIONS
     url: https://go.gov.sg/switch-2023-event-guide-v19
     sublinks:
