@@ -1,5 +1,19 @@
 logo: /images/logos/switch2023_logo_fa_full_colour.png
 links:
+  - title: COMMUNITY
+    url: /example-resource/
+    sublinks:
+      - title: Blog
+        url: /example-resource/blog
+      - title: Events & Initiatives
+        url: /example-resource/events-and-initiatives/
+      - title: Mailing List
+        url: http://eepurl.com/iqDazw
+  - title: PARTNER WITH US
+    url: /partner-with-us/
+    sublinks:
+      - title: Partner with us
+        url: /partner-with-us/
   - title: ABOUT
     url: /about
     sublinks:
@@ -13,76 +27,6 @@ links:
         url: /2023/flagship/speakers/
       - title: Sponsors & Partners
         url: /sponsors-partners/
-  - title: PROGRAMMES
-    url: /2023/programmes/beyond-series/
-    sublinks:
-      - title: BEYOND Series
-        url: /2023/programmes/beyond-series/
-      - title: GLOBAL Conference
-        url: /2023/programmes/global-conference/
-      - title: SLINGSHOT 2023
-        url: /2023/programmes/slingshot/domain-grand-finals/
-      - title: SWITCH @ one-north
-        url: /2023/programmes/switch-at-one-north/
-      - title: Innovation Lab Crawls
-        url: /programmes/innovation-lab-crawls/
-      - title: Innovation Showcase
-        url: /programmes/innovation-showcase/overview/
-      - title: Networking Zone
-        url: /programmes/networking-zone/
-      - title: Year Long Innovation
-        url: /programmes/innovation-lab-crawls/
-      - title: Visit Singapore
-        url: /programmes/visit-singapore/
-  - title: PARTNER EVENTS
-    url: /2023/partner-events/aimx/
-    sublinks:
-      - title: AIMX
-        url: /2023/partner-events/aimx/
-      - title: Circular Economy InnovationDay
-        url: /2023/partner-events/circular-economy-innovation-day/
-      - title: FUTR Asia
-        url: /2023/partner-events/futr-asia/
-      - title: SGTech Global Future Series
-        url: /2023/partner-events/sgtech-global-future-series/
-      - title: SME Tech Day
-        url: /2023/partner-events/sme-tech-day/
-      - title: TechInnovation
-        url: /2023/partner-events/techinnovation/
-      - title: US Market Spotlight
-        url: /partner-events/us-market-spotlight/
-      - title: IPOS Where Blockchain Meets IP
-        url: /partner-events/ipos-where-blockchain-meets-ip
-  - title: RESOURCES
-    url: /example-resource/
-    sublinks:
-      - title: Blog
-        url: /example-resource/blog
-      - title: Events & Initiatives
-        url: /example-resource/events-and-initiatives/
-  - title: CONNECT
-    url: /
-    sublinks:
-      - title: Mailing List
-        url: http://eepurl.com/iqDazw
-      - title: SWITCH Platform
-        url: /platform
-  - title: PARTNER WITH US
-    url: /partner-with-us/
-    sublinks:
-      - title: Partner with us
-        url: /partner-with-us/
-      - title: Download Prospectus
-        url: https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1
-      - title: Official Airline
-        url: /2023/official-airline-singapore-airlines/
-  - title: GET YOUR PASS
-    url: https://2023.switchsg.org/qA08l?RefId=Isomer
-    sublinks:
-      - title: Ticket Info
-        url: /register
-      - title: Register for SWITCH 2023
-        url: https://2023.switchsg.org/qA08l?RefId=Isomer
   - title: PAST EDITIONS
     url: https://go.gov.sg/switch-2023-event-guide-v19
     sublinks:
