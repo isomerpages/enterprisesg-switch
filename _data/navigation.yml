@@ -13,8 +13,6 @@ links:
         url: /2023/flagship/speakers/
       - title: Sponsors & Partners
         url: /sponsors-partners/
-  - title: Event Guide
-    url: https://go.gov.sg/switch-2023-event-guide-v19
   - title: PROGRAMMES
     url: /2023/programmes/beyond-series/
     sublinks:
@@ -85,3 +83,12 @@ links:
         url: /register
       - title: Register for SWITCH 2023
         url: https://2023.switchsg.org/qA08l?RefId=Isomer
+  - title: PAST EDITIONS
+    url: https://go.gov.sg/switch-2023-event-guide-v19
+    sublinks:
+      - title: "2023"
+        url: https://go.gov.sg/switch-2023-event-guide-v19
+      - title: "2022"
+        url: /switch_2022-event_guide_web_v4
+      - title: "2021"
+        url: https://directory.switchsg.org
