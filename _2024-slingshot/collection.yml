@@ -1,4 +1,5 @@
 collections:
   2024-slingshot:
     output: true
-    order: []
+    order:
+      - 2023 Edition.md
