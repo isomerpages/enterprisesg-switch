@@ -1,5 +1,5 @@
 collections:
-  programmes:
+  2023-programmes:
     output: true
     order:
       - SWITCH Beyond Series/.keep
