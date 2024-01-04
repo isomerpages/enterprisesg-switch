@@ -5,6 +5,8 @@ links:
     sublinks:
       - title: About us
         url: /about
+      - title: Sponsors & Partners
+        url: /sponsors-partners/
   - title: COMMUNITY
     url: /example-resource/
     sublinks:
