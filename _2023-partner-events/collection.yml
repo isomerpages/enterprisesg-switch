@@ -1,5 +1,5 @@
 collections:
-  partner-events:
+  2023-partner-events:
     output: true
     order:
       - AIMX 2023.md
