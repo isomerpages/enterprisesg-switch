@@ -10,6 +10,7 @@ description: The Singapore Week of Innovation and Technology (SWITCH) brings
   biomedical sciences, smart cities & urban solutions, trade & connectivity, and
   emerging sustainable technologies.
 image: /images/2023/connect with your next client.jpg
+variant: markdown
 ---
 ![](/images/2023/shortlist_exhibition_showcase_2.jpg)
 
@@ -19,7 +20,7 @@ When it comes to innovation-driven businesses, they partner with SWITCH - and fo
 
 Join leading companies like AWS, TikTok and Google Cloud in being at the forefront in paving the way for innovation and technology.
 
-[Download the 2023 Sponsorship & Exhibition prospectus >>](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1)
+<a href="mailto:partnerships@switchsg.org?subject=I would like to learn more about the opportunities at SWITCH 2024">Connect with our Partnerships team today!</a>
 
 ### Why partner with SWITCH?
 
@@ -39,4 +40,4 @@ Build valuable relationships with the people most important to you at festival t
 ##### Connect with your next client
 Gain qualified leads with leading innovation and technology players, where SWITCH attendees are actively seeking out brands like yours.
 
-[Download the 2023 Sponsorship & Exhibition prospectus >>](https://forms.monday.com/forms/4ae0e80795707021ca480047c3a90d66?r=use1)
+<a href="mailto:partnerships@switchsg.org?subject=I would like to learn more about the opportunities at SWITCH 2024">Connect with our Partnerships team today!</a>
