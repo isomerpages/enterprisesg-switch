@@ -1,5 +1,5 @@
 collections:
-  programmes:
+  2023-programmes:
     output: true
     order:
       - SWITCH Beyond Series/.keep
@@ -9,7 +9,6 @@ collections:
       - SWITCH Global Stage/Overview & Agenda.md
       - SWITCH Global Stage/Speakers.md
       - SLINGSHOT 2023/.keep
-      - SLINGSHOT 2023/Domain Finals & Grand Finals.md
       - SLINGSHOT 2023/Content Sessions.md
       - SLINGSHOT 2023/Physical Immersion.md
       - SLINGSHOT 2023/2022 Edition.md

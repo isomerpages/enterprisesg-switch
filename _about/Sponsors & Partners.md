@@ -2,6 +2,7 @@
 title: Sponsors & Partners
 permalink: /sponsors-partners/
 description: ""
+variant: tiptap
 ---
 **2023 Sponsors & Partners**
 
