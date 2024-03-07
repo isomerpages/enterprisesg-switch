@@ -19,3 +19,9 @@ Finals, held at the <a href="https://www.switchsg.org/" rel="noopener noreferrer
 <hr>
 <h4>2024 Challenge Domains</h4>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/slingshot/SLINGSHOT 2024/SLINGSHOT_2024_Domains_Visual.png">
+</div>
+<p></p>
+<p></p>
