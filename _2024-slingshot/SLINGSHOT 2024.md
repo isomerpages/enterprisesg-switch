@@ -14,11 +14,13 @@ win a sponsored trip to Singapore and immerse in Asia’s leading tech startup
 community, and compete for more than S$1.2 million worth of grant prizes.</p>
 <p>Make the pitch of a lifetime to a global audience at the SLINGSHOT 2024
 Finals, held at the <a href="https://www.switchsg.org/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Week of Innovation and Technology</u></a> 2024.</p>
-<h4><strong>APPLY NOW: </strong><a href="https://go.gov.sg/slingshot2024-switchweb" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/slingshot2024-switchweb</u></a></h4>
+<hr>
+<h4><strong>Apply for SLINGSHOT 2024 now!</strong></h4>
+<p><strong>Visit the </strong><a href="https://go.gov.sg/slingshot2024-switchweb" rel="noopener noreferrer nofollow" target="_blank">SLINGSHOT 2024 Page</a><strong> for more information and to apply.</strong>
+</p>
 <p>Applications will end on 1 July 2024, 23:59 (GMT+8).</p>
 <hr>
 <h4>2024 Challenge Domains</h4>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slingshot/SLINGSHOT 2024/SLINGSHOT_2024_Domains_Visual.png">
