@@ -44,7 +44,7 @@ sections:
         open till 1 Jul 2024.
       button: Learn more
       url: /slingshot/2024-edition/
-      image: /images/2023/a1b09702.JPG
+      image: /images/SLINGSHOT_2023_Group_Photo.jpg
       alt: Image alt text
   - resources:
       title: News and Happenings
