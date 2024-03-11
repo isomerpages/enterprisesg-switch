@@ -43,7 +43,7 @@ sections:
         SLINGSHOT, Asia's premier deep tech startup competition! Application is
         open till 1 Jul 2024.
       button: Learn more
-      url: /slingshot/2023-edition/
+      url: /slingshot/2024-edition/
       image: /images/2023/a1b09702.JPG
       alt: Image alt text
   - resources:
