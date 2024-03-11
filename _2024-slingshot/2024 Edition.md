@@ -9,11 +9,11 @@ description: ""
 <p>Join the SLINGSHOT competition and compete in any one of our five emerging
 challenge domains to unveil your forward-thinking solutions and innovations
 to key industry leaders and global investors.</p>
-<p>Vie for a chance to be part of our <strong>SLINGSHOT Top 50 Global Startups</strong> to
+<p>Vie for a chance to be part of our <strong>SLINGSHOT's Top 50 Global Startups</strong> to
 win a sponsored trip to Singapore and immerse in Asia’s leading tech startup
 community, and compete for more than S$1.2 million worth of grant prizes.</p>
 <p>Make the pitch of a lifetime to a global audience at the SLINGSHOT 2024
-Finals, held at the <a href="https://www.switchsg.org/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Week of Innovation and Technology</u></a> 2024.</p>
+Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
 <hr>
 <h4><strong>Apply for SLINGSHOT 2024 now!</strong></h4>
 <p><strong>Visit the </strong><a href="https://go.gov.sg/slingshot2024-switchweb" rel="noopener noreferrer nofollow" target="_blank">SLINGSHOT 2024 Page</a><strong> for more information and to apply.</strong>
