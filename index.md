@@ -36,15 +36,15 @@ sections:
       image: /images/2023/innovation showcase.png
       alt: SWITCH 2023 Highlight Video
   - infopic:
-      title: SLINGSHOT your startup to new heights!
+      title: Launch your startup into the world through Singapore!
       subtitle: Startup Pitching Competition
       id: infopic
-      description: For startup teams of high-potential solutions eager to build, test
-        & grow with Singapore's exceptional tech infrastructure & network. 2024
-        edition opening soon!
+      description: Embark on your global startup journey at the eighth edition of
+        SLINGSHOT, Asia's premier deep tech startup competition! Application is
+        open till 1 Jul 2024.
       button: Learn more
-      url: /slingshot/2023-edition/
-      image: /images/2023/a1b09702.JPG
+      url: /slingshot/2024-edition/
+      image: /images/SLINGSHOT_2023_Group_Photo.jpg
       alt: Image alt text
   - resources:
       title: News and Happenings
