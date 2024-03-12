@@ -27,7 +27,4 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
 </div>
 <p></p>
 <hr>
-<h4>Why Join?</h4>
-<p></p>
-<p></p>
 <p></p>
