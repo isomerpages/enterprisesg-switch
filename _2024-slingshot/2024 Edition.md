@@ -4,7 +4,10 @@ permalink: /slingshot/2024-edition/
 variant: tiptap
 description: ""
 ---
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/slingshot2024-switchweb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/slingshot/SLINGSHOT 2024/LinkedIn_Event_Listing_1600x900px.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/slingshot/SLINGSHOT 2024/hi_res__LinkedIn_Event_Listing_1600x900px.jpg">
+</div>
 <h4><strong>Embark on your global startup journey at the eighth edition of SLINGSHOT, Asia's premier deep tech startup competition!</strong></h4>
 <p>Join the SLINGSHOT competition and compete in any one of our five emerging
 challenge domains to unveil your trailblazing solutions and innovations
@@ -21,10 +24,8 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
 <p>Applications will end on 1 July 2024, 23:59 (GMT+8).</p>
 <hr>
 <h4>2024 Challenge Domains</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/slingshot/SLINGSHOT 2024/SLINGSHOT_2024_Domains_Visual.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/slingshot/SLINGSHOT 2024/SLINGSHOT_domain_visuals_220324.png">
 </div>
-<p></p>
 <hr>
 <p></p>
