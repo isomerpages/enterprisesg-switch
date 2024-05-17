@@ -18,9 +18,9 @@ both within and across sectors.&nbsp;</p>
 <p>This year, SWITCH Beyond goes beyond by giving you 5 tracks that explore
 the frontiers of deep tech, as well as masterclasses to future-proof your
 organisations in rapidly changing industries.</p>
-<p></p>
+<h1>The Tracks</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Infographic of a table showing the content tracks to SWITCH Beyond 2024" src="/images/2024/Infographics/Infographic_SWITCH_2024_Beyond_Overview_v1.png">
+<img style="width: 100%" height="auto" width="100%" alt="An infographic of the 5 tracks offered at SWITCH 2024." src="/images/2024/Infographics/Infographic_SWITCH_2024_Beyond_Overview_v1a.png">
 </div>
 <h1>Past Speakers</h1>
 <p></p>
