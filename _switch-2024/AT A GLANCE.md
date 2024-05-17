@@ -23,3 +23,7 @@ forefront of deep tech and frontier technologies that will shape the future.&nbs
 Space, Climate Tech, Health Tech and more!</p>
 <h1>Overview of SWITCH 2024</h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Infographic timetable of SWITCH 2024 overview" src="/images/2024/Infographics/Infographic_SWITCH_2024_Overview_v1.png">
+</div>
+<p></p>
