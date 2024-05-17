@@ -2,4 +2,5 @@ collections:
   switch-2024:
     output: true
     order:
+      - MAIN STAGE.md
       - AT A GLANCE.md
