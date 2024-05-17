@@ -10,3 +10,6 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   Quantum, Space, Climate Tech, Health Tech and more!
 image: /images/2023/innovation showcase.png
 ---
+<p>[Photo of GLOBAL stage]</p>
+<h1>Gateway to Global Markets</h1>
+<p></p>
