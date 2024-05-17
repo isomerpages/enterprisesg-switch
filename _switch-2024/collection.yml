@@ -2,6 +2,7 @@ collections:
   switch-2024:
     output: true
     order:
+      - SLINGSHOT/2024 Edition.md
       - SLINGSHOT/2023 Edition.md
       - SLINGSHOT/.keep
       - AT A GLANCE.md
