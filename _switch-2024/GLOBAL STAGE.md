@@ -21,6 +21,7 @@ from our global partner network as well as startup sessions featuring founder-fo
 discussions on growth and scale. There will also be opportunities to explore
 outbound acceleration and co-innovation programmes that can accelerate
 your growth or collaborate on high-potential R&amp;D projects.</p>
+<p><em>Accessible to all TRADE PASS attendees and CONFERENCE PASS attendees</em>.</p>
 <h1>Past Speakers</h1>
 <p></p>
 <div class="isomer-image-wrapper">
