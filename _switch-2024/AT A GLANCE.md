@@ -21,6 +21,7 @@ innovation and the potential of technology and collaboration are unleashed.</p>
 forefront of deep tech and frontier technologies that will shape the future.&nbsp;</p>
 <p>Connect and share ideas with leaders in the areas of AI, Web3, Quantum,
 Space, Climate Tech, Health Tech and more!</p>
+<p><em>Accessible to all TRADE PASS attendees and CONFERENCE PASS attendees</em>.</p>
 <h1>Overview of SWITCH 2024</h1>
 <p></p>
 <div class="isomer-image-wrapper">
