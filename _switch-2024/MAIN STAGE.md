@@ -17,6 +17,7 @@ tech industry’s foremost leaders&nbsp; and the deep tech startup pitching
 competition, SLINGSHOT. Gain an unprecedented forecast of technology trends
 and disruptive deep tech ideas by some of the most promising startups from
 thousands of applications all over the world.</p>
+<p><em>Accessible to all TRADE PASS attendees and CONFERENCE PASS attendees</em>.</p>
 <h1>Past Speakers</h1>
 <p></p>
 <div class="isomer-image-wrapper">
