@@ -13,6 +13,8 @@ third_nav_title: FOR YOU
 2024 and <strong>discounts of up to 12%</strong> are offered on certain booking
 classes. This special offer will only be available for Trade Pass Holders,
 Conference Pass Holders, and registered attendees of SWITCH 2024.</p>
+<p>Visit the Singapore Airlines booking page <a href="https://www.singaporeair.com/en_UK/promocode/" rel="noopener noreferrer nofollow" target="_blank">here</a> and enter
+the promo code from your confirmation email in the empty field below.</p>
 <h2>Promotion Details</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -106,7 +108,7 @@ Shenzhen, Surabaya, Taipei, Tokyo (Haneda, Narita), Vancouver, Xiamen</p>
 </tbody>
 </table>
 <h4>How to make your booking with the Official Airline Promo Code</h4>
-<p>Please visit Singapore Airlines booking page <a href="https://www.singaporeair.com/en_UK/promocode/" rel="noopener noreferrer nofollow" target="_blank">here</a> and enter
+<p>Please visit the Singapore Airlines booking page <a href="https://www.singaporeair.com/en_UK/promocode/" rel="noopener noreferrer nofollow" target="_blank">here</a> and enter
 the promo code from your confirmation email in the empty field below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SWITCH 2023 Official Airline Promotion: Singapore Airlines (SQ)" src="/images/2023/promotion_sq_promo_guide_1.png">
