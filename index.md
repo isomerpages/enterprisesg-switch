@@ -38,12 +38,16 @@ sections:
           description: Choose The Right Pass
           url: /register
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Sparking Innovation, Igniting Ideas
+      subtitle: AT A GLANCE
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: SWITCH 2024 will be a gathering storm of ideas and collaboration.
+        Connect with innovators and builders or be inspired by our curation of
+        content and showcases.
+      button: Learn More
+      alt: Innovation at SWITCH
+      url: /at-a-glance
+      image: /images/2024/Graphics/2024_Isomer_Home_1.jpg
   - infopic:
       title: Innovators and Trailblazers connected at SWITCH 2023
       subtitle: SWITCH 2023 Highlights
