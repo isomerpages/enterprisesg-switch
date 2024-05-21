@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - FOR YOU/.keep
-      - VISIT SINGAPORE.md
       - Singapore Airlines.md
       - AT A GLANCE.md
       - MAIN STAGE.md
