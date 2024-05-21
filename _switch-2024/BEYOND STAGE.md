@@ -22,8 +22,7 @@ both within and across sectors.&nbsp;</p>
 the frontiers of deep tech, as well as masterclasses to future-proof your
 organisations in rapidly changing industries.</p>
 <p><em>Only accessible to CONFERENCE PASS attendees</em>.</p>
-<p><a href="/register" rel="noopener noreferrer nofollow" target="_blank">GET YOUR PASS &gt;</a>
-</p>
+<p></p><a class="isomer-image-wrapper" href="/register"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Collaborate? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Collaborate.png"></a>
 <h1>The Tracks</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="An infographic of the 5 tracks offered at SWITCH 2024." src="/images/2024/Infographics/Infographic_SWITCH_2024_Beyond_Overview_v1a.png">
@@ -42,5 +41,5 @@ organisations in rapidly changing industries.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_BEYOND_Stage_3.jpg">
 </div>
-<p><a href="/register" rel="noopener noreferrer nofollow" target="_blank">GET YOUR PASS &gt;</a>
-</p>
+<p></p><a class="isomer-image-wrapper" href="/register"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Connect? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Connect.png"></a>
+<p></p>
