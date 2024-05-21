@@ -10,7 +10,10 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   Quantum, Space, Climate Tech, Health Tech and more!
 image: /images/2023/innovation showcase.png
 ---
-<p>[Photo of Trade Floor]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_TRADE_Floor_1.jpg">
+</div>
 <h1>The Heartbeat of Innovation</h1>
 <p>The TRADE FLOOR is where the pulse of innovation happens. Featuring hundreds
 of exhibitors and innovation showcases, attendees will receive a comprehensive
@@ -43,5 +46,24 @@ research institutes</p>
 </li>
 </ul>
 <h1>Highlights</h1>
-<p>[Photos of exhibitors]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_TRADE_Floor_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_TRADE_Floor_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_TRADE_Floor_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_TRADE_Floor_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_TRADE_Floor_6.jpg">
+</div>
 <p></p>
