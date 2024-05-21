@@ -39,7 +39,10 @@ early access to the Event App and its networking features.</p>
 <p><a href="https://gevme.com/switch2024" rel="noopener noreferrer nofollow" target="_blank">GET YOUR PASS &gt;</a>
 </p>
 <h1>Conference Pass</h1>
-<p>The <strong>Conference Pass</strong> gets you access to 5 deep tech tracks</p>
+<p>The <strong>Conference Pass</strong> gets you access to the <a href="/beyond-stage" rel="noopener noreferrer nofollow" target="_blank">BEYOND Stage</a> and
+their 5 deep tech tracks, corresponding masterclasses as well as a networking
+lunch. Choose to go deep with a <strong>Single Track Pass</strong>, or explore
+a variety of topics with the <strong>All Access Pass</strong>.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -92,9 +95,6 @@ early access to the Event App and its networking features.</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="test" src="/images/2022 08 30 switch impact plus info pack - enhanced-01.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Access to either:</strong>
@@ -179,4 +179,5 @@ early access to the Event App and its networking features.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://gevme.com/switch2024" rel="noopener noreferrer nofollow" target="_blank">GET YOUR PASS &gt;</a>
+</p>
