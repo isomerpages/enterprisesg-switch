@@ -36,8 +36,7 @@ early access to the Event App and its networking features.</p>
 <p>Meeting Scheduling (in-app)</p>
 </li>
 </ul>
-<p><a href="https://gevme.com/switch2024" rel="noopener noreferrer nofollow" target="_blank">GET YOUR PASS &gt;</a>
-</p>
+<p></p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024"><img style="width: 100%" height="auto" width="100%" alt="Banner for SWITCH Trade Pass. Register Now." src="/images/2024/Graphics/2024_Leaderboard_CTA_Trade_Pass.png"></a>
 <h1>Conference Pass</h1>
 <p>The <strong>Conference Pass</strong> gets you access to the <a href="/beyond-stage" rel="noopener noreferrer nofollow" target="_blank">BEYOND Stage</a> and
 their 5 deep tech tracks, corresponding masterclasses as well as a networking
@@ -189,5 +188,6 @@ a variety of topics with the <strong>All Access Pass</strong>.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://gevme.com/switch2024" rel="noopener noreferrer nofollow" target="_blank">GET YOUR PASS &gt;</a>
-</p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024"><img style="width: 100%" height="auto" width="100%" alt="Banner for Conference Pass. Register Now." src="/images/2024/Graphics/2024_Leaderboard_CTA_Conference_Pass.png"></a>
+<p></p>
