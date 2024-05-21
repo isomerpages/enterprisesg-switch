@@ -11,14 +11,14 @@ variant: tiptap
 image: /images/2023/innovation showcase.png
 third_nav_title: FOR YOU
 ---
-<a class="isomer-image-wrapper" href="https://www.visitsingapore.com/en/#"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Graphics_Visit Singapore/1__Intro.png"></a>
+<a class="isomer-image-wrapper" href="https://www.visitsingapore.com/en/#"><img style="width: 100%" height="auto" width="100%" alt="A banner with the text Singapore: Where passion and possibilities meet" src="/images/2024/Graphics_Visit Singapore/1__Intro.png"></a>
 <a class="isomer-image-wrapper" href="https://www.visitsingapore.com/dining-drinks-singapore/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Graphics_Visit Singapore/2_Dining.png">
-</a><a class="isomer-image-wrapper" href="https://www.visitsingapore.com/singapore-shopping/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Graphics_Visit Singapore/3_Shopping.png"></a>
+<img style="width: 100%" height="auto" width="100%" alt="A banner with the text What to do: Dining" src="/images/2024/Graphics_Visit Singapore/2_Dining.png">
+</a><a class="isomer-image-wrapper" href="https://www.visitsingapore.com/singapore-shopping/"><img style="width: 100%" height="auto" width="100%" alt="A banner with the text What to do: Shopping" src="/images/2024/Graphics_Visit Singapore/3_Shopping.png"></a>
 <a class="isomer-image-wrapper" href="https://www.visitsingapore.com/singapore-itineraries/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Graphics_Visit Singapore/4___Itineraries.png">
-</a><a class="isomer-image-wrapper" href="https://www.visitsingapore.com/singapore-tours/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Graphics_Visit Singapore/5___Passion_tours.png"></a>
+<img style="width: 100%" height="auto" width="100%" alt="A banner with the text Where to go: Curated itineraries" src="/images/2024/Graphics_Visit Singapore/4___Itineraries.png">
+</a><a class="isomer-image-wrapper" href="https://www.visitsingapore.com/singapore-tours/"><img style="width: 100%" height="auto" width="100%" alt="A banner with the text Where to go: Passion tours" src="/images/2024/Graphics_Visit Singapore/5___Passion_tours.png"></a>
 <a class="isomer-image-wrapper" href="https://www.visitsingapore.com/festivals-events-singapore/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Graphics_Visit Singapore/6_Events.png">
-</a><a class="isomer-image-wrapper" href="https://www.visitsingapore.com/travel-guide-tips/visit-singapore-travel-guide-app/#"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Graphics_Visit Singapore/7__VS_app.png"></a>
+<img style="width: 100%" height="auto" width="100%" alt="A banner with the text What's happening: Festivals and events" src="/images/2024/Graphics_Visit Singapore/6_Events.png">
+</a><a class="isomer-image-wrapper" href="https://www.visitsingapore.com/travel-guide-tips/visit-singapore-travel-guide-app/#"><img style="width: 100%;" height="auto" width="100%" alt="A banner with the text Before you go: VS mobile app" src="/images/2024/Graphics_Visit Singapore/7__VS_app.png"></a>
 <p></p>
