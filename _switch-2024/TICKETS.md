@@ -43,6 +43,7 @@ early access to the Event App and its networking features.</p>
 their 5 deep tech tracks, corresponding masterclasses as well as a networking
 lunch. Choose to go deep with a <strong>Single Track Pass</strong>, or explore
 a variety of topics with the <strong>All Access Pass</strong>.</p>
+<h2>Tracks</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
