@@ -10,14 +10,134 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 variant: tiptap
 ---
-### Ready to connect with the global startup and innovation community?
-
-Register for a **FREE Trade Pass** for access to the SWITCH Trade Floor as a Trade Visitor and connect with an international community of startups, investors, innovators, and connectors.
-
-For the latest discussions and insights on innovation and frontier technology trends, register for a **SWITCH Beyond Conference Pass** to attend as a Conference Delegate.
-
-Learn more at the table below:
-
-![Ticket prices for SWITCH 2023](/images/2023/infographics/infographic_switch2023_tickets_regular_1200p_v4.png)
-
-### [➞ Get your tickets here!](https://2023.switchsg.org/qA08l?RefId=Isomer)
+<h1>Trade Pass</h1>
+<p>The <strong>Trade Pass</strong> is free to register and lets you connect
+with all exhibitors on the Trade Floor. You will also have access to the
+Main Stage and Global Stage located in the Trade Floor, and also receive
+early access to the Event App and its networking features.</p>
+<h2>Includes</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p>MAIN Stage</p>
+</li>
+<li>
+<p>GLOBAL Stage</p>
+</li>
+<li>
+<p>TRADE Floor</p>
+</li>
+<li>
+<p>Event App</p>
+</li>
+<li>
+<p>Business Matching (in-app)</p>
+</li>
+<li>
+<p>Meeting Scheduling (in-app)</p>
+</li>
+</ul>
+<p><a href="https://gevme.com/switch2024" rel="noopener noreferrer nofollow" target="_blank">GET YOUR PASS &gt;</a>
+</p>
+<h1>Conference Pass</h1>
+<p>The <strong>Conference Pass</strong> gets you access to 5</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Single Track Pass</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Single Day Pass</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>All Access Pass</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>$399</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$699</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$999</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Access to either:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Health &amp; Biomedical Track</p>
+</li>
+<li>
+<p>Trade &amp; Connectivity Track</p>
+</li>
+<li>
+<p>Environment, Energy &amp; Green Tech Track</p>
+</li>
+<li>
+<p>Transformative Digital Tech (Quantum) Track</p>
+</li>
+<li>
+<p>Transformative Digital Tech (Space) Track</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Access to either:</p>
+<p></p>
+<p><strong>Day 1</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Health &amp; Biomedical Track</p>
+</li>
+<li>
+<p>Trade &amp; Connectivity Track</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Day 2</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Environment, Energy &amp; Green Tech Track</p>
+</li>
+<li>
+<p>Transformative Digital Tech (Quantum) Track</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full access to:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Health &amp; Biomedical Track</p>
+</li>
+<li>
+<p>Trade &amp; Connectivity Track</p>
+</li>
+<li>
+<p>Environment, Energy &amp; Green Tech Track</p>
+</li>
+<li>
+<p>Transformative Digital Tech (Quantum) Track</p>
+</li>
+<li>
+<p>Transformative Digital Tech (Space) Track</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
