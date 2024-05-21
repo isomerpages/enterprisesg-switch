@@ -139,4 +139,5 @@ flights.</p>
 and applicable to specific departing cities as set out in the list above.</p>
 </li>
 </ul>
+<p></p><a class="isomer-image-wrapper" href="/register"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Innovate? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Innovate.png"></a>
 <p></p>
