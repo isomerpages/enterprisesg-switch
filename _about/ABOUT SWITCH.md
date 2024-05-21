@@ -1,0 +1,10 @@
+---
+title: ABOUT SWITCH
+permalink: /about/
+description: The Singapore Week of Innovation and Technology (SWITCH) brings
+  together leaders, entrepreneurs, creators, accelerators and investors from the
+  Global-Asia innovation ecosystem.
+image: /images/switch_main.jpg
+variant: tiptap
+---
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SWITCH highlight image" src="/images/2023/photos/switch_highlight_1.jpg"></div><h1>What is SWITCH?</h1><p>The Singapore Week of Innovation and Technology (SWITCH) brings together leaders, entrepreneurs, creators, accelerators and investors from the Global-Asia innovation ecosystem.</p><p>Through the open exchange of new ideas, vibrant networks and a line-up of innovation-centric activities, SWITCH provides a global platform to catalyse meaningful collaboration between different fields and markets. The focus industries include healthcare &amp; biomedical sciences, smart cities &amp; urban solutions, trade &amp; connectivity, and emerging sustainable technologies.</p><p>In 2023, SWITCH saw over 15,000 in-person attendees including C-Suites, founders, and directors from global markets like the United States, Japan and Germany. SWITCH is organised by Enterprise Singapore and MP, and is supported by the National Research Foundation Singapore (NRF) of the Prime Minister’s Office.</p><p>In its ninth edition in 2024, SWITCH returns with various innovation programmes including the SLINGSHOT startup pitching sector finals and grand finals, a sectoral thought leadership stage, market access sessions as well as industry exhibition showcases and roundtable sessions.</p><p><strong>Highlights from SWITCH 2023</strong></p><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wSJ82Mn61bc?si=3KO3DQhv52Qbr96l"></iframe></div><p></p>
