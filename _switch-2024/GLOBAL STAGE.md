@@ -25,6 +25,8 @@ discussions on growth and scale. There will also be opportunities to explore
 outbound acceleration and co-innovation programmes that can accelerate
 your growth or collaborate on high-potential R&amp;D projects.</p>
 <p><em>Accessible to all TRADE PASS attendees and CONFERENCE PASS attendees</em>.</p>
+<p><a href="/register" rel="noopener noreferrer nofollow" target="_blank">GET YOUR PASS &gt;</a>
+</p>
 <h1>Past Speakers</h1>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -47,4 +49,5 @@ your growth or collaborate on high-potential R&amp;D projects.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_GLOBAL_Stage_5.jpg">
 </div>
-<p></p>
+<p><a href="/register" rel="noopener noreferrer nofollow" target="_blank">GET YOUR PASS &gt;</a>
+</p>
