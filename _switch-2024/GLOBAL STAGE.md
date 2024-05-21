@@ -43,3 +43,7 @@ your growth or collaborate on high-potential R&amp;D projects.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_GLOBAL_Stage_4.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_GLOBAL_Stage_5.jpg">
+</div>
+<p></p>
