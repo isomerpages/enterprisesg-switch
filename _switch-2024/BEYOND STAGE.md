@@ -10,7 +10,10 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   Quantum, Space, Climate Tech, Health Tech and more!
 image: /images/2023/innovation showcase.png
 ---
-<p>[Photo of Beyond Stage]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_BEYOND_Stage_1.jpg">
+</div>
 <h1>The Edge of Transformation</h1>
 <p>The BEYOND Stage has been a mainstay of SWITCH’s thought leadership programming
 for industry leaders and decision makers to connect and explore collaborations
@@ -29,6 +32,12 @@ organisations in rapidly changing industries.</p>
 <img style="width: 100%" height="auto" width="100%" alt="A layout of different people's portraits who had spoken at SWITCH." src="/images/2023/Speakers/2023 switch highlight speakers (all stages)_28 oct.jpg">
 </div>
 <h1>Highlights</h1>
-<p>[Photos of Beyond stage]</p>
-<p>[Photos of Beyond networking]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_BEYOND_Stage_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_BEYOND_Stage_3.jpg">
+</div>
 <p></p>
