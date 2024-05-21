@@ -10,7 +10,10 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   Quantum, Space, Climate Tech, Health Tech and more!
 image: /images/2023/innovation showcase.png
 ---
-<p>[Photo of GLOBAL stage]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_GLOBAL_Stage_1.jpg">
+</div>
 <h1>Gateway to Global Markets</h1>
 <p>Looking to expand beyond your local markets? Whether you want to expand
 out of Singapore or expand into the region through Singapore, SWITCH is
@@ -27,6 +30,16 @@ your growth or collaborate on high-potential R&amp;D projects.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A layout of portraits of people who have spoken at SWITCH." src="/images/2023/Speakers/2023 switch highlight speakers (all stages)_28 oct.jpg">
 </div>
-<p>[Photos of Global Stage]</p>
-<p>[Photos of Global networking]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_GLOBAL_Stage_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_GLOBAL_Stage_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_GLOBAL_Stage_4.jpg">
+</div>
 <p></p>
