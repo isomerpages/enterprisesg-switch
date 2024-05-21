@@ -17,6 +17,24 @@ links:
         url: http://eepurl.com/iqDazw
       - title: Partner With Us
         url: /partner-with-us/
+  - title: STAGES
+    url: /main-stage
+    sublinks:
+      - title: MAIN Stage
+        url: /main-stage
+      - title: BEYOND Stage
+        url: /beyond-stage
+      - title: GLOBAL Stage
+        url: /global-stage
+  - title: WHAT'S ON
+    url: /trade-floor
+    sublinks:
+      - title: Trade Floor
+        url: /trade-floor
+      - title: Official Airline
+        url: /singapore-airlines
+      - title: Visit Singapore
+        url: /visit-singapore
   - title: SLINGSHOT
     url: /
     sublinks:
