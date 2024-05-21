@@ -39,7 +39,7 @@ early access to the Event App and its networking features.</p>
 <p><a href="https://gevme.com/switch2024" rel="noopener noreferrer nofollow" target="_blank">GET YOUR PASS &gt;</a>
 </p>
 <h1>Conference Pass</h1>
-<p>The <strong>Conference Pass</strong> gets you access to 5</p>
+<p>The <strong>Conference Pass</strong> gets you access to 5 deep tech tracks</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -150,6 +150,12 @@ early access to the Event App and its networking features.</p>
 <p><strong>Includes:</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Networking Lunch</p>
+</li>
+<li>
+<p>Masterclass access to the corresponding track</p>
+</li>
 <li>
 <p>MAIN Stage</p>
 </li>
