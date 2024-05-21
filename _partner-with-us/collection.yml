@@ -1,5 +1,4 @@
 collections:
   partner-with-us:
     output: true
-    order:
-      - PARTNER WITH US.md
+    order: []
