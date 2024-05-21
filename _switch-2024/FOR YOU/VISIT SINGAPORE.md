@@ -11,7 +11,9 @@ variant: tiptap
 image: /images/2023/innovation showcase.png
 third_nav_title: FOR YOU
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Graphics_Visit Singapore/1__Intro.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Graphics_Visit Singapore/1__Intro.png">
 </div>
@@ -21,7 +23,6 @@ third_nav_title: FOR YOU
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Graphics_Visit Singapore/3_Shopping.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Graphics_Visit Singapore/4___Itineraries.png">
 </div>
