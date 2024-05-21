@@ -71,7 +71,8 @@ early access to the Event App and its networking features.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Access to either:</p>
+<p><strong>Access to either:</strong>
+</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -92,7 +93,8 @@ early access to the Event App and its networking features.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Access to either:</p>
+<p><strong>Access to either:</strong>
+</p>
 <p></p>
 <p><strong>Day 1</strong>
 </p>
@@ -117,7 +119,8 @@ early access to the Event App and its networking features.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full access to:</p>
+<p><strong>Full access to:</strong>
+</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -134,6 +137,32 @@ early access to the Event App and its networking features.</p>
 </li>
 <li>
 <p>Transformative Digital Tech (Space) Track</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Includes:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MAIN Stage</p>
+</li>
+<li>
+<p>GLOBAL Stage</p>
+</li>
+<li>
+<p>TRADE Floor</p>
+</li>
+<li>
+<p>Event App</p>
+</li>
+<li>
+<p>Business Matching (in-app)</p>
+</li>
+<li>
+<p>Meeting Scheduling (in-app)</p>
 </li>
 </ul>
 </td>
