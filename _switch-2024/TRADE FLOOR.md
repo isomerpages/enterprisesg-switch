@@ -45,8 +45,7 @@ research institutes</p>
 <p>Experiential tech zones</p>
 </li>
 </ul>
-<p><a href="/register" rel="noopener noreferrer nofollow" target="_blank">GET YOUR PASS &gt;</a>
-</p>
+<p></p><a class="isomer-image-wrapper" href="/register"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Connect? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Connect.png"></a>
 <h1>Highlights</h1>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -68,5 +67,5 @@ research institutes</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_TRADE_Floor_6.jpg">
 </div>
-<p><a href="/register" rel="noopener noreferrer nofollow" target="_blank">GET YOUR PASS &gt;</a>
-</p>
+<p></p><a class="isomer-image-wrapper" href="/register"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Innovate? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Innovate.png"></a>
+<p></p>
