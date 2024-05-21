@@ -22,6 +22,7 @@ forefront of deep tech and frontier technologies that will shape the future.&nbs
 <p>Connect and share ideas with leaders in the areas of AI, Web3, Quantum,
 Space, Climate Tech, Health Tech and more!</p>
 <p><em>Accessible to all TRADE PASS attendees and CONFERENCE PASS attendees</em>.</p>
+<p></p><a class="isomer-image-wrapper" href="/register"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Innovate?" src="/images/2024/Graphics/2024_Leaderboard_CTA_Innovate.png"></a>
 <h1>Overview of SWITCH 2024</h1>
 <p></p>
 <div class="isomer-image-wrapper">
