@@ -52,13 +52,22 @@ a variety of topics with the <strong>All Access Pass</strong>.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Single Track Pass</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Single Track Pass" src="/images/2024/Graphics/Isomer_2024_Pass_Banners_1.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Single Day Pass</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Single Day Pass" src="/images/2024/Graphics/Isomer_2024_Pass_Banners_2.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p>All Access Pass</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="All Access Pass" src="/images/2024/Graphics/Isomer_2024_Pass_Banners_3.png">
+</div>
 </th>
 </tr>
 <tr>
