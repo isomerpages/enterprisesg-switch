@@ -2,6 +2,7 @@ collections:
   switch-2024:
     output: true
     order:
+      - FOR YOU/VISIT SINGAPORE.md
       - FOR YOU/.keep
       - Singapore Airlines.md
       - AT A GLANCE.md
