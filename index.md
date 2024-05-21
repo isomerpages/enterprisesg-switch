@@ -38,6 +38,13 @@ sections:
           description: Choose The Right Pass
           url: /register
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Innovators and Trailblazers connected at SWITCH 2023
       subtitle: SWITCH 2023 Highlights
       description: Re-live the best moments of Asia's most exciting tech startup event
