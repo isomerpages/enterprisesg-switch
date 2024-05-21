@@ -18,12 +18,25 @@ sections:
       title: Singapore Week of Innovation & Technology
       subtitle: SWITCH Returns 28–30 October 2024 at Marina Bay Sands, Singapore!
       background: /images/homepage images/2024_Isomer_Homepage_1a.png
-      button: Join our Mailing List
-      url: http://eepurl.com/iqDazw
+      button: GET YOUR PASS >
+      url: /register
       variant: floating
       size: sm
       alignment: left
-      backgroundColor: white
+      backgroundColor: black
+      key_highlights:
+        - title: AT A GLANCE
+          description: What's On at SWITCH
+          url: /at-a-glance
+        - title: STAGES
+          description: Deep Tech and Market Access
+          url: /main-stage
+        - title: SLINGSHOT
+          description: Deep Tech Pitching Competition
+          url: /slingshot/2024-edition/
+        - title: TICKETS
+          description: Choose The Right Pass
+          url: /register
   - infopic:
       title: Innovators and Trailblazers connected at SWITCH 2023
       subtitle: SWITCH 2023 Highlights
