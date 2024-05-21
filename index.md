@@ -17,10 +17,10 @@ sections:
   - hero:
       title: Singapore Week of Innovation & Technology
       subtitle: SWITCH Returns 28–30 October 2024 at Marina Bay Sands, Singapore!
-      background: /images/homepage images/2024_Isomer_Homepage_Banner_v1.png
+      background: /images/homepage images/2024_Isomer_Homepage_1a.png
       button: Join our Mailing List
       url: http://eepurl.com/iqDazw
-      variant: center
+      variant: floating
       size: sm
       alignment: left
       backgroundColor: white
