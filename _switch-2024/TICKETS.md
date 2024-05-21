@@ -91,6 +91,10 @@ early access to the Event App and its networking features.</p>
 <p>Transformative Digital Tech (Space) Track</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="test" src="/images/2022 08 30 switch impact plus info pack - enhanced-01.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Access to either:</strong>
