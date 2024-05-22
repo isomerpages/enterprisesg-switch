@@ -26,6 +26,8 @@ Space, Climate Tech, Health Tech and more!</p>
 <h1>Overview of SWITCH 2024</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Infographic timetable of SWITCH 2024 overview" src="/images/2024/Infographics/Infographic_SWITCH_2024_Overview_v1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Infographic timetable of SWITCH 2024 overview" src="/images/2024/Infographics/2024_Isomer_Infographic_Glance_1b.png">
 </div>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/register"><img style="width: 100%" height="auto" width="100%" alt="Banner with the words Ready to Connect? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Connect_2.png"></a>
 <p></p>
