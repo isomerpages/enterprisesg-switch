@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
-      - About SWITCH.md
-      - Sponsors & Partners.md
+      - ABOUT SWITCH.md
+      - SPONSORS & PARTNERS.md
+      - PARTNER WITH US.md

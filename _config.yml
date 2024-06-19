@@ -3,19 +3,19 @@ title: Singapore Week of Innovation and Technology | 28–30 Oct 2024 | Marina B
 url: https://switchsg.org
 favicon: /images/logos/switch-logo_eng-light_bg_sq.jpg
 colors:
-  primary-color: "#f4333d"
+  primary-color: "#660000"
   secondary-color: "#f4333d"
   media-colors:
     - title: media-color-one
-      color: "#f4333d"
+      color: "#fa0000"
     - title: media-color-two
       color: "#4e4d4d"
     - title: media-color-three
-      color: "#f4333d"
+      color: "#fa0000"
     - title: media-color-four
-      color: "#f4333d"
+      color: "#fa0000"
     - title: media-color-five
-      color: "#f4333d"
+      color: "#fa0000"
 resources_name: example-resource
 description: The Singapore Week of Innovation and Technology (SWITCH) brings
   together leaders, entrepreneurs, creators, accelerators and investors from the

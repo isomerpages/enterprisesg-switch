@@ -3,19 +3,38 @@ links:
   - title: ABOUT
     url: /about
     sublinks:
+      - title: At A Glance
+        url: /at-a-glance
       - title: About us
         url: /about
       - title: Sponsors & Partners
         url: /sponsors-partners/
-  - title: COMMUNITY
-    url: /example-resource/
-    sublinks:
       - title: Events & Initiatives
         url: /example-resource/events-and-initiatives/
       - title: Blog
         url: /example-resource/blog
       - title: Mailing List
         url: http://eepurl.com/iqDazw
+      - title: Partner With Us
+        url: /partner-with-us/
+  - title: STAGES
+    url: /main-stage
+    sublinks:
+      - title: MAIN Stage
+        url: /main-stage
+      - title: BEYOND Stage
+        url: /beyond-stage
+      - title: GLOBAL Stage
+        url: /global-stage
+  - title: WHAT'S ON
+    url: /trade-floor
+    sublinks:
+      - title: Trade Floor
+        url: /trade-floor
+      - title: Official Airline
+        url: /singapore-airlines
+      - title: Visit Singapore
+        url: /visit-singapore
   - title: SLINGSHOT
     url: /
     sublinks:
@@ -23,11 +42,6 @@ links:
         url: /slingshot/2024-edition/
       - title: 2023 Edition
         url: /slingshot/2023-edition/
-  - title: PARTNER WITH US
-    url: /partner-with-us/
-    sublinks:
-      - title: Partner with us
-        url: /partner-with-us/
   - title: PAST EDITIONS
     url: https://go.gov.sg/switch-2023-event-guide-v19
     sublinks:
@@ -37,3 +51,5 @@ links:
         url: https://go.gov.sg/switch-2022-event-guide-v4
       - title: "2021"
         url: https://directory.switchsg.org
+  - title: TICKETS
+    url: /register

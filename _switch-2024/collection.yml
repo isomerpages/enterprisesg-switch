@@ -1,0 +1,16 @@
+collections:
+  switch-2024:
+    output: true
+    order:
+      - AT A GLANCE.md
+      - MAIN STAGE.md
+      - BEYOND STAGE.md
+      - GLOBAL STAGE.md
+      - SLINGSHOT/.keep
+      - SLINGSHOT/2024 Edition.md
+      - SLINGSHOT/2023 Edition.md
+      - TRADE FLOOR.md
+      - FOR YOU/.keep
+      - FOR YOU/SINGAPORE AIRLINES.md
+      - FOR YOU/VISIT SINGAPORE.md
+      - TICKETS.md
