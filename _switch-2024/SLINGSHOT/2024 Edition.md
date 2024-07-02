@@ -22,7 +22,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
 <h4><strong>Apply for SLINGSHOT 2024 now!</strong></h4>
 <p><strong>Visit the </strong><a href="https://go.gov.sg/slingshot2024-switchweb" rel="noopener noreferrer nofollow" target="_blank">SLINGSHOT 2024 Page</a><strong> for more information and to apply.</strong>
 </p>
-<p>Due to an overwhelming responses, applications have been extended to 15
+<p>Due to an overwhelming response, applications have been extended to 15
 July 2024, 23:59 (GMT+8).</p>
 <hr>
 <h4>2024 Challenge Domains</h4>
