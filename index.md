@@ -38,6 +38,17 @@ sections:
           description: Choose The Right Pass
           url: /register
   - infopic:
+      title: Apply to SLINGSHOT 2024!
+      subtitle: Deadline Extended!
+      id: infopic
+      description: Embark on your global startup journey at the eighth edition of
+        SLINGSHOT, Asia's premier deep tech startup competition! Applications
+        extended to 15 Jul 2024.
+      button: Learn more
+      url: /slingshot/2024-edition/
+      image: /images/SLINGSHOT_2023_Group_Photo.jpg
+      alt: Image alt text
+  - infopic:
       title: Sparking Innovation, Igniting Ideas
       subtitle: AT A GLANCE
       id: infopic
@@ -58,17 +69,6 @@ sections:
       url: https://www.youtube.com/watch?v=wSJ82Mn61bc
       image: /images/homepage images/2024_Isomer_YT_Thumbnail_1.png
       alt: SWITCH 2023 Highlight Video
-  - infopic:
-      title: Launch your startup into the world through Singapore!
-      subtitle: Startup Pitching Competition
-      id: infopic
-      description: Embark on your global startup journey at the eighth edition of
-        SLINGSHOT, Asia's premier deep tech startup competition! Application is
-        open till 1 Jul 2024.
-      button: Learn more
-      url: /slingshot/2024-edition/
-      image: /images/SLINGSHOT_2023_Group_Photo.jpg
-      alt: Image alt text
   - resources:
       title: News and Happenings
       subtitle: Explore
