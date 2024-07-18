@@ -10,15 +10,14 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 variant: tiptap
 ---
-<h1>One Trade Pass is all you need</h1>
+<h1><strong>One Trade Pass is all you need</strong></h1>
 <p><strong>What's included in my Trade Pass?</strong>
 </p>
 <p>Access all sessions happening on the Main and Global Stages, connect with
 exhibitors, and join public networking sessions at SWITCH. Match with other
 businesses and set up meetings with other attendees through the SWITCH
 App.</p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024"><img style="width: 100%" height="auto" width="100%" alt="Banner for SWITCH Trade Pass. Register Now." src="/images/2024/Graphics/2024_Leaderboard_CTA_Trade_Pass.png"></a>
-<p><strong>Supercharge your Trade Pass</strong>
-</p>
+<h2><strong>Supercharge your Trade Pass</strong></h2>
 <p>Dive into emerging and deep tech trends at SWITCH Beyond – A series of
 conference sessions and expert masterclasses focused on 5 domains:</p>
 <ul>
