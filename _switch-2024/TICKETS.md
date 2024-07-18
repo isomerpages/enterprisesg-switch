@@ -10,12 +10,15 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 variant: tiptap
 ---
-<h1>What's included in my Trade Pass?</h1>
+<h1>One Trade Pass is all you need</h1>
+<p><strong>What's included in my Trade Pass?</strong>
+</p>
 <p>Access all sessions happening on the Main and Global Stages, connect with
 exhibitors, and join public networking sessions at SWITCH. Match with other
 businesses and set up meetings with other attendees through the SWITCH
 App.</p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024"><img style="width: 100%" height="auto" width="100%" alt="Banner for SWITCH Trade Pass. Register Now." src="/images/2024/Graphics/2024_Leaderboard_CTA_Trade_Pass.png"></a>
-<h1>Supercharge your Trade Pass</h1>
+<p><strong>Supercharge your Trade Pass</strong>
+</p>
 <p>Dive into emerging and deep tech trends at SWITCH Beyond – A series of
 conference sessions and expert masterclasses focused on 5 domains:</p>
 <ul>
@@ -37,7 +40,8 @@ conference sessions and expert masterclasses focused on 5 domains:</p>
 </ul>
 <p><em>Please note that sessions on the same day are held concurrently.</em>
 </p>
-<h2><strong>Choose from a Single, Double or All Access pass:</strong></h2>
+<p><strong>Choose from a Single, Double or All Access pass:</strong>
+</p>
 <ul>
 <li>
 <p>Trade Pass + Single Beyond session (Choose 1 session for $399)</p>
