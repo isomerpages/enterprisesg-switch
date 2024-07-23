@@ -11,10 +11,11 @@ image: /images/2023/innovation showcase.png
 variant: tiptap
 ---
 <h1><strong>What's included in my Trade Pass?</strong></h1>
-<p>Access all sessions happening on the Main and Global Stages, connect with
-exhibitors, and join public networking sessions at SWITCH. Match with other
-businesses and set up meetings with other attendees through the SWITCH
-App.</p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024?utm_source=SWITCH&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Graphic of a button with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
+<p>Attending SWITCH couldn't be easier! Register for a <strong>SWITCH Trade Pass</strong> and
+gain access to over 300 tech and innovation showcases, Main Stage and Global
+Stage sessions all happening on the Trade Floor. You can also participate
+in public networking sessions and match with other businesses and set up
+meetings with other attendees through the SWITCH App.</p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024?utm_source=SWITCH&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Graphic of a button with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
 <hr>
 <h3><strong>Supercharge your Trade Pass</strong></h3>
 <p>Dive into emerging and deep tech trends at SWITCH Beyond – A series of
