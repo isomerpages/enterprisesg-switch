@@ -111,7 +111,8 @@ and expert masterclasses focused on 5 domains.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Trade Pass only</p>
+<p><strong>Trade Pass only</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Free</p>
@@ -119,7 +120,8 @@ and expert masterclasses focused on 5 domains.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Trade + Single Beyond session</p>
+<p><strong>Trade + Single Beyond session</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$399</p>
@@ -127,7 +129,8 @@ and expert masterclasses focused on 5 domains.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Trade + Double Beyond sessions</p>
+<p><strong>Trade + Double Beyond sessions</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$699 (UP: $798)</p>
@@ -135,7 +138,8 @@ and expert masterclasses focused on 5 domains.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Trade + All Access Beyond sessions</p>
+<p><strong>Trade + All Access Beyond sessions</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$999 (UP: $1,995)</p>
