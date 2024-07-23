@@ -41,6 +41,8 @@ focused on 5 domains</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Health &amp; Biomedical</p>
+<p><em><sup><sub>10am–1pm: Conference, 2pm–4pm: Masterclasses. Networking lunch included.</sub></sup></em>
+</p>
 </td>
 </tr>
 <tr>
@@ -199,4 +201,4 @@ meaningful discussion with your peers.</p>
 </li>
 </ul>
 <p></p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024?utm_source=SWITCH&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Graphic banner with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
-<p></p>
+<p>10</p>
