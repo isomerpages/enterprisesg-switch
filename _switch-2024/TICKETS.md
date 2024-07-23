@@ -18,8 +18,61 @@ in public networking sessions and match with other businesses and set up
 meetings with other attendees through the SWITCH App.</p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024?utm_source=SWITCH&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Graphic of a button with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
 <hr>
 <h3><strong>Supercharge your Trade Pass</strong></h3>
-<p>Dive into emerging and deep tech trends at SWITCH Beyond – A series of
-conference sessions and expert masterclasses focused on 5 domains:</p>
+<p>For innovation leaders who want to dive into deep tech trends, add-on
+sessions to SWITCH Beyond–A conference series that explores 5 emerging
+deep tech domains that each come included with masterclasses and a networking
+lunch each day to facilitate meaningful discussion with your peers.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h5><strong>Trade Pass + Beyond</strong></h5>
+</td>
+<td rowspan="1" colspan="1">
+<h5><strong>Price</strong></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trade Pass only</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trade + Single Beyond session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$399</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trade + Double Beyond sessions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$699 (UP: $798)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trade + All Access Beyond sessions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$999 (UP: $1,995)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em><sub>Attendees can select Beyond sessions during registration, or by updating their existing registrations through the confirmation email.</sub></em>
+</p>
+<h4><strong>SWITCH Beyond </strong></h4>
 <ul>
 <li>
 <p>Health &amp; Biomedical (28 Oct)</p>
@@ -43,17 +96,8 @@ conference sessions and expert masterclasses focused on 5 domains:</p>
 <h3><strong>Choose from a Single, Double or All Access pass:</strong></h3>
 <ul>
 <li>
-<p>Trade Pass + Single Beyond session (Choose 1 session for $399)</p>
-</li>
-<li>
-<p>Trade Pass + Double Beyond sessions (Choose any 2 sessions for $699, UP:
-$798)</p>
-</li>
-<li>
-<p>Trade Pass + Beyond All Access (Choose all 5 sessions for $999, UP: $1,995)</p>
+<p></p>
 </li>
 </ul>
-<p><em><sub>Attendees can select Beyond sessions during registration, or by updating their existing registrations through the confirmation email.</sub></em>
-</p>
 <p></p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024?utm_source=SWITCH&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Graphic banner with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
 <p></p>
