@@ -48,6 +48,8 @@ focused on 5 domains</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Trade &amp; Connectivity</p>
+<p><em><sup><sub>10am–12noon: Masterclasses, 2pm–5pm: Conference. Networking lunch included.</sub></sup></em>
+</p>
 </td>
 </tr>
 <tr>
@@ -56,11 +58,15 @@ focused on 5 domains</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Environment, Energy &amp; Green Tech</p>
+<p><em><sup><sub>10am–1pm: Conference, 2pm–4pm: Masterclasses. Networking lunch included.</sub></sup></em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Transformative Digital Tech – Quantum Tech</p>
+<p><em><sup><sub>10am–12noon: Masterclasses, 2pm–5pm: Conference. Networking lunch included.</sub></sup></em>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,6 +75,8 @@ focused on 5 domains</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Transformative Digital Tech – Space Tech</p>
+<p><em><sup><sub>10am–1pm: Conference</sub></sup></em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -202,3 +210,4 @@ meaningful discussion with your peers.</p>
 </ul>
 <p></p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024?utm_source=SWITCH&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Graphic banner with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
 <p>10</p>
+<p></p>
