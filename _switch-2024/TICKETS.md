@@ -72,7 +72,54 @@ lunch each day to facilitate meaningful discussion with your peers.</p>
 </table>
 <p><em><sub>Attendees can select Beyond sessions during registration, or by updating their existing registrations through the confirmation email.</sub></em>
 </p>
-<h4><strong>SWITCH Beyond </strong></h4>
+<h4><strong>SWITCH Beyond</strong></h4>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h5>Date</h5>
+</th>
+<th rowspan="1" colspan="1">
+<h5>Session</h5>
+</th>
+<th rowspan="1" colspan="1">
+<h5>Format</h5>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mon 28 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SWITCH Beyond: Health &amp; Biomedical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10am–1pm: Conference</p>
+<p></p>
+<p>2pm–4pm: Masterclass</p>
+<p></p>
+<p>Networking Lunch included</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <ul>
 <li>
 <p>Health &amp; Biomedical (28 Oct)</p>
