@@ -44,7 +44,7 @@ focused on 5 domains.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Health &amp; Biomedical</strong>
 </p>
-<p><em><sup><sub>10am–1pm: Conference, 2pm–4pm: Masterclasses. Networking lunch included.</sub></sup></em>
+<p><em><sup>10am–1pm: Conference, 2pm–4pm: Masterclasses. Networking lunch included.</sup></em>
 </p>
 </td>
 </tr>
@@ -52,7 +52,7 @@ focused on 5 domains.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Trade &amp; Connectivity</strong>
 </p>
-<p><em><sup><sub>10am–12noon: Masterclasses, 2pm–5pm: Conference. Networking lunch included.</sub></sup></em>
+<p><em><sup>10am–12noon: Masterclasses, 2pm–5pm: Conference. Networking lunch included.</sup></em>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ focused on 5 domains.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Environment, Energy &amp; Green Tech</strong>
 </p>
-<p><em><sup><sub>10am–1pm: Conference, 2pm–4pm: Masterclasses. Networking lunch included.</sub></sup></em>
+<p><em><sup>10am–1pm: Conference, 2pm–4pm: Masterclasses. Networking lunch included.</sup></em>
 </p>
 </td>
 </tr>
@@ -72,7 +72,7 @@ focused on 5 domains.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Transformative Digital Tech – Quantum Tech</strong>
 </p>
-<p><em><sup><sub>10am–12noon: Masterclasses, 2pm–5pm: Conference. Networking lunch included.</sub></sup></em>
+<p><em><sup>10am–12noon: Masterclasses, 2pm–5pm: Conference. Networking lunch included.</sup></em>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ focused on 5 domains.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Transformative Digital Tech – Space Tech</strong>
 </p>
-<p><em><sup><sub>10am–1pm: Conference</sub></sup></em>
+<p><em><sup>10am–1pm: Conference</sup></em>
 </p>
 </td>
 </tr>
