@@ -19,8 +19,8 @@ meetings with other attendees through the SWITCH App.</p><a class="isomer-image-
 <hr>
 <h3><strong>Supercharge your Trade Pass</strong></h3>
 <p>For innovation leaders who want to dive into deep tech trends, add-on
-sessions to SWITCH Beyond–A series of conference sessions and expert masterclasses
-focused on 5 domains.</p>
+sessions to <strong>SWITCH Beyond</strong>–A series of conference sessions
+and expert masterclasses focused on 5 domains.</p>
 <h5>SWITCH Beyond sessions</h5>
 <table style="minWidth: 50px">
 <colgroup>
