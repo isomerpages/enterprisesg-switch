@@ -38,6 +38,7 @@ conference sessions and expert masterclasses focused on 5 domains:</p>
 </ul>
 <p><em><sub>Please note that sessions on the same day are held concurrently.</sub></em>
 </p>
+<hr>
 <h3><strong>Choose from a Single, Double or All Access pass:</strong></h3>
 <ul>
 <li>
