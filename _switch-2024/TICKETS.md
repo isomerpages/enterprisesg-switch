@@ -24,7 +24,7 @@ and set up meetings with fellow attendees through the SWITCH event app!</p>
 <p>For innovation leaders who want to dive into deep tech trends, add-on
 sessions to <strong>SWITCH Beyond</strong>–A series of conference sessions
 and expert masterclasses focused on 5 domains.</p>
-<h5>SWITCH Beyond sessions</h5>
+<h5><strong>SWITCH Beyond sessions</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -94,7 +94,7 @@ and expert masterclasses focused on 5 domains.</p>
 </tbody>
 </table>
 <p></p>
-<h5>Choose between Single or Double sessions or All Access</h5>
+<h5><strong>Choose between Single or Double sessions or All Access</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
