@@ -100,10 +100,10 @@ focused on 5 domains.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h5><strong>Trade Pass + Beyond</strong></h5>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<h5><strong>Price</strong></h5>
+<p></p>
 </td>
 </tr>
 <tr>
