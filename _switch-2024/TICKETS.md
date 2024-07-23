@@ -14,8 +14,7 @@ variant: tiptap
 <p>Access all sessions happening on the Main and Global Stages, connect with
 exhibitors, and join public networking sessions at SWITCH. Match with other
 businesses and set up meetings with other attendees through the SWITCH
-App.</p>
-<p></p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024?utm_source=SWITCH&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Graphic of a button with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
+App.</p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024?utm_source=SWITCH&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Graphic of a button with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
 <hr>
 <h3><strong>Supercharge your Trade Pass</strong></h3>
 <p>Dive into emerging and deep tech trends at SWITCH Beyond – A series of
@@ -39,7 +38,7 @@ conference sessions and expert masterclasses focused on 5 domains:</p>
 </ul>
 <p><em><sub>Please note that sessions on the same day are held concurrently.</sub></em>
 </p>
-<h4><strong>Choose from a Single, Double or All Access pass:</strong></h4>
+<h3><strong>Choose from a Single, Double or All Access pass:</strong></h3>
 <ul>
 <li>
 <p>Trade Pass + Single Beyond session (Choose 1 session for $399)</p>
