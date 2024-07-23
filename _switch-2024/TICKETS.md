@@ -19,9 +19,61 @@ meetings with other attendees through the SWITCH App.</p><a class="isomer-image-
 <hr>
 <h3><strong>Supercharge your Trade Pass</strong></h3>
 <p>For innovation leaders who want to dive into deep tech trends, add-on
-sessions to SWITCH Beyond–A conference series that explores 5 emerging
-deep tech domains that each come included with masterclasses and a networking
-lunch each day to facilitate meaningful discussion with your peers.</p>
+sessions to SWITCH Beyond–A series of conference sessions and expert masterclasses
+focused on 5 domains</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Mon 28 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Health &amp; Biomedical</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trade &amp; Connectivity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Tue 29 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Environment, Energy &amp; Green Tech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Transformative Digital Tech – Quantum Tech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wed 30 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Transformative Digital Tech – Space Tech</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A conference series that explores 5 emerging deep tech domains that each
+come included with masterclasses and a networking lunch each day to facilitate
+meaningful discussion with your peers.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
