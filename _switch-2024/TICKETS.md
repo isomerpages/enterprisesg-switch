@@ -20,7 +20,8 @@ meetings with other attendees through the SWITCH App.</p><a class="isomer-image-
 <h3><strong>Supercharge your Trade Pass</strong></h3>
 <p>For innovation leaders who want to dive into deep tech trends, add-on
 sessions to SWITCH Beyond–A series of conference sessions and expert masterclasses
-focused on 5 domains</p>
+focused on 5 domains.</p>
+<h5>SWITCH Beyond sessions</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -29,7 +30,7 @@ focused on 5 domains</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Date</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -37,53 +38,60 @@ focused on 5 domains</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mon 28 Oct</p>
+<p><strong>Mon 28 Oct</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health &amp; Biomedical</p>
+<p><strong>Health &amp; Biomedical</strong>
+</p>
 <p><em><sup><sub>10am–1pm: Conference, 2pm–4pm: Masterclasses. Networking lunch included.</sub></sup></em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Trade &amp; Connectivity</p>
+<p><strong>Trade &amp; Connectivity</strong>
+</p>
 <p><em><sup><sub>10am–12noon: Masterclasses, 2pm–5pm: Conference. Networking lunch included.</sub></sup></em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Tue 29 Oct</p>
+<p><strong>Tue 29 Oct</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Environment, Energy &amp; Green Tech</p>
+<p><strong>Environment, Energy &amp; Green Tech</strong>
+</p>
 <p><em><sup><sub>10am–1pm: Conference, 2pm–4pm: Masterclasses. Networking lunch included.</sub></sup></em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Transformative Digital Tech – Quantum Tech</p>
+<p><strong>Transformative Digital Tech – Quantum Tech</strong>
+</p>
 <p><em><sup><sub>10am–12noon: Masterclasses, 2pm–5pm: Conference. Networking lunch included.</sub></sup></em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wed 30 Oct</p>
+<p><strong>Wed 30 Oct</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Transformative Digital Tech – Space Tech</p>
+<p><strong>Transformative Digital Tech – Space Tech</strong>
+</p>
 <p><em><sup><sub>10am–1pm: Conference</sub></sup></em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>A conference series that explores 5 emerging deep tech domains that each
-come included with masterclasses and a networking lunch each day to facilitate
-meaningful discussion with your peers.</p>
+<p></p>
+<h5>Choose between Single or Double sessions or All Access</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -134,80 +142,5 @@ meaningful discussion with your peers.</p>
 </table>
 <p><em><sub>Attendees can select Beyond sessions during registration, or by updating their existing registrations through the confirmation email.</sub></em>
 </p>
-<h4><strong>SWITCH Beyond</strong></h4>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h5>Date</h5>
-</th>
-<th rowspan="1" colspan="1">
-<h5>Session</h5>
-</th>
-<th rowspan="1" colspan="1">
-<h5>Format</h5>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mon 28 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SWITCH Beyond: Health &amp; Biomedical</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10am–1pm: Conference</p>
-<p></p>
-<p>2pm–4pm: Masterclass</p>
-<p></p>
-<p>Networking Lunch included</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li>
-<p>Health &amp; Biomedical (28 Oct)</p>
-</li>
-<li>
-<p>Trade &amp; Connectivity (28 Oct)</p>
-</li>
-<li>
-<p>Environment, Energy &amp; Green Tech (29 Oct)</p>
-</li>
-<li>
-<p>Transformative Digital Tech (Quantum) (29 Oct)</p>
-</li>
-<li>
-<p>Transformative Digital Tech (Space) (30 Oct)</p>
-</li>
-</ul>
-<p><em><sub>Please note that sessions on the same day are held concurrently.</sub></em>
-</p>
-<hr>
-<h3><strong>Choose from a Single, Double or All Access pass:</strong></h3>
-<ul>
-<li>
-<p></p>
-</li>
-</ul>
 <p></p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024?utm_source=SWITCH&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Graphic banner with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
-<p>10</p>
 <p></p>
