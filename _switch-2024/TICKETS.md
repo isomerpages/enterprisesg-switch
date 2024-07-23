@@ -57,5 +57,8 @@ $798)</p>
 </ul>
 <p><em>Attendees can select Beyond sessions during registration, or by updating their existing registrations through the confirmation email.</em>
 </p>
-<p></p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024"><img style="width: 100%" height="auto" width="100%" alt="Register now for a Trade Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Trade_Pass.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Graphic banner with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png">
+</div>
 <p></p>
