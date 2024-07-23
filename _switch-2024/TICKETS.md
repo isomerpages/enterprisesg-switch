@@ -19,7 +19,8 @@ App.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Graphic of a button with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png">
 </div>
-<h2><strong>Supercharge your Trade Pass</strong></h2>
+<hr>
+<h3><strong>Supercharge your Trade Pass</strong></h3>
 <p>Dive into emerging and deep tech trends at SWITCH Beyond – A series of
 conference sessions and expert masterclasses focused on 5 domains:</p>
 <ul>
@@ -39,10 +40,9 @@ conference sessions and expert masterclasses focused on 5 domains:</p>
 <p>Transformative Digital Tech (Space) (30 Oct)</p>
 </li>
 </ul>
-<p><em>Please note that sessions on the same day are held concurrently.</em>
+<p><em><sub>Please note that sessions on the same day are held concurrently.</sub></em>
 </p>
-<p><strong>Choose from a Single, Double or All Access pass:</strong>
-</p>
+<h4><strong>Choose from a Single, Double or All Access pass:</strong></h4>
 <ul>
 <li>
 <p>Trade Pass + Single Beyond session (Choose 1 session for $399)</p>
@@ -55,7 +55,7 @@ $798)</p>
 <p>Trade Pass + Beyond All Access (Choose all 5 sessions for $999, UP: $1,995)</p>
 </li>
 </ul>
-<p><em>Attendees can select Beyond sessions during registration, or by updating their existing registrations through the confirmation email.</em>
+<p><em><sub>Attendees can select Beyond sessions during registration, or by updating their existing registrations through the confirmation email.</sub></em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
