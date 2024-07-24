@@ -16,7 +16,7 @@ connect with over 300 global startups and innovation showcases, as well
 as attend Main Stage and Global Stage sessions all happening on the Trade
 Floor. You can also participate in public networking sessions and match
 and set up meetings with fellow attendees through the SWITCH event app!</p>
-<a class="isomer-image-wrapper" href="https://gevme.com/switch2024?utm_source=SWITCH&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer">
+<a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024">
 <img style="width: 100%" height="auto" width="100%" alt="Graphic of a button with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png">
 </a>
 <hr>
@@ -149,5 +149,5 @@ and expert masterclasses focused on 5 domains.</p>
 </table>
 <p><em><sub>Attendees can select Beyond sessions during registration, or by updating their existing registrations through the confirmation email.</sub></em>
 </p>
-<p></p><a class="isomer-image-wrapper" href="https://gevme.com/switch2024?utm_source=SWITCH&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Graphic banner with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024"><img style="width: 100%" height="auto" width="100%" alt="Graphic banner with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
 <p></p>
