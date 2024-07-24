@@ -16,14 +16,12 @@ connect with over 300 global startups and innovation showcases, as well
 as attend Main Stage and Global Stage sessions all happening on the Trade
 Floor. You can also participate in public networking sessions and match
 and set up meetings with fellow attendees through the SWITCH event app!</p>
-<a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024">
-<img style="width: 100%" height="auto" width="100%" alt="Graphic of a button with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png">
-</a>
+<p>The Trade Pass if free to register. Get your pass today!</p><a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024"><img style="width: 100%" height="auto" width="100%" alt="Graphic of a button with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
 <hr>
 <h3><strong>Supercharge your Trade Pass</strong></h3>
-<p>For innovation leaders who want to dive into deep tech trends, add-on
-sessions to <strong>SWITCH Beyond</strong>–A series of conference sessions
-and expert masterclasses focused on 5 domains.</p>
+<p>For innovation leaders who want to dive into deep tech trends, choose
+from any of the add-on sessions to <strong>SWITCH Beyond</strong>–A series
+of half-day conferences and masterclasses focused on 5 domains.</p>
 <h5><strong>SWITCH Beyond sessions</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
