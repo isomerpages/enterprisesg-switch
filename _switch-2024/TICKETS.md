@@ -22,6 +22,7 @@ and set up meetings with fellow attendees through the SWITCH event app!</p>
 <p>For innovation leaders who want to dive into deep tech trends, choose
 from any of the add-on sessions to <strong>SWITCH Beyond</strong>–A series
 of half-day conferences and masterclasses focused on 5 domains.</p>
+<p>Learn more about SWITCH Beyond <a href="/beyond-stage" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h5><strong>SWITCH Beyond sessions</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
