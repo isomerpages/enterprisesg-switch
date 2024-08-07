@@ -11,141 +11,20 @@ image: /images/2023/innovation showcase.png
 variant: tiptap
 ---
 <h1><strong>What's included in my Trade Pass?</strong></h1>
-<p>Attending SWITCH couldn't be easier! Register for a <strong>SWITCH Trade Pass</strong> and
-connect with over 300 global startups and innovation showcases, as well
-as attend Main Stage and Global Stage sessions all happening on the Trade
-Floor. You can also participate in public networking sessions and match
-and set up meetings with fellow attendees through the SWITCH event app!</p>
-<p>The Trade Pass if free to register. Get your pass today!</p><a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024"><img style="width: 100%" height="auto" width="100%" alt="Graphic of a button with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
+<p>Access all sessions happening on the Main Stage and Global Stage, connect
+with exhibitors, and join public networking sessions at SWITCH. Match with
+other businesses and set up meetings with other attendees through the SWITCH
+App.
+<br>
+<br>Add-on sessions to <strong><a href="/beyond-stage" rel="noreferrer noopener" target="_blank">SWITCH Beyond</a></strong>–A
+series of deeptech conference sessions and expert masterclasses.</p>
+<a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024">
+<img style="width: 100%" height="auto" width="100%" alt="Graphic of a button with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png">
+</a>
 <hr>
-<h3><strong>Supercharge your Trade Pass</strong></h3>
-<p>For innovation leaders who want to dive into deep tech trends, choose
-from any of the add-on sessions to <strong>SWITCH Beyond</strong>–A series
-of half-day conferences and masterclasses focused on 5 domains.</p>
-<p>Learn more about SWITCH Beyond <a href="/beyond-stage" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h5><strong>SWITCH Beyond sessions</strong></h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Mon 28 Oct</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Health &amp; Biomedical</strong>
-</p>
-<p><em><sup>10am–1pm: Conference, 2pm–4pm: Masterclasses. Networking lunch included.</sup></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Trade &amp; Connectivity</strong>
-</p>
-<p><em><sup>10am–12noon: Masterclasses, 2pm–5pm: Conference. Networking lunch included.</sup></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Tue 29 Oct</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Environment, Energy &amp; Green Tech</strong>
-</p>
-<p><em><sup>10am–1pm: Conference, 2pm–4pm: Masterclasses. Networking lunch included.</sup></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Transformative Digital Tech – Quantum Tech</strong>
-</p>
-<p><em><sup>10am–12noon: Masterclasses, 2pm–5pm: Conference. Networking lunch included.</sup></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Wed 30 Oct</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Transformative Digital Tech – Space Tech</strong>
-</p>
-<p><em><sup>10am–1pm: Conference</sup></em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h5><strong>Choose between Single or Double sessions or All Access</strong></h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Trade Pass only</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Free</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Trade + Single Beyond session</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$399</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Trade + Double Beyond sessions</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$699 (UP: $798)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Trade + All Access Beyond sessions</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$999 (UP: $1,995)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Graphic with the text Supercharge Your Trade Pass." src="/images/2024/Infographics/2024_SWITCH_Infographic_Beyond_Addon.png">
+</div>
 <p><em><sub>Attendees can select Beyond sessions during registration, or by updating their existing registrations through the confirmation email.</sub></em>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024"><img style="width: 100%" height="auto" width="100%" alt="Graphic banner with the text &quot;GET YOUR PASS&quot;" src="/images/2024/Graphics/2024_SWITCH_Isomer_CTA_Button.png"></a>
