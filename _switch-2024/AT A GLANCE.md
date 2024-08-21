@@ -19,15 +19,20 @@ image: /images/2023/innovation showcase.png
 innovation and the potential of technology and collaboration are unleashed.</p>
 <p>Meet the founders, investors and industry leaders who are working at the
 forefront of deep tech and frontier technologies that will shape the future.&nbsp;</p>
-<p>Connect and share ideas with leaders in the areas of AI, Web3, Quantum,
-Space, Climate Tech, Health Tech and more!</p>
-<p><em>Accessible to all TRADE PASS attendees and CONFERENCE PASS attendees</em>.</p>
-<p></p><a class="isomer-image-wrapper" href="/register"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Innovate?" src="/images/2024/Graphics/2024_Leaderboard_CTA_Innovate.png"></a>
+<p>Connect and share ideas with leaders in the areas of healthcare &amp;
+biomedical sciences, smart cities &amp; urban solutions, trade &amp; connectivity,
+and frontier digital technology in quantum and space tech!</p>
+<p>Attending SWITCH is <strong>free-to-register</strong> with our <strong>Trade Pass</strong>.
+Your Trade Pass gives you access to the SWITCH <strong>Main Stage</strong>, <strong>Global Stage</strong> and <strong>Trade Floor</strong>.</p>
+<p>To attend <strong>Beyond Stage's</strong> deeptech-focused conferences and
+masterclasses, please add-on these sessions when you register for your
+Trade Pass.</p>
+<p></p><a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Innovate?" src="/images/2024/Graphics/2024_Leaderboard_CTA_Innovate.png"></a>
 <h1>Overview of SWITCH 2024</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Infographic timetable of SWITCH 2024 overview" src="/images/2024/Infographics/2024_Isomer_Infographic_Glance_1b.png">
 </div>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/register"><img style="width: 100%" height="auto" width="100%" alt="Banner with the words Ready to Connect? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Connect_2.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Banner with the words Ready to Connect? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Connect_2.png"></a>
 <p></p>
