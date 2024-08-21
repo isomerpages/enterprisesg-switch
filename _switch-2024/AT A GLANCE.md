@@ -19,9 +19,10 @@ image: /images/2023/innovation showcase.png
 innovation and the potential of technology and collaboration are unleashed.</p>
 <p>Meet the founders, investors and industry leaders who are working at the
 forefront of deep tech and frontier technologies that will shape the future.&nbsp;</p>
-<p>Connect and share ideas with leaders in the areas of healthcare &amp;
-biomedical sciences, smart cities &amp; urban solutions, trade &amp; connectivity,
-and frontier digital technology in quantum and space tech!</p>
+<p>Connect and share ideas with leaders in the domains of Health &amp; Biomedical,
+Environment, Energy &amp; Green Technology, Manufacturing, Trade &amp;
+Connectivity, Consumer Media, Goods &amp; Services and Transformative Digital
+Technologies.</p>
 <p>Attending SWITCH is <strong>free-to-register</strong> with our <strong>Trade Pass</strong>.
 Your Trade Pass gives you access to the SWITCH <strong>Main Stage</strong>, <strong>Global Stage</strong> and <strong>Trade Floor</strong>.</p>
 <p>To attend <strong>Beyond Stage's</strong> deeptech-focused conferences and
