@@ -19,7 +19,7 @@ sections:
       subtitle: SWITCH Returns 28–30 October 2024 at Marina Bay Sands, Singapore!
       background: /images/homepage images/2024_Isomer_Homepage_1a.png
       button: GET YOUR PASS >
-      url: https://tickets.switchsg.org/SWITCH2024?utm_source=switchsg.org&utm_medium=referral&utm_campaign=SWITCH2024&utm_content=isomer
+      url: https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&utm_medium=referral&utm_campaign=SWITCH2024&utm_content=isomer
       variant: floating
       size: sm
       alignment: left
