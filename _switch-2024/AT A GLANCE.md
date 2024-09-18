@@ -28,12 +28,12 @@ Your Trade Pass gives you access to the SWITCH <strong>Main Stage</strong>, <str
 <p>To attend <strong>Beyond Stage's</strong> deeptech-focused conferences and
 masterclasses, please add-on these sessions when you register for your
 Trade Pass.</p>
-<p></p><a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Innovate?" src="/images/2024/Graphics/2024_Leaderboard_CTA_Innovate.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Innovate?" src="/images/2024/Graphics/2024_Leaderboard_CTA_Innovate.png"></a>
 <h1>Overview of SWITCH 2024</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Infographic timetable of SWITCH 2024 overview" src="/images/2024/Infographics/2024_Isomer_Infographic_Glance_1b.png">
 </div>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Banner with the words Ready to Connect? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Connect_2.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Banner with the words Ready to Connect? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Connect_2.png"></a>
 <p></p>

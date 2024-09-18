@@ -25,9 +25,17 @@ masterclasses, and a networking lunch.</p>
 Your Trade Pass gives you access to the SWITCH <strong>Main Stage</strong>, <strong>Global Stage</strong> and <strong>Trade Floor</strong>.</p>
 <p>To attend <strong>Beyond Stage's</strong> deeptech-focused conferences and
 masterclasses, please add-on these sessions when you register for your
-Trade Pass.</p><a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Collaborate? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Collaborate.png"></a>
-<h4>SWITCH Beyond Sessions</h4>
-<p></p>
+Trade Pass.</p><a class="isomer-image-wrapper" href="https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Collaborate? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Collaborate.png"></a>
+<h1>Agenda</h1>
+<p>Developments in deep tech are the next frontier for human progress. That’s
+why we’ve curated 5 distinct tracks for leaders in deep tech sectors to
+benefit from networking, knowledge exchange and collaboration opportunities
+that will push the boundaries of what is possible.
+<br>
+</p>
+<p><a href="https://2024.switchsg.org?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
+view the agenda.</p>
+<h3>At a glance</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -76,7 +84,7 @@ Trade Pass.</p><a class="isomer-image-wrapper" href="https://tickets.switchsg.or
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Transformative Digital Tech – Quantum Tech</strong>
+<p><strong>Transformative Digital Tech (Quantum Tech)</strong>
 </p>
 <p><em><sup>10am–12noon: Masterclasses, 2pm–5pm: Conference. Networking lunch included.</sup></em>
 </p>
@@ -88,7 +96,7 @@ Trade Pass.</p><a class="isomer-image-wrapper" href="https://tickets.switchsg.or
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Transformative Digital Tech – Space Tech</strong>
+<p><strong>Transformative Digital Tech (Space Tech)</strong>
 </p>
 <p><em><sup>10am–1pm: Conference</sup></em>
 </p>
@@ -96,7 +104,7 @@ Trade Pass.</p><a class="isomer-image-wrapper" href="https://tickets.switchsg.or
 </tr>
 </tbody>
 </table>
-<h4>Past Speakers</h4>
+<h1>Past Speakers</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A layout of different people's portraits who had spoken at SWITCH." src="/images/2023/Speakers/2023 switch highlight speakers (all stages)_28 oct.jpg">
@@ -110,5 +118,5 @@ Trade Pass.</p><a class="isomer-image-wrapper" href="https://tickets.switchsg.or
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Photos/2024_Isomer_BEYOND_Stage_3.jpg">
 </div>
-<p></p><a class="isomer-image-wrapper" href="https://tickets.switchsg.org/SWITCH2024?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Connect? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Connect.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Banner that reads Ready to Connect? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Connect.png"></a>
 <p></p>
