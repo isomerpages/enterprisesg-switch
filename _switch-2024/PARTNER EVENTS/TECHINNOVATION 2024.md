@@ -11,3 +11,8 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: PARTNER EVENTS
 ---
+Asia's premier technology-matching platform, TechInnovation, IPI’s flagship brokerage event, aims to connect industry leaders, entrepreneurial innovators, technology seekers, and providers to discover new technologies, explore technology commercialisation, and collaborate within the global innovation ecosystem.
+
+Focusing on the primary theme of Sustainable Urban Living, TechInnovation 2024 will showcase technology and innovation, complemented by a conference programme that covers urban solutions, agriculture and food, and health and wellness. These topics will be supported by cross-cutting themes such as innovation, artificial intelligence, digitalisation, and sustainability.
+
+Registration is Free. For more information and to sign-up, visit [TechInnovation 2024](https://www.techinnovation.com.sg/event/a60bb079-c27b-47c9-9c73-e6c1e724b96a/summary).
