@@ -11,3 +11,6 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: PARTNER EVENTS
 ---
+<h3>Event details</h3>
+<p></p>
+<p></p>
