@@ -11,6 +11,8 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: PARTNER EVENTS
 ---
+![Graphic text with the words "Deep Dive into GenAI and NIMs"](/images/2024/Graphics_Side_Events/2024_ignition_accelerator.jpg)
+
 The Ignition AI Accelerator is hosting a GenAI and NIMs Deep Dive for AI startup founders and developers on Day 1 of SWITCH.
 
 This 1.5-hours technical workshop will kick off with a 30-minutes comprehensive overview of NVIDIA's AI ecosystem, covering the array of tools, frameworks, and tech NVIDIA offers to illustrate how they synergise to create powerful AI solutions.
