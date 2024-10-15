@@ -37,6 +37,6 @@ Registration is Free. For more information and to sign-up, visit [TechInnovation
       </tr>
       <tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Learn more:</td>
-        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;"><a target="_blank" href="https://techinnovation.com.sg">techinnovation.com.sg</a></td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;"><a target="_blank" href="https://www.techinnovation.com.sg/event/a60bb079-c27b-47c9-9c73-e6c1e724b96a/summary">techinnovation.com.sg</a></td>
       </tr>
     </tbody></table>
