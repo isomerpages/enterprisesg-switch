@@ -11,6 +11,22 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: PARTNER EVENTS
 ---
-<h3>Event details</h3>
-<p></p>
-<p></p>
+### Event Details
+<table style="border-collapse: collapse; width: 100%;">
+      <tbody><tr>
+        <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Date &amp; Time:</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Wed, 30 Oct 2024, 9am – 5pm</td>
+      </tr>
+      <tr>
+        <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Location:</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">L3, Begonia Jr</td>
+      </tr>
+      <tr>
+        <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Venue:</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Sands Expo &amp; Convention Centre</td>
+      </tr>
+      <tr>
+        <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Address:</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">10 Bayfront Ave, Singapore 018956</td>
+      </tr>
+    </tbody></table>
