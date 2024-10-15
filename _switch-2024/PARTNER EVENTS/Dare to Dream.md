@@ -17,7 +17,7 @@ third_nav_title: PARTNER EVENTS
 <table style="border-collapse: collapse; width: 100%;">
       <tbody><tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Date &amp; Time:</td>
-        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Mon, 28 Oct 2024, 6 – 8pm</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Tue, 29 Oct 2024, 5:30 – 7:30pm</td>
       </tr>
       <tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Location:</td>
