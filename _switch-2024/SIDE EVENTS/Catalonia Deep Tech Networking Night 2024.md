@@ -11,3 +11,26 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: SIDE EVENTS
 ---
+![Graphic with text Catalonia Deep Tech Networking Night](/images/2024/Graphics_Side_Events/2024_side_event_catalonia_deep_tech.png)
+
+Meet leading representatives of the Barcelona – Catalonia Startup Ecosystem, some of the brightest Catalan Startup Founders &amp; Co-Founders who are keen to develop business ties in Singapore, and the local Catalan business community in Singapore.
+
+### Event details
+<table style="border-collapse: collapse; width: 100%;">
+      <tbody><tr>
+        <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Date &amp; Time:</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Tue, 29 Oct 2024, 6 – 9pm</td>
+      </tr>
+      <tr>
+        <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Venue:</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Start2 Group</td>
+      </tr>
+      <tr>
+        <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Address:</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">75 Ayer Rajah Crescent, #02-18 , JTC LaunchPad, Singapore 139953 (Look for the orange building)</td>
+      </tr>
+      <tr>
+        <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Learn more:</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;"><a target="_blank" href="https://www.eventbrite.de/e/catalonia-deep-tech-networking-night-tickets-1038705565307?aff=Catalonia">https://www.eventbrite.de/e/catalonia-deep-tech-networking-night-tickets-1038705565307?aff=Catalonia</a></td>
+      </tr>
+    </tbody></table>
