@@ -26,7 +26,7 @@ We have limited capacity and this event is invite only. Please join the waiting 
 <table style="border-collapse: collapse; width: 100%;">
       <tbody><tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Date &amp; Time:</td>
-        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Thu, 29 Oct 2024, 6 – 10:30pm</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Tue, 29 Oct 2024, 6 – 10:30pm</td>
       </tr>
       <tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Venue:</td>
