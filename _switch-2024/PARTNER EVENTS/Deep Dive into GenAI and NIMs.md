@@ -23,7 +23,7 @@ The next 1-hour will be a deep dive into GenAI and inference optimisation via Ne
 <table style="border-collapse: collapse; width: 100%;">
       <tbody><tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Date &amp; Time:</td>
-        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Mon, 28 Oct 2024</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Mon, 28 Oct 2024, 2 – 4pm</td>
       </tr>
       <tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Location:</td>
