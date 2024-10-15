@@ -2,7 +2,6 @@ collections:
   switch-2024:
     output: true
     order:
-      - SIDE EVENTS/.keep
       - AT A GLANCE.md
       - MAIN STAGE.md
       - BEYOND STAGE.md
@@ -13,6 +12,7 @@ collections:
       - TRADE FLOOR.md
       - PARTNER EVENTS/.keep
       - PARTNER EVENTS/AIMX 2024.md
+      - SIDE EVENTS/.keep
       - FOR YOU/.keep
       - FOR YOU/ASPIRE.md
       - FOR YOU/SINGAPORE AIRLINES.md
