@@ -44,7 +44,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
   </tr>
   <tr>
     <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://centauri.ai">Centauri AI</a></td>
-    <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Centauri AI is a document ETL and data science platform for alternative investments. We are working with 7 customers in the US and Japan, including 3 public companies. Our customers use our platform for deal reviews and portfolio maintenance</td>
+    <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Centauri AI is a a modern data platform for alternative investments to process and analyze complex investment documents. We help investment and operation teams evaluate documents faster and manage more deals by turning hours of data extracting, mapping, and analysis work into minutes.</td>
   </tr>
   <tr>
     <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://einprot.com">Einprot</a></td>
