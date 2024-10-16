@@ -11,8 +11,7 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: PARTNER EVENTS
 ---
-
-![Graphic with text SOSV Climate Tech Summit](/images/2024/Graphics_Side_Events/2024_partner_event_sosv.png)
+![Graphic with text SME Tech Day](/images/2024/Graphics_Side_Events/2024_partner_event_astar.jpg)
 
 SME Tech Day, an annual event organised by ASTAR and supported by Enterprise Singapore, encourages local enterprises to leverage technology to innovate, and tap on knowledge transfer initiatives and ready solutions from ASTAR to grow their business. It showcases cutting-edge technological capabilities and highlights opportunities for public and private sector collaboration to co-innovate, co-develop new products, and improve business processes. 
 
