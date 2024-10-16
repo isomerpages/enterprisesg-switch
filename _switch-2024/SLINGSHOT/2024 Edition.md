@@ -166,7 +166,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
   </tr>
   <tr>
     <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://syenta.com">Syenta</a></td>
-    <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"></td>
+    <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Syenta makes tools that manufacture advanced packaging for semiconductor chips 100x faster.</td>
   </tr>
   <tr>
     <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://tidewise.io">TideWise</a></td>
