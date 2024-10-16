@@ -28,6 +28,13 @@ links:
         url: /beyond-stage
       - title: GLOBAL Stage
         url: /global-stage
+  - title: PARTNER EVENTS
+    url: /event/techinnovation-2024/
+    sublinks:
+      - title: PARTNER EVENTS
+        url: /event/techinnovation-2024/
+      - title: SIDE EVENTS
+        url: /event/catalonia-deep-tech-networking-night-2024/
   - title: WHAT'S ON
     url: /trade-floor
     sublinks:
