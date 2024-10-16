@@ -11,7 +11,6 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: PARTNER EVENTS
 ---
-
 ![Graphic with text SOSV Climate Tech Summit](/images/2024/Graphics_Side_Events/2024_partner_event_sosv.png)
 
 Join the SOSV, IndieBio and HAX teams for an exclusive, invitation-only reception marking the fourth annual SOSV Climate Tech Summit. This in-person gathering offers a unique opportunity to connect with fellow investors and friends of SOSV in a convivial atmosphere, perfect for stimulating conversation and networking.
