@@ -11,7 +11,6 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: PARTNER EVENTS
 ---
-
 ![Graphic with text Innovation, Investment and Collaboration in Web3](/images/2024/Graphics_Side_Events/2024_partner_event_web3wed.png)
 
 WEB3WED are presenting a stream at SWITCH 2024 that focuses on innovation, investment, and collaboration in the Web3 space and will include one of this month's WEB3WED monthly meetup.
