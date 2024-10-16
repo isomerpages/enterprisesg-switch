@@ -11,6 +11,9 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: PARTNER EVENTS
 ---
+
+![Graphic with text AIMX](/images/2024/Graphics_Side_Events/2024_partner_event_aimx.png)
+
 Organised by MP Singapore and hosted by SWITCH, AIMX SG returns for its 2nd edition—a dynamic 3-day conference and exhibition from 28 to 30 October 2024 at Sands Expo &amp; Convention Centre.
 
 Spotlighting AI innovation from Singapore and beyond, AIMX SG will bring together the global deep tech ecosystem to explore new industry use cases, investments, and collaborations.
