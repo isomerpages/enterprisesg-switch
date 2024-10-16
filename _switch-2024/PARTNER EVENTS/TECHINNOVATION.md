@@ -11,7 +11,6 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: PARTNER EVENTS
 ---
-
 ![Photograph of people networking at an exhibition booth](/images/2024/Graphics_Side_Events/2024_partner_event_techinnovation.jpg)
 
 Asia's premier technology-matching platform, TechInnovation, IPI’s flagship brokerage event, aims to connect industry leaders, entrepreneurial innovators, technology seekers, and providers to discover new technologies, explore technology commercialisation, and collaborate within the global innovation ecosystem.
