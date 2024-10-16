@@ -28,6 +28,13 @@ links:
         url: /beyond-stage
       - title: GLOBAL Stage
         url: /global-stage
+  - title: PARTNER EVENTS
+    url: /event/techinnovation-2024/
+    sublinks:
+      - title: PARTNER EVENTS
+        url: /event/techinnovation-2024/
+      - title: SIDE EVENTS
+        url: /event/catalonia-deep-tech-networking-night-2024/
   - title: WHAT'S ON
     url: /trade-floor
     sublinks:
@@ -57,10 +64,3 @@ links:
         url: https://directory.switchsg.org
   - title: REGISTER HERE
     url: https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&utm_medium=referral&utm_campaign=SWITCH2024&utm_content=isomer
-  - title: PARTNER EVENTS
-    url: /event/techinnovation-2024/
-    sublinks:
-      - title: PARTNER EVENTS
-        url: /event/techinnovation-2024/
-      - title: SIDE EVENTS
-        url: /event/catalonia-deep-tech-networking-night-2024/
