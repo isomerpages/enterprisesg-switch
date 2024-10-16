@@ -11,6 +11,9 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: PARTNER EVENTS
 ---
+
+![Graphic with text IEO Forum 2024](/images/2024/Graphics_Side_Events/2024_partner_event_ieo.png)
+
 The IEO Forum is an annual event held for Singapore’s Innovation and Enterprise Offices (IEOs) and aligned stakeholders, aimed at sparking fresh ideas and inspiring innovative mindsets. The 2024 IEO Forum will highlight new initiatives and insights from local IEOs, complemented by groundbreaking perspectives from international guest panellists and leading corporates.
 
 ### Event details
