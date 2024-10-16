@@ -11,7 +11,8 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: SIDE EVENTS
 ---
-# IPO in Taiwan: Why It Matters to Southeast Asia?
+
+![Graphic with text IPO in Taiwan why it matters to Southeast Asia](/images/2024/Graphics_Side_Events/2024_event_ipo_in_taiwan.jpg)# IPO in Taiwan: Why It Matters to Southeast Asia?
 Join founders, investors, and ASEAN institutions to explore Taiwan’s capital market. TWSE, 91APP, and Patec will share IPO insights. Discover why Taiwan excels with high liquidity, strong P/E ratios, and openness to foreign firms.
 
 ### Event details
