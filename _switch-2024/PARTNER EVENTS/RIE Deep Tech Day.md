@@ -11,7 +11,7 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
 image: /images/2023/innovation showcase.png
 third_nav_title: PARTNER EVENTS
 ---
-![Graphic with text RIE Deep Tech Inflections](/images/2024/Graphics_Side_Events/2024_RIE_Day_banner.png)
+![Graphic with Text RIE Deep Tech Day 2024](/images/2024/Graphics_Side_Events/RIE_Deep_Tech_Day_Banner_16Oct.jpg)
 
 The fourth edition of the Research, Innovation and Enterprise (RIE) Deep Tech Day 2024 will be held on 29 October 2024, Tuesday from 9.30am to 3.00pm.  We are honoured to welcome Mr. Heng Swee Keat, Deputy Prime Minister and Chairman of the National Research Foundation, as our Guest of Honour.
 
