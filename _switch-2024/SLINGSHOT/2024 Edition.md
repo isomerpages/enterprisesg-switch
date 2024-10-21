@@ -161,7 +161,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">We have developed a post processing technology to enable the adoption of additive manufacturing for metal components in advanced manufacturing sectors such as med-tech, aerospace, green technologies and many more.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://menou.ai">MENOU</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://menou.co.jp">MENOU</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Leveraging deep learning technology, MENOU enables businesses to automate and streamline their inspection processes without the need for specialized personnel. Our user-friendly platform, MENOU-TE, allows companies to deploy AI inspection.</td>
   </tr>
   <tr>

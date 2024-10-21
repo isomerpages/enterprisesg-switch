@@ -23,11 +23,11 @@ Meet leading representatives of the Barcelona – Catalonia Startup Ecosystem, s
       </tr>
       <tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Venue:</td>
-        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Start2 Group</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">The venue and extra details will be shared with approved participants</td>
       </tr>
       <tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Address:</td>
-        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">75 Ayer Rajah Crescent, #02-18 , JTC LaunchPad, Singapore 139953 (Look for the orange building)</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">The venue and extra details will be shared with approved participants</td>
       </tr>
       <tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Learn more:</td>
