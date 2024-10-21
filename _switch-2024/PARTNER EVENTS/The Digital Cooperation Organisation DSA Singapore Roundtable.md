@@ -1,6 +1,6 @@
 ---
-title: Building the Digital Economy in the Developing World
-permalink: /event/building-the-digital-economy-in-the-developing-world-2024/
+title: The Digital Cooperation Organisation DSA Singapore Roundtable
+permalink: /event/dsa-singapore-roundtable-2024/
 variant: markdown
 description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   of innovation and the potential of technology and collaboration are unleashed.
