@@ -190,7 +190,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Algrow Biosciences is an algae first, proprietary biorefinery company which uses novel extraction methods to produce next generation ingredients - protein and high value pigment, securing the future of food with full biomass valorization to zero waste.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://byomax.com">ByoMax</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://byomax.energy/">ByoMax</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">We produce renewable biomass that replaces coal and coke in heavy industry without defects or equipment changes. Demand from Japanese clients requires us to scale up production immediately.</td>
   </tr>
   <tr>
