@@ -35,7 +35,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <th style="background-color: #000000; color: #ffffff; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Company Description</th>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://5x.ai">5X</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.5x.co/">5X</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">You cannot have an AI strategy without a data strategy and if you don't understand your data neither will AI. 5X is an all in one platform focussed on data readiness, making it incredibly easy to get your data ready for AI, reporting &amp; analytics use cases</td>
   </tr>
   <tr>
@@ -43,11 +43,11 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Blumind is bringing machine-learning inferencing to the Far Edge, placing it on devices and sensors in all environments. Blumind's patented analog semiconductor inferencing engine slashes power consumption, latency and silicon area.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://centauri.ai">Centauri AI</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://centauri-ai.tech">Centauri AI</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Centauri AI is a a modern data platform for alternative investments to process and analyze complex investment documents. We help investment and operation teams evaluate documents faster and manage more deals by turning hours of data extracting, mapping, and analysis work into minutes.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://einprot.com">Einprot</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://8iox.com/">Einprot</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">EinProt accelerates protein evolution through AI: our protein LLM generates digital twins for every protein (alt- sequences, similar structure yet better performance) to define Synth Bio 3.0 and reshape the future of medicine, sustainability and beyond.</td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Quantum Dice offers Quantum Random Number Generator (QRNG) solutions to generate verifiably trusted and secure randomness essential for applications ranging from the cybersecurity of our critical infrastructure to the accuracy of our financial models.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://raptorxai.com">raptorXai Pvt Ltd</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://raptorx.ai/">raptorXai Pvt Ltd</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">AI-driven fraud prevention for banking &amp; e-commerce. Real-time detection, compliance, and reduced false positives using intuitive copilot and patented algorithms.</td>
   </tr>
   <tr>
