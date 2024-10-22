@@ -218,7 +218,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">SOLshare is a climate-tech company creating a global network of smart distributed solar PV and storage assets.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://novac.tech">Novac</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://en.novacsupercap.com/">Novac</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Novac develops a shapeable solid-state supercapacitor, a high power energy-storage system, that can be embedded into the structure of any electric vehicle or satellite thus saving space and increasing safety.</td>
   </tr>
   <tr>
