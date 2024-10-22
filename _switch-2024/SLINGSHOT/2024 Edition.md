@@ -137,7 +137,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <th style="background-color: #000000; color: #ffffff; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Company Description</th>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://acceleratedmaterials.com">Accelerated Materials</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://acceleratedmaterials.co/">Accelerated Materials</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Scaling-up the manufacturing of advanced nano materials takes decades and millions. We provide a versatile, patented reactor system that saves companies up to 90% in costs and time, democratizing materials in industries from electronics to fine chemicals</td>
   </tr>
   <tr>
