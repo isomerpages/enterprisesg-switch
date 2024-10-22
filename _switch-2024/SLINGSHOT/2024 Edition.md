@@ -55,7 +55,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">We are eSelf AI, revolutionizing professional efficiency with custom Virtual SDRs. Our seamless digital twins empower professionals to maximize their time and productivity effortlessly. Are you ready to elevate your workflow with eSelf AI?</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://quantumdice.com">Quantum Dice Ltd</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.quantum-dice.com/">Quantum Dice Ltd</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Quantum Dice offers Quantum Random Number Generator (QRNG) solutions to generate verifiably trusted and secure randomness essential for applications ranging from the cybersecurity of our critical infrastructure to the accuracy of our financial models.</td>
   </tr>
   <tr>
