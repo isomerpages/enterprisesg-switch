@@ -186,7 +186,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <th style="background-color: #000000; color: #ffffff; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Company Description</th>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://algrowbiosciences.com">Algrow Biosciences</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://algrowbiosciences.co/">Algrow Biosciences</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Algrow Biosciences is an algae first, proprietary biorefinery company which uses novel extraction methods to produce next generation ingredients - protein and high value pigment, securing the future of food with full biomass valorization to zero waste.</td>
   </tr>
   <tr>
