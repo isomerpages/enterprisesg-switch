@@ -198,7 +198,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Oil Palm is a $70B/year global commodity, grown on 30M ha by people who increasingly have much better employment opportunities. EarthSense's AI-powered robots enable palm plantations to be run with 80% less labor and increase profitability by over 20%.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://fuseboxenergy.com">Fusebox Energy</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://fusebox.energy/">Fusebox Energy</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Building Virtual Power Plants technology globally, trading platform for balancing energy system and contributing to a greener environment</td>
   </tr>
   <tr>
