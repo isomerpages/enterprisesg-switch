@@ -222,7 +222,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Novac develops a shapeable solid-state supercapacitor, a high power energy-storage system, that can be embedded into the structure of any electric vehicle or satellite thus saving space and increasing safety.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://solumar.com">Solumar</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.solumar.org/">Solumar</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Solumar developed new Air&amp;Gas filtering technology to directly cut all emissions combined (mechanical particles, Black carbon, dust), VOC, and GHG from the Industrial, Marine, and Oil&amp;Gas sectors. The technology works with 6-8 times lower CAPEX and OPEX.</td>
   </tr>
 </tbody></table>
