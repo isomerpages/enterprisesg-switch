@@ -88,7 +88,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <th style="background-color: #000000; color: #ffffff; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Company Description</th>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://3degrees.org">3 Degrees</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://3degrees.app/feed">3 Degrees</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">In a world where crowdfunding has become outdated, and frankly boring, the charity sector is in dire need of a revolution. Introducing 3 Degrees - Social Media for the Social Minded. A social media platform that turns online actions into offline good.</td>
   </tr>
   <tr>
