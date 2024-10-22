@@ -100,7 +100,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Lawyers waste 30% of their time on non-value adding work when drafting legal documents. BoostDraft develops a plug-in that transforms MS Word to an assisted document editor, which accelerates legal drafting by eliminating fundamental inefficiencies.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://curiosityeducation.com">Curiosity Education</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.curiosity-robotics.com/">Curiosity Education</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Curiosity Robotics is revolutionizing early childhood education by harnessing the power of Social Robots and AI to teach English to toddlers - the critical age for language acquisition.</td>
   </tr>
   <tr>
