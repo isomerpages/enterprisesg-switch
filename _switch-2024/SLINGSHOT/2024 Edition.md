@@ -173,7 +173,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">TideWise is a Brazilian company that develops, integrates and operates smart uncrewed robotic systems to solve demands of the maritime and portuary markets. Our mission is to accelerate the transition to a safer and more sustainable industry.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://topologic.com">TopoLogic Inc.</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.topologic.jp/">TopoLogic Inc.</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">We have a new material technology, innovative semiconductor memory and sensor products. Our memory technology can reduce power consumption of data centers by over 50%, our sensor technology will improve efficiency of battery cells and power electronics.</td>
   </tr>
 </tbody></table>
