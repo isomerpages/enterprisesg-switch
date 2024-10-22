@@ -108,7 +108,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">We provide unbundled insurance products embedded in channels relevant to customers. We aim to rebuild insurance from scratch and reconnect with people's needs at life's most important moments.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://fluidb2b.com">Fluid</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.gofluid.io/">Fluid</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Fluid, a B2B Buy Now Pay Later solution, helps suppliers finance buyers' purchases at checkout. It replaces traditional B2B payment methods with accounting and ERP integration, offering instant underwriting, better payment terms, and improved cashflow.</td>
   </tr>
   <tr>
