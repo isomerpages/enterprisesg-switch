@@ -145,7 +145,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">ArgosVision develops a panoramic 3D vision sensor providing a human-like wide field of view. This innovation revolutionizes how robots perceive their surroundings and interact with people, significantly enhancing their potential to enrich our daily lives.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://cmmc.de">CMMC GmbH</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.cmmc-engineering.com/">CMMC GmbH</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">CMMC is an expert in high performance light metals, which are sustainable, innovative due to their composition and novel in their shape. The important industries are mechanical engineering, mobility, aerospace and defense for 1 up to million parts.</td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Factorem is Southeast Asia's first AI-driven cloud platform to order custom manufactured parts ON-DEMAND. With Factorem, anyone can reduce time-to-market and get low volume, high quality parts from a highly vetted network of factories in Southeast Asia.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://fleetrobotics.com">Fleet Robotics</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.fleetrobotics.ai/">Fleet Robotics</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Fleet Robotics revolutionizes vessel maintenance with autonomous robots that continuously inspect and clean hulls. Our robots reduce emissions, cut fuel consumption, and prevent costly failures, providing real-time data for better risk assessment.</td>
   </tr>
   <tr>
