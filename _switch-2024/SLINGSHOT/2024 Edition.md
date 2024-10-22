@@ -210,7 +210,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Matwerkz designs Thermorphous materials to enhance the safety and efficiency of batteries. They provide excellent heat dissipation at normal battery working temperatures, but quickly transforms into a fire protection barrier when the battery catches fire.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://medeabiopharma.com">MEDEA Biopharma</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.medea-bio.com/">MEDEA Biopharma</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">MEDEA is a German biotechnology company that develops a new generation of eco-friendly &amp; safe antibacterial substances and ingredients, designed to solve the antimicrobial resistance of bacteria.</td>
   </tr>
   <tr>
