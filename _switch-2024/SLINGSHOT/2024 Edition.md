@@ -202,7 +202,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Building Virtual Power Plants technology globally, trading platform for balancing energy system and contributing to a greener environment</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://futurecow.com">Future Cow Technologies, LTDA</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.futurecow.com.br/">Future Cow Technologies, LTDA</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Future Cow is Brazil's first biotech/food tech startup developing innovative technology that produces real milk, without cows. Using precision fermentation, we are able to replicate the molecular proteins produced by cows in labs, without any animal cells</td>
   </tr>
   <tr>
