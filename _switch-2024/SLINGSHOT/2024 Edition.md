@@ -157,7 +157,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Fleet Robotics revolutionizes vessel maintenance with autonomous robots that continuously inspect and clean hulls. Our robots reduce emissions, cut fuel consumption, and prevent costly failures, providing real-time data for better risk assessment.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://holdson.com">Holdson</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://holdson.co.uk/">Holdson</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">We have developed a post processing technology to enable the adoption of additive manufacturing for metal components in advanced manufacturing sectors such as med-tech, aerospace, green technologies and many more.</td>
   </tr>
   <tr>
