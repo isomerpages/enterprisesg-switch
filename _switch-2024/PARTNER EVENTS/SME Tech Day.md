@@ -24,7 +24,7 @@ For more information and sign-up, visit [SME Tech Day](https://www.a-star.edu.sg
 <table style="border-collapse: collapse; width: 100%;">
       <tbody><tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Date &amp; Time:</td>
-        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Tue, 29 Oct 2024, 4:30 – 6pm</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">Tue, 29 Oct 2024, 3 – 4.30pm</td>
       </tr>
       <tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Location:</td>

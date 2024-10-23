@@ -35,7 +35,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <th style="background-color: #000000; color: #ffffff; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Company Description</th>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://5x.ai">5X</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.5x.co/">5X</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">You cannot have an AI strategy without a data strategy and if you don't understand your data neither will AI. 5X is an all in one platform focussed on data readiness, making it incredibly easy to get your data ready for AI, reporting &amp; analytics use cases</td>
   </tr>
   <tr>
@@ -43,11 +43,11 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Blumind is bringing machine-learning inferencing to the Far Edge, placing it on devices and sensors in all environments. Blumind's patented analog semiconductor inferencing engine slashes power consumption, latency and silicon area.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://centauri.ai">Centauri AI</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://centauri-ai.tech">Centauri AI</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Centauri AI is a a modern data platform for alternative investments to process and analyze complex investment documents. We help investment and operation teams evaluate documents faster and manage more deals by turning hours of data extracting, mapping, and analysis work into minutes.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://einprot.com">Einprot</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://8iox.com/">Einprot</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">EinProt accelerates protein evolution through AI: our protein LLM generates digital twins for every protein (alt- sequences, similar structure yet better performance) to define Synth Bio 3.0 and reshape the future of medicine, sustainability and beyond.</td>
   </tr>
   <tr>
@@ -55,11 +55,11 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">We are eSelf AI, revolutionizing professional efficiency with custom Virtual SDRs. Our seamless digital twins empower professionals to maximize their time and productivity effortlessly. Are you ready to elevate your workflow with eSelf AI?</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://quantumdice.com">Quantum Dice Ltd</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.quantum-dice.com/">Quantum Dice Ltd</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Quantum Dice offers Quantum Random Number Generator (QRNG) solutions to generate verifiably trusted and secure randomness essential for applications ranging from the cybersecurity of our critical infrastructure to the accuracy of our financial models.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://raptorxai.com">raptorXai Pvt Ltd</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://raptorx.ai/">raptorXai Pvt Ltd</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">AI-driven fraud prevention for banking &amp; e-commerce. Real-time detection, compliance, and reduced false positives using intuitive copilot and patented algorithms.</td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
 
 ##### Health and Biomedical
 
-<table style="width: 100%; border-collapse: collapse;"> <tbody><tr> <th style="width: 20%; background-color: #000000; color: #ffffff; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Startup</th> <th style="background-color: #000000; color: #ffffff; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Company Description</th> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="\_blank" href="https://acorai.com">Acorai</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Acorai revolutionizes heart failure (HF) management with a non-invasive handheld monitor that accurately measures intracardiac pressures. Our FDA-designated Breakthrough Device improves patient outcomes and reduces costs, transforming HF care globally.</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="\_blank" href="https://allegrowbiotech.com">Allegrow Biotech</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Grow More Cells, Grow Better Cells, Cure More Cancer</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="\_blank" href="https://ferroptocure.com">FerroptoCure Inc.</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">FerroptoCure Inc., has developed a proprietary technology platform based on a synthetic lethality strategy by inhibiting the antioxidative system used by cancer cells to protect themselves, thus inducing ferroptosis in solid tumors.</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="\_blank" href="https://fertigomedical.com">Fertigo Medical Ltd.</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Computerized endoscopy for In-vivo virtual biopsy, first applied to In-Vitro Fertilization</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="\_blank" href="https://intelvasc.com">IntelVasc Inc.</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Predicting strokes or heart attacks would represent a huge leap forward in medicine, don't you think? IntelVasc has developed the world's first sensor to monitor vascular occlusions remotely, in partnership with Mayo Clinic and Royal Philips.</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="\_blank" href="https://qritive.com">Qritive</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Qritive provides AI-powered diagnostic solutions designed to improve speed, accuracy, and consistency in cancer diagnosis. Our platform helps pathologists and laboratories reduce slide reading time by up to 90%, while minimizing bias by 82%. By integrating into clinical workflows, we support pathologists in delivering faster, more reliable results for patients. With deployments across institutions in Singapore, the USA, India, and other regions, Qritive is helping to advance diagnostic care.</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="\_blank" href="https://soniretherapeutics.com">SONIRE Therapeutics Inc.</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">SONIRE is developing an ultrasound-guided HIFU therapy system to treat an intractable cancer like pancreatic cancer. Now, we are conducting a randomized trial for pancreatic cancer in Japan, and also we start a clinical trial in the U.S. soon.</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="\_blank" href="https://spectracann.com">SpectraCann Ltd.</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">SpectraCann is building the world's first rapid onsite drug screening test, with unmatched speed, reliability, and accessibility!</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="\_blank" href="https://stemden.com">STEMDEN</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Tooth dentin can regenerate and the tooth decay can be cured to go back to the healthy and natural tooth. The paradigm in dental industry will forever change in our generation from replacement therapy to regeneration therapy.</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="\_blank" href="https://vivosurgical.com">Vivo Surgical Private Limited</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Vivo Surgical is pioneering an endoscopic robot for advanced endoscopic procedures within the gastrointestinal tract. This replaces invasive laparoscopic/open surgery, leading to faster recovery and better clinical outcomes for colorectal cancer patients.</td> </tr> </tbody></table>
+<table style="width: 100%; border-collapse: collapse;"> <tbody><tr> <th style="width: 20%; background-color: #000000; color: #ffffff; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Startup</th> <th style="background-color: #000000; color: #ffffff; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Company Description</th> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://acorai.com">Acorai</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Acorai revolutionizes heart failure (HF) management with a non-invasive handheld monitor that accurately measures intracardiac pressures. Our FDA-designated Breakthrough Device improves patient outcomes and reduces costs, transforming HF care globally.</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://allegrowbiotech.com">Allegrow Biotech</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Grow More Cells, Grow Better Cells, Cure More Cancer</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://ferroptocure.com">FerroptoCure Inc.</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">FerroptoCure Inc., has developed a proprietary technology platform based on a synthetic lethality strategy by inhibiting the antioxidative system used by cancer cells to protect themselves, thus inducing ferroptosis in solid tumors.</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.fertigo-medical.com/">Fertigo Medical Ltd.</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Computerized endoscopy for In-vivo virtual biopsy, first applied to In-Vitro Fertilization</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://intelvasc.com/">IntelVasc Inc.</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Predicting strokes or heart attacks would represent a huge leap forward in medicine, don't you think? IntelVasc has developed the world's first sensor to monitor vascular occlusions remotely, in partnership with Mayo Clinic and Royal Philips.</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://qritive.com">Qritive</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Qritive provides AI-powered diagnostic solutions designed to improve speed, accuracy, and consistency in cancer diagnosis. Our platform helps pathologists and laboratories reduce slide reading time by up to 90%, while minimizing bias by 82%. By integrating into clinical workflows, we support pathologists in delivering faster, more reliable results for patients. With deployments across institutions in Singapore, the USA, India, and other regions, Qritive is helping to advance diagnostic care.</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.sonire-therapeutics.com/en/">SONIRE Therapeutics Inc.</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">SONIRE is developing an ultrasound-guided HIFU therapy system to treat an intractable cancer like pancreatic cancer. Now, we are conducting a randomized trial for pancreatic cancer in Japan, and also we start a clinical trial in the U.S. soon.</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://spectracann.com">SpectraCann Ltd.</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">SpectraCann is building the world's first rapid onsite drug screening test, with unmatched speed, reliability, and accessibility!</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="http://www.stemden.org">STEMDEN</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Tooth dentin can regenerate and the tooth decay can be cured to go back to the healthy and natural tooth. The paradigm in dental industry will forever change in our generation from replacement therapy to regeneration therapy.</td> </tr> <tr> <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.vivo-surgical.com/">Vivo Surgical Private Limited</a></td> <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Vivo Surgical is pioneering an endoscopic robot for advanced endoscopic procedures within the gastrointestinal tract. This replaces invasive laparoscopic/open surgery, leading to faster recovery and better clinical outcomes for colorectal cancer patients.</td> </tr> </tbody></table>
 
 ##### Consumer Media, Goods and Services
 
@@ -88,7 +88,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <th style="background-color: #000000; color: #ffffff; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Company Description</th>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://3degrees.org">3 Degrees</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://3degrees.app/feed">3 Degrees</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">In a world where crowdfunding has become outdated, and frankly boring, the charity sector is in dire need of a revolution. Introducing 3 Degrees - Social Media for the Social Minded. A social media platform that turns online actions into offline good.</td>
   </tr>
   <tr>
@@ -100,7 +100,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Lawyers waste 30% of their time on non-value adding work when drafting legal documents. BoostDraft develops a plug-in that transforms MS Word to an assisted document editor, which accelerates legal drafting by eliminating fundamental inefficiencies.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://curiosityeducation.com">Curiosity Education</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.curiosity-robotics.com/">Curiosity Education</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Curiosity Robotics is revolutionizing early childhood education by harnessing the power of Social Robots and AI to teach English to toddlers - the critical age for language acquisition.</td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">We provide unbundled insurance products embedded in channels relevant to customers. We aim to rebuild insurance from scratch and reconnect with people's needs at life's most important moments.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://fluidb2b.com">Fluid</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.gofluid.io/">Fluid</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Fluid, a B2B Buy Now Pay Later solution, helps suppliers finance buyers' purchases at checkout. It replaces traditional B2B payment methods with accounting and ERP integration, offering instant underwriting, better payment terms, and improved cashflow.</td>
   </tr>
   <tr>
@@ -137,7 +137,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <th style="background-color: #000000; color: #ffffff; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Company Description</th>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://acceleratedmaterials.com">Accelerated Materials</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://acceleratedmaterials.co/">Accelerated Materials</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Scaling-up the manufacturing of advanced nano materials takes decades and millions. We provide a versatile, patented reactor system that saves companies up to 90% in costs and time, democratizing materials in industries from electronics to fine chemicals</td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">ArgosVision develops a panoramic 3D vision sensor providing a human-like wide field of view. This innovation revolutionizes how robots perceive their surroundings and interact with people, significantly enhancing their potential to enrich our daily lives.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://cmmc.de">CMMC GmbH</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.cmmc-engineering.com/">CMMC GmbH</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">CMMC is an expert in high performance light metals, which are sustainable, innovative due to their composition and novel in their shape. The important industries are mechanical engineering, mobility, aerospace and defense for 1 up to million parts.</td>
   </tr>
   <tr>
@@ -153,11 +153,11 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Factorem is Southeast Asia's first AI-driven cloud platform to order custom manufactured parts ON-DEMAND. With Factorem, anyone can reduce time-to-market and get low volume, high quality parts from a highly vetted network of factories in Southeast Asia.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://fleetrobotics.com">Fleet Robotics</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.fleetrobotics.ai/">Fleet Robotics</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Fleet Robotics revolutionizes vessel maintenance with autonomous robots that continuously inspect and clean hulls. Our robots reduce emissions, cut fuel consumption, and prevent costly failures, providing real-time data for better risk assessment.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://holdson.com">Holdson</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://holdson.co.uk/">Holdson</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">We have developed a post processing technology to enable the adoption of additive manufacturing for metal components in advanced manufacturing sectors such as med-tech, aerospace, green technologies and many more.</td>
   </tr>
   <tr>
@@ -173,7 +173,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">TideWise is a Brazilian company that develops, integrates and operates smart uncrewed robotic systems to solve demands of the maritime and portuary markets. Our mission is to accelerate the transition to a safer and more sustainable industry.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://topologic.com">TopoLogic Inc.</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.topologic.jp/">TopoLogic Inc.</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">We have a new material technology, innovative semiconductor memory and sensor products. Our memory technology can reduce power consumption of data centers by over 50%, our sensor technology will improve efficiency of battery cells and power electronics.</td>
   </tr>
 </tbody></table>
@@ -186,11 +186,11 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <th style="background-color: #000000; color: #ffffff; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Company Description</th>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://algrowbiosciences.com">Algrow Biosciences</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://algrowbiosciences.co/">Algrow Biosciences</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Algrow Biosciences is an algae first, proprietary biorefinery company which uses novel extraction methods to produce next generation ingredients - protein and high value pigment, securing the future of food with full biomass valorization to zero waste.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://byomax.com">ByoMax</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://byomax.energy/">ByoMax</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">We produce renewable biomass that replaces coal and coke in heavy industry without defects or equipment changes. Demand from Japanese clients requires us to scale up production immediately.</td>
   </tr>
   <tr>
@@ -198,11 +198,11 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Oil Palm is a $70B/year global commodity, grown on 30M ha by people who increasingly have much better employment opportunities. EarthSense's AI-powered robots enable palm plantations to be run with 80% less labor and increase profitability by over 20%.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://fuseboxenergy.com">Fusebox Energy</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://fusebox.energy/">Fusebox Energy</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Building Virtual Power Plants technology globally, trading platform for balancing energy system and contributing to a greener environment</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://futurecow.com">Future Cow Technologies, LTDA</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.futurecow.com.br/">Future Cow Technologies, LTDA</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Future Cow is Brazil's first biotech/food tech startup developing innovative technology that produces real milk, without cows. Using precision fermentation, we are able to replicate the molecular proteins produced by cows in labs, without any animal cells</td>
   </tr>
   <tr>
@@ -210,7 +210,7 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Matwerkz designs Thermorphous materials to enhance the safety and efficiency of batteries. They provide excellent heat dissipation at normal battery working temperatures, but quickly transforms into a fire protection barrier when the battery catches fire.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://medeabiopharma.com">MEDEA Biopharma</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.medea-bio.com/">MEDEA Biopharma</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">MEDEA is a German biotechnology company that develops a new generation of eco-friendly &amp; safe antibacterial substances and ingredients, designed to solve the antimicrobial resistance of bacteria.</td>
   </tr>
   <tr>
@@ -218,11 +218,11 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">SOLshare is a climate-tech company creating a global network of smart distributed solar PV and storage assets.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://novac.tech">Novac</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://en.novacsupercap.com/">Novac</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Novac develops a shapeable solid-state supercapacitor, a high power energy-storage system, that can be embedded into the structure of any electric vehicle or satellite thus saving space and increasing safety.</td>
   </tr>
   <tr>
-    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://solumar.com">Solumar</a></td>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://www.solumar.org/">Solumar</a></td>
     <td style="background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;">Solumar developed new Air&amp;Gas filtering technology to directly cut all emissions combined (mechanical particles, Black carbon, dust), VOC, and GHG from the Industrial, Marine, and Oil&amp;Gas sectors. The technology works with 6-8 times lower CAPEX and OPEX.</td>
   </tr>
 </tbody></table>
