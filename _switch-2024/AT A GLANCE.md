@@ -32,7 +32,7 @@ Trade Pass.</p>
 <h1>Overview of SWITCH 2024</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Infographic of a schedule for SWITCH 2024 At a Glance" src="/images/2024/Infographics/2024_SWITCH_Infographic_updated_20241025Oct.png">
+<img style="width: 100%" height="auto" width="100%" alt="Infographic of SWITCH 2024 At A Glance" src="/images/2024/Infographics/2024_SWITCH_Infographic_updated_20241025Oct_v2.png">
 </div>
 <p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer"><img style="width: 100%" height="auto" width="100%" alt="Banner with the words Ready to Connect? Get Your Pass" src="/images/2024/Graphics/2024_Leaderboard_CTA_Connect_2.png"></a>
 <p></p>
