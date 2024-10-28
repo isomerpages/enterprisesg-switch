@@ -24,7 +24,7 @@ The 3rd JSCCP Seminar will offer latest insights and updates on innovation in So
       </tr>
       <tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Location:</td>
-        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">L3, Begonia Jr</td>
+        <td style="border: 1px solid #CCCCCC; padding: 5px; text-align: left; vertical-align: middle;">L3, Begonia Main Ballroom 1</td>
       </tr>
       <tr>
         <td style="width: 20%; border: 1px solid #CCCCCC; padding: 5px; font-weight: bold; text-align: left; vertical-align: middle;">Venue:</td>
