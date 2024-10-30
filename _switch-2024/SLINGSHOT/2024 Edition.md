@@ -5,29 +5,32 @@ variant: markdown
 description: ""
 third_nav_title: SLINGSHOT
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Graphic banner of SLINGSHOT startup competition with the words FINAL CALL: 15 JULY 2024" src="/images/2024/Graphics_SLINGSHOT/extension_banner_opt3e_1087x700px.jpg">
-</div>
-<h4><strong>Embark on your global startup journey at the eighth edition of SLINGSHOT, Asia's premier deep tech startup competition!</strong></h4>
-<p>Join the SLINGSHOT competition and compete in any one of our five emerging
-challenge domains to unveil your trailblazing solutions and innovations
-to key industry leaders and global investors.</p>
-<p>Vie for a chance to be part of our <strong>SLINGSHOT's Top 50 Global Startups</strong> to
-win a sponsored trip to Singapore and immerse in Asia’s leading tech startup
-community, and compete for more than S$1.2 million worth of grant prizes.</p>
-<p>Make the pitch of a lifetime to a global audience at the SLINGSHOT 2024
-Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
-<hr>
+#### SLINGSHOT 2024 Winners
+Imagine energy-efficient household appliances, sustainable construction practices, and the realisation of net-zero energy buildings. This is a future made possible through the novel tech solution offered by **Thermalytica Inc**., which emerged as the Grand Winner of SLINGSHOT 2023.
 
-<h4>2024 Challenge Domains</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/slingshot/SLINGSHOT 2024/SLINGSHOT_domain_visuals_220324.png">
-</div>
-<hr>
-<p></p>
+The first runner-up was **Bering Lab Inc.**, which provides domain-specific translation engines and tools powered by Artificial Intelligence (AI) for the legal and patent industries; while the second runner-up was **Kinexcs Private Limited**, an AI-driven digital health and wearables company focused on enabling mobility for patients with musculoskeletal conditions.
 
-#### SLINGSHOT Top 50
+#### Top 10 Grand Finalists
+**Consumer Media, Goods and Services**
+* Ariadne (Germany) - Real-time spatial intelligence for crowd analytics.
+* Umami Bioworks (Singapore) - Tech for cultivated bioproducts and sustainable planetary biosolutions.
+  
+**Environment, Energy and Green Technologies** 
+* Novac (Italy) - Shapeable, solid-state supercapacitors that integrate seamlessly into composite materials.
+* Matwerkz Technologies (Singapore) - Unique thermal management solutions tailored across industries.  
+  
+**Health and Biomedical**
+* SONIRE Therapeutics Inc. (Japan) - Ultrasound guided high-intensity focused ultrasound therapy system to treat intractable cancer.  
+* STEMDEN (Korea) - Tissue regeneration pharmaceuticals for dental treatment.  
+**Manufacturing, Trade and Connectivity**
+* MENOU (Japan) - No-code artificial intelligence solutions for industrial inspections.
+* Holdson (United Kingdom) - Advanced electrochemical polishing technology.  
+  
+**Transformative Digital Technologies**
+* Einprot AI (Singapore) - Generation of novel proteins with enhanced properties.  
+* Blumind (Canada) - A proprietary analogue semiconductor engine that slashes energy consumption for IoT solutions.
+
+#### Top 50 Finalists
 ##### Transformative Digital Technologies
 <table style="width: 100%; border-collapse: collapse;">
   <tbody><tr>
@@ -228,6 +231,28 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
 </tbody></table>
 
 _Last updated: 9 Oct 2024_
+
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Graphic banner of SLINGSHOT startup competition with the words FINAL CALL: 15 JULY 2024" src="/images/2024/Graphics_SLINGSHOT/extension_banner_opt3e_1087x700px.jpg">
+</div>
+<h4><strong>Embark on your global startup journey at the eighth edition of SLINGSHOT, Asia's premier deep tech startup competition!</strong></h4>
+<p>Join the SLINGSHOT competition and compete in any one of our five emerging
+challenge domains to unveil your trailblazing solutions and innovations
+to key industry leaders and global investors.</p>
+<p>Vie for a chance to be part of our <strong>SLINGSHOT's Top 50 Global Startups</strong> to
+win a sponsored trip to Singapore and immerse in Asia’s leading tech startup
+community, and compete for more than S$1.2 million worth of grant prizes.</p>
+<p>Make the pitch of a lifetime to a global audience at the SLINGSHOT 2024
+Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
+<hr>
+
+<h4>2024 Challenge Domains</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/slingshot/SLINGSHOT 2024/SLINGSHOT_domain_visuals_220324.png">
+</div>
+<hr>
+<p></p>
 
 <hr>
 <h4><strong>Applications to SLINGSHOT 2024 are now closed.</strong></h4>
