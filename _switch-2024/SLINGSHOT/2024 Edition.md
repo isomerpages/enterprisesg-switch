@@ -6,9 +6,11 @@ description: ""
 third_nav_title: SLINGSHOT
 ---
 #### SLINGSHOT 2024 Winners
-Imagine energy-efficient household appliances, sustainable construction practices, and the realisation of net-zero energy buildings. This is a future made possible through the novel tech solution offered by **Thermalytica Inc**., which emerged as the Grand Winner of SLINGSHOT 2023.
+Matwerkz Technologies has emerged as the Grand Winner of SLINGSHOT 2024, the leading global deep tech startup competition!  
+  
+This innovative startup designs the novel Thermorphous which doubles as both a heat dissipation material at normal battery working temperatures, and quickly transforms into a fire protection barrier should a battery fire occur.  
 
-The first runner-up was **Bering Lab Inc.**, which provides domain-specific translation engines and tools powered by Artificial Intelligence (AI) for the legal and patent industries; while the second runner-up was **Kinexcs Private Limited**, an AI-driven digital health and wearables company focused on enabling mobility for patients with musculoskeletal conditions.
+**STEMDEN** and **SONIRE Therapeutics Inc.** have also emerged as our First and Second Runner-Ups respectively.
 
 #### Top 10 Grand Finalists
 **Consumer Media, Goods and Services**
