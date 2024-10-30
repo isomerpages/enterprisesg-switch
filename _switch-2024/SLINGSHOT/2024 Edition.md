@@ -5,12 +5,16 @@ variant: markdown
 description: ""
 third_nav_title: SLINGSHOT
 ---
+
+![SLINGSHOT 2024 Grand Winner](/images/2024/2024_slingshot_Grand_Winner_web.jpg)
 #### SLINGSHOT 2024 Winners
 Matwerkz Technologies has emerged as the Grand Winner of SLINGSHOT 2024, the leading global deep tech startup competition!  
   
 This innovative startup designs the novel Thermorphous which doubles as both a heat dissipation material at normal battery working temperatures, and quickly transforms into a fire protection barrier should a battery fire occur.  
 
 **STEMDEN** and **SONIRE Therapeutics Inc.** have also emerged as our First and Second Runner-Ups respectively.
+
+![SLINGSHOT 2024 Top 10](/images/2024/2024_slingshot_Top10_web.jpg)
 
 #### Top 10 Grand Finalists
 **Consumer Media, Goods and Services**
@@ -31,6 +35,8 @@ This innovative startup designs the novel Thermorphous which doubles as both a h
 **Transformative Digital Technologies**
 * Einprot AI (Singapore) - Generation of novel proteins with enhanced properties.  
 * Blumind (Canada) - A proprietary analogue semiconductor engine that slashes energy consumption for IoT solutions.
+
+![SLINGSHOT 2024 Top 50](/images/2024/2024_slingshot_Top_50_web.jpg)
 
 #### Top 50 Finalists
 ##### Transformative Digital Technologies
