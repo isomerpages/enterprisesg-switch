@@ -27,7 +27,8 @@ This innovative startup designs the novel Thermorphous which doubles as both a h
   
 **Health and Biomedical**
 * SONIRE Therapeutics Inc. (Japan) - Ultrasound guided high-intensity focused ultrasound therapy system to treat intractable cancer.  
-* STEMDEN (Korea) - Tissue regeneration pharmaceuticals for dental treatment.  
+* STEMDEN (Korea) - Tissue regeneration pharmaceuticals for dental treatment.
+  
 **Manufacturing, Trade and Connectivity**
 * MENOU (Japan) - No-code artificial intelligence solutions for industrial inspections.
 * Holdson (United Kingdom) - Advanced electrochemical polishing technology.  
