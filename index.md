@@ -16,10 +16,10 @@ notification: ""
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
-      subtitle: SWITCH Returns 28–30 October 2024 at Marina Bay Sands, Singapore!
+      subtitle: SWITCH Returns 29–31 October 2025 at Marina Bay Sands, Singapore!
       background: /images/homepage images/2024_Isomer_Homepage_1a.png
-      button: GET YOUR PASS >
-      url: https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&utm_medium=referral&utm_campaign=SWITCH2024&utm_content=isomer
+      button: MAILING LIST
+      url: http://eepurl.com/iqDazw
       variant: floating
       size: sm
       alignment: left
@@ -38,17 +38,6 @@ sections:
           description: Choose The Right Pass
           url: /register
   - infopic:
-      title: Apply to SLINGSHOT 2024!
-      subtitle: Deadline Extended!
-      id: infopic
-      description: Embark on your global startup journey at the eighth edition of
-        SLINGSHOT, Asia's premier deep tech startup competition! Applications
-        extended to 15 Jul 2024.
-      button: Learn more
-      url: /slingshot/2024-edition/
-      image: /images/SLINGSHOT_2023_Group_Photo.jpg
-      alt: Image alt text
-  - infopic:
       title: Sparking Innovation, Igniting Ideas
       subtitle: AT A GLANCE
       id: infopic
@@ -59,6 +48,15 @@ sections:
       alt: Innovation at SWITCH
       url: /at-a-glance
       image: /images/2024/Graphics/2024_Isomer_Home_1.jpg
+  - infopic:
+      title: Thanks for participating at SLINGSHOT 2024!
+      subtitle: Startup Pitching Competition
+      id: infopic
+      description: Click here to learn more about our 2024 winners and Top 50 finalists.
+      button: Learn more
+      url: /slingshot/2024-edition/
+      image: /images/SLINGSHOT_2023_Group_Photo.jpg
+      alt: SLINGSHOT
   - infopic:
       title: Highlights from SWITCH 2023
       subtitle: VIDEO
