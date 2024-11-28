@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Singapore Week of Innovation and Technology | 28–30 Oct 2024 | Marina Bay
+title: Singapore Week of Innovation and Technology | 29–31 Oct 2025 | Marina Bay
   Sands, Sands Expo & Convention Centre
 description: The Singapore Week of Innovation and Technology (SWITCH) brings
   together leaders, entrepreneurs, creators, accelerators and investors from the
