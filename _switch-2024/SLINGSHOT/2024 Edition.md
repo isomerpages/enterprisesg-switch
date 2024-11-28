@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: SLINGSHOT
 ---
-
 ![SLINGSHOT 2024 Grand Winner](/images/2024/2024_slingshot_Grand_Winner_web.jpg)
 #### SLINGSHOT 2024 Winners
 Matwerkz Technologies has emerged as the Grand Winner of SLINGSHOT 2024, the leading global deep tech startup competition!  
@@ -258,12 +257,11 @@ Finals, held at the Singapore Week of Innovation and Technology 2024.</p>
 
 <h4>2024 Challenge Domains</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/slingshot/SLINGSHOT 2024/SLINGSHOT_domain_visuals_220324.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLINGSHOT/SLINGSHOT 2024/SLINGSHOT_domain_visuals_220324.png">
 </div>
-<hr>
-<p></p>
 
 <hr>
+
 <h4><strong>Applications to SLINGSHOT 2024 are now closed.</strong></h4>
 <p><strong>Visit the </strong><a href="https://go.gov.sg/slingshot2024-switchweb" rel="noopener noreferrer nofollow" target="_blank">SLINGSHOT 2024 page on Agorize</a><strong> for more information.</strong>
 </p>
