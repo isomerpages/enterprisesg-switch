@@ -52,10 +52,10 @@ sections:
       title: Thanks for participating at SLINGSHOT 2024!
       subtitle: Startup Pitching Competition
       id: infopic
-      description: Click here to learn more about our 2024 winners and Top 50 finalists.
-      button: Learn more
-      url: /slingshot/2024-edition/
-      image: /images/SLINGSHOT_2023_Group_Photo.jpg
+      description: Click here to register your interest for SLINGSHOT 2025
+      button: Register here
+      url: https://go.gov.sg/slingshot2025-interestform
+      image: /images/2024/2024_slingshot_Top_50_web.jpg
       alt: SLINGSHOT
   - infopic:
       title: Highlights from SWITCH 2023
