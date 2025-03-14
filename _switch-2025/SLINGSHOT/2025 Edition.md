@@ -28,10 +28,10 @@ submit your proposal today!
 
 <title>Responsive Table</title><table style="width: 100%; border-collapse: collapse;">
   <tbody><tr>
-    <th style="width: 25%; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Startup</th>
-		<th style="width: 25%; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Startup</th>
-		<th style="width: 25%; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Startup</th>
-		<th style="width: 25%; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Startup</th>
+    <th style="width: 25%; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Manufacturing, Trade and Connectivity</th>
+		<th style="width: 25%; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Health and Biomedical</th>
+		<th style="width: 25%; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Environment, Energy and Green Technologies</th>
+		<th style="width: 25%; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Transformative Digital Technologies</th>
   </tr>
   <tr>
     <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://algrowbiosciences.co/">Algrow Biosciences</a></td>
