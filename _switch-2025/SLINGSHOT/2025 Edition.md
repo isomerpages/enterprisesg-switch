@@ -38,5 +38,92 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 		<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Environment, Energy and Green Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_EEGT_1365x767.png"></td>
 		<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Transformative Digital Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_TDT_1365x767.png"></td>
   </tr>
+		</tbody></table>
 		
-	</tbody></table>
+### Key dates and timelimes:
+
+<title>SLINGSHOT 2025 Domains</title><table style="width: 100%; border-collapse: collapse;">
+  <tbody><tr>
+    <th style="width: 33%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Global Call</th>
+		<th style="width: 33%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Immersion</th>
+		<th style="width: 33%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Domain Finals and Grand Finals</th>
+  </tr>
+  <tr>
+    <td style="border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Red circle with an icon of a megaphone within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_call_for_app_43_1x419.png"></td>
+		<td style="border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Red circle with an icon of a plane flying within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_immersion_431x419.png"></td>
+		<td style="border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Red circle with an icon of a trophy within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_grand_finals_431x419.png"></td>
+  </tr>
+		</tbody></table>
+
+
+
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Global Call</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Immersion</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Domain Finals and Grand Finals</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Mar–11 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24, 25, 27 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29-31 Oct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Red circle with an icon of a megaphone within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_call_for_app_43_1x419.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Red circle with an icon of a plane flying within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_immersion_431x419.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Red circle with an icon of a trophy within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_grand_finals_431x419.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Register on the platform and submit your presentation <a href="https://slingshot.agorize.com/en/challenges/2025-edition?t=O-aGtYHNpSO6QgTMj0cfFQ&amp;utm_source=esg_switchweb&amp;utm_medium=internal_webups&amp;utm_campaign=slingshot2025&amp;utm_content=esglaunch_organic" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 60 Global Startups will pitch LIVE at SWITCH on 29 and 30 Oct.</p>
+<p></p>
+<p>The Top 12 Global Startups will be selected to pitch at the Grand Finals
+on 31 Oct for the chance to become SLINGSHOT 2025’s Grand Winner.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 60 Global Startups will immerse in Singapore’s startup ecosystem,
+with opportunities to meet and network with local ecosystem partners.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
