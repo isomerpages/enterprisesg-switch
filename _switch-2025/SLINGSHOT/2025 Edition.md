@@ -29,15 +29,18 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
   <tbody><tr>
     <th style="width: 25%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Manufacturing, Trade and Connectivity</th>
 		<th style="width: 25%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Health and Biomedical</th>
-		<th style="width: 25%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Environment, Energy and Green Technologies</th>
-		<th style="width: 25%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Transformative Digital Technologies</th>
   </tr>
   <tr>
     <td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Manufacturing, Trade and Connectivity&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_MTC_1365x767.png"></td>
 		<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Health and Biomedical&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_HBM_1365x767.png"></td>
-		<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Environment, Energy and Green Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_EEGT_1365x767.png"></td>
-		<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Transformative Digital Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_TDT_1365x767.png"></td>
+
   </tr>
+		<tr>
+					<th style="width: 25%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Environment, Energy and Green Technologies</th>
+		<th style="width: 25%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Transformative Digital Technologies</th></tr>
+		<tr>
+					<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Environment, Energy and Green Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_EEGT_1365x767.png"></td>
+		<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Transformative Digital Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_TDT_1365x767.png"></td></tr>
 		</tbody></table>
 		
 ### Key dates and timelimes:
