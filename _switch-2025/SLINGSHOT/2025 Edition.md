@@ -27,7 +27,8 @@ to forge connections with industry experts and key ecosystem partners.
 The competition culminated in the Finals held at the SWITCH 2024.</p>
 <p>Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges/2025-edition?t=O-aGtYHNpSO6QgTMj0cfFQ&amp;utm_source=esg_switchweb&amp;utm_medium=internal_webups&amp;utm_campaign=slingshot2025&amp;utm_content=esglaunch_organic" rel="noopener nofollow" target="_blank">Register now</a> to
 submit your proposal today!</p>
-<p>We are calling for applications in the following categories:</p>
+<h3>We are calling for applications in the following categories:</h3>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -79,6 +80,8 @@ submit your proposal today!</p>
 </tbody>
 </table>
 <p></p>
+<h3>Key dates and timelimes</h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -88,35 +91,62 @@ submit your proposal today!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Header 1</p>
+<p><strong>Global Call</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Header 2</p>
+<p>Immersion</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Header 3</p>
+<p><strong>Domain Finals and Grand Finals</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cell 1</p>
+<p>14 Mar–11 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cell 2</p>
+<p>24, 25, 27 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cell 3</p>
+<p>29-31 Oct</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cell 4</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Red circle with an icon of a megaphone within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_call_for_app_43_1x419.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cell 5</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Red circle with an icon of a plane flying within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_immersion_431x419.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cell 6</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Red circle with an icon of a trophy within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_grand_finals_431x419.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Register on the platform and submit your presentation <a href="https://slingshot.agorize.com/en/challenges/2025-edition?t=O-aGtYHNpSO6QgTMj0cfFQ&amp;utm_source=esg_switchweb&amp;utm_medium=internal_webups&amp;utm_campaign=slingshot2025&amp;utm_content=esglaunch_organic" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 60 Global Startups will pitch LIVE at SWITCH on 29 and 30 Oct.</p>
+<p></p>
+<p>The Top 12 Global Startups will be selected to pitch at the Grand Finals
+on 31 Oct for the chance to become SLINGSHOT 2025’s Grand Winner.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 60 Global Startups will immerse in Singapore’s startup ecosystem,
+with opportunities to meet and network with local ecosystem partners.</p>
 </td>
 </tr>
 </tbody>
