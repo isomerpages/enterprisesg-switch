@@ -46,8 +46,8 @@ sections:
         tech solutions.
       button: Learn more
       url: /slingshot/2025-edition/
-      image: /images/2024/2024_slingshot_Top_50_web.jpg
-      alt: SLINGSHOT
+      image: /images/2025/Thumbnail_SLINGSHOT_Grand_Final_Pitch.jpg
+      alt: Pitching at SLINGSHOT
   - infopic:
       title: Sparking Innovation, Igniting Ideas
       subtitle: AT A GLANCE
