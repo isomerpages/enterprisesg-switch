@@ -29,6 +29,20 @@ submit your proposal today!
 
 
 
+    <title>Responsive Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            width: 25%; /* Each cell takes up 25% of the page width */
+            border: 1px solid #cccccc;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+
 
     <table>
         <tbody><tr>
