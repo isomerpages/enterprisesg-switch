@@ -26,10 +26,24 @@ submit your proposal today!
 
 ### We are calling for applications in the following categories:
 
+<title>Responsive Table</title><table style="width: 100%; border-collapse: collapse;">
+  <tbody><tr>
+    <th style="width: 25%; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Startup</th>
+		<th style="width: 25%; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Startup</th>
+		<th style="width: 25%; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Startup</th>
+		<th style="width: 25%; font-weight: bold; border: 1px solid #CCCCCC; padding: 8px;">Startup</th>
+  </tr>
+  <tr>
+    <td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://algrowbiosciences.co/">Algrow Biosciences</a></td>
+		<td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://algrowbiosciences.co/">Algrow Biosciences</a></td>
+		<td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://algrowbiosciences.co/">Algrow Biosciences</a></td>
+		<td style="width: 20%; background-color: #ffffff; color: #000000; border: 1px solid #CCCCCC; padding: 8px;"><a target="_blank" href="https://algrowbiosciences.co/">Algrow Biosciences</a></td>
+  </tr>
+  <tr>
 
 
 
-    <title>Responsive Table</title>
+    
     <style>
         table {
             width: 100%;
@@ -44,7 +58,7 @@ submit your proposal today!
     </style>
 
 
-    <table>
+    </tr></tbody></table><table>
         <tbody><tr>
 					<td><b>Manufacturing, Trade and Connectivity</b></td>
 					<td><b>Health and Biomedical</b></td>
