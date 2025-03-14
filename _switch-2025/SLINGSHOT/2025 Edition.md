@@ -29,22 +29,6 @@ submit your proposal today!
 
 
 
-    
-    
-    <title>SLINGSHOT 2025 Domains</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            width: 25%; /
-            border: 1px solid #cccccc;
-            padding: 10px;
-            text-align: center;
-        }
-    </style>
-
 
     <table>
         <tbody><tr>
