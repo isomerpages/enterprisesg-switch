@@ -2,6 +2,6 @@ collections:
   switch-2025:
     output: true
     order:
-      - SLINGSHOT/2023 Edition.md
-      - SLINGSHOT/2024 Edition.md
       - SLINGSHOT/.keep
+      - SLINGSHOT/2024 Edition.md
+      - SLINGSHOT/2023 Edition.md
