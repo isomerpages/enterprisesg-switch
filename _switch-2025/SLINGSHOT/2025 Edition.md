@@ -54,12 +54,12 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
    <tr>
     <td style="border: 0px solid #CCCCCC; padding: 10px;">14 Mar–11 Jul</td>
 		<td style="border: 0px solid #CCCCCC; padding: 10px;">24, 25, 27 Oct</td>
-		<td style="border: 0px solid #CCCCCC; padding: 10px;">29-31 Oct</td>
+		 <td style="border: 0px solid #CCCCCC; padding: 10px;">29-31 Oct</td>
   </tr>
 		<tr>
-    <td style="border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Red circle with an icon of a megaphone within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_call_for_app_43_1x419.png"></td>
-		<td style="border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Red circle with an icon of a plane flying within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_immersion_431x419.png"></td>
-		<td style="border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Red circle with an icon of a trophy within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_grand_finals_431x419.png"></td>
+    <td style="border: 0px solid #CCCCCC; padding: 20px;"><img style="width: 75%" height="auto" width="100%" alt="Red circle with an icon of a megaphone within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_call_for_app_43_1x419.png"></td>
+		<td style="border: 0px solid #CCCCCC; padding: 20px;"><img style="width: 75%" height="auto" width="100%" alt="Red circle with an icon of a plane flying within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_immersion_431x419.png"></td>
+		<td style="border: 0px solid #CCCCCC; padding: 20px;"><img style="width: 75%" height="auto" width="100%" alt="Red circle with an icon of a trophy within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_grand_finals_431x419.png"></td>
   </tr>
 		<tr>
     <td style="border: 0px solid #CCCCCC; padding: 10px;">Register on the platform and submit your presentation <a target="_blank" href="https://slingshot.agorize.com/en/challenges/2025-edition?t=O-aGtYHNpSO6QgTMj0cfFQ&amp;utm_source=esg_switchweb&amp;utm_medium=internal_webups&amp;utm_campaign=slingshot2025&amp;utm_content=esglaunch_organic"> here</a></td>
