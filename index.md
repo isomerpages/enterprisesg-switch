@@ -33,10 +33,21 @@ sections:
           url: /main-stage
         - title: SLINGSHOT
           description: Deep Tech Pitching Competition
-          url: /slingshot/2024-edition/
+          url: /slingshot/2025-edition/
         - title: TICKETS
           description: Choose The Right Pass
           url: /register
+  - infopic:
+      title: Open for applications!
+      subtitle: Global call
+      id: infopic
+      description: SLINGSHOT 2025, our signature global deep tech startup pitching
+        competition is open to all startups with innovative and disruptive deep
+        tech solutions.
+      button: Learn more
+      url: /slingshot/2025-edition/
+      image: /images/2024/2024_slingshot_Top_50_web.jpg
+      alt: SLINGSHOT
   - infopic:
       title: Sparking Innovation, Igniting Ideas
       subtitle: AT A GLANCE
@@ -48,15 +59,6 @@ sections:
       alt: Innovation at SWITCH
       url: /at-a-glance
       image: /images/2024/Graphics/2024_Isomer_Home_1.jpg
-  - infopic:
-      title: Thanks for participating at SLINGSHOT 2024!
-      subtitle: Startup Pitching Competition
-      id: infopic
-      description: Click here to register your interest for SLINGSHOT 2025
-      button: Register here
-      url: https://go.gov.sg/slingshot2025-interestform
-      image: /images/2024/2024_slingshot_Top_50_web.jpg
-      alt: SLINGSHOT
   - infopic:
       title: Highlights from SWITCH 2023
       subtitle: VIDEO
