@@ -18,8 +18,8 @@ sections:
       title: Singapore Week of Innovation & Technology
       subtitle: SWITCH Returns 29–31 October 2025 at Marina Bay Sands, Singapore!
       background: /images/homepage images/2024_Isomer_Homepage_1a.png
-      button: MAILING LIST
-      url: http://eepurl.com/iqDazw
+      button: GET YOUR PASS
+      url: https://www.gevme.com/singapore-week-of-innovation-and-technology-switch-2025?utm_source=switch&utm_medium=isomer&utm_campaign=switch2025
       variant: floating
       size: sm
       alignment: left
