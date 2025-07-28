@@ -1,13 +1,13 @@
 ---
 title: SINGAPORE AIRLINES
-permalink: /singapore-airlines/
+permalink: /singapore-airlines-2024/
 description: Singapore Airlines is the Official Airline for SWITCH 2024 and
   discounts of up to 12% are offered on certain booking classes. This special
   offer will only be available for Trade Pass and Conference Pass holders, and
   registered attendees of SWITCH 2024 Partner Events.
 variant: tiptap
 image: /images/2023/innovation showcase.png
-third_nav_title: FOR YOU
+third_nav_title: 2024 hidden
 ---
 <p><strong>Singapore Airlines</strong> is the Official Airline for SWITCH
 2024 and <strong>discounts of up to 12%</strong> are offered on certain booking

@@ -2,6 +2,10 @@ collections:
   hidden:
     output: true
     order:
+      - 2024 hidden/SINGAPORE AIRLINES.md
+      - 2024 hidden/VISIT SINGAPORE.md
+      - 2024 hidden/ASPIRE.md
+      - 2024 hidden/.keep
       - SWITCH 2020 Impact.md
       - SFFxSWITCH.md
       - Competition Timeline.md

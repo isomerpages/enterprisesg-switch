@@ -1,6 +1,6 @@
 ---
 title: VISIT SINGAPORE
-permalink: /visit-singapore/
+permalink: /visit-singapore-2024/
 description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   of innovation and the potential of technology and collaboration are unleashed.
   Meet the founders, investors and industry leaders who are working at the
@@ -9,7 +9,7 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   Quantum, Space, Climate Tech, Health Tech and more!
 variant: tiptap
 image: /images/2023/innovation showcase.png
-third_nav_title: FOR YOU
+third_nav_title: 2024 hidden
 ---
 <a class="isomer-image-wrapper" href="https://www.visitsingapore.com/en/#"><img style="width: 100%" height="auto" width="100%" alt="A banner with the text Singapore: Where passion and possibilities meet" src="/images/2024/Graphics_Visit Singapore/1__Intro.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://www.visitsingapore.com/dining-drinks-singapore/"><img style="width: 100%" height="auto" width="100%" alt="A banner with the text What to do: Dining" src="/images/2024/Graphics_Visit Singapore/2_Dining.png"></a>

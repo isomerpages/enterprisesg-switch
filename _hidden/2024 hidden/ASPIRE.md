@@ -1,6 +1,6 @@
 ---
 title: ASPIRE
-permalink: /aspire/
+permalink: /aspire-2024/
 variant: tiptap
 description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   of innovation and the potential of technology and collaboration are unleashed.
@@ -9,7 +9,7 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   future.  Connect and share ideas with leaders in the areas of AI, Web3,
   Quantum, Space, Climate Tech, Health Tech and more!
 image: /images/2024/Photos/2024_Isomer_Main_Stage_1.jpg
-third_nav_title: FOR YOU
+third_nav_title: 2024 hidden
 ---
 <p></p>
 <div class="isomer-image-wrapper">
