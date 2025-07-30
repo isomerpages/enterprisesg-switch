@@ -60,13 +60,13 @@ sections:
       url: /at-a-glance
       image: /images/2024/Graphics/2024_Isomer_Home_1.jpg
   - infopic:
-      title: Highlights from SWITCH 2023
+      title: Highlights from SWITCH 2024
       subtitle: VIDEO
       description: Re-live the best moments of Asia's most exciting tech startup event
-        that brings together over 15,000 global innovators to create positive
+        that brings together over 20,000 global innovators to create positive
         change and impact.
       button: Play Video
-      url: https://www.youtube.com/watch?v=wSJ82Mn61bc
+      url: https://www.youtube.com/watch?v=UpYDA7K_rSo
       image: /images/homepage images/2024_Isomer_YT_Thumbnail_1.png
       alt: SWITCH 2023 Highlight Video
   - resources:
