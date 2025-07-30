@@ -2,7 +2,7 @@ collections:
   switch-2025:
     output: true
     order:
-      - MAIN STAGE.md
+      - Main Stage.md
       - SLINGSHOT/2025 Edition.md
       - SLINGSHOT/.keep
       - SLINGSHOT/2024 Edition.md
