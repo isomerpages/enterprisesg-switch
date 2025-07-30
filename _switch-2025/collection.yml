@@ -2,6 +2,7 @@ collections:
   switch-2025:
     output: true
     order:
+      - Trade Floor.md
       - Main Stage.md
       - SWITCH Global.md
       - SWITCH Beyond.md
