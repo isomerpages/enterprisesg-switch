@@ -38,16 +38,22 @@ sections:
           description: Deep Tech Pitching Competition
           url: /slingshot/2025-edition/
   - infopic:
-      title: Sparking Innovation, Igniting Ideas
-      subtitle: AT A GLANCE
+      title: Where Vision Meets Reality
+      subtitle: Main Stage
       id: infopic
-      description: SWITCH 2024 will be a gathering storm of ideas and collaboration.
-        Connect with innovators and builders or be inspired by our curation of
-        content and showcases.
+      description: Experience the pulse of innovation with global tech leaders,
+        groundbreaking insights and a convergence of great tech minds.
       button: Learn More
       alt: Innovation at SWITCH
-      url: /at-a-glance
+      url: /main-stage
       image: /images/2024/Graphics/2024_Isomer_Home_1.jpg
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infopic:
       title: Highlights from SWITCH 2024
       subtitle: VIDEO
