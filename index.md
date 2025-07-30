@@ -46,7 +46,7 @@ sections:
       button: Learn More
       alt: Innovation at SWITCH
       url: /main-stage
-      image: /images/2024/Graphics/2024_Isomer_Home_1.jpg
+      image: /images/2025/Home/2025_website_homepage_mainstage.jpg
   - infopic:
       title: Your Launchpad to Global Markets
       subtitle: SWITCH Global
@@ -56,6 +56,7 @@ sections:
       button: Learn more
       alt: SWITCH Global
       url: /switch-global
+      image: /images/2025/Home/2025_website_homepage.jpg
   - infopic:
       title: Pioneering Tomorrow's Technologies
       subtitle: SWITCH Beyond
@@ -65,7 +66,8 @@ sections:
         programme.
       button: Learn more
       url: /switch-beyond
-      alt: Image alt text
+      alt: SWITCH Beyond
+      image: /images/2025/Home/2025_website_homepage_beyond.jpg
   - infopic:
       title: Highlights from SWITCH 2024
       subtitle: VIDEO
