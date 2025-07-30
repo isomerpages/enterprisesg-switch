@@ -70,4 +70,13 @@ you need.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A grid layout of various men and women who were past speakers at SWITCH." src="/images/2025/2025_website_past_speakers_SWITCH_Beyond.png">
 </div>
+<h2>Highlights</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A photo of speakers onstage at SWITCH." src="/images/2025/2025_website_photo_SWITCH_Beyond_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A photo of speakers onstage at SWITCH." src="/images/2025/2025_website_photo_SWITCH_Beyond_2.jpg">
+</div>
 <p></p>
