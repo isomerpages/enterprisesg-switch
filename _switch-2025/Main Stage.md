@@ -24,4 +24,13 @@ technological landscape.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A grid layout of various men and women and ethnicities in a professional setting." src="/images/2025/2025_website_past_speakers_main_stage.png">
 </div>
+<h2>Highlights</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A photo of speakers onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A photo of attendees at SWITCH." src="/images/2025/2025_website_photo_main_stage_2.jpg">
+</div>
 <p></p>
