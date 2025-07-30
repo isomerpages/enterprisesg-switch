@@ -25,3 +25,15 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Partners/2025_website_partners_global.png">
 </div>
 <p></p>
+<h2>Partners</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Partners/2025_website_partners_partners.png">
+</div>
+<p></p>
+<h2>Community Partners</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Partners/2025_website_partners_community.png">
+</div>
+<p></p>
