@@ -48,12 +48,14 @@ sections:
       url: /main-stage
       image: /images/2024/Graphics/2024_Isomer_Home_1.jpg
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Your Launchpad to Global Markets
+      subtitle: SWITCH Global
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: Navigate market expansion to over 15 international markets and
+        regions with robust innovation programmes and in-market expertise.
+      button: Learn more
+      alt: SWITCH Global
+      url: /switch-global
   - infopic:
       title: Highlights from SWITCH 2024
       subtitle: VIDEO
