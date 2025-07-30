@@ -10,6 +10,10 @@ description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   Quantum, Space, Climate Tech, Health Tech and more!
 image: /images/2023/innovation showcase.png
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A graphic image with the text SWITCH Global" src="/images/2025/2025_website_banner_SWITCH_global.jpg">
+</div>
 <h1>Your Launchpad to Global Markets</h1>
 <p>Navigate your expansion journey with confidence through expert-led market
 insights and strategic networking opportunities. Our carefully curated
