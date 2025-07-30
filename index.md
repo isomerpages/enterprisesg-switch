@@ -57,6 +57,16 @@ sections:
       alt: SWITCH Global
       url: /switch-global
   - infopic:
+      title: Pioneering Tomorrow's Technologies
+      subtitle: SWITCH Beyond
+      id: infopic
+      description: Connect with deep tech innovators who transform emerging
+        technologies from concept to reality at this dedicated domain-focused
+        programme.
+      button: Learn more
+      url: /switch-beyond
+      alt: Image alt text
+  - infopic:
       title: Highlights from SWITCH 2024
       subtitle: VIDEO
       description: Re-live the best moments of Asia's most exciting tech startup event
