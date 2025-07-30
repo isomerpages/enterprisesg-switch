@@ -38,17 +38,6 @@ sections:
           description: Deep Tech Pitching Competition
           url: /slingshot/2025-edition/
   - infopic:
-      title: Open for applications!
-      subtitle: Global call
-      id: infopic
-      description: SLINGSHOT 2025, our signature global deep tech startup pitching
-        competition is open to all startups with innovative and disruptive deep
-        tech solutions.
-      button: Learn more
-      url: /slingshot/2025-edition/
-      image: /images/2025/Thumbnail_SLINGSHOT_Grand_Final_Pitch.jpg
-      alt: Pitching at SLINGSHOT
-  - infopic:
       title: Sparking Innovation, Igniting Ideas
       subtitle: AT A GLANCE
       id: infopic
@@ -69,6 +58,16 @@ sections:
       url: https://www.youtube.com/watch?v=UpYDA7K_rSo
       image: /images/homepage images/2024_Isomer_YT_Thumbnail_1.png
       alt: SWITCH 2023 Highlight Video
+  - infopic:
+      title: Applications are closed
+      subtitle: SLINGSHOT 2025
+      id: infopic
+      description: Applications for SLINGSHOT 2025 have now closed. We will be
+        announcing the Top 60 finalists at the end of August 2025.
+      button: Learn more
+      url: /slingshot/2025-edition/
+      image: /images/2025/Thumbnail_SLINGSHOT_Grand_Final_Pitch.jpg
+      alt: Pitching at SLINGSHOT
   - resources:
       title: News and Happenings
       subtitle: Explore
