@@ -34,3 +34,15 @@ technological landscape.</p>
 <img style="width: 100%" height="auto" width="100%" alt="A photo of attendees at SWITCH." src="/images/2025/2025_website_photo_main_stage_2.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A photo of performers onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A photo of speakers onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A photo of people onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_5.jpg">
+</div>
+<p></p>
