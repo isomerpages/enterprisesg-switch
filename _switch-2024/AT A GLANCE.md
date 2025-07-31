@@ -1,6 +1,6 @@
 ---
 title: AT A GLANCE
-permalink: /at-a-glance/
+permalink: /at-a-glance-2024/
 variant: tiptap
 description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   of innovation and the potential of technology and collaboration are unleashed.

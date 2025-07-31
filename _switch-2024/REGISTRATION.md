@@ -1,6 +1,6 @@
 ---
 title: REGISTRATION
-permalink: /register/
+permalink: /register-2024/
 description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   of innovation and the potential of technology and collaboration are unleashed.
   Meet the founders, investors and industry leaders who are working at the

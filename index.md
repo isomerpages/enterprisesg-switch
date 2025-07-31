@@ -17,58 +17,77 @@ sections:
   - hero:
       title: Singapore Week of Innovation & Technology
       subtitle: SWITCH Returns 29–31 October 2025 at Marina Bay Sands, Singapore!
-      background: /images/homepage images/2024_Isomer_Homepage_1a.png
+      background: /images/2025/2025_website_photo_main_stage_2.jpg
       button: GET YOUR PASS
-      url: https://www.gevme.com/singapore-week-of-innovation-and-technology-switch-2025?utm_source=switch&utm_medium=isomer&utm_campaign=switch2025
+      url: https://www.gevme.com/site/switch-2025-register-now
       variant: floating
       size: sm
       alignment: left
       backgroundColor: black
       key_highlights:
-        - title: AT A GLANCE
-          description: What's On at SWITCH
-          url: /at-a-glance
-        - title: STAGES
-          description: Deep Tech and Market Access
+        - title: About
+          description: Learn more about SWITCH
+          url: /about
+        - title: Highlights
+          description: Multiple stages and programmes
           url: /main-stage
+        - title: Trade Floor
+          description: Over 350 global exhibitors
+          url: /trade-floor
         - title: SLINGSHOT
           description: Deep Tech Pitching Competition
           url: /slingshot/2025-edition/
-        - title: TICKETS
-          description: Choose The Right Pass
-          url: /register
   - infopic:
-      title: Open for applications!
-      subtitle: Global call
+      title: Where Vision Meets Reality
+      subtitle: Main Stage
       id: infopic
-      description: SLINGSHOT 2025, our signature global deep tech startup pitching
-        competition is open to all startups with innovative and disruptive deep
-        tech solutions.
+      description: Experience the pulse of innovation with global tech leaders,
+        groundbreaking insights and a convergence of great tech minds.
+      button: Learn More
+      alt: Innovation at SWITCH
+      url: /main-stage
+      image: /images/2025/Home/2025_website_homepage_mainstage.jpg
+  - infopic:
+      title: Your Launchpad to Global Markets
+      subtitle: SWITCH Global
+      id: infopic
+      description: Navigate market expansion to over 15 international markets and
+        regions with robust innovation programmes and in-market expertise.
+      button: Learn more
+      alt: SWITCH Global
+      url: /switch-global
+      image: /images/2025/Home/2025_website_homepage.jpg
+  - infopic:
+      title: Pioneering Tomorrow's Technologies
+      subtitle: SWITCH Beyond
+      id: infopic
+      description: Connect with deep tech innovators who transform emerging
+        technologies from concept to reality at this dedicated domain-focused
+        programme.
+      button: Learn more
+      url: /switch-beyond
+      alt: SWITCH Beyond
+      image: /images/2025/Home/2025_website_homepage_beyond.jpg
+  - infopic:
+      title: Highlights from SWITCH 2024
+      subtitle: VIDEO
+      description: Re-live the best moments of Asia's most exciting tech startup event
+        that brings together over 20,000 global innovators to create positive
+        change and impact.
+      button: Play Video
+      url: https://www.youtube.com/watch?v=UpYDA7K_rSo
+      image: /images/homepage images/2024_Isomer_YT_Thumbnail_1.png
+      alt: SWITCH 2023 Highlight Video
+  - infopic:
+      title: Applications are closed
+      subtitle: SLINGSHOT 2025
+      id: infopic
+      description: Applications for SLINGSHOT 2025 have now closed. We will be
+        announcing the Top 60 finalists at the end of August 2025.
       button: Learn more
       url: /slingshot/2025-edition/
       image: /images/2025/Thumbnail_SLINGSHOT_Grand_Final_Pitch.jpg
       alt: Pitching at SLINGSHOT
-  - infopic:
-      title: Sparking Innovation, Igniting Ideas
-      subtitle: AT A GLANCE
-      id: infopic
-      description: SWITCH 2024 will be a gathering storm of ideas and collaboration.
-        Connect with innovators and builders or be inspired by our curation of
-        content and showcases.
-      button: Learn More
-      alt: Innovation at SWITCH
-      url: /at-a-glance
-      image: /images/2024/Graphics/2024_Isomer_Home_1.jpg
-  - infopic:
-      title: Highlights from SWITCH 2023
-      subtitle: VIDEO
-      description: Re-live the best moments of Asia's most exciting tech startup event
-        that brings together over 15,000 global innovators to create positive
-        change and impact.
-      button: Play Video
-      url: https://www.youtube.com/watch?v=wSJ82Mn61bc
-      image: /images/homepage images/2024_Isomer_YT_Thumbnail_1.png
-      alt: SWITCH 2023 Highlight Video
   - resources:
       title: News and Happenings
       subtitle: Explore

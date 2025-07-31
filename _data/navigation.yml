@@ -3,8 +3,6 @@ links:
   - title: ABOUT
     url: /about
     sublinks:
-      - title: At A Glance
-        url: /at-a-glance
       - title: About us
         url: /about
       - title: Sponsors & Partners
@@ -15,35 +13,19 @@ links:
         url: /example-resource/blog
       - title: Mailing List
         url: http://eepurl.com/iqDazw
-      - title: Partner With Us
-        url: /partner-with-us/
-  - title: STAGES
+  - title: HIGHLIGHTS
     url: /main-stage
     sublinks:
-      - title: Agenda
-        url: https://2024.switchsg.org?utm_source=switchsg.org&utm_medium=referral&utm_campaign=SWITCH2024&utm_content=isomer
       - title: MAIN Stage
         url: /main-stage
-      - title: BEYOND Stage
-        url: /beyond-stage
-      - title: GLOBAL Stage
-        url: /global-stage
-  - title: PARTNER EVENTS
-    url: /event/techinnovation-2024/
-    sublinks:
-      - title: PARTNER EVENTS
-        url: /event/techinnovation-2024/
-      - title: SIDE EVENTS
-        url: /event/catalonia-deep-tech-networking-night-2024/
-  - title: SLINGSHOT
-    url: /
-    sublinks:
-      - title: 2025 Edition
+      - title: SWITCH Global
+        url: /switch-global
+      - title: SWITCH Beyond
+        url: /switch-beyond
+      - title: SLINGSHOT
         url: /slingshot/2025-edition/
-      - title: 2024 Edition
-        url: /slingshot/2024-edition/
-      - title: 2023 Edition
-        url: /slingshot/2023-edition/
+      - title: TRADE FLOOR
+        url: /trade-floor
   - title: EVENT GUIDE
     url: https://go.gov.sg/switch2024guide
     sublinks:
@@ -56,4 +38,4 @@ links:
       - title: "2021"
         url: https://directory.switchsg.org
   - title: GET YOUR PASS
-    url: https://www.gevme.com/singapore-week-of-innovation-and-technology-switch-2025?utm_source=switch&utm_medium=isomer&utm_campaign=switch2025
+    url: https://www.gevme.com/site/switch-2025-register-now
