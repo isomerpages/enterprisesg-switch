@@ -26,6 +26,10 @@ links:
         url: /slingshot/2025-edition/
       - title: TRADE FLOOR
         url: /trade-floor
+      - title: LAB CRAWLS
+        url: https://go.gov.sg/switch2025isomerlabcrawl
+      - title: SWITCH Connect
+        url: https://connect.switchsg.org
   - title: EVENT GUIDE
     url: https://go.gov.sg/switch2024guide
     sublinks:
@@ -37,5 +41,7 @@ links:
         url: https://go.gov.sg/switch-2022-event-guide-v4
       - title: "2021"
         url: https://directory.switchsg.org
+  - title: SWITCH 2025
+    url: https://go.gov.sg/switch2025isomer
   - title: GET YOUR PASS
-    url: https://www.gevme.com/site/switch-2025-register-now
+    url: https://go.gov.sg/switch2025isomerregistration

@@ -19,7 +19,7 @@ sections:
       subtitle: SWITCH Returns 29–31 October 2025 at Marina Bay Sands, Singapore!
       background: /images/2025/2025_website_photo_main_stage_2.jpg
       button: GET YOUR PASS
-      url: https://www.gevme.com/site/switch-2025-register-now
+      url: https://go.gov.sg/switch2025isomerregistration
       variant: floating
       size: sm
       alignment: left

@@ -19,6 +19,17 @@ image: /images/2023/innovation showcase.png
 insights alongside SLINGSHOT, our flagship startup pitching competition.
 Here, industry titans and emerging visionaries converge to shape tomorrow's
 technological landscape.</p>
+<h2>Main Stage Agenda</h2>
+<p>Not just a series of talks, the Main Stage is a meticulously curated blueprint
+for what's next in the world of technology. This is where the industry's
+foremost leaders and innovators reveal the most impactful ideas in AI,
+quantum technology, and sustainable solutions. Beyond the keynotes and
+panel sessions, you will witness the SLINGSHOT deep tech grand finals,
+where tomorrow’s unicorns pitch their disruptive ideas. This is your opportunity
+to gain actionable insights and strategic foresight that cannot be found
+anywhere else.</p>
+<p><a href="https://go.gov.sg/switch2025isomermainagenda" rel="noopener nofollow" target="_blank">Discover the full agenda here.</a>
+</p>
 <h2>Past Speakers</h2>
 <p></p>
 <div class="isomer-image-wrapper">

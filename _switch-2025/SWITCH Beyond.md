@@ -65,6 +65,16 @@ you need.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="An infographic for the price chart for SWITCH Beyond" src="/images/2025/2025_website_infographic_switch_beyond_price_chart.png">
 </div>
+<h2>Beyond Stage Agenda</h2>
+<p>The Beyond Stage is a masterclass in deep tech, designed specifically
+for industry leaders like you who refuse to settle for the status quo.
+This is where high-level conference sessions converge with hands-on masterclasses,
+providing not just the latest insights but also the practical skills needed
+to lead your domain. The agenda is built for those who seek to push the
+boundaries of their fields, offering a unique forum to learn from and collaborate
+with a global network of peers who share your drive for innovation.</p>
+<p>To see the full masterclass and session lineup, <a href="https://go.gov.sg/switch2025isomerbeyondagenda" rel="noopener nofollow" target="_blank">click to explore the complete agenda.</a>
+</p>
 <h2>Past Speakers</h2>
 <p></p>
 <div class="isomer-image-wrapper">
