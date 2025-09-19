@@ -19,6 +19,16 @@ image: /images/2023/innovation showcase.png
 insights and strategic networking opportunities. Our carefully curated
 sessions with in-market partners offer practical insights for businesses
 looking to scale across borders.</p>
+<h2>Global Stage Agenda</h2>
+<p>The Global Stage is your passport to the world's most dynamic markets,
+all from one central location. We have brought together an unparalleled
+lineup of experts to host focused market access sessions, giving you the
+critical insights and connections needed to expand your business internationally.
+This is more than a conference; it's a strategic hub where global opportunities
+are brought to your doorstep, eliminating the guesswork and accelerating
+your entry into new territories.</p>
+<p>To explore the world of opportunities available on this stage, <a href="https://go.gov.sg/switch2025isomerglobalagenda" rel="noopener nofollow" target="_blank">click to view the full agenda.</a>
+</p>
 <h2>Past Speakers</h2>
 <p></p>
 <div class="isomer-image-wrapper">
