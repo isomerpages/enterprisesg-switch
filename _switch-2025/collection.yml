@@ -2,7 +2,6 @@ collections:
   switch-2025:
     output: true
     order:
-      - For You.md
       - Main Stage.md
       - SWITCH Global.md
       - SWITCH Beyond.md
@@ -11,3 +10,4 @@ collections:
       - SLINGSHOT/2025 Edition.md
       - SLINGSHOT/2024 Edition.md
       - SLINGSHOT/2023 Edition.md
+      - For You.md
