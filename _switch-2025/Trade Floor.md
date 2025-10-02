@@ -105,6 +105,12 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 <p>ADINA TECHNOLOGIES</p>
 </li>
 </ul>
+<p><strong>Flanders Investment &amp; Trade (FIT)</strong>
+</p>
+<p><strong>GOODHILL (KOREA CENTRE) PTE LTD</strong>
+</p>
+<p><strong>Government of Western Australia</strong>
+</p>
 <p><strong>High Commission of Canada</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -121,6 +127,10 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 <p>Trade &amp; Invest British Columbia</p>
 </li>
 </ul>
+<p><strong>Hong Kong Science and Technology Parks Corporation (HKSTP)</strong>
+</p>
+<p><strong>Ibtechar Digital Solusions LLC</strong>
+</p>
 <p><strong>IIT Ropar-Technology Business Incubator Foundation</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -143,7 +153,9 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 <p>Blue Phoenix Technologies Pvt Ltd</p>
 </li>
 </ul>
-<p><strong>Jetro Fukuoka</strong>
+<p><strong>Innovate Asylum</strong>
+</p>
+<p><strong>JETRO Fukuoka</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -165,7 +177,7 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 <p>welzo co. ltd.</p>
 </li>
 </ul>
-<p><strong>JETRO TOKYO</strong>
+<p><strong>JETRO Tokyo</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -199,6 +211,8 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 <p>I.W.G Inc.</p>
 </li>
 </ul>
+<p><strong>JETRO Singapore</strong>
+</p>
 <p><strong>K-Startup Center (KSC)</strong>
 </p>
 <p><strong>KISED</strong>
@@ -397,7 +411,11 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 <p>DouDouDoujin.Co., Ltd.</p>
 </li>
 </ul>
+<p><strong>NIPA</strong>
+</p>
 <p><strong>Okinawa - University of the Ryukyus</strong>
+</p>
+<p><strong>Startup Island Taiwan (SIT)</strong>
 </p>
 <p><strong>Yokohama - Tsucrea Co., Ltd.</strong>
 </p>
@@ -419,6 +437,8 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 <h3>Exhibitors</h3>
 <p><strong>Agorize</strong>
 </p>
+<p><strong>Alysium Singapore</strong>
+</p>
 <p><strong>Aqsolotl</strong>
 </p>
 <p><strong>ASTAR</strong>
@@ -430,8 +450,6 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 <p><strong>Enterprise Singapore</strong>
 </p>
 <p><strong>ETH Singapore SEC Ltd</strong>
-</p>
-<p><strong>GOODHILL (KOREA CENTRE) PTE LTD</strong>
 </p>
 <p><strong>HSBC</strong>
 </p>
