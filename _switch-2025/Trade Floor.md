@@ -51,6 +51,33 @@ Attendee Pass and log into SWITCH Connect, our attendee engagement hub
 at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blank">connect.switchsg.org</a>
 </p>
 <h3>Global Pavilions</h3>
+<p><strong>Austrian Embassy</strong>
+</p>
+<p><strong>Catalonia T&amp;I</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Roka Furadada S.L.</p>
+</li>
+<li>
+<p>Marina Tel and Data S.L.</p>
+</li>
+<li>
+<p>Napptilus Battery Labs S.L.</p>
+</li>
+<li>
+<p>Guestpilot S.L.</p>
+</li>
+<li>
+<p>Metascan S.L.</p>
+</li>
+<li>
+<p>Medtech Catalonia S.L.</p>
+</li>
+<li>
+<p>Fabrex App S.L.</p>
+</li>
+</ul>
 <p><strong>Embassy of Brazil in Singapore</strong>
 </p>
 <p><strong>Eureka Network</strong>
@@ -78,6 +105,22 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 <p>ADINA TECHNOLOGIES</p>
 </li>
 </ul>
+<p><strong>High Commission of Canada</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Research Council of Canada</p>
+</li>
+<li>
+<p>Asia Pacific Foundation of Canada (APFC)</p>
+</li>
+<li>
+<p>Government of Alberta - Southeast Asia Office</p>
+</li>
+<li>
+<p>Trade &amp; Invest British Columbia</p>
+</li>
+</ul>
 <p><strong>IIT Ropar-Technology Business Incubator Foundation</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -100,62 +143,64 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 <p>Blue Phoenix Technologies Pvt Ltd</p>
 </li>
 </ul>
-<p><strong>Korea Creative Content Agency (KOCCA)</strong>
+<p><strong>Jetro Fukuoka</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>BrainDeck</p>
+<p>Eletus Inc.</p>
 </li>
 <li>
-<p>VideoMonster</p>
+<p>Coastal Link Corp.</p>
 </li>
 <li>
-<p>Sharebox</p>
+<p>Teliha Limited</p>
 </li>
 <li>
-<p>Wise On Media</p>
+<p>Kyulux Inc.</p>
 </li>
 <li>
-<p>ERUTY</p>
+<p>EATAS Inc.</p>
 </li>
 <li>
-<p>Connect Brick</p>
-</li>
-<li>
-<p>CODE CRAYON</p>
-</li>
-<li>
-<p>HYPER Cloud</p>
+<p>welzo co. ltd.</p>
 </li>
 </ul>
-<p><strong>KOTRA</strong>
+<p><strong>JETRO TOKYO</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Watervation</p>
+<p>Kotozna, Inc.</p>
 </li>
 <li>
-<p>VSPharmTech</p>
+<p>CalTa Inc.</p>
 </li>
 <li>
-<p>CRESEN</p>
+<p>Jikantechno Inc.</p>
 </li>
 <li>
-<p>WONDERMOVE Inc.</p>
+<p>New Space Intelligence Inc.</p>
 </li>
 <li>
-<p>AU Inc.</p>
+<p>SENRI Limited</p>
 </li>
 <li>
-<p>Langcode Inc.</p>
+<p>Reconnai Co., Ltd</p>
 </li>
 <li>
-<p>Bigwaverobotics</p>
+<p>LIFESCAPES Inc.</p>
 </li>
 <li>
-<p>PIASPACE</p>
+<p>WOTA Corporation</p>
+</li>
+<li>
+<p>endophyte Inc.</p>
+</li>
+<li>
+<p>I.W.G Inc.</p>
 </li>
 </ul>
+<p><strong>K-Startup Center (KSC)</strong>
+</p>
 <p><strong>KISED</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -253,86 +298,63 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 <p>AstroLinx Co., Ltd.</p>
 </li>
 </ul>
-<p><strong>JETRO TOKYO</strong>
+<p><strong>Korea Creative Content Agency (KOCCA)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kotozna, Inc.</p>
+<p>BrainDeck</p>
 </li>
 <li>
-<p>CalTa Inc.</p>
+<p>VideoMonster</p>
 </li>
 <li>
-<p>Jikantechno Inc.</p>
+<p>Sharebox</p>
 </li>
 <li>
-<p>New Space Intelligence Inc.</p>
+<p>Wise On Media</p>
 </li>
 <li>
-<p>SENRI Limited</p>
+<p>ERUTY</p>
 </li>
 <li>
-<p>Reconnai Co., Ltd</p>
+<p>Connect Brick</p>
 </li>
 <li>
-<p>LIFESCAPES Inc.</p>
+<p>CODE CRAYON</p>
 </li>
 <li>
-<p>WOTA Corporation</p>
+<p>HYPER Cloud</p>
+</li>
+</ul>
+<p><strong>KOTRA</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Watervation</p>
 </li>
 <li>
-<p>endophyte Inc.</p>
+<p>VSPharmTech</p>
 </li>
 <li>
-<p>I.W.G Inc.</p>
+<p>CRESEN</p>
+</li>
+<li>
+<p>WONDERMOVE Inc.</p>
+</li>
+<li>
+<p>AU Inc.</p>
+</li>
+<li>
+<p>Langcode Inc.</p>
+</li>
+<li>
+<p>Bigwaverobotics</p>
+</li>
+<li>
+<p>PIASPACE</p>
 </li>
 </ul>
 <p><strong>KYOTO - PLUG AND PLAY</strong>
-</p>
-<p><strong>Austrian Embassy</strong>
-</p>
-<p><strong>Catalonia T&amp;I</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Roka Furadada S.L.</p>
-</li>
-<li>
-<p>Marina Tel and Data S.L.</p>
-</li>
-<li>
-<p>Napptilus Battery Labs S.L.</p>
-</li>
-<li>
-<p>Guestpilot S.L.</p>
-</li>
-<li>
-<p>Metascan S.L.</p>
-</li>
-<li>
-<p>Medtech Catalonia S.L.</p>
-</li>
-<li>
-<p>Fabrex App S.L.</p>
-</li>
-</ul>
-<p><strong>High Commission of Canada</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>National Research Council of Canada</p>
-</li>
-<li>
-<p>Asia Pacific Foundation of Canada (APFC)</p>
-</li>
-<li>
-<p>Government of Alberta - Southeast Asia Office</p>
-</li>
-<li>
-<p>Trade &amp; Invest British Columbia</p>
-</li>
-</ul>
-<p><strong>K-Startup Center (KSC)</strong>
 </p>
 <p><strong>MyFair Corp – CCEI</strong>
 </p>
@@ -345,46 +367,6 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 </li>
 <li>
 <p>BICHEDAM</p>
-</li>
-</ul>
-<p><strong>Yokohama - Tsucrea Co., Ltd.</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>MedVigilance Inc.</p>
-</li>
-<li>
-<p>Sun Metalon Inc.</p>
-</li>
-<li>
-<p>Ani-lience inc.</p>
-</li>
-<li>
-<p>Aether Care Co., Ltd.</p>
-</li>
-</ul>
-<p><strong>Okinawa - University of the Ryukyus</strong>
-</p>
-<p><strong>Jetro Fukuoka</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Eletus Inc.</p>
-</li>
-<li>
-<p>Coastal Link Corp.</p>
-</li>
-<li>
-<p>Teliha Limited</p>
-</li>
-<li>
-<p>Kyulux Inc.</p>
-</li>
-<li>
-<p>EATAS Inc.</p>
-</li>
-<li>
-<p>welzo co. ltd.</p>
 </li>
 </ul>
 <p><strong>Nagoya &amp; Hamamatsu</strong>
@@ -415,4 +397,91 @@ at <a href="https://connect.switchsg.org/" rel="noopener nofollow" target="_blan
 <p>DouDouDoujin.Co., Ltd.</p>
 </li>
 </ul>
+<p><strong>Okinawa - University of the Ryukyus</strong>
+</p>
+<p><strong>Yokohama - Tsucrea Co., Ltd.</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MedVigilance Inc.</p>
+</li>
+<li>
+<p>Sun Metalon Inc.</p>
+</li>
+<li>
+<p>Ani-lience inc.</p>
+</li>
+<li>
+<p>Aether Care Co., Ltd.</p>
+</li>
+</ul>
+<hr>
+<h3>Exhibitors</h3>
+<p><strong>Agorize</strong>
+</p>
+<p><strong>Aqsolotl</strong>
+</p>
+<p><strong>ASTAR</strong>
+</p>
+<p><strong>CQT/NQO</strong>
+</p>
+<p><strong>CSTEC</strong>
+</p>
+<p><strong>Enterprise Singapore</strong>
+</p>
+<p><strong>ETH Singapore SEC Ltd</strong>
+</p>
+<p><strong>GOODHILL (KOREA CENTRE) PTE LTD</strong>
+</p>
+<p><strong>HSBC</strong>
+</p>
+<p><strong>IPI</strong>
+</p>
+<p><strong>Leave a Nest</strong>
+</p>
+<p><strong>Lenovo Singapore Pte Ltd</strong>
+</p>
+<p><strong>MarkAny</strong>
+</p>
+<p><strong>Ngee Ann Poly</strong>
+</p>
+<p><strong>NHIC / CRIS</strong>
+</p>
+<p><strong>NTUitive</strong>
+</p>
+<p><strong>Oxford Quantum Circuits</strong>
+</p>
+<p><strong>Qai Ventures</strong>
+</p>
+<p><strong>Qualcomm</strong>
+</p>
+<p><strong>Quantinuum</strong>
+</p>
+<p><strong>Sendai Mirai Works Inc</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>TBA Co., Ltd.</p>
+</li>
+<li>
+<p>STORYLINE Inc.</p>
+</li>
+<li>
+<p>City of Sendai</p>
+</li>
+</ul>
+<p><strong>SG Innovate</strong>
+</p>
+<p><strong>Singapore Poly</strong>
+</p>
+<p><strong>SUTD</strong>
+</p>
+<p><strong>SMU</strong>
+</p>
+<p><strong>raiSE</strong>
+</p>
+<p><strong>Temasek Polytechnic</strong>
+</p>
+<p><strong>Thales Air Labs</strong>
+</p>
 <p></p>
