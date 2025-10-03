@@ -42,8 +42,7 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
 					<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Environment, Energy and Green Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_EEGT_1365x767.png"></td>
 		<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Transformative Digital Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_TDT_1365x767.png"></td></tr>
 		</tbody></table>
-
-		
+	
 ***
 
   <div class="container">
