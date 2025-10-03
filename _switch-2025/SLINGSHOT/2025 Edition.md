@@ -69,7 +69,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 		</tbody></table>
 
   <div class="container">
-    <h1>SLINGSHOT 2025 — Top 60 Startups</h1>
+    <h3>SLINGSHOT 2025 — Top 60 Startups</h3>
     <p>Meet our Top 60 across four domains. Explore their websites and quick elevator pitches below.</p>
 
     <style>
@@ -91,24 +91,11 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
       }
     </style>
 
-    <script>
-      (function(){
-        const filter = document.getElementById('tableFilter');
-        const rows = () => Array.from(document.querySelectorAll('.slingshot-table tbody tr'));
-        const normalize = s => (s||'').toLowerCase();
-        filter.addEventListener('input', function(){
-          const q = normalize(this.value);
-          rows().forEach(tr=>{
-            const text = normalize(tr.innerText);
-            tr.style.display = text.indexOf(q) > -1 ? '' : 'none';
-          });
-        });
-      })();
-    </script>
+    
 
-    <!-- Transformative Digital Technologies -->
+    
     <div class="domain-block" id="domain-tdt">
-      <h2>Transformative Digital Technologies</h2>
+      <h3>Transformative Digital Technologies</h3>
       <table class="slingshot-table">
         <thead>
           <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
@@ -170,7 +157,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
       </table>
     </div>
 
-    <!-- Health and Biomedical -->
+    
     <div class="domain-block" id="domain-health">
       <h2>Health &amp; Biomedical</h2>
       <table class="slingshot-table">
@@ -231,7 +218,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
       <p class="muted">Note: LIFESCAPES Inc. was listed without a public website in the provided document; add a link if available.</p>
     </div>
 
-    <!-- Environment, Energy & Green Technologies -->
+    
     <div class="domain-block" id="domain-eegt">
       <h2>Environment, Energy &amp; Green Technologies</h2>
       <table class="slingshot-table">
@@ -257,7 +244,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
       </table>
     </div>
 
-    <!-- Manufacturing, Trade & Connectivity -->
+    
     <div class="domain-block" id="domain-mtc">
       <h2>Manufacturing, Trade &amp; Connectivity</h2>
       <table class="slingshot-table">
@@ -280,3 +267,4 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
         </tbody>
       </table>
     </div>
+</div>
