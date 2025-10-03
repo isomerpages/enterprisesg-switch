@@ -68,6 +68,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
   </tr>
 		</tbody></table>
 
+
   <div class="container">
     <h1>SLINGSHOT 2025 — Top 60 Startups</h1>
     <p>Meet our Top 60 across four domains. Explore their websites and quick elevator pitches below.</p>
