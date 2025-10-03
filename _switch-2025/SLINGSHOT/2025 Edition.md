@@ -72,7 +72,7 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
 
   <div class="container">
     <h2>SLINGSHOT 2025 — Top 60 Startups Global Startups</h2>
-    <p>Meet our Top 60 across four challenge domains. Explore their websites and quick elevator pitches below.</p>
+    <p>Meet our Top 60 Global Startups across four challenge domains. Explore their websites and quick elevator pitches below.</p>
 
     <style>
       .domain-block{margin:2.5rem 0}
