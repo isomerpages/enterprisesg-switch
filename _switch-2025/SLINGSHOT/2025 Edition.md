@@ -19,11 +19,11 @@ Compete for grant prizes worth over S$2 million when you take the global stage u
 Embark on the 9th edition of SLINGSHOT, a global deep tech startup competition from Singapore to the world, and make the pitch of a lifetime in the presence of key industry leaders and a global audience of investors. We are excited
 for our best startups to walk away with more - bigger and better prizes for our winners this year!
 
-Last year, more than 5,500 startups from over 150 countries participated in SLINGSHOT, with our Top 50 Global Startups joining us here in Singapore to forge connections with industry experts and key ecosystem partners. The competition culminated in the Finals held at the SWITCH 2024.
+This year, more than 6,800 startups from over 150 markets participated in SLINGSHOT, with our Top 60 Global Startups joining us here in Singapore in October to forge connections with industry experts and key ecosystem partners. The competition will culminate in the Finals held at the SWITCH 2025.
 
-Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges/2025-edition?t=O-aGtYHNpSO6QgTMj0cfFQ&amp;utm_source=esg_switchweb&amp;utm_medium=internal_webups&amp;utm_campaign=slingshot2025&amp;utm_content=esglaunch_organic" rel="noopener nofollow" target="_blank">Register now</a> to submit your proposal today!
+Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challenges/2025-edition?t=O-aGtYHNpSO6QgTMj0cfFQ&amp;utm_source=esg_switchweb&amp;utm_medium=internal_webups&amp;utm_campaign=slingshot2025&amp;utm_content=esglaunch_organic" rel="noopener nofollow" target="_blank">here</a> 
 
-### We are calling for applications in the following categories:
+### Competition Domains:
 
 <title>SLINGSHOT 2025 Domains</title><table style="width: 100%; border-collapse: collapse;">
   <tbody><tr>
@@ -42,37 +42,12 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 					<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Environment, Energy and Green Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_EEGT_1365x767.png"></td>
 		<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Transformative Digital Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_TDT_1365x767.png"></td></tr>
 		</tbody></table>
-		
-### Key dates and timelimes:
-
-<title>SLINGSHOT 2025 Domains</title><table style="width: 100%; border-collapse: collapse;">
-  <tbody><tr>
-    <th style="width: 33%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Global Call</th>
-		<th style="width: 33%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Immersion</th>
-		<th style="width: 33%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Domain Finals and Grand Finals</th>
-  </tr>
-   <tr>
-    <td style="border: 0px solid #CCCCCC; padding: 10px;">14 Mar–11 Jul</td>
-		<td style="border: 0px solid #CCCCCC; padding: 10px;">24, 25, 27 Oct</td>
-		 <td style="border: 0px solid #CCCCCC; padding: 10px;">29-31 Oct</td>
-  </tr>
-		<tr>
-    <td style="border: 0px solid #CCCCCC; padding: 20px;"><img style="width: 75%" height="auto" width="100%" alt="Red circle with an icon of a megaphone within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_call_for_app_43_1x419.png"></td>
-		<td style="border: 0px solid #CCCCCC; padding: 20px;"><img style="width: 75%" height="auto" width="100%" alt="Red circle with an icon of a plane flying within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_immersion_431x419.png"></td>
-		<td style="border: 0px solid #CCCCCC; padding: 20px;"><img style="width: 75%" height="auto" width="100%" alt="Red circle with an icon of a trophy within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_grand_finals_431x419.png"></td>
-  </tr>
-		<tr>
-    <td style="border: 0px solid #CCCCCC; padding: 10px;">Register on the platform and submit your presentation <a target="_blank" href="https://slingshot.agorize.com/en/challenges/2025-edition?t=O-aGtYHNpSO6QgTMj0cfFQ&amp;utm_source=esg_switchweb&amp;utm_medium=internal_webups&amp;utm_campaign=slingshot2025&amp;utm_content=esglaunch_organic"> here</a></td>
-		<td style="border: 0px solid #CCCCCC; padding: 10px;">Top 60 Global Startups will pitch LIVE at SWITCH on 29 and 30 Oct. <br><br>The Top 12 Global Startups will be selected to pitch at the Grand Finals on 31 Oct for the chance to become SLINGSHOT 2025’s Grand Winner.</td>
-		<td style="border: 0px solid #CCCCCC; padding: 10px;">Top 60 Global Startups will immerse in Singapore’s startup ecosystem, with opportunities to meet and network with local ecosystem partners.</td>
-  </tr>
-		</tbody></table>
-		
+	
 ***
 
   <div class="container">
-    <h2>SLINGSHOT 2025 — Top 60 Startups</h2>
-    <p>Meet our Top 60 across four domains. Explore their websites and quick elevator pitches below.</p>
+    <h2>SLINGSHOT 2025 — Top 60 Global Startups</h2>
+    <p>Meet our Top 60 Global Startups across four challenge domains. Explore their websites and quick elevator pitches below.</p>
 
     <style>
       .domain-block{margin:2.5rem 0}
@@ -161,7 +136,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 
     
     <div class="domain-block" id="domain-health">
-      <h3>Health &amp; Biomedical</h3>
+      <h3>Health and Biomedical</h3>
       <table class="slingshot-table">
         <thead>
           <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
@@ -203,6 +178,10 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
             <td class="startup-name" data-label="Startup"><a href="https://loopdx.com/" target="_blank" rel="noopener">Loop Diagnostics</a></td>
             <td data-label="Elevator Pitch">SeptiLoop®: CE IVDR Class C and UKCA certified rapid immune-based sepsis test—actionable results in &lt;2 hours to improve triage and antibiotic decisions.</td>
           </tr>
+		  <tr>
+            <td class="startup-name" data-label="Startup"><a href="https://www.nalagenetics.com/en/" target="_blank" rel="noopener">Nalagenetics</a></td>
+            <td data-label="Elevator Pitch">Offers pharmacogenomic testing and clinical decision support (e.g., RXmax panel covering up to 240 medications) to reduce adverse drug reactions and personalize treatment.</td>
+          </tr>
           <tr>
             <td class="startup-name" data-label="Startup"><a href="https://physiologas.co.jp/en-index.html" target="_blank" rel="noopener">Physiologas Technologies</a></td>
             <td data-label="Elevator Pitch">Waterless hemodialysis using proprietary dialysate regeneration—compact, plumbing-free system for treatment anywhere; reduces burden and strengthens resilience.</td>
@@ -221,7 +200,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 
     
     <div class="domain-block" id="domain-eegt">
-      <h3>Environment, Energy &amp; Green Technologies</h3>
+      <h3>Environment, Energy and Green Technologies</h3>
       <table class="slingshot-table">
         <thead>
           <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
@@ -230,7 +209,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
           <tr><td class="startup-name" data-label="Startup"><a href="https://allye.com/" target="_blank" rel="noopener">Allye Energy</a></td><td data-label="Elevator Pitch">Intelligent battery storage with grid-forming capabilities—scaling to cloud “Energy Banking” for shared storage 100× more affordable and resilient.</td></tr>
 <tr><td class="startup-name" data-label="Startup"><a href="https://www.arunarevolution.com/" target="_blank" rel="noopener">Aruna Revolution</a></td><td data-label="Elevator Pitch">Transforms agricultural residuals into compostable absorbent fibres for hygiene markets—expanding to incontinence, medical textiles, and hydroponics.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://www.avalve.co.kr/" target="_blank" rel="noopener">Avalve</a></td><td data-label="Elevator Pitch">AI-powered smart farm solutions to predict harvests, maximize yields, and enable sustainable, data-driven farming.</td></tr>
-           <tr> <td><a href="https://ayrtonenergy.com/" target="_blank" rel="noopener">Ayrton Energy</a></td>
+           <tr><td class="startup-name" data-label="Startup"><a href="https://ayrtonenergy.com/" target="_blank" rel="noopener">Ayrton Energy</a></td>
         <td>e-LOHC™ liquid hydrogen carrier compatible with existing fuel infrastructure—safe, storage-stable, and cost-effective to accelerate hydrogen adoption across industry/mobility/power.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://buyoplastic.com/" target="_blank" rel="noopener">BUYO – Biowaste to Bioplastics</a></td><td data-label="Elevator Pitch">100% nature-based, biodegradable bioplastics converting bio-waste into materials for flexible/rigid packaging and medical applications.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://carnotfleet.com/" target="_blank" rel="noopener">Carnotfleet</a></td><td data-label="Elevator Pitch">Cold-chain accessibility + error-prevention to curb perishables loss—deployable, cost-efficient products for post-harvest logistics.</td></tr>
@@ -247,7 +226,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 
     
     <div class="domain-block" id="domain-mtc">
-      <h3>Manufacturing, Trade &amp; Connectivity</h3>
+      <h3>Manufacturing, Trade and Connectivity</h3>
       <table class="slingshot-table">
         <thead>
           <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
