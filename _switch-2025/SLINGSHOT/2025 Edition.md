@@ -67,6 +67,8 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 		<td style="border: 0px solid #CCCCCC; padding: 10px;">Top 60 Global Startups will immerse in Singapore’s startup ecosystem, with opportunities to meet and network with local ecosystem partners.</td>
   </tr>
 		</tbody></table>
+		
+***
 
   <div class="container">
     <h3>SLINGSHOT 2025 — Top 60 Startups</h3>
@@ -159,7 +161,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 
     
     <div class="domain-block" id="domain-health">
-      <h2>Health &amp; Biomedical</h2>
+      <h3>Health &amp; Biomedical</h3>
       <table class="slingshot-table">
         <thead>
           <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
@@ -220,7 +222,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 
     
     <div class="domain-block" id="domain-eegt">
-      <h2>Environment, Energy &amp; Green Technologies</h2>
+      <h3>Environment, Energy &amp; Green Technologies</h3>
       <table class="slingshot-table">
         <thead>
           <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
@@ -246,7 +248,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 
     
     <div class="domain-block" id="domain-mtc">
-      <h2>Manufacturing, Trade &amp; Connectivity</h2>
+      <h3>Manufacturing, Trade &amp; Connectivity</h3>
       <table class="slingshot-table">
         <thead>
           <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
