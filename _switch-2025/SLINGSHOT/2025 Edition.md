@@ -21,7 +21,7 @@ for our best startups to walk away with more - bigger and better prizes for our 
 
 Last year, more than 5,500 startups from over 150 countries participated in SLINGSHOT, with our Top 50 Global Startups joining us here in Singapore to forge connections with industry experts and key ecosystem partners. The competition culminated in the Finals held at the SWITCH 2024.
 
-Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges/2025-edition?t=O-aGtYHNpSO6QgTMj0cfFQ&amp;utm_source=esg_switchweb&amp;utm_medium=internal_webups&amp;utm_campaign=slingshot2025&amp;utm_content=esglaunch_organic" rel="noopener nofollow" target="_blank">Register now</a> to submit your proposal today!
+Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challenges/2025-edition?t=O-aGtYHNpSO6QgTMj0cfFQ&amp;utm_source=esg_switchweb&amp;utm_medium=internal_webups&amp;utm_campaign=slingshot2025&amp;utm_content=esglaunch_organic" rel="noopener nofollow" target="_blank">here</a> 
 
 ### We are calling for applications in the following categories:
 
@@ -161,7 +161,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 
     
     <div class="domain-block" id="domain-health">
-      <h3>Health &amp; Biomedical</h3>
+      <h3>Health and Biomedical</h3>
       <table class="slingshot-table">
         <thead>
           <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
@@ -203,6 +203,10 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
             <td class="startup-name" data-label="Startup"><a href="https://loopdx.com/" target="_blank" rel="noopener">Loop Diagnostics</a></td>
             <td data-label="Elevator Pitch">SeptiLoop®: CE IVDR Class C and UKCA certified rapid immune-based sepsis test—actionable results in &lt;2 hours to improve triage and antibiotic decisions.</td>
           </tr>
+		  <tr>
+            <td class="startup-name" data-label="Startup"><a href="https://www.nalagenetics.com/en/" target="_blank" rel="noopener">Nalagenetics</a></td>
+            <td data-label="Elevator Pitch">Offers pharmacogenomic testing and clinical decision support (e.g., RXmax panel covering up to 240 medications) to reduce adverse drug reactions and personalize treatment.</td>
+          </tr>
           <tr>
             <td class="startup-name" data-label="Startup"><a href="https://physiologas.co.jp/en-index.html" target="_blank" rel="noopener">Physiologas Technologies</a></td>
             <td data-label="Elevator Pitch">Waterless hemodialysis using proprietary dialysate regeneration—compact, plumbing-free system for treatment anywhere; reduces burden and strengthens resilience.</td>
@@ -221,7 +225,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 
     
     <div class="domain-block" id="domain-eegt">
-      <h3>Environment, Energy &amp; Green Technologies</h3>
+      <h3>Environment, Energy and Green Technologies</h3>
       <table class="slingshot-table">
         <thead>
           <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
@@ -247,7 +251,7 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
 
     
     <div class="domain-block" id="domain-mtc">
-      <h3>Manufacturing, Trade &amp; Connectivity</h3>
+      <h3>Manufacturing, Trade and Connectivity</h3>
       <table class="slingshot-table">
         <thead>
           <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
