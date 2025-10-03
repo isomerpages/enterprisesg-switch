@@ -492,4 +492,4 @@ at<a href="https://connect.switchsg.org/" rel="noopener noreferrer nofollow" tar
 <p><strong>Temasek Polytechnic [C08]</strong>
 </p>
 <p></p>
-<p></p>
+<p>Learn more about the SLINGSHOT Top 60 startups <a href="/slingshot/2025-edition/" rel="noopener nofollow" target="_blank">here</a>.</p>
