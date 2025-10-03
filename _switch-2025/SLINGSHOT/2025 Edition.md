@@ -42,31 +42,7 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
 					<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Environment, Energy and Green Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_EEGT_1365x767.png"></td>
 		<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Transformative Digital Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_TDT_1365x767.png"></td></tr>
 		</tbody></table>
-		
-### Key dates and timelines:
 
-<title>SLINGSHOT 2025 Domains</title><table style="width: 100%; border-collapse: collapse;">
-  <tbody><tr>
-    <th style="width: 33%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Global Call</th>
-		<th style="width: 33%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Immersion</th>
-		<th style="width: 33%; font-weight: bold; border: 0px solid #CCCCCC; padding: 10px;">Domain Finals and Grand Finals</th>
-  </tr>
-   <tr>
-    <td style="border: 0px solid #CCCCCC; padding: 10px;">14 Mar–11 Jul</td>
-		<td style="border: 0px solid #CCCCCC; padding: 10px;">24, 25, 27 Oct</td>
-		 <td style="border: 0px solid #CCCCCC; padding: 10px;">29-31 Oct</td>
-  </tr>
-		<tr>
-    <td style="border: 0px solid #CCCCCC; padding: 20px;"><img style="width: 75%" height="auto" width="100%" alt="Red circle with an icon of a megaphone within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_call_for_app_43_1x419.png"></td>
-		<td style="border: 0px solid #CCCCCC; padding: 20px;"><img style="width: 75%" height="auto" width="100%" alt="Red circle with an icon of a plane flying within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_immersion_431x419.png"></td>
-		<td style="border: 0px solid #CCCCCC; padding: 20px;"><img style="width: 75%" height="auto" width="100%" alt="Red circle with an icon of a trophy within it." src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_icon_grand_finals_431x419.png"></td>
-  </tr>
-		<tr>
-    <td style="border: 0px solid #CCCCCC; padding: 10px;">Register on the platform and submit your presentation <a target="_blank" href="https://slingshot.agorize.com/en/challenges/2025-edition?t=O-aGtYHNpSO6QgTMj0cfFQ&amp;utm_source=esg_switchweb&amp;utm_medium=internal_webups&amp;utm_campaign=slingshot2025&amp;utm_content=esglaunch_organic"> here</a></td>
-		<td style="border: 0px solid #CCCCCC; padding: 10px;">Top 60 Global Startups will pitch LIVE at SWITCH on 29 and 30 Oct. <br><br>The Top 12 Global Startups will be selected to pitch at the Grand Finals on 31 Oct for the chance to become SLINGSHOT 2025’s Grand Winner.</td>
-		<td style="border: 0px solid #CCCCCC; padding: 10px;">Top 60 Global Startups will immerse in Singapore’s startup ecosystem, with opportunities to meet and network with local ecosystem partners.</td>
-  </tr>
-		</tbody></table>
 		
 ***
 
