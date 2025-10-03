@@ -19,7 +19,7 @@ Compete for grant prizes worth over S$2 million when you take the global stage u
 Embark on the 9th edition of SLINGSHOT, a global deep tech startup competition from Singapore to the world, and make the pitch of a lifetime in the presence of key industry leaders and a global audience of investors. We are excited
 for our best startups to walk away with more - bigger and better prizes for our winners this year!
 
-Last year, more than 5,500 startups from over 150 countries participated in SLINGSHOT, with our Top 50 Global Startups joining us here in Singapore to forge connections with industry experts and key ecosystem partners. The competition culminated in the Finals held at the SWITCH 2024.
+This year, more than 6,800 startups from over 150 markets participated in SLINGSHOT, with our Top 60 Global Startups joining us here in Singapore in October to forge connections with industry experts and key ecosystem partners. The competition will culminate in the Finals held at the SWITCH 2025.
 
 Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challenges/2025-edition?t=O-aGtYHNpSO6QgTMj0cfFQ&amp;utm_source=esg_switchweb&amp;utm_medium=internal_webups&amp;utm_campaign=slingshot2025&amp;utm_content=esglaunch_organic" rel="noopener nofollow" target="_blank">here</a> 
 
