@@ -23,7 +23,7 @@ This year, more than 6,800 startups from over 150 markets participated in SLINGS
 
 Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challenges/2025-edition?t=O-aGtYHNpSO6QgTMj0cfFQ&amp;utm_source=esg_switchweb&amp;utm_medium=internal_webups&amp;utm_campaign=slingshot2025&amp;utm_content=esglaunch_organic" rel="noopener nofollow" target="_blank">here</a> 
 
-### We are calling for applications in the following categories:
+### Competition Domains:
 
 <title>SLINGSHOT 2025 Domains</title><table style="width: 100%; border-collapse: collapse;">
   <tbody><tr>
