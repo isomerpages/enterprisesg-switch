@@ -43,7 +43,7 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
 		<td style="width: 25%; border: 0px solid #CCCCCC; padding: 10px;"><img style="width: 100%" height="auto" width="100%" alt="Graphic with the text &quot;Transformative Digital Technologies&quot;" src="/images/SLINGSHOT/SLINGSHOT 2025/slingshot_2025_domain_TDT_1365x767.png"></td></tr>
 		</tbody></table>
 		
-### Key dates and timelimes:
+### Key dates and timelines:
 
 <title>SLINGSHOT 2025 Domains</title><table style="width: 100%; border-collapse: collapse;">
   <tbody><tr>
@@ -71,8 +71,8 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
 ***
 
   <div class="container">
-    <h2>SLINGSHOT 2025 — Top 60 Startups</h2>
-    <p>Meet our Top 60 across four domains. Explore their websites and quick elevator pitches below.</p>
+    <h2>SLINGSHOT 2025 — Top 60 Startups Global Startups</h2>
+    <p>Meet our Top 60 across four challenge domains. Explore their websites and quick elevator pitches below.</p>
 
     <style>
       .domain-block{margin:2.5rem 0}
