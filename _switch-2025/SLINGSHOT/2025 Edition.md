@@ -217,7 +217,6 @@ Ready to take on the world? <a href="https://slingshot.agorize.com/en/challenges
           </tr>
         </tbody>
       </table>
-      <p class="muted">Note: LIFESCAPES Inc. was listed without a public website in the provided document; add a link if available.</p>
     </div>
 
     
