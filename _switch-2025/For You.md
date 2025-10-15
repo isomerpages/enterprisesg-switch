@@ -19,6 +19,7 @@ learn how to get to the venue.</p>
 <hr>
 <h2><strong>Resources</strong></h2>
 <p>Beyond Pass purchase guide [<a href="https://files-myxp-mobile.gevme.com/0f29bce6-9208-4122-b94c-f4edb6a68092/684a5336af1671509331aabc/IPq2m/v4._switch_2025_beyond_pass_purchase_guide.pdf" rel="noopener nofollow" target="_blank">Download</a>]</p>
+<p>SWITCH 2025 event guide [<a href="https://go.gov.sg/switch2025guide" rel="noopener nofollow" target="_blank">Download</a>]</p>
 <hr>
 <h2><strong>SG Arrival Card</strong></h2>
 <div class="iframe-wrapper">
