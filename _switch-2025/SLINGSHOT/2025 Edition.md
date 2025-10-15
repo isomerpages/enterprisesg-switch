@@ -130,6 +130,11 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
             <td class="startup-name" data-label="Startup"><a href="https://www.zapdoslabs.com/" target="_blank" rel="noopener">Zapdos Labs</a></td>
             <td data-label="Elevator Pitch">The memory layer for the world’s video—transcription, segmentation, and frame-level semantic search to turn hours of raw footage into structured, searchable intelligence.</td>
           </tr>
+          <tr>
+  <td><a href="https://www.tpson.cn/" target="_blank" rel="noopener">Zhejiang Polar Code Technology</a></td>
+  <td>Founded in 2022, Zhejiang Polar Code builds AI-driven intelligent terminals for smart grids—integrating sensing, decision-making, and control to tackle high renewable-penetration challenges. Its systems deliver high-precision equipment identification, multi-objective optimized decisions, and voltage–frequency stability control; proven in multiple demos to improve grid stability and raise renewable self-consumption. The company focuses on modular, cost-effective digital energy solutions for utilities and high-energy-use industrial campuses.</td>
+</tr>
+
         </tbody>
       </table>
     </div>
@@ -150,6 +155,10 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
             <td class="startup-name" data-label="Startup"><a href="https://axcynsis.com/" target="_blank" rel="noopener">AxcynsisTx</a></td>
             <td data-label="Elevator Pitch">Next-gen antibody-drug conjugates via AxcynDOT payloads and advanced bioconjugation—highly homogeneous ADCs with broader therapeutic windows and superior efficacy.</td>
           </tr>
+		  <tr>
+  <td><a href="https://www.betalife.sg/" target="_blank" rel="noopener">BetaLife</a></td>
+  <td>BetaLife is a pre-clinical biotech developing a functional cure for severe diabetes using immune-evasive induced pluripotent stem cells to generate billions of insulin-producing islet cells. Spun out of A*STAR, its platform combines an ethnically diverse cell bank, precision gene editing for immune tolerance, and scalable manufacturing to enable a universal, off-the-shelf islet replacement therapy—aiming to restore natural insulin production and eliminate lifelong injections and immunosuppression.</td>
+</tr>
           <tr>
             <td class="startup-name" data-label="Startup"><a href="https://birminghambiotech.co.uk/" target="_blank" rel="noopener">Birmingham Biomat LTD</a></td>
             <td data-label="Elevator Pitch">Drug-free mucosal barrier tech with products like NoriZite® nasal/eye sprays and anti-HPV gel; platform extends to wound care and women’s health, distributed across 10+ countries.</td>
