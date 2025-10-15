@@ -367,7 +367,7 @@ at<a href="https://connect.switchsg.org/" rel="noopener noreferrer nofollow" tar
 <p>ERUTY</p>
 </li>
 <li>
-<p>HYPER Cloud</p>
+<p>Hi Stranger</p>
 </li>
 <li>
 <p>Sharebox</p>
@@ -444,7 +444,7 @@ at<a href="https://connect.switchsg.org/" rel="noopener noreferrer nofollow" tar
 <p>GENUE PTE. LTD.</p>
 </li>
 <li>
-<p>GIGANTE.AI PTE. LTD.</p>
+<p>GIGNITE.AI PTE. LTD.</p>
 </li>
 <li>
 <p>IMPACT COLLIDERS</p>
