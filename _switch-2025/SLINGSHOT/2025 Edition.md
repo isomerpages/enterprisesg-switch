@@ -183,6 +183,10 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
             <td class="startup-name" data-label="Startup"><a href="https://ilof.tech/" target="_blank" rel="noopener">iLoF – Intelligent Lab on Fiber</a></td>
             <td data-label="Elevator Pitch">AI + photonics to analyze biofluids and identify disease-specific molecular patterns—fast, affordable, non-destructive screening and stratification for complex diseases.</td>
           </tr>
+		  <tr>
+  <td><a href="https://lifescapes.jp/" target="_blank" rel="noopener">LIFESCAPES Inc.</a></td>
+  <td>Stroke cases have risen 40% in the past decade, and current options are ineffective for severe hand paralysis. LIFESCAPES develops a Brain–Computer Interface therapy offering new hope for patients previously considered untreatable.</td>
+</tr>
           <tr>
             <td class="startup-name" data-label="Startup"><a href="https://loopdx.com/" target="_blank" rel="noopener">Loop Diagnostics</a></td>
             <td data-label="Elevator Pitch">SeptiLoop®: CE IVDR Class C and UKCA certified rapid immune-based sepsis test—actionable results in &lt;2 hours to improve triage and antibiotic decisions.</td>
@@ -199,6 +203,10 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
             <td class="startup-name" data-label="Startup"><a href="https://www.revivobio.com/" target="_blank" rel="noopener">REVIVO BioSystems Pte. Ltd.</a></td>
             <td data-label="Elevator Pitch">4D tissue-on-chip (ReleGO) + bioanalytics for rapid, human-relevant efficacy/safety testing—reducing animal use and accelerating translatable preclinical insights.</td>
           </tr>
+		  <tr>
+  <td><a href="http://en.jrbiopharma.com/" target="_blank" rel="noopener">Jingrui Biotech (SingenBio Therapeutics)</a></td>
+  <td>SingenBio is building an extrahepatic drug delivery platform using breakthrough silica biomaterials—offering high tissue specificity, low immunogenicity, large drug-loading capacity, and strong tissue permeability. The proprietary system efficiently delivers peptides, oligonucleotides, nanobodies, radioisotopes, and small molecules to hard-to-reach tissues, enabling new treatments in precision immune tolerance, RNAi, and radiotherapy. Founded by researchers from Princeton, Cornell, and Tsinghua, the team targets major unmet needs in autoimmune disease, chronic kidney disease, and cancer.</td>
+</tr>
           <tr>
             <td class="startup-name" data-label="Startup"><a href="https://larosee.com.hk/" target="_blank" rel="noopener">WomenX Biotech Limited</a></td>
             <td data-label="Elevator Pitch">PadX sanitary pad detects HPV with 99.2% accuracy; 3.8% Hong Kong private screening share in 7 months. Expanding to SEA (2027) and beyond.</td>
@@ -224,8 +232,13 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
           <tr><td class="startup-name" data-label="Startup"><a href="https://carnotfleet.com/" target="_blank" rel="noopener">Carnotfleet</a></td><td data-label="Elevator Pitch">Cold-chain accessibility + error-prevention to curb perishables loss—deployable, cost-efficient products for post-harvest logistics.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://enadyne.com/" target="_blank" rel="noopener">enaDyne</a></td><td data-label="Elevator Pitch">Non-thermal plasma catalysis to convert CO₂/waste gases into feedstocks, produce ammonia, and remove PFAS/PFCs—modular, energy-efficient drop-in reactors.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://www.matnex.ai/" target="_blank" rel="noopener">MatNex</a></td><td data-label="Elevator Pitch">AI-driven materials discovery with synthesisability focus; cuts timelines from years to months for refrigerants, magnets, green H₂ components, and more.</td></tr>
-                   <tr><td class="startup-name" data-label="Startup"><a href="https://pertinenteco.com/" target="_blank" rel="noopener">Pertinent eco-solutions</a></td><td data-label="Elevator Pitch">Nature-derived pest-control as effective as chemicals but safer than conventional options—and more effective than current biocontrols.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://planetixx.com/" target="_blank" rel="noopener">Planetixx</a></td><td data-label="Elevator Pitch">Dynamic water intelligence from multi-sensor satellite imagery and proprietary AI—risk scores, habitat maps, pollution alerts, climate resilience indicators.</td></tr>
+
+				   <tr>
+  <td><a href="https://www.okosix.com/" target="_blank" rel="noopener">OKOsix</a></td>
+  <td>OKOsix makes certified compostable, low-carbon materials to replace fossil plastics in healthcare. Using SLINGSHOT as a launchpad, the team aims to build SEA partnerships to make healthcare safer, cleaner, and truly sustainable.</td>
+</tr>
+				   <tr><td class="startup-name" data-label="Startup"><a href="https://pertinenteco.com/" target="_blank" rel="noopener">Pertinent eco-solutions</a></td><td data-label="Elevator Pitch">Nature-derived pest-control as effective as chemicals but safer than conventional options—and more effective than current biocontrols.</td></tr>
+          <tr><td class="startup-name" data-label="Startup"><a href="https://planetixx.com/" target="_blank" rel="noopener">Plastic-i</a></td><td data-label="Elevator Pitch">Dynamic water intelligence from multi-sensor satellite imagery and proprietary AI—risk scores, habitat maps, pollution alerts, climate resilience indicators.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://www.remediumenergy.com/" target="_blank" rel="noopener">Remedium Energy</a></td><td data-label="Elevator Pitch">Limeloop synthetic limestone + novel process cuts carbon capture costs by &gt;80% to ~$13/tCO₂, while acting as a heat battery to offset energy costs.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://www.tersa.earth/" target="_blank" rel="noopener">Tersa Earth</a></td><td data-label="Elevator Pitch">TersaClean engineered microbes neutralise acidity, remove contaminants, and recover critical metals from mining waste—turning liabilities into assets.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://veridi.tech/" target="_blank" rel="noopener">Veridi Technologies</a></td><td data-label="Elevator Pitch">AI-powered automated microscopy for soil biodiversity and plant disease diagnostics—backed by EIC and partnerships with major agrochem players.</td></tr>
