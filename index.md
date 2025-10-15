@@ -49,6 +49,27 @@ sections:
       image: /images/2024/2024_slingshot_Top_50_web.jpg
       alt: Pitching at SLINGSHOT
   - infopic:
+      title: Make the right connections
+      subtitle: Trade Floor & Exhibitions
+      id: infopic
+      description: Connect with over 400 global exhibitors at SWITCH Trade Floor.
+        Discover breakthrough solutions, forge partnerships, and scale your
+        business.
+      button: Learn More
+      url: /trade-floor
+      image: /images/2025/2025_SWITCH_Connect1.jpg
+      alt: People networking at SWITCH
+  - infopic:
+      title: Download the Event Guide
+      subtitle: Event Guide
+      id: infopic
+      description: Want all the SWITCH happenings as a hand-dandy PDF? We’ve got you
+        covered!
+      button: Download
+      url: https://go.gov.sg/switch2025guide
+      image: /images/2025/2025_SWITCH_ForYou1.jpg
+      alt: Image alt text
+  - infopic:
       title: Where Vision Meets Reality
       subtitle: Main Stage
       id: infopic
@@ -93,14 +114,4 @@ sections:
       title: News and Happenings
       subtitle: Explore
       button: See all
-  - infopic:
-      title: Download the Event Guide
-      subtitle: Event Guide
-      id: infopic
-      description: Want all the SWITCH happenings as a hand-dandy PDF? We’ve got you
-        covered!
-      button: Download
-      url: https://go.gov.sg/switch2025guide
-      image: /images/2025/2025_SWITCH_ForYou1.jpg
-      alt: Image alt text
 ---
