@@ -33,8 +33,10 @@ links:
       - title: For You
         url: /for-you-2025
   - title: EVENT GUIDE
-    url: https://go.gov.sg/switch2024guide
+    url: https://go.gov.sg/switch2025guide
     sublinks:
+      - title: "2025"
+        url: https://go.gov.sg/switch2025guide
       - title: "2024"
         url: https://go.gov.sg/switch2024guide
       - title: "2023"
