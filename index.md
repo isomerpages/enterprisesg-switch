@@ -38,6 +38,38 @@ sections:
           description: Deep Tech Pitching Competition
           url: /slingshot/2025-edition/
   - infopic:
+      title: Meet your Top 60 startups
+      subtitle: SLINGSHOT 2025
+      id: infopic
+      description: Learn more about the Top 60 startups selected from over 6,8000
+        global applications who will be pitching at the finals from 29–31
+        October!
+      button: Learn more
+      url: /slingshot/2025-edition/
+      image: /images/2024/2024_slingshot_Top_50_web.jpg
+      alt: Pitching at SLINGSHOT
+  - infopic:
+      title: Make the right connections
+      subtitle: Trade Floor & Exhibitions
+      id: infopic
+      description: Connect with over 400 global exhibitors at SWITCH Trade Floor.
+        Discover breakthrough solutions, forge partnerships, and scale your
+        business.
+      button: Learn More
+      url: /trade-floor
+      image: /images/2025/2025_SWITCH_Connect1.jpg
+      alt: People networking at SWITCH
+  - infopic:
+      title: Download the Event Guide
+      subtitle: Event Guide
+      id: infopic
+      description: Want all the SWITCH happenings as a hand-dandy PDF? We’ve got you
+        covered!
+      button: Download
+      url: https://go.gov.sg/switch2025guide
+      image: /images/2025/2025_SWITCH_ForYou1.jpg
+      alt: Image alt text
+  - infopic:
       title: Where Vision Meets Reality
       subtitle: Main Stage
       id: infopic
@@ -78,16 +110,6 @@ sections:
       url: https://www.youtube.com/watch?v=UpYDA7K_rSo
       image: /images/homepage images/2024_Isomer_YT_Thumbnail_1.png
       alt: SWITCH 2023 Highlight Video
-  - infopic:
-      title: Applications are closed
-      subtitle: SLINGSHOT 2025
-      id: infopic
-      description: Applications for SLINGSHOT 2025 have now closed. We will be
-        announcing the Top 60 finalists at the end of August 2025.
-      button: Learn more
-      url: /slingshot/2025-edition/
-      image: /images/2025/Thumbnail_SLINGSHOT_Grand_Final_Pitch.jpg
-      alt: Pitching at SLINGSHOT
   - resources:
       title: News and Happenings
       subtitle: Explore

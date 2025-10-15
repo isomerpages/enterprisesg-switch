@@ -130,6 +130,11 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
             <td class="startup-name" data-label="Startup"><a href="https://www.zapdoslabs.com/" target="_blank" rel="noopener">Zapdos Labs</a></td>
             <td data-label="Elevator Pitch">The memory layer for the world’s video—transcription, segmentation, and frame-level semantic search to turn hours of raw footage into structured, searchable intelligence.</td>
           </tr>
+          <tr>
+  <td><a href="https://www.tpson.cn/" target="_blank" rel="noopener">Zhejiang Polar Code Technology</a></td>
+  <td>Founded in 2022, Zhejiang Polar Code builds AI-driven intelligent terminals for smart grids—integrating sensing, decision-making, and control to tackle high renewable-penetration challenges. Its systems deliver high-precision equipment identification, multi-objective optimized decisions, and voltage–frequency stability control; proven in multiple demos to improve grid stability and raise renewable self-consumption. The company focuses on modular, cost-effective digital energy solutions for utilities and high-energy-use industrial campuses.</td>
+</tr>
+
         </tbody>
       </table>
     </div>
@@ -150,6 +155,10 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
             <td class="startup-name" data-label="Startup"><a href="https://axcynsis.com/" target="_blank" rel="noopener">AxcynsisTx</a></td>
             <td data-label="Elevator Pitch">Next-gen antibody-drug conjugates via AxcynDOT payloads and advanced bioconjugation—highly homogeneous ADCs with broader therapeutic windows and superior efficacy.</td>
           </tr>
+		  <tr>
+  <td><a href="https://www.betalife.sg/" target="_blank" rel="noopener">BetaLife</a></td>
+  <td>BetaLife is a pre-clinical biotech developing a functional cure for severe diabetes using immune-evasive induced pluripotent stem cells to generate billions of insulin-producing islet cells. Spun out of A*STAR, its platform combines an ethnically diverse cell bank, precision gene editing for immune tolerance, and scalable manufacturing to enable a universal, off-the-shelf islet replacement therapy—aiming to restore natural insulin production and eliminate lifelong injections and immunosuppression.</td>
+</tr>
           <tr>
             <td class="startup-name" data-label="Startup"><a href="https://birminghambiotech.co.uk/" target="_blank" rel="noopener">Birmingham Biomat LTD</a></td>
             <td data-label="Elevator Pitch">Drug-free mucosal barrier tech with products like NoriZite® nasal/eye sprays and anti-HPV gel; platform extends to wound care and women’s health, distributed across 10+ countries.</td>
@@ -174,6 +183,10 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
             <td class="startup-name" data-label="Startup"><a href="https://ilof.tech/" target="_blank" rel="noopener">iLoF – Intelligent Lab on Fiber</a></td>
             <td data-label="Elevator Pitch">AI + photonics to analyze biofluids and identify disease-specific molecular patterns—fast, affordable, non-destructive screening and stratification for complex diseases.</td>
           </tr>
+		  <tr>
+  <td><a href="https://lifescapes.jp/" target="_blank" rel="noopener">LIFESCAPES Inc.</a></td>
+  <td>Stroke cases have risen 40% in the past decade, and current options are ineffective for severe hand paralysis. LIFESCAPES develops a Brain–Computer Interface therapy offering new hope for patients previously considered untreatable.</td>
+</tr>
           <tr>
             <td class="startup-name" data-label="Startup"><a href="https://loopdx.com/" target="_blank" rel="noopener">Loop Diagnostics</a></td>
             <td data-label="Elevator Pitch">SeptiLoop®: CE IVDR Class C and UKCA certified rapid immune-based sepsis test—actionable results in &lt;2 hours to improve triage and antibiotic decisions.</td>
@@ -190,6 +203,10 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
             <td class="startup-name" data-label="Startup"><a href="https://www.revivobio.com/" target="_blank" rel="noopener">REVIVO BioSystems Pte. Ltd.</a></td>
             <td data-label="Elevator Pitch">4D tissue-on-chip (ReleGO) + bioanalytics for rapid, human-relevant efficacy/safety testing—reducing animal use and accelerating translatable preclinical insights.</td>
           </tr>
+		  <tr>
+  <td><a href="http://en.jrbiopharma.com/" target="_blank" rel="noopener">Jingrui Biotech (SingenBio Therapeutics)</a></td>
+  <td>SingenBio is building an extrahepatic drug delivery platform using breakthrough silica biomaterials—offering high tissue specificity, low immunogenicity, large drug-loading capacity, and strong tissue permeability. The proprietary system efficiently delivers peptides, oligonucleotides, nanobodies, radioisotopes, and small molecules to hard-to-reach tissues, enabling new treatments in precision immune tolerance, RNAi, and radiotherapy. Founded by researchers from Princeton, Cornell, and Tsinghua, the team targets major unmet needs in autoimmune disease, chronic kidney disease, and cancer.</td>
+</tr>
           <tr>
             <td class="startup-name" data-label="Startup"><a href="https://larosee.com.hk/" target="_blank" rel="noopener">WomenX Biotech Limited</a></td>
             <td data-label="Elevator Pitch">PadX sanitary pad detects HPV with 99.2% accuracy; 3.8% Hong Kong private screening share in 7 months. Expanding to SEA (2027) and beyond.</td>
@@ -215,10 +232,19 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
           <tr><td class="startup-name" data-label="Startup"><a href="https://carnotfleet.com/" target="_blank" rel="noopener">Carnotfleet</a></td><td data-label="Elevator Pitch">Cold-chain accessibility + error-prevention to curb perishables loss—deployable, cost-efficient products for post-harvest logistics.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://enadyne.com/" target="_blank" rel="noopener">enaDyne</a></td><td data-label="Elevator Pitch">Non-thermal plasma catalysis to convert CO₂/waste gases into feedstocks, produce ammonia, and remove PFAS/PFCs—modular, energy-efficient drop-in reactors.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://www.matnex.ai/" target="_blank" rel="noopener">MatNex</a></td><td data-label="Elevator Pitch">AI-driven materials discovery with synthesisability focus; cuts timelines from years to months for refrigerants, magnets, green H₂ components, and more.</td></tr>
-                   <tr><td class="startup-name" data-label="Startup"><a href="https://pertinenteco.com/" target="_blank" rel="noopener">Pertinent eco-solutions</a></td><td data-label="Elevator Pitch">Nature-derived pest-control as effective as chemicals but safer than conventional options—and more effective than current biocontrols.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://planetixx.com/" target="_blank" rel="noopener">Planetixx</a></td><td data-label="Elevator Pitch">Dynamic water intelligence from multi-sensor satellite imagery and proprietary AI—risk scores, habitat maps, pollution alerts, climate resilience indicators.</td></tr>
+
+				   <tr>
+  <td><a href="https://www.okosix.com/" target="_blank" rel="noopener">OKOsix</a></td>
+  <td>OKOsix makes certified compostable, low-carbon materials to replace fossil plastics in healthcare. Using SLINGSHOT as a launchpad, the team aims to build SEA partnerships to make healthcare safer, cleaner, and truly sustainable.</td>
+</tr>
+				   <tr><td class="startup-name" data-label="Startup"><a href="https://pertinenteco.com/" target="_blank" rel="noopener">Pertinent eco-solutions</a></td><td data-label="Elevator Pitch">Nature-derived pest-control as effective as chemicals but safer than conventional options—and more effective than current biocontrols.</td></tr>
+          <tr><td class="startup-name" data-label="Startup"><a href="https://planetixx.com/" target="_blank" rel="noopener">Plastic-i</a></td><td data-label="Elevator Pitch">Dynamic water intelligence from multi-sensor satellite imagery and proprietary AI—risk scores, habitat maps, pollution alerts, climate resilience indicators.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://www.remediumenergy.com/" target="_blank" rel="noopener">Remedium Energy</a></td><td data-label="Elevator Pitch">Limeloop synthetic limestone + novel process cuts carbon capture costs by &gt;80% to ~$13/tCO₂, while acting as a heat battery to offset energy costs.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://www.tersa.earth/" target="_blank" rel="noopener">Tersa Earth</a></td><td data-label="Elevator Pitch">TersaClean engineered microbes neutralise acidity, remove contaminants, and recover critical metals from mining waste—turning liabilities into assets.</td></tr>
+         <tr>
+  <td><a href="https://spotlessmaterials.com/" target="_blank" rel="noopener">spotLESS Materials</a></td>
+  <td>spotLESS Materials develops PFAS-free, nature-inspired non-stick coatings. Its proprietary Liquid Entrenched Smooth Surface (LESS) creates ultra-low-friction surfaces that repel liquids, solids, and biofouling—commercialized via consumer products and scaled industrial/medical partnerships to set a new standard for sustainable non-stick materials.</td>
+</tr>
+		  <tr><td class="startup-name" data-label="Startup"><a href="https://www.tersa.earth/" target="_blank" rel="noopener">Tersa Earth</a></td><td data-label="Elevator Pitch">TersaClean engineered microbes neutralise acidity, remove contaminants, and recover critical metals from mining waste—turning liabilities into assets.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://veridi.tech/" target="_blank" rel="noopener">Veridi Technologies</a></td><td data-label="Elevator Pitch">AI-powered automated microscopy for soil biodiversity and plant disease diagnostics—backed by EIC and partnerships with major agrochem players.</td></tr>
         </tbody>
       </table>
@@ -234,9 +260,13 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
         <tbody>
           <tr><td class="startup-name" data-label="Startup"><a href="https://globalcit.co.kr/" target="_blank" rel="noopener">CIT Co., Ltd.</a></td><td data-label="Elevator Pitch">Atomic Sputtering Epitaxy for ultra-flat copper and beyond—boosting speed/reliability for AI-era interconnects and advanced materials.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://www.cyclopic.co.uk/" target="_blank" rel="noopener">Cyclopic Core Technology</a></td><td data-label="Elevator Pitch">Patented electric drive integrating drive/steer/brake/suspension with a centerless wheel—AMRs for logistics and last-mile with 360° maneuverability.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="http://groundup.ai/" target="_blank" rel="noopener">GROUNDUP.AI Pte. Ltd.</a></td><td data-label="Elevator Pitch">Cognitive Maintenance using proprietary sensors + AI agents to detect hidden faults, predict failures, and prescribe actions—cutting downtime across industries.</td></tr>
+    <tr>
+  <td><a href="https://www.eztiamaterials.com/" target="_blank" rel="noopener">Eztia</a></td>
+  <td>Eztia engineers advanced cooling materials to maximise human performance in extreme heat. Its HydraVolt™ tunable polymer platform integrates into existing clothing/gear and has been shown to reduce skin temperature by ~10 °C for up to six hours of strenuous activity. HydraVolt recharges with only water—no batteries, refrigeration, or electricity—and is deployed by U.S. military personnel and international construction conglomerates.</td>
+</tr>
+		  <tr><td class="startup-name" data-label="Startup"><a href="http://groundup.ai/" target="_blank" rel="noopener">GROUNDUP.AI Pte. Ltd.</a></td><td data-label="Elevator Pitch">Cognitive Maintenance using proprietary sensors + AI agents to detect hidden faults, predict failures, and prescribe actions—cutting downtime across industries.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://hyphenscs.com/" target="_blank" rel="noopener">Hyphen SCS</a></td><td data-label="Elevator Pitch">India’s largest integrated warehousing/fulfillment platform: 65k+ verified warehouses, marketplace of 8.2k products, and proprietary SaaS Warehouse Book.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://www.mfpolymers.com/" target="_blank" rel="noopener">MicroForge Polymers Limited</a></td><td data-label="Elevator Pitch">“SmartForge” bridges proto-to-production for precision plastics: single-micron, production-ready parts in 2–4 weeks—10× lower cost, 20× faster.</td></tr>
+          <tr><td class="startup-name" data-label="Startup"><a href="https://www.mfpolymers.com/" target="_blank" rel="noopener">SmartForge Polymers Limited</a></td><td data-label="Elevator Pitch">“SmartForge” bridges proto-to-production for precision plastics: single-micron, production-ready parts in 2–4 weeks—10× lower cost, 20× faster.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://phasetrum.com/" target="_blank" rel="noopener">Phasetrum Inc</a></td><td data-label="Elevator Pitch">CMOS/GaN fabless RF design house (S–Q band PAs, LNAs, beamformers, up/down converters) with turnkey IC/PCB/antenna for SatCom and AESA radar.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://photosynthetic.nl/" target="_blank" rel="noopener">Photosynthetic B.V.</a></td><td data-label="Elevator Pitch">Volumetric Micro-Lithography for micro-3D polymer structures—sub-micron resolution at high speed; enabling microneedles, membranes, and cell-capture chips.</td></tr>
           <tr><td class="startup-name" data-label="Startup"><a href="https://www.speedpox.com/" target="_blank" rel="noopener">SpeedPox GmbH</a></td><td data-label="Elevator Pitch">On-demand, seconds-fast curing for highly filled, opaque epoxies—&gt;99% energy and process time savings; validated with Tier-1s; Asia scaling via licensing.</td></tr>
