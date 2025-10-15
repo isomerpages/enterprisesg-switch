@@ -367,7 +367,7 @@ at<a href="https://connect.switchsg.org/" rel="noopener noreferrer nofollow" tar
 <p>ERUTY</p>
 </li>
 <li>
-<p>Hi Stranger</p>
+<p>HiStranger</p>
 </li>
 <li>
 <p>Sharebox</p>
