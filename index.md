@@ -79,11 +79,12 @@ sections:
       image: /images/homepage images/2024_Isomer_YT_Thumbnail_1.png
       alt: SWITCH 2023 Highlight Video
   - infopic:
-      title: Applications are closed
+      title: Meet your Top 60 startups
       subtitle: SLINGSHOT 2025
       id: infopic
-      description: Applications for SLINGSHOT 2025 have now closed. We will be
-        announcing the Top 60 finalists at the end of August 2025.
+      description: Learn more about the Top 60 startups selected from over 6,8000
+        global applications who will be pitching at the finals from 29–31
+        October!
       button: Learn more
       url: /slingshot/2025-edition/
       image: /images/2025/Thumbnail_SLINGSHOT_Grand_Final_Pitch.jpg
