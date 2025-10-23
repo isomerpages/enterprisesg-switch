@@ -156,28 +156,7 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
 </table>
 
     
-    a-label="Elevator Pitch">Atomic Sputtering Epitaxy for ultra-flat copper and beyond—boosting speed/reliability for AI-era interconnects and advanced materials.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://www.cyclopic.co.uk/" target="_blank" rel="noopener">Cyclopic Core Technology</a></td><td data-label="Elevator Pitch">Patented electric drive integrating drive/steer/brake/suspension with a centerless wheel—AMRs for logistics and last-mile with 360° maneuverability.</td></tr>
-    <tr>
-  <td><a href="https://www.eztiamaterials.com/" target="_blank" rel="noopener">Eztia</a></td>
-  <td>Eztia engineers advanced cooling materials to maximise human performance in extreme heat. Its HydraVolt™ tunable polymer platform integrates into existing clothing/gear and has been shown to reduce skin temperature by ~10 °C for up to six hours of strenuous activity. HydraVolt recharges with only water—no batteries, refrigeration, or electricity—and is deployed by U.S. military personnel and international construction conglomerates.</td>
-</tr>
-		  <tr><td class="startup-name" data-label="Startup"><a href="http://groundup.ai/" target="_blank" rel="noopener">GROUNDUP.AI Pte. Ltd.</a></td><td data-label="Elevator Pitch">Cognitive Maintenance using proprietary sensors + AI agents to detect hidden faults, predict failures, and prescribe actions—cutting downtime across industries.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://hyphenscs.com/" target="_blank" rel="noopener">Hyphen SCS</a></td><td data-label="Elevator Pitch">India’s largest integrated warehousing/fulfillment platform: 65k+ verified warehouses, marketplace of 8.2k products, and proprietary SaaS Warehouse Book.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://www.mfpolymers.com/" target="_blank" rel="noopener">SmartForge Polymers Limited</a></td><td data-label="Elevator Pitch">“SmartForge” bridges proto-to-production for precision plastics: single-micron, production-ready parts in 2–4 weeks—10× lower cost, 20× faster.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://phasetrum.com/" target="_blank" rel="noopener">Phasetrum Inc</a></td><td data-label="Elevator Pitch">CMOS/GaN fabless RF design house (S–Q band PAs, LNAs, beamformers, up/down converters) with turnkey IC/PCB/antenna for SatCom and AESA radar.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://photosynthetic.nl/" target="_blank" rel="noopener">Photosynthetic B.V.</a></td><td data-label="Elevator Pitch">Volumetric Micro-Lithography for micro-3D polymer structures—sub-micron resolution at high speed; enabling microneedles, membranes, and cell-capture chips.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://www.speedpox.com/" target="_blank" rel="noopener">SpeedPox GmbH</a></td><td data-label="Elevator Pitch">On-demand, seconds-fast curing for highly filled, opaque epoxies—&gt;99% energy and process time savings; validated with Tier-1s; Asia scaling via licensing.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://steelboso.com/en" target="_blank" rel="noopener">steelboso</a></td><td data-label="Elevator Pitch">AI-driven procurement for the steel industry—matching buyers and suppliers, reducing sourcing time/costs, and enabling safer, simpler transactions.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://stroma.io/" target="_blank" rel="noopener">Stroma Modular Edge AI Systems</a></td><td data-label="Elevator Pitch">Rugged edge-AI devices + node-based workflow engine for industrial safety, quality, and efficiency—on-site processing without privacy trade-offs.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://studiog.kr/eng/" target="_blank" rel="noopener">Studio Galilei Co., Ltd.</a></td><td data-label="Elevator Pitch">Physical-AI mobility: MaaS Information Platform integrating rail/bus/tourism; on-demand Smart Call Buttons; RIKAride tourism mobility across Korea &amp; SEA.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://tactun.com/" target="_blank" rel="noopener">TACTUN</a></td><td data-label="Elevator Pitch">AI-ready controllers + no-code app builder to launch intelligent machinery 5× faster with zero upfront engineering; introducing “vibe coding” for natural-language configs.</td></tr>
-        </tbody>
-      </table>
-    </div>
-</div>
-
-<h3 id="domain-mtc">Manufacturing, Trade and Connectivity</h3>
+    <h3 id="domain-mtc">Manufacturing, Trade and Connectivity</h3>
 <table>
   <thead>
     <tr>
@@ -202,10 +181,3 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
     <tr><td><a href="https://tactun.com/" target="_blank">TACTUN</a></td><td>Patented AI-ready controllers + no-code app builder let OEMs launch intelligent machinery 5× faster with zero upfront engineering.</td></tr>
   </tbody>
 </table>
-
-
-
-
-
-
-
