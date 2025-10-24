@@ -68,213 +68,118 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
       }
     </style>
 
-    
-
-    
-    <div class="domain-block" id="domain-tdt">
-      <h3>Transformative Digital Technologies</h3>
-      <table class="slingshot-table">
-        <thead>
-          <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://www.aqsolotl.com/" target="_blank" rel="noopener">AQSolotl</a></td>
-            <td data-label="Elevator Pitch">AQSolotl is the ARM of quantum computing. With a scalable architecture bridging classical and quantum, it enables seamless hybrid computing from cloud to research—accelerating quantum adoption.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://bankvault.com/" target="_blank" rel="noopener">BankVault — MasterKey</a></td>
-            <td data-label="Elevator Pitch">Invisible passwordless MFA for SaaS: drop-in, no software/setup for users, and one frictionless step (not two). Backs rapid adoption across platforms; supported by Whitfield Diffie and 14 patents.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://www.brelyon.com/" target="_blank" rel="noopener">Brelyon — Ultra Reality</a></td>
-            <td data-label="Elevator Pitch">Headset-free immersive displays for training, ops centers, entertainment and automotive; 30+ granted patents and partners incl. Lockheed Martin, LG Display, and Corning.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://www.cobi.tech/" target="_blank" rel="noopener">COBI</a></td>
-            <td data-label="Elevator Pitch">New architecture combining classical and quantum to accelerate optimization workloads—from data centers to low-power edge devices—making previously intractable problems practical.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://dagshub.com/" target="_blank" rel="noopener">DagsHub</a></td>
-            <td data-label="Elevator Pitch">From POC to production: unified platform for datasets, experiments, and model registry; supports on-prem and air-gapped environments for sensitive, large-scale AI.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://goldilock.com/" target="_blank" rel="noopener">Goldilock Secure Limited</a></td>
-            <td data-label="Elevator Pitch">On-demand physical isolation for data, devices, and networks. Out-of-band triggers connect/disconnect systems to minimize cyber exposure and transform attack surfaces.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://www.hudson-ai.com/" target="_blank" rel="noopener">Hudson AI</a></td>
-            <td data-label="Elevator Pitch">Audio intelligence for global media: cinematic-grade AI dubbing (“Timbr”) and real-time multilingual voice chat (“Pulse”) to make content borderless.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://www.innowave.com.sg/" target="_blank" rel="noopener">Innowave Tech Pte Ltd</a></td>
-            <td data-label="Elevator Pitch">Industrial AI for zero-defect manufacturing and factory autonomy (Wave AutoPilot, iWave Insight, iWave ZeroDefects). Deployed with 30+ tech leaders across semicon/aerospace.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://visualdub.ai/" target="_blank" rel="noopener">NeuralGarage</a></td>
-            <td data-label="Elevator Pitch">“VisualDub” eliminates visual dissonance in dubbing by matching lip/jaw movements to dubbed audio—enabling seamless, high-impact storytelling for non-native content.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://peris.ai/" target="_blank" rel="noopener">Peris.ai Cybersecurity</a></td>
-            <td data-label="Elevator Pitch">AI-powered SOC with modular agents that learn from IOCs to cut detection/response times—reducing tool sprawl and analyst dependency across industries.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://tyrion.ai/" target="_blank" rel="noopener">Tyrion.ai</a></td>
-            <td data-label="Elevator Pitch">Enterprise AI agent platform—unified hub combining generative AI, agents, knowledge graphs, and reinforcement learning to drive intelligent automation and decisions.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://www.wavephotonics.com/" target="_blank" rel="noopener">Wave Photonics</a></td>
-            <td data-label="Elevator Pitch">Integrated photonics design with fabrication-tolerant, high-performance devices across Si/SiN platforms—accelerating comms, quantum, and sensing products via design automation.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://www.zapdoslabs.com/" target="_blank" rel="noopener">Zapdos Labs</a></td>
-            <td data-label="Elevator Pitch">The memory layer for the world’s video—transcription, segmentation, and frame-level semantic search to turn hours of raw footage into structured, searchable intelligence.</td>
-          </tr>
-          <tr>
-  <td><a href="https://www.tpson.cn/" target="_blank" rel="noopener">Zhejiang Polar Code Technology</a></td>
-  <td>Founded in 2022, Zhejiang Polar Code builds AI-driven intelligent terminals for smart grids—integrating sensing, decision-making, and control to tackle high renewable-penetration challenges. Its systems deliver high-precision equipment identification, multi-objective optimized decisions, and voltage–frequency stability control; proven in multiple demos to improve grid stability and raise renewable self-consumption. The company focuses on modular, cost-effective digital energy solutions for utilities and high-energy-use industrial campuses.</td>
-</tr>
-
-        </tbody>
-      </table>
-    </div>
-
-    
-    <div class="domain-block" id="domain-health">
-      <h3>Health and Biomedical</h3>
-      <table class="slingshot-table">
-        <thead>
-          <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://airwayshield.com/" target="_blank" rel="noopener">Airway Shield</a></td>
-            <td data-label="Elevator Pitch">Airway Shield™ simplifies and protects endotracheal intubation (100M+ procedures/year), guiding the tube, reducing trauma, and lowering aerosol transmission risk.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://axcynsis.com/" target="_blank" rel="noopener">AxcynsisTx</a></td>
-            <td data-label="Elevator Pitch">Next-gen antibody-drug conjugates via AxcynDOT payloads and advanced bioconjugation—highly homogeneous ADCs with broader therapeutic windows and superior efficacy.</td>
-          </tr>
-		  <tr>
-  <td><a href="https://www.betalife.sg/" target="_blank" rel="noopener">BetaLife</a></td>
-  <td>BetaLife is a pre-clinical biotech developing a functional cure for severe diabetes using immune-evasive induced pluripotent stem cells to generate billions of insulin-producing islet cells. Spun out of A*STAR, its platform combines an ethnically diverse cell bank, precision gene editing for immune tolerance, and scalable manufacturing to enable a universal, off-the-shelf islet replacement therapy—aiming to restore natural insulin production and eliminate lifelong injections and immunosuppression.</td>
-</tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://birminghambiotech.co.uk/" target="_blank" rel="noopener">Birmingham Biomat LTD</a></td>
-            <td data-label="Elevator Pitch">Drug-free mucosal barrier tech with products like NoriZite® nasal/eye sprays and anti-HPV gel; platform extends to wound care and women’s health, distributed across 10+ countries.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://cresen.co/" target="_blank" rel="noopener">CRESEN Inc.</a></td>
-            <td data-label="Elevator Pitch">DUOBLADE: FDA-cleared monopolar electrosurgical device that reduces surgical smoke/tissue necrosis; precise, low-temperature dissection with reliable hemostasis.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://en.dolbomdream.com/" target="_blank" rel="noopener">DolbomDream Co., Ltd.</a></td>
-            <td data-label="Elevator Pitch">Non-contact AI biometric monitoring for seniors; Carearly detects early signs and alerts caregivers—$1.1M revenue and growing global traction.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://gisensbiotech.com/" target="_blank" rel="noopener">Gisens Biotech</a></td>
-            <td data-label="Elevator Pitch">Ultra-accurate, rapid medical diagnostics beyond the lab—fast, accessible testing that brings immediate insight to patients and clinicians.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://www.ibody.co.jp/en/" target="_blank" rel="noopener">iBody Inc.</a></td>
-            <td data-label="Elevator Pitch">Proprietary platform for rapid, comprehensive monoclonal antibody discovery against challenging targets; patents in JP/US/EU and pharma partnerships.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://ilof.tech/" target="_blank" rel="noopener">iLoF – Intelligent Lab on Fiber</a></td>
-            <td data-label="Elevator Pitch">AI + photonics to analyze biofluids and identify disease-specific molecular patterns—fast, affordable, non-destructive screening and stratification for complex diseases.</td>
-          </tr>
-		  <tr>
-  <td><a href="https://lifescapes.jp/" target="_blank" rel="noopener">LIFESCAPES Inc.</a></td>
-  <td>Stroke cases have risen 40% in the past decade, and current options are ineffective for severe hand paralysis. LIFESCAPES develops a Brain–Computer Interface therapy offering new hope for patients previously considered untreatable.</td>
-</tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://loopdx.com/" target="_blank" rel="noopener">Loop Diagnostics</a></td>
-            <td data-label="Elevator Pitch">SeptiLoop®: CE IVDR Class C and UKCA certified rapid immune-based sepsis test—actionable results in &lt;2 hours to improve triage and antibiotic decisions.</td>
-          </tr>
-		  <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://www.nalagenetics.com/en/" target="_blank" rel="noopener">Nalagenetics</a></td>
-            <td data-label="Elevator Pitch">Offers pharmacogenomic testing and clinical decision support (e.g., RXmax panel covering up to 240 medications) to reduce adverse drug reactions and personalize treatment.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://physiologas.co.jp/en-index.html" target="_blank" rel="noopener">Physiologas Technologies</a></td>
-            <td data-label="Elevator Pitch">Waterless hemodialysis using proprietary dialysate regeneration—compact, plumbing-free system for treatment anywhere; reduces burden and strengthens resilience.</td>
-          </tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://www.revivobio.com/" target="_blank" rel="noopener">REVIVO BioSystems Pte. Ltd.</a></td>
-            <td data-label="Elevator Pitch">4D tissue-on-chip (ReleGO) + bioanalytics for rapid, human-relevant efficacy/safety testing—reducing animal use and accelerating translatable preclinical insights.</td>
-          </tr>
-		  <tr>
-  <td><a href="http://en.jrbiopharma.com/" target="_blank" rel="noopener">Jingrui Biotech (SingenBio Therapeutics)</a></td>
-  <td>SingenBio is building an extrahepatic drug delivery platform using breakthrough silica biomaterials—offering high tissue specificity, low immunogenicity, large drug-loading capacity, and strong tissue permeability. The proprietary system efficiently delivers peptides, oligonucleotides, nanobodies, radioisotopes, and small molecules to hard-to-reach tissues, enabling new treatments in precision immune tolerance, RNAi, and radiotherapy. Founded by researchers from Princeton, Cornell, and Tsinghua, the team targets major unmet needs in autoimmune disease, chronic kidney disease, and cancer.</td>
-</tr>
-          <tr>
-            <td class="startup-name" data-label="Startup"><a href="https://larosee.com.hk/" target="_blank" rel="noopener">WomenX Biotech Limited</a></td>
-            <td data-label="Elevator Pitch">PadX sanitary pad detects HPV with 99.2% accuracy; 3.8% Hong Kong private screening share in 7 months. Expanding to SEA (2027) and beyond.</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-
-    
-    <div class="domain-block" id="domain-eegt">
-      <h3>Environment, Energy and Green Technologies</h3>
-      <table class="slingshot-table">
-        <thead>
-          <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
-        </thead>
-        <tbody>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://allye.com/" target="_blank" rel="noopener">Allye Energy</a></td><td data-label="Elevator Pitch">Intelligent battery storage with grid-forming capabilities—scaling to cloud “Energy Banking” for shared storage 100× more affordable and resilient.</td></tr>
-<tr><td class="startup-name" data-label="Startup"><a href="https://www.arunarevolution.com/" target="_blank" rel="noopener">Aruna Revolution</a></td><td data-label="Elevator Pitch">Transforms agricultural residuals into compostable absorbent fibres for hygiene markets—expanding to incontinence, medical textiles, and hydroponics.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://www.avalve.co.kr/" target="_blank" rel="noopener">Avalve</a></td><td data-label="Elevator Pitch">AI-powered smart farm solutions to predict harvests, maximize yields, and enable sustainable, data-driven farming.</td></tr>
-           <tr><td class="startup-name" data-label="Startup"><a href="https://ayrtonenergy.com/" target="_blank" rel="noopener">Ayrton Energy</a></td>
-        <td>e-LOHC™ liquid hydrogen carrier compatible with existing fuel infrastructure—safe, storage-stable, and cost-effective to accelerate hydrogen adoption across industry/mobility/power.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://buyoplastic.com/" target="_blank" rel="noopener">BUYO – Biowaste to Bioplastics</a></td><td data-label="Elevator Pitch">100% nature-based, biodegradable bioplastics converting bio-waste into materials for flexible/rigid packaging and medical applications.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://carnotfleet.com/" target="_blank" rel="noopener">Carnotfleet</a></td><td data-label="Elevator Pitch">Cold-chain accessibility + error-prevention to curb perishables loss—deployable, cost-efficient products for post-harvest logistics.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://enadyne.com/" target="_blank" rel="noopener">enaDyne</a></td><td data-label="Elevator Pitch">Non-thermal plasma catalysis to convert CO₂/waste gases into feedstocks, produce ammonia, and remove PFAS/PFCs—modular, energy-efficient drop-in reactors.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://www.matnex.ai/" target="_blank" rel="noopener">MatNex</a></td><td data-label="Elevator Pitch">AI-driven materials discovery with synthesisability focus; cuts timelines from years to months for refrigerants, magnets, green H₂ components, and more.</td></tr>
-
-				   <tr>
-  <td><a href="https://www.okosix.com/" target="_blank" rel="noopener">OKOsix</a></td>
-  <td>OKOsix makes certified compostable, low-carbon materials to replace fossil plastics in healthcare. Using SLINGSHOT as a launchpad, the team aims to build SEA partnerships to make healthcare safer, cleaner, and truly sustainable.</td>
-</tr>
-				   <tr><td class="startup-name" data-label="Startup"><a href="https://pertinenteco.com/" target="_blank" rel="noopener">Pertinent eco-solutions</a></td><td data-label="Elevator Pitch">Nature-derived pest-control as effective as chemicals but safer than conventional options—and more effective than current biocontrols.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://planetixx.com/" target="_blank" rel="noopener">Plastic-i</a></td><td data-label="Elevator Pitch">Dynamic water intelligence from multi-sensor satellite imagery and proprietary AI—risk scores, habitat maps, pollution alerts, climate resilience indicators.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://www.remediumenergy.com/" target="_blank" rel="noopener">Remedium Energy</a></td><td data-label="Elevator Pitch">Limeloop synthetic limestone + novel process cuts carbon capture costs by &gt;80% to ~$13/tCO₂, while acting as a heat battery to offset energy costs.</td></tr>
-         <tr>
-  <td><a href="https://spotlessmaterials.com/" target="_blank" rel="noopener">spotLESS Materials</a></td>
-  <td>spotLESS Materials develops PFAS-free, nature-inspired non-stick coatings. Its proprietary Liquid Entrenched Smooth Surface (LESS) creates ultra-low-friction surfaces that repel liquids, solids, and biofouling—commercialized via consumer products and scaled industrial/medical partnerships to set a new standard for sustainable non-stick materials.</td>
-</tr>
-		  <tr><td class="startup-name" data-label="Startup"><a href="https://www.tersa.earth/" target="_blank" rel="noopener">Tersa Earth</a></td><td data-label="Elevator Pitch">TersaClean engineered microbes neutralise acidity, remove contaminants, and recover critical metals from mining waste—turning liabilities into assets.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://veridi.tech/" target="_blank" rel="noopener">Veridi Technologies</a></td><td data-label="Elevator Pitch">AI-powered automated microscopy for soil biodiversity and plant disease diagnostics—backed by EIC and partnerships with major agrochem players.</td></tr>
-        </tbody>
-      </table>
-    </div>
-
-    
-    <div class="domain-block" id="domain-mtc">
-      <h3>Manufacturing, Trade and Connectivity</h3>
-      <table class="slingshot-table">
-        <thead>
-          <tr><th style="width:28%">Startup</th><th>Elevator Pitch</th></tr>
-        </thead>
-        <tbody>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://globalcit.co.kr/" target="_blank" rel="noopener">CIT Co., Ltd.</a></td><td data-label="Elevator Pitch">Atomic Sputtering Epitaxy for ultra-flat copper and beyond—boosting speed/reliability for AI-era interconnects and advanced materials.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://www.cyclopic.co.uk/" target="_blank" rel="noopener">Cyclopic Core Technology</a></td><td data-label="Elevator Pitch">Patented electric drive integrating drive/steer/brake/suspension with a centerless wheel—AMRs for logistics and last-mile with 360° maneuverability.</td></tr>
+      <h3 id="domain-tdd">Transformative Digital Technologies</h3>
+<table>
+  <thead>
     <tr>
-  <td><a href="https://www.eztiamaterials.com/" target="_blank" rel="noopener">Eztia</a></td>
-  <td>Eztia engineers advanced cooling materials to maximise human performance in extreme heat. Its HydraVolt™ tunable polymer platform integrates into existing clothing/gear and has been shown to reduce skin temperature by ~10 °C for up to six hours of strenuous activity. HydraVolt recharges with only water—no batteries, refrigeration, or electricity—and is deployed by U.S. military personnel and international construction conglomerates.</td>
-</tr>
-		  <tr><td class="startup-name" data-label="Startup"><a href="http://groundup.ai/" target="_blank" rel="noopener">GROUNDUP.AI Pte. Ltd.</a></td><td data-label="Elevator Pitch">Cognitive Maintenance using proprietary sensors + AI agents to detect hidden faults, predict failures, and prescribe actions—cutting downtime across industries.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://hyphenscs.com/" target="_blank" rel="noopener">Hyphen SCS</a></td><td data-label="Elevator Pitch">India’s largest integrated warehousing/fulfillment platform: 65k+ verified warehouses, marketplace of 8.2k products, and proprietary SaaS Warehouse Book.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://www.mfpolymers.com/" target="_blank" rel="noopener">SmartForge Polymers Limited</a></td><td data-label="Elevator Pitch">“SmartForge” bridges proto-to-production for precision plastics: single-micron, production-ready parts in 2–4 weeks—10× lower cost, 20× faster.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://phasetrum.com/" target="_blank" rel="noopener">Phasetrum Inc</a></td><td data-label="Elevator Pitch">CMOS/GaN fabless RF design house (S–Q band PAs, LNAs, beamformers, up/down converters) with turnkey IC/PCB/antenna for SatCom and AESA radar.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://photosynthetic.nl/" target="_blank" rel="noopener">Photosynthetic B.V.</a></td><td data-label="Elevator Pitch">Volumetric Micro-Lithography for micro-3D polymer structures—sub-micron resolution at high speed; enabling microneedles, membranes, and cell-capture chips.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://www.speedpox.com/" target="_blank" rel="noopener">SpeedPox GmbH</a></td><td data-label="Elevator Pitch">On-demand, seconds-fast curing for highly filled, opaque epoxies—&gt;99% energy and process time savings; validated with Tier-1s; Asia scaling via licensing.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://steelboso.com/en" target="_blank" rel="noopener">steelboso</a></td><td data-label="Elevator Pitch">AI-driven procurement for the steel industry—matching buyers and suppliers, reducing sourcing time/costs, and enabling safer, simpler transactions.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://stroma.io/" target="_blank" rel="noopener">Stroma Modular Edge AI Systems</a></td><td data-label="Elevator Pitch">Rugged edge-AI devices + node-based workflow engine for industrial safety, quality, and efficiency—on-site processing without privacy trade-offs.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://studiog.kr/eng/" target="_blank" rel="noopener">Studio Galilei Co., Ltd.</a></td><td data-label="Elevator Pitch">Physical-AI mobility: MaaS Information Platform integrating rail/bus/tourism; on-demand Smart Call Buttons; RIKAride tourism mobility across Korea &amp; SEA.</td></tr>
-          <tr><td class="startup-name" data-label="Startup"><a href="https://tactun.com/" target="_blank" rel="noopener">TACTUN</a></td><td data-label="Elevator Pitch">AI-ready controllers + no-code app builder to launch intelligent machinery 5× faster with zero upfront engineering; introducing “vibe coding” for natural-language configs.</td></tr>
-        </tbody>
-      </table>
-    </div>
-</div>
+      <th>Startup</th>
+      <th>Summary of Startup</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><a href="https://aqsolotl.com/" target="_blank">AQSolotl</a></td><td>Develops scalable quantum-computing systems using superposition to accelerate complex calculations for industries like drug discovery and financial modeling.</td></tr>
+    <tr><td><a href="https://www.bankvault.com/" target="_blank">BankVault MasterKey</a></td><td>Invisible, passwordless MFA that deploys in minutes and doubles onboarding rates; backed by Turing Laureate Whitfield Diffie and 14 patents.</td></tr>
+    <tr><td><a href="https://www.brelyon.com/" target="_blank">Brelyon Ultra Reality</a></td><td>Headset-free immersive display platform with 50+ patents, used for training and operations; partners include Lockheed Martin, LG Display, and Corning.</td></tr>
+    <tr><td><a href="https://www.cobi.tech/" target="_blank">COBI</a></td><td>Probabilistic AI platform integrating uncertainty quantification and continual learning with a novel Sampling Processing Unit for scalable agentic AI.</td></tr>
+    <tr><td><a href="https://dagshub.com/" target="_blank">DagsHub</a></td><td>Unified open-source MLOps platform for data, experiment, and model management—used globally to move faster from research to deployment.</td></tr>
+    <tr><td><a href="https://goldilock.com/" target="_blank">Goldilock Secure</a></td><td>Patented physical isolation system connects/disconnects critical digital assets on demand, reducing cyber exposure for finance and defense.</td></tr>
+    <tr><td><a href="https://hudson.ai/" target="_blank">Hudson AI</a></td><td>Emotion-preserving multilingual dubbing via proprietary audio intelligence, enhancing localisation for media, gaming, and sports broadcasting.</td></tr>
+    <tr><td><a href="https://www.innowave.com.sg/" target="_blank">Innowave Tech</a></td><td>Singapore-based industrial AI enabling Zero-Defect Manufacturing through predictive analytics and automation across global production lines.</td></tr>
+    <tr><td><a href="https://neuralgarage.com/" target="_blank">NeuralGarage</a></td><td>VisualDub technology aligns lip and jaw motion to dubbed audio, removing visual dissonance and redefining content localisation.</td></tr>
+    <tr><td><a href="https://peris.ai/" target="_blank">Peris.ai Cybersecurity</a></td><td>AI-driven SOC using autonomous agents to detect and respond to threats in real time, integrating ethical-hacker intelligence globally.</td></tr>
+    <tr><td><a href="https://www.tyrion.ai/" target="_blank">Tyrion.ai</a></td><td>Enterprise AI OS with ExpertTwin® multi-agent systems to digitise expertise and orchestrate intelligent workflows across industries.</td></tr>
+    <tr><td><a href="https://wavephotonics.com/" target="_blank">Wave Photonics</a></td><td>Computationally designed integrated photonics for quantum, communications, and sensing; partnering to industrialise next-gen chips.</td></tr>
+    <tr><td><a href="https://www.zapdoslabs.com/" target="_blank">Zapdos Labs</a></td><td>Turns live or recorded footage into searchable, explainable insights—“Ctrl+F for video”—for surveillance and critical infrastructure.</td></tr>
+    <tr><td><a href="http://www.polarcode.cn/" target="_blank">Zhejiang Polar Code Technology</a></td><td>AI-driven smart-grid terminals integrating sensing and control to optimise power distribution and renewable integration in China’s grid.</td></tr>
+  </tbody>
+</table>
+        
+      
+    
+
+    
+    <h3 id="domain-health">Health and Biomedical</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Startup</th>
+      <th>Summary of Startup</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><a href="https://airwayshield.com/" target="_blank">Airway Shield</a></td><td>Airway Shield™ guides intubation while reducing trauma and infection risks—making one of the world’s most common hospital procedures safer and faster.</td></tr>
+    <tr><td><a href="https://www.axcynsis.com/" target="_blank">Axcynsis Therapeutics</a></td><td>Singapore-headquartered biopharma developing homogeneous ADCs with proprietary AxcynDOT platform; clinical operations in the US.</td></tr>
+    <tr><td><a href="https://betalifesciences.com/" target="_blank">BetaLife</a></td><td>A*STAR spin-out developing immune-evasive iPSC-derived islet cells for a functional diabetes cure; preparing for clinical trials.</td></tr>
+    <tr><td><a href="https://www.birminghambiomat.com/" target="_blank">Birmingham Biomat</a></td><td>UK-based mucosal-barrier platform with drug-free NoriZite® sprays and anti-HPV gel; collaborates with University of Birmingham.</td></tr>
+    <tr><td><a href="https://cresen.co/" target="_blank">CRESEN</a></td><td>FDA-cleared DUOBLADE electrosurgery tool reduces surgical smoke and necrosis; clinically validated in US, entering SG market 2026.</td></tr>
+    <tr><td><a href="https://carearly.co.kr/" target="_blank">DolbomDream (Carearly)</a></td><td>Non-contact p-BCG sensors and AI monitor seniors’ vitals to flag dementia risks and send early alerts for timely intervention.</td></tr>
+    <tr><td><a href="https://gisensbiotech.com/" target="_blank">Gisens Biotech</a></td><td>Ultra-accurate biosensors enabling home-based, lab-quality diagnostics and real-time health monitoring for patients and clinicians.</td></tr>
+    <tr><td><a href="https://hicuramedical.com/" target="_blank">HiCuraMedical</a></td><td>uSINE AI assistant identifies spinal landmarks to improve first-attempt epidural and spinal accuracy, reducing patient risk.</td></tr>
+    <tr><td><a href="https://ibody.co.jp/" target="_blank">iBody</a></td><td>Patented antibody-discovery platform accelerating monoclonal generation for pharma partners across JP/US/EU.</td></tr>
+    <tr><td><a href="https://ilof.tech/" target="_blank">iLoF</a></td><td>AI-photonics platform building a biomarker library for personalised drug discovery; backed by Microsoft Ventures, Mayfield, Oxford.</td></tr>
+    <tr><td><a href="http://en.jrbiopharma.com/" target="_blank">SingenBio Therapeutics</a></td><td>Silica-biomaterial platform for extrahepatic drug delivery—high specificity, low immunogenicity, and high payload capacity.</td></tr>
+    <tr><td><a href="https://lifescapes.jp/" target="_blank">LIFESCAPES</a></td><td>BCI-assisted stroke rehab proven in 900+ Japanese cases; restores motor function for severe paralysis in home and hospital settings.</td></tr>
+    <tr><td><a href="https://loopdx.com/" target="_blank">Loop Diagnostics</a></td><td>SeptiLoop® immune test detects early sepsis in under 2 hours (CE/UKCA-certified) for faster ED triage and antibiotic guidance.</td></tr>
+    <tr><td><a href="https://nalagenetics.com/" target="_blank">Nalagenetics</a></td><td>Predictive genomics analysing 100% of the genome to improve risk prediction 2–48× for under-represented populations.</td></tr>
+    <tr><td><a href="https://physiologas.com/" target="_blank">Physiologas Technologies</a></td><td>Kitasato spin-off developing waterless dialysis with dialysate regeneration for remote/home use; targeting 2031 launch.</td></tr>
+    <tr><td><a href="https://revivobio.com/" target="_blank">REVIVO BioSystems</a></td><td>Singapore-based ReleGO 4D tissue-on-chip platform automates biomarker tracking for ethical, human-relevant preclinical testing.</td></tr>
+    <tr><td><a href="https://www.womenx.net/" target="_blank">WomenX Biotech</a></td><td>PadX pad screens HPV non-invasively with 99.2% accuracy; 3.8% HK market share and expansion into SEA, Australia, and ME.</td></tr>
+  </tbody>
+</table>
+
+    
+   <h3 id="domain-green">Environment, Energy and Green Technologies</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Startup</th>
+      <th>Summary of Startup</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><a href="https://allye.com/" target="_blank">Allye Energy</a></td><td>Smart, grid-forming battery systems delivering flexible power at half cost; expanding to shared cloud Energy Banking.</td></tr>
+    <tr><td><a href="https://www.arunarevolution.com/" target="_blank">Aruna Revolution</a></td><td>Turns ag-waste into compostable fibres for hygiene; &gt;US$1.4M funding, pilots with hospitals/schools, multiple awards.</td></tr>
+    <tr><td><a href="https://avalvecorp.com/" target="_blank">Avalve</a></td><td>AI-driven agtech integrating IoT and robotics for crop monitoring and optimisation; scaling globally with sustainable yields.</td></tr>
+    <tr><td><a href="https://ayrtonenergy.com/" target="_blank">Ayrton Energy</a></td><td>e-LOHC™ hydrogen carrier enabling safe, scalable transport via existing fuel infrastructure for industry and mobility.</td></tr>
+    <tr><td><a href="https://buyobioplastics.com/" target="_blank">BUYO</a></td><td>Bio-fermentation and materials engineering convert organics into biodegradable plastics for packaging and consumer goods.</td></tr>
+    <tr><td><a href="https://carnotfleet.com/" target="_blank">Carnot Fleet</a></td><td>Decentralised cold-chain systems improving food safety and reducing waste from farm to retail through automation.</td></tr>
+    <tr><td><a href="https://enadyne.com/" target="_blank">enaDyne</a></td><td>Non-thermal plasma reactors converting CO₂ into ammonia, methanol, and fuels; modular retrofits for industrial scaling.</td></tr>
+    <tr><td><a href="https://materials-nexus.com/" target="_blank">MatNex</a></td><td>AI/HPC-driven materials discovery platform creating synthesisable refrigerants, magnets, and hydrogen components.</td></tr>
+    <tr><td><a href="https://www.okosix.com/" target="_blank">OKOsix</a></td><td>Low-carbon compostable polymers replacing fossil plastics in healthcare and cosmetics; multiple global awards.</td></tr>
+    <tr><td><a href="https://plastic-i.com/" target="_blank">Plastic-i</a></td><td>Multi-sensor satellite + AI platform mapping water pollution for blue-economy intelligence; Earthshot-nominated.</td></tr>
+    <tr><td><a href="https://remedium.energy/" target="_blank">Remedium Energy</a></td><td>Advanced sorbent and thermal-battery system cuts CO₂-capture costs to as low as US$13/tonne; renewables-powered regeneration.</td></tr>
+    <tr><td><a href="https://www.spotlessmaterials.com/" target="_blank">spotLESS Materials</a></td><td>PFAS-free nonstick coatings (LESS) that repel all matter; venture-backed Penn State spin-out for sustainable surfaces.</td></tr>
+    <tr><td><a href="https://tersa.earth/" target="_blank">Tersa Earth</a></td><td>TersaClean microbes neutralise acid mine waste and recover 99% critical metals, turning tailings into clean water and new revenue.</td></tr>
+    <tr><td><a href="https://upcatalyst.com/" target="_blank">UP Catalyst</a></td><td>Molten-salt electrochemistry turns CO₂ into graphite, CNTs, and carbon black; verified, scaling in Europe and Asia.</td></tr>
+    <tr><td><a href="https://veridi.tech/" target="_blank">Veridi Technologies</a></td><td>AI microscopy detecting nematodes and mapping soil biodiversity; backed by Bayer and Syngenta for global deployment.</td></tr>
+  </tbody>
+</table>
+
+    
+    <h3 id="domain-mtc">Manufacturing, Trade and Connectivity</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Startup</th>
+      <th>Summary of Startup</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><a href="https://www.citco.asia/" target="_blank">CIT Co.</a></td><td>Atomic Sputtering Epitaxy for ultra-flat copper thin films improving AI-chip reliability; Asia HQ expanding into Singapore.</td></tr>
+    <tr><td><a href="https://cyclopic.co.uk/" target="_blank">Cyclopic Core Technology</a></td><td>Patented centreless-wheel drive integrating motion functions for 360° AMRs; IUK grants, Airbus/ATI nominee, Turing Institute collab.</td></tr>
+    <tr><td><a href="https://www.eztia.com/" target="_blank">Eztia</a></td><td>HydraVolt™ polymer cooling apparel reduces skin temperature by 10°C for 6 hours; used by U.S. military and industry partners.</td></tr>
+    <tr><td><a href="https://www.groundup.ai/" target="_blank">GROUNDUP.AI</a></td><td>Predictive maintenance using proprietary IoT sensors and AI to prevent failures across manufacturing, maritime, and defence.</td></tr>
+    <tr><td><a href="https://hyphenscs.com/" target="_blank">Hyphen SCS</a></td><td>India’s largest warehousing platform (65k+ sites, US$8.8M ARR) with SaaS tools standardising and optimising supply chains.</td></tr>
+    <tr><td><a href="https://phasetrum.com/" target="_blank">Phasetrum Inc</a></td><td>CMOS/GaN RF ICs and turnkey PA/LNA/beamformer systems for SatCom and AESA radar; 70% Tx power reduction, 10× yield boost.</td></tr>
+    <tr><td><a href="https://photosynthetic.com/" target="_blank">Photosynthetic</a></td><td>Volumetric Micro-Lithography prints complex 3D microstructures at sub-micron resolution; enabling biomedical and photonic parts.</td></tr>
+    <tr><td><a href="https://smartforge.io/" target="_blank">SmartForge Polymers</a></td><td>Vacuum-assisted micro-moulding creates precision plastics 10× cheaper and 20× faster, closing the prototyping-to-production gap.</td></tr>
+    <tr><td><a href="https://speedpox.com/" target="_blank">SpeedPox</a></td><td>One-component epoxy cures on demand in seconds, reducing cycle time 99% and energy use &gt;99%; validated by Tier-1 partners.</td></tr>
+    <tr><td><a href="https://spherecube.it/" target="_blank">SphereCube</a></td><td>LOOP® continuous-fibre deposition + LACE® software factory platform for composite parts; internal tests show +20% stiffness, ~10% weight reduction.</td></tr>
+    <tr><td><a href="https://steelboso.com/" target="_blank">Steelboso</a></td><td>AI marketplace matching steel buyers and suppliers to cut sourcing time/costs with guided, secure transactions.</td></tr>
+    <tr><td><a href="https://stroma.ai/" target="_blank">Stroma Modular Edge AI Systems</a></td><td>Rugged edge-AI devices and a node-based workflow engine for on-site vision/ML/LMMs, improving safety, quality and privacy.</td></tr>
+    <tr><td><a href="https://studiogalilei.com/" target="_blank">Studio Galilei</a></td><td>Physical-AI mobility: MaaS Information Platform, Smart Call Buttons for rural/senior access, and RIKAride tourism mobility across Korea &amp; SEA.</td></tr>
+    <tr><td><a href="https://tactun.com/" target="_blank">TACTUN</a></td><td>Patented AI-ready controllers + no-code app builder let OEMs launch intelligent machinery 5× faster with zero upfront engineering.</td></tr>
+  </tbody>
+</table>
+	
+		</div>
