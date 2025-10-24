@@ -93,9 +93,9 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
     <tr><td><a href="http://www.polarcode.cn/" target="_blank">Zhejiang Polar Code Technology</a></td><td>AI-driven smart-grid terminals integrating sensing and control to optimise power distribution and renewable integration in China’s grid.</td></tr>
   </tbody>
 </table>
-        </tbody>
-      </table>
-    </div>
+        
+      
+    
 
     
     <h3 id="domain-health">Health and Biomedical</h3>
@@ -138,7 +138,7 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
   </thead>
   <tbody>
     <tr><td><a href="https://allye.com/" target="_blank">Allye Energy</a></td><td>Smart, grid-forming battery systems delivering flexible power at half cost; expanding to shared cloud Energy Banking.</td></tr>
-    <tr><td><a href="https://www.arunarevolution.com/" target="_blank">Aruna Revolution</a></td><td>Turns ag-waste into compostable fibres for hygiene; >US$1.4M funding, pilots with hospitals/schools, multiple awards.</td></tr>
+    <tr><td><a href="https://www.arunarevolution.com/" target="_blank">Aruna Revolution</a></td><td>Turns ag-waste into compostable fibres for hygiene; &gt;US$1.4M funding, pilots with hospitals/schools, multiple awards.</td></tr>
     <tr><td><a href="https://avalvecorp.com/" target="_blank">Avalve</a></td><td>AI-driven agtech integrating IoT and robotics for crop monitoring and optimisation; scaling globally with sustainable yields.</td></tr>
     <tr><td><a href="https://ayrtonenergy.com/" target="_blank">Ayrton Energy</a></td><td>e-LOHC™ hydrogen carrier enabling safe, scalable transport via existing fuel infrastructure for industry and mobility.</td></tr>
     <tr><td><a href="https://buyobioplastics.com/" target="_blank">BUYO</a></td><td>Bio-fermentation and materials engineering convert organics into biodegradable plastics for packaging and consumer goods.</td></tr>
@@ -177,7 +177,9 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
     <tr><td><a href="https://spherecube.it/" target="_blank">SphereCube</a></td><td>LOOP® continuous-fibre deposition + LACE® software factory platform for composite parts; internal tests show +20% stiffness, ~10% weight reduction.</td></tr>
     <tr><td><a href="https://steelboso.com/" target="_blank">Steelboso</a></td><td>AI marketplace matching steel buyers and suppliers to cut sourcing time/costs with guided, secure transactions.</td></tr>
     <tr><td><a href="https://stroma.ai/" target="_blank">Stroma Modular Edge AI Systems</a></td><td>Rugged edge-AI devices and a node-based workflow engine for on-site vision/ML/LMMs, improving safety, quality and privacy.</td></tr>
-    <tr><td><a href="https://studiogalilei.com/" target="_blank">Studio Galilei</a></td><td>Physical-AI mobility: MaaS Information Platform, Smart Call Buttons for rural/senior access, and RIKAride tourism mobility across Korea & SEA.</td></tr>
+    <tr><td><a href="https://studiogalilei.com/" target="_blank">Studio Galilei</a></td><td>Physical-AI mobility: MaaS Information Platform, Smart Call Buttons for rural/senior access, and RIKAride tourism mobility across Korea &amp; SEA.</td></tr>
     <tr><td><a href="https://tactun.com/" target="_blank">TACTUN</a></td><td>Patented AI-ready controllers + no-code app builder let OEMs launch intelligent machinery 5× faster with zero upfront engineering.</td></tr>
   </tbody>
 </table>
+	
+		</div>
