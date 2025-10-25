@@ -177,7 +177,7 @@ Find out more about SLINGSHOT <a href="https://slingshot.agorize.com/en/challeng
     <tr><td><a href="https://spherecube.it/" target="_blank">SphereCube</a></td><td>LOOP® continuous-fibre deposition + LACE® software factory platform for composite parts; internal tests show +20% stiffness, ~10% weight reduction.</td></tr>
     <tr><td><a href="https://steelboso.com/" target="_blank">Steelboso</a></td><td>AI marketplace matching steel buyers and suppliers to cut sourcing time/costs with guided, secure transactions.</td></tr>
     <tr><td><a href="https://stroma.ai/" target="_blank">Stroma Modular Edge AI Systems</a></td><td>Rugged edge-AI devices and a node-based workflow engine for on-site vision/ML/LMMs, improving safety, quality and privacy.</td></tr>
-    <tr><td><a href="https://studiogalilei.com/" target="_blank">Studio Galilei</a></td><td>Physical-AI mobility: MaaS Information Platform, Smart Call Buttons for rural/senior access, and RIKAride tourism mobility across Korea &amp; SEA.</td></tr>
+    <tr><td><a href="https://studiog.kr/eng/" target="_blank">Studio Galilei</a></td><td>Physical-AI mobility: MaaS Information Platform, Smart Call Buttons for rural/senior access, and RIKAride tourism mobility across Korea &amp; SEA.</td></tr>
     <tr><td><a href="https://tactun.com/" target="_blank">TACTUN</a></td><td>Patented AI-ready controllers + no-code app builder let OEMs launch intelligent machinery 5× faster with zero upfront engineering.</td></tr>
   </tbody>
 </table>
