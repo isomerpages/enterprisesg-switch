@@ -41,7 +41,7 @@ sections:
       title: Meet your Top 60 startups
       subtitle: SLINGSHOT 2025
       id: infopic
-      description: Learn more about the Top 60 startups selected from over 6,8000
+      description: Learn more about the Top 60 startups selected from over 6,800
         global applications who will be pitching at the finals from 29–31
         October!
       button: Learn more
