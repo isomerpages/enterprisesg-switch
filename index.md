@@ -12,7 +12,10 @@ description: The Singapore Week of Innovation and Technology (SWITCH) brings
   emerging sustainable technologies.
 image: /images/2023/photos/switch_highlight_1.jpg
 permalink: /
-notification: ""
+notification: This website will be undergoing scheduled maintenance from Friday,
+  16 January 2026, 2pm – Friday, 16 January 2026, 5pm. Users will be unable to
+  access the website during this period. We apologise for any inconvenience
+  caused.
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
@@ -41,7 +44,7 @@ sections:
       title: Meet your Top 60 startups
       subtitle: SLINGSHOT 2025
       id: infopic
-      description: Learn more about the Top 60 startups selected from over 6,8000
+      description: Learn more about the Top 60 startups selected from over 6,800
         global applications who will be pitching at the finals from 29–31
         October!
       button: Learn more
