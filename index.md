@@ -12,10 +12,7 @@ description: The Singapore Week of Innovation and Technology (SWITCH) brings
   emerging sustainable technologies.
 image: /images/2023/photos/switch_highlight_1.jpg
 permalink: /
-notification: This website will be undergoing scheduled maintenance from Friday,
-  16 January 2026, 2pm – Friday, 16 January 2026, 5pm. Users will be unable to
-  access the website during this period. We apologise for any inconvenience
-  caused.
+notification: ""
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
