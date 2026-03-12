@@ -53,7 +53,7 @@ sections:
       title: Make the right connections
       subtitle: Trade Floor & Exhibitions
       id: infopic
-      description: Connect with over 400 global exhibitors at SWITCH Trade Floor.
+      description: SWITCH 2025 featured over 400 global exhibitors at our Trade Floor.
         Discover breakthrough solutions, forge partnerships, and scale your
         business.
       button: Learn More
