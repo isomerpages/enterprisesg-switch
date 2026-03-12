@@ -101,15 +101,15 @@ sections:
       alt: SWITCH Beyond
       image: /images/2025/Home/2025_website_homepage_beyond.jpg
   - infopic:
-      title: Highlights from SWITCH 2024
+      title: Highlights from SWITCH 2025
       subtitle: VIDEO
-      description: Re-live the best moments of Asia's most exciting tech startup event
-        that brings together over 20,000 global innovators to create positive
-        change and impact.
+      description: Explore key moments from Asia's most influential tech startup
+        event, uniting over 25,000 Innovators to tackle global challenges and
+        create meaningful impact.
       button: Play Video
       url: https://www.youtube.com/watch?v=UpYDA7K_rSo
       image: /images/homepage images/2024_Isomer_YT_Thumbnail_1.png
-      alt: SWITCH 2023 Highlight Video
+      alt: SWITCH 2025 Highlight Video
   - resources:
       title: News and Happenings
       subtitle: Explore
