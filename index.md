@@ -83,8 +83,8 @@ sections:
       title: Your Launchpad to Global Markets
       subtitle: SWITCH Global
       id: infopic
-      description: Navigate market expansion to over 15 international markets and
-        regions with robust innovation programmes and in-market expertise.
+      description: Navigate market expansion to international markets and regions with
+        robust innovation programmes and in-market expertise.
       button: Learn more
       alt: SWITCH Global
       url: /switch-global
