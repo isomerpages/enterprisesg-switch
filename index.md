@@ -64,8 +64,7 @@ sections:
       title: Download the Event Guide
       subtitle: Event Guide
       id: infopic
-      description: Want all the SWITCH happenings as a hand-dandy PDF? We’ve got you
-        covered!
+      description: Check out all the programs and events that happened last year at SWITCH!
       button: Download
       url: https://go.gov.sg/switch2025guide
       image: /images/2025/2025_SWITCH_ForYou1.jpg
