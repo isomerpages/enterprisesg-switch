@@ -34,7 +34,7 @@ Foundation Singapore (NRF) of the Prime Minister’s Office, SWITCH 2025
 represents a pivotal opportunity to shape the future of transformation
 in Singapore – the homeground of innovation.</p>
 <p></p>
-<h2>Highlights from SWITCH 2024</h2>
+<h2>Highlights from SWITCH 2025</h2>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UpYDA7K_rSo?si=-66it3cLabBG5pnx"></iframe>
 </div>
