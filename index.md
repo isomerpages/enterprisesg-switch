@@ -17,7 +17,7 @@ sections:
   - hero:
       title: Singapore Week of Innovation & Technology
       subtitle: SWITCH Returns 29–31 October 2025 at Marina Bay Sands, Singapore!
-      background: /images/homepage images/SWD1_242__1_.jpg
+      background: /images/homepage images/2.png
       button: GET YOUR PASS
       url: https://go.gov.sg/switch2025isomerregistration
       variant: floating
