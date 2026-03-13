@@ -100,6 +100,16 @@ sections:
       alt: SWITCH Beyond
       image: /images/2025/Home/20251029_SWITCH2025_HEND_00597.jpg
   - infopic:
+      title: Connect with your community
+      subtitle: Converge Stage
+      id: infopic
+      description: Focused on ecosystem exchange and practical discussions, discover
+        relevant insights and industry gaps to drive your company forward.
+      button: Learn More
+      url: https://switchsg.org/converge-stage/
+      image: /images/2025/Home/J5001730.jpg
+      alt: Converge Stage
+  - infopic:
       title: Highlights from SWITCH 2025
       subtitle: VIDEO
       description: Explore key moments from Asia's most influential tech startup
