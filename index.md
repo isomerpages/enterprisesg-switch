@@ -117,8 +117,8 @@ sections:
         event, uniting over 25,000 Innovators to tackle global challenges and
         create meaningful impact.
       button: Play Video
-      url: https://www.youtube.com/watch?v=UpYDA7K_rSo
-      image: /images/homepage images/2024_Isomer_YT_Thumbnail_1.png
+      url: https://youtu.be/RlP9yGztQbQ
+      image: /images/2025/Home/Website_Update__2025_Sponsors___2_.png
       alt: SWITCH 2025 Highlight Video
   - resources:
       title: News and Happenings
