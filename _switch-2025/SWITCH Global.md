@@ -27,12 +27,11 @@ critical insights and connections needed to expand your business internationally
 This is more than a conference; it's a strategic hub where global opportunities
 are brought to your doorstep, eliminating the guesswork and accelerating
 your entry into new territories.</p>
-<p>To explore the world of opportunities available on this stage, <a href="https://go.gov.sg/switch2025isomerglobalagenda" rel="noopener nofollow" target="_blank">click to view the full agenda.</a>
+<p>To explore the world of opportunities available on this stage, <a href="https://go.gov.sg/switch2025isomerglobalagenda" rel="noopener nofollow" target="_blank">click to view last year's full agenda.</a>
 </p>
 <h2>Past Speakers</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A grid layout of various men and women who were speakers at SWITCH." src="/images/2025/2025_website_past_speakers_switch_global.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Global_Stage.png">
 </div>
 <h2>Highlights</h2>
 <p></p>
