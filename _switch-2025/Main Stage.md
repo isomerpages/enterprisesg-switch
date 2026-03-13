@@ -31,9 +31,8 @@ anywhere else.</p>
 <p><a href="https://go.gov.sg/switch2025isomermainagenda" rel="noopener nofollow" target="_blank">Discover last year's full agenda here.</a>
 </p>
 <h2>Past Speakers</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A grid layout of various men and women and ethnicities in a professional setting." src="/images/2025/2025_website_past_speakers_main_stage.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Main_Stage.png">
 </div>
 <h2>Highlights</h2>
 <p></p>
@@ -55,5 +54,9 @@ anywhere else.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A photo of people onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Opening_Remarks_DPM_Sweden_70.jpg">
 </div>
 <p></p>
