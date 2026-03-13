@@ -2,10 +2,10 @@ collections:
   switch-2025:
     output: true
     order:
-      - Converge Stage.md
       - Main Stage.md
       - SWITCH Global.md
       - SWITCH Beyond.md
+      - Converge Stage.md
       - Trade Floor.md
       - SLINGSHOT/.keep
       - SLINGSHOT/2025 Edition.md
