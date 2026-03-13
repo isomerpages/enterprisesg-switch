@@ -34,24 +34,20 @@ your entry into new territories.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Global_Stage.png">
 </div>
 <h2>Highlights</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of panelists onstage at SWITCH." src="/images/2025/2025_website_photo_switch_global_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/20251031_SWITCH_0221.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of speakers onstage at SWITCH." src="/images/2025/2025_website_photo_switch_global_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/20251029_SWITCH_0670.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of audience members at SWITCH." src="/images/2025/2025_website_photo_switch_global_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/20251030_SWITCH_0481.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of speakers onstage at SWITCH." src="/images/2025/2025_website_photo_switch_global_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/20251030_SWITCH_0490.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of speakers onstage at SWITCH." src="/images/2025/2025_website_photo_switch_global_5.jpg">
-</div>
 <p></p>
