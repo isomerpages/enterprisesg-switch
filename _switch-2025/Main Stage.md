@@ -35,28 +35,22 @@ anywhere else.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Main_Stage.png">
 </div>
 <h2>Highlights</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of speakers onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of attendees at SWITCH." src="/images/2025/2025_website_photo_main_stage_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of performers onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of speakers onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of people onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/BWP_8037.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Opening_Remarks_DPM_Sweden_70.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SWD2_007.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/BWP_1864.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
