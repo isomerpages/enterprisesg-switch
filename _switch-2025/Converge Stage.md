@@ -22,7 +22,7 @@ economy.</p>
 sessions on the Startup Ecosystem's most pressing topics. Our expertly
 designed programming provides the insights needed to navigate today's rapidly
 evolving business landscape.</p>
-<p><a href="https://www.gevme.com/site/switch-2025-converge-stage-programme" rel="noopener nofollow" target="_blank">Learn more with last year's full agenda. </a>
+<p><a href="https://www.gevme.com/site/switch-2025-converge-stage-programme" rel="noopener nofollow" target="_blank">Learn more with last year's full agenda.</a>
 </p>
 <p></p>
 <h3><strong>Past year Speakers</strong></h3>
