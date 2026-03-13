@@ -28,7 +28,7 @@ panel sessions, you will witness the SLINGSHOT deep tech grand finals,
 where tomorrow’s unicorns pitch their disruptive ideas. This is your opportunity
 to gain actionable insights and strategic foresight that cannot be found
 anywhere else.</p>
-<p><a href="https://go.gov.sg/switch2025isomermainagenda" rel="noopener nofollow" target="_blank">Discover the full agenda here.</a>
+<p><a href="https://go.gov.sg/switch2025isomermainagenda" rel="noopener nofollow" target="_blank">Discover last year's full agenda here.</a>
 </p>
 <h2>Past Speakers</h2>
 <p></p>
