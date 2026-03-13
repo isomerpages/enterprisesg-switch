@@ -4,7 +4,6 @@ permalink: /converge-stage/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Website_Update__2025_Sponsors_.png">
 </div>
@@ -31,9 +30,21 @@ evolving business landscape.</p>
 <img style="width: 100%" height="auto" width="100%" alt="List of Past year speakers from Converge Stage 2025" src="/images/2025/Converge.png">
 </div>
 <h1>Highlights</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/J5000666.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo of a panel by Thales Airlab" src="/images/2025/DSC01135.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/J5002102.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/J5000241.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
