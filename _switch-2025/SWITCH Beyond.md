@@ -42,8 +42,19 @@ with a global network of peers who share your drive for innovation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Beyond.png">
 </div>
 <h2>Highlights</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/20251029_SWITCH2025_HEND_00284.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/20251029_SWITCH2025_HEND_00476.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/20251030_SWITCH2025_HEND_00427.jpg">
+</div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1505__HBM_Track_3__Masterclass___From_Lab_to_Market_How_Regulations_and_Standards_Enable_Innovation_and_Global_Access_for_Precision_Medicine_746.jpg">
+</div>
 <p></p>
