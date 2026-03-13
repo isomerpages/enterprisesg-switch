@@ -15,7 +15,7 @@ image: /images/2023/innovation showcase.png
 <img style="width: 100%" height="auto" width="100%" alt="A graphic banner with the text Trade Floor" src="/images/2025/2025_website_banner_trade_floor.jpg">
 </div>
 <h1>Innovation in Action</h1>
-<p>Explore a dynamic innovation arena featuring over 300 exhibitors from
+<p>Explore a dynamic innovation arena featuring over 400 exhibitors from
 Singapore and beyond. This carefully curated space showcases breakthrough
 solutions and technologies, creating the perfect environment for meaningful
 partnerships and collaborations.</p>
