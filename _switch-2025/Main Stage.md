@@ -28,32 +28,29 @@ panel sessions, you will witness the SLINGSHOT deep tech grand finals,
 where tomorrow’s unicorns pitch their disruptive ideas. This is your opportunity
 to gain actionable insights and strategic foresight that cannot be found
 anywhere else.</p>
-<p><a href="https://go.gov.sg/switch2025isomermainagenda" rel="noopener nofollow" target="_blank">Discover the full agenda here.</a>
+<p><a href="https://go.gov.sg/switch2025isomermainagenda" rel="noopener nofollow" target="_blank">Discover last year's full agenda here.</a>
 </p>
 <h2>Past Speakers</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A grid layout of various men and women and ethnicities in a professional setting." src="/images/2025/2025_website_past_speakers_main_stage.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Main_Stage.png">
 </div>
 <h2>Highlights</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of speakers onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/BWP_8037.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of attendees at SWITCH." src="/images/2025/2025_website_photo_main_stage_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Opening_Remarks_DPM_Sweden_70.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of performers onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/SWD2_007.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of speakers onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/BWP_1864.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of people onstage at SWITCH." src="/images/2025/2025_website_photo_main_stage_5.jpg">
-</div>
+<p></p>
+<p></p>
 <p></p>

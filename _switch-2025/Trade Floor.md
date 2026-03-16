@@ -15,7 +15,7 @@ image: /images/2023/innovation showcase.png
 <img style="width: 100%" height="auto" width="100%" alt="A graphic banner with the text Trade Floor" src="/images/2025/2025_website_banner_trade_floor.jpg">
 </div>
 <h1>Innovation in Action</h1>
-<p>Explore a dynamic innovation arena featuring over 300 exhibitors from
+<p>Explore a dynamic innovation arena featuring over 400 exhibitors from
 Singapore and beyond. This carefully curated space showcases breakthrough
 solutions and technologies, creating the perfect environment for meaningful
 partnerships and collaborations.</p>
@@ -30,26 +30,22 @@ Partner Event attendees.</p>
 <h2>Highlights</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of innovation showcases at the SWITCH Trade Floor." src="/images/2025/2025_website_photo_trade_floor_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/20251031_SWITCH2025_HEND_00437.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of innovation showcases at the SWITCH Trade Floor." src="/images/2025/2025_website_photo_trade_floor_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/J5001759.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of innovation showcases at the SWITCH Trade Floor." src="/images/2025/2025_website_photo_trade_floor_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/BWP_8078.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A photo of attendees networking at SWITCH." src="/images/2025/2025_website_photo_trade_floor_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage images/6__Exhibition_Floor_809.jpg">
 </div>
 <hr>
-<h2><strong>List of exhibitors</strong></h2>
-<p>To connect with our full list of exhibitors, please register for a SWITCH
-Attendee Pass and log into SWITCH Connect, our attendee engagement hub
-at<a href="https://connect.switchsg.org/" rel="noopener noreferrer nofollow" target="_blank"> <u>connect.switchsg.org</u></a>
-</p>
+<h2><strong>List of 2025 exhibitors</strong></h2>
 <h3><strong>Global Pavilions</strong></h3>
 <p><strong>Catalonia Trade &amp; Industry [P15]</strong>
 </p>

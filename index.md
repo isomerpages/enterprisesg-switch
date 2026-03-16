@@ -16,10 +16,11 @@ notification: ""
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
-      subtitle: SWITCH Returns 29–31 October 2025 at Marina Bay Sands, Singapore!
-      background: /images/2025/2025_website_photo_main_stage_2.jpg
-      button: GET YOUR PASS
-      url: https://go.gov.sg/switch2025isomerregistration
+      subtitle: SWITCH Returns 27-29 October 2026. Stay tuned for updates and
+        Community Happenings!
+      background: /images/homepage images/2.png
+      button: Join our mailing list
+      url: http://eepurl.com/iqDazw
       variant: floating
       size: sm
       alignment: left
@@ -46,28 +47,27 @@ sections:
         October!
       button: Learn more
       url: /slingshot/2025-edition/
-      image: /images/2024/2024_slingshot_Top_50_web.jpg
+      image: /images/homepage images/8.png
       alt: Pitching at SLINGSHOT
   - infopic:
       title: Make the right connections
       subtitle: Trade Floor & Exhibitions
       id: infopic
-      description: Connect with over 400 global exhibitors at SWITCH Trade Floor.
+      description: SWITCH 2025 featured over 400 global exhibitors at our Trade Floor.
         Discover breakthrough solutions, forge partnerships, and scale your
         business.
       button: Learn More
       url: /trade-floor
-      image: /images/2025/2025_SWITCH_Connect1.jpg
+      image: /images/homepage images/20251030_SWITCH2025_HEND_00604.jpg
       alt: People networking at SWITCH
   - infopic:
       title: Download the Event Guide
       subtitle: Event Guide
       id: infopic
-      description: Want all the SWITCH happenings as a hand-dandy PDF? We’ve got you
-        covered!
+      description: Check out all the programs and events that happened last year at SWITCH!
       button: Download
       url: https://go.gov.sg/switch2025guide
-      image: /images/2025/2025_SWITCH_ForYou1.jpg
+      image: /images/2025/Home/CL207417.jpg
       alt: Image alt text
   - infopic:
       title: Where Vision Meets Reality
@@ -78,17 +78,17 @@ sections:
       button: Learn More
       alt: Innovation at SWITCH
       url: /main-stage
-      image: /images/2025/Home/2025_website_homepage_mainstage.jpg
+      image: /images/2025/Home/20251029_SWITCH_0315__1_.jpg
   - infopic:
       title: Your Launchpad to Global Markets
       subtitle: SWITCH Global
       id: infopic
-      description: Navigate market expansion to over 15 international markets and
-        regions with robust innovation programmes and in-market expertise.
+      description: Navigate market expansion to international markets and regions with
+        robust innovation programmes and in-market expertise.
       button: Learn more
       alt: SWITCH Global
       url: /switch-global
-      image: /images/2025/Home/2025_website_homepage.jpg
+      image: /images/2025/Home/20251030_SWITCH_0590.jpg
   - infopic:
       title: Pioneering Tomorrow's Technologies
       subtitle: SWITCH Beyond
@@ -99,17 +99,27 @@ sections:
       button: Learn more
       url: /switch-beyond
       alt: SWITCH Beyond
-      image: /images/2025/Home/2025_website_homepage_beyond.jpg
+      image: /images/2025/Home/20251029_SWITCH2025_HEND_00597.jpg
   - infopic:
-      title: Highlights from SWITCH 2024
+      title: Connect with your community
+      subtitle: Converge Stage
+      id: infopic
+      description: Focused on ecosystem exchange and practical discussions, discover
+        relevant insights and industry gaps to drive your company forward.
+      button: Learn More
+      url: https://switchsg.org/converge-stage/
+      image: /images/2025/Home/J5001730.jpg
+      alt: Converge Stage
+  - infopic:
+      title: Highlights from SWITCH 2025
       subtitle: VIDEO
-      description: Re-live the best moments of Asia's most exciting tech startup event
-        that brings together over 20,000 global innovators to create positive
-        change and impact.
+      description: Explore key moments from Asia's most influential tech startup
+        event, uniting over 25,000 Innovators to tackle global challenges and
+        create meaningful impact.
       button: Play Video
-      url: https://www.youtube.com/watch?v=UpYDA7K_rSo
-      image: /images/homepage images/2024_Isomer_YT_Thumbnail_1.png
-      alt: SWITCH 2023 Highlight Video
+      url: https://youtu.be/RlP9yGztQbQ
+      image: /images/2025/Home/Website_Update__2025_Sponsors___2_.png
+      alt: SWITCH 2025 Highlight Video
   - resources:
       title: News and Happenings
       subtitle: Explore

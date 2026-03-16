@@ -20,21 +20,22 @@ startup pitching finals, where tomorrow's unicorns take centre stage, alongside
 thought-provoking leadership keynotes, strategic market access sessions,
 and targeted roundtable discussions with industry pioneers.</p>
 <p></p>
-<p>As we celebrate our milestone 10th edition alongside Singapore's 60th
-birthday, SWITCH 2025 promises to be our most ambitious gathering yet.
-Our expansive industry exhibition showcases cutting-edge innovations while
-facilitating meaningful connections across sectors. Building on our remarkable
-2024 success—which drew over 20,000 in-person attendees from more than
-100 global markets—SWITCH continues to push the boundaries of innovation
-across healthcare, smart cities, trade connectivity, and sustainable technologies.</p>
+<p>SWITCH 2025 was our biggest edition yet, drawing in over 25000 attendees
+from over 100 different markets, as we celebrated our milestone 10th edition
+alongside Singapore's 60th birthday. Our expansive industry exhibition
+showcases cutting-edge innovations while facilitating meaningful connections
+across sectors. SWITCH continues to push the boundaries of innovation across
+key deep tech domains, including artificial intelligence, climate and energy
+technologies, quantum and advanced computing, advanced materials, healthcare
+and biotech, and digital connectivity.</p>
 <p></p>
 <p>Organised by Enterprise Singapore and supported by the National Research
 Foundation Singapore (NRF) of the Prime Minister’s Office, SWITCH 2025
 represents a pivotal opportunity to shape the future of transformation
 in Singapore – the homeground of innovation.</p>
 <p></p>
-<h2>Highlights from SWITCH 2024</h2>
+<h2>Highlights from SWITCH 2025</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UpYDA7K_rSo?si=-66it3cLabBG5pnx"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RlP9yGztQbQ"></iframe>
 </div>
 <p></p>
