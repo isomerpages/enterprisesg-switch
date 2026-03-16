@@ -4,7 +4,7 @@ permalink: /sponsors-partners/
 description: ""
 variant: tiptap
 ---
-<p><strong>2024 Sponsors &amp; Partners</strong>
+<p><strong>2025 Sponsors &amp; Partners</strong>
 </p>
 <p></p>
 <h2>Diamond Sponsors</h2>
