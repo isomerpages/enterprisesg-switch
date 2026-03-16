@@ -27,14 +27,13 @@ variant: tiptap
 </div>
 <p></p>
 <h2>Partners</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Partners/2025_website_partners_partners.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Partners.png">
 </div>
 <p></p>
 <h2>Community Partners</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Partners/2025_website_partners_community.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Community_Parnters.png">
 </div>
 <p></p>
