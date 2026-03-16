@@ -10,19 +10,20 @@ variant: tiptap
 <h2>Diamond Sponsors</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Partners/2025_website_partners_diamond.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Diamond_Sponsors.png">
 </div>
-<p></p>
-<h2>Ecosystem Sponsors</h2>
+<h2>Gold Sponsors</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Partners/2025_website_partners_ecosystem_sponsors.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Gold_Sponsor.png">
 </div>
-<p></p>
+<h2>Banking Partner</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Banking_Partner.png">
+</div>
 <h2>Global Partners</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Partners/2025_website_partners_global.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Global_Partners__1_.png">
 </div>
 <p></p>
 <h2>Partners</h2>
