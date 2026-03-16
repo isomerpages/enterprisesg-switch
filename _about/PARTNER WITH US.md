@@ -12,7 +12,7 @@ description: The Singapore Week of Innovation and Technology (SWITCH) brings
 image: /images/2023/connect with your next client.jpg
 variant: markdown
 ---
-![](/images/2023/shortlist_exhibition_showcase_2.jpg)
+![](/images/homepage%20images/6__Exhibition_Floor_809.jpg)
 
 ## Innovation-centric companies partner with SWITCH
 
@@ -24,19 +24,19 @@ Join leading companies like  Lenovo, AMD and Windows  in being at the forefront 
 
 ### Why partner with SWITCH?
 
-![](/images/2023/baker%20mckenzie%20branding.jpg)
+![](/images/2025/20251030_SWITCH_0581.jpg)
 ##### Position your brand where it belongs
 Establish your brand at the intersection of innovation and Asia with SWITCH's trade and exhibition showcase.
 
-![](/images/2023/switch%20thought%20leadership.jpg)
+![](/images/2025/20251029_SWITCH2025_HEND_00259.jpg)
 ##### Grow your influence as a thought leader
-Showcase your expertise to a global audience at the SWITCH Beyond and Global conferences.
+Showcase your expertise to a global audience at our four key stages.
 
-![](/images/2023/partner%20with%20us%20networking_%20cropped.jpg)
+![](/images/2025/20251029_SWITCH2025_HEND_00166.jpg)
 ##### Find your next business opportunity
 Build valuable relationships with the people most important to you at festival touchpoints like the Networking Zone.
 
-![](/images/2023/connect%20with%20your%20next%20client.jpg)
+![](/images/2025/20251030_SWITCH2025_HEND_00604.jpg)
 ##### Connect with your next client
 Gain qualified leads with leading innovation and technology players, where SWITCH attendees are actively seeking out brands like yours.
 
