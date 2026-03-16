@@ -32,7 +32,7 @@ Establish your brand at the intersection of innovation and Asia with SWITCH's tr
 ##### Grow your influence as a thought leader
 Showcase your expertise to a global audience at our four key stages.
 
-![](/images/2025/20251029_SWITCH2025_HEND_00166.jpg)
+![](/images/2025/0900_Global_Networking_Breakfast_26.jpg)
 ##### Find your next business opportunity
 Build valuable relationships with the people most important to you at festival touchpoints like the Networking Zone.
 
