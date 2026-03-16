@@ -46,7 +46,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Official_Hospitality_Partner_1.png">
 </div>
-<h2>Refreshment Zone Partner</h2>
+<h2>Refreshment Zone Sponsor</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Refreshment_Zone_Sponsor_1.png">
