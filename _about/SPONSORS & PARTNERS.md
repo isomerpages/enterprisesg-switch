@@ -23,10 +23,6 @@ variant: tiptap
 </div>
 <h2>Global Partners</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Global_Partners__1_.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Global_Partners__2_.png">
 </div>
 <h2>Partners</h2>
@@ -47,10 +43,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Official_Media_Partners_1.png">
 </div>
 <h2>Official Hospitality Partner</h2>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Official_Hospitality_Partner_1.png">
+</div>
 <h2>Refreshment Zone Partner</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Refreshment_Zone_Sponsor.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Refreshment_Zone_Sponsor_1.png">
 </div>
 <p></p>
