@@ -60,10 +60,11 @@ sections:
       alt: Pitching at SLINGSHOT
   - infopic:
       title: Showcase your Brand
-      subtitle: Sponsors & Partners
+      subtitle: Connect with us
       id: infopic
-      description: Check out all the programs and events that happened last year at SWITCH!
-      button: Download
+      description: Expand your reach to the over 25,000 attendees at SWITCH. Explore
+        the various opportunities for sponsorships and partnerships with us.
+      button: learn more
       url: https://go.gov.sg/switch2025guide
       image: /images/2025/Home/CL207417.jpg
       alt: Image alt text
