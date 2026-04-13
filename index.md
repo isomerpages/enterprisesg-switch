@@ -46,7 +46,8 @@ sections:
         registration launch!
       button: Join our mailing list
       url: http://eepurl.com/iqDazw
-      alt: Image alt text
+      alt: Crowd at SWITCH
+      image: /images/homepage images/11__General_1__1_.jpg
   - infopic:
       title: Apply for SLINGSHOT 2026
       subtitle: SLINGSHOT 2026
