@@ -12,9 +12,8 @@ third_nav_title: SLINGSHOT
 <p>Be a part of this milestone moment with our biggest edition to date. A
 decade of innovation excellence has transformed SLINGSHOT into the cornerstone
 of Singapore’s startup ecosystem. Since its inception in 2017, this flagship
-programme has connected visionary entrepreneurs with investors, networks
-and ecosystem partners and opportunities needed for them to scale their
-solutions globally.</p>
+competition has connected visionary entrepreneurs with investors, ecosystem
+partners and networks needed for them to scale their solutions globally.</p>
 <p></p>
 <p>What began with 1000 applications from 80 markets has grown exponentially
 to over 6,800 applications from over 150 markets in 2025, demonstrating
