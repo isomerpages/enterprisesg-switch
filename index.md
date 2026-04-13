@@ -58,7 +58,7 @@ sections:
       button: Learn more
       url: /slingshot/2026-edition/
       image: /images/homepage images/8.png
-      alt: Pitching at SLINGSHOT
+      alt: SLINGSHOT Domain Winners 2025
   - infopic:
       title: Showcase your Brand
       subtitle: Connect with us
