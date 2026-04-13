@@ -15,8 +15,8 @@ notification: ""
 sections:
   - hero:
       title: Singapore Week of Innovation & Technology
-      subtitle: SWITCH Returns 27-29 October 2026. Stay tuned for updates and
-        Community Happenings!
+      subtitle: SWITCH returns from 27–29 October 2026. Stay tuned for updates and
+        upcoming community happenings!
       background: /images/homepage images/2.png
       button: Join our mailing list
       url: http://eepurl.com/iqDazw
@@ -41,9 +41,9 @@ sections:
       title: Join us at SWITCH 2026!
       subtitle: SWITCH 2026
       id: infopic
-      description: We are back for another year of collaboration and discovery from
-        27-29 October 2026. Subscribe to our newsletter to stay tuned for our
-        registration launch!
+      description: We’re back for another year of collaboration & innovation from
+        27–29 October 2026. Subscribe to our newsletter to be the first to hear
+        when registration opens!
       button: Join our mailing list
       url: http://eepurl.com/iqDazw
       alt: Crowd at SWITCH
