@@ -8,7 +8,7 @@ third_nav_title: SLINGSHOT
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLINGSHOT/SLINGSHOT 2026/EDM_banner_580x210px_wo_CTA.jpg">
 </div>
-<h2><strong>SLINGSHOT marks its 10th Anniversary </strong></h2>
+<h2><strong>SLINGSHOT marks its 10th Anniversary</strong></h2>
 <p>Be a part of this milestone moment with our biggest edition to date. A
 decade of innovation excellence has transformed SLINGSHOT into the cornerstone
 of Singapore’s startup ecosystem. Since its inception in 2017, this flagship
@@ -28,4 +28,6 @@ and partners before the Finals held at the Singapore Week of Innovation
 and Technology (SWITCH)!</p>
 <p>
 <br>Make your mark with us today, sign up <a href="https://go.gov.sg/slingshot2026-switchweb" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
+<p></p>
+<p>Competition Domains:</p>
 <p></p>
