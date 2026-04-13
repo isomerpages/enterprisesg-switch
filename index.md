@@ -36,7 +36,7 @@ sections:
           url: /trade-floor
         - title: SLINGSHOT
           description: Deep Tech Pitching Competition
-          url: /slingshot/2025-edition/
+          url: /slingshot/2026-edition/
   - infopic:
       title: Join us at SWITCH 2026!
       subtitle: SWITCH 2026
@@ -56,7 +56,7 @@ sections:
         S$2m in grant prizes and be among the Top 50 Startups to receive a
         sponsored trip to Singapore.
       button: Learn more
-      url: /slingshot/2025-edition/
+      url: /slingshot/2026-edition/
       image: /images/homepage images/8.png
       alt: Pitching at SLINGSHOT
   - infopic:
