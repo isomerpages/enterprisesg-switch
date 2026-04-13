@@ -38,13 +38,13 @@ sections:
           description: Deep Tech Pitching Competition
           url: /slingshot/2025-edition/
   - infopic:
-      title: SWITCH Returns!
+      title: Join us at SWITCH 2026!
       subtitle: SWITCH 2026
       id: infopic
-      description: Join us for another year of collaboration and discovery from 27-29
-        October 2026. Join our mailing list to be updated as soon as
-        registrations are open!
-      button: Button Text
+      description: We are back for another year of collaboration and discovery from
+        27-29 October 2026. Subscribe to our newsletter to stay tuned for our
+        registration launch!
+      button: Join our mailing list
       url: http://eepurl.com/iqDazw
       alt: Image alt text
   - infopic:
@@ -66,7 +66,7 @@ sections:
         the various opportunities for sponsorships and partnerships with us.
       button: learn more
       url: https://go.gov.sg/switch2025guide
-      image: /images/2025/Home/CL207417.jpg
+      image: /images/homepage images/6__Exhibition_Floor_809.jpg
       alt: Image alt text
   - infopic:
       title: Make the right connections
