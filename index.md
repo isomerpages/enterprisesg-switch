@@ -66,7 +66,7 @@ sections:
       description: Expand your reach to the over 25,000 attendees at SWITCH. Explore
         the various opportunities for sponsorships and partnerships with us.
       button: learn more
-      url: https://go.gov.sg/switch2025guide
+      url: /partner-with-us/
       image: /images/homepage images/6__Exhibition_Floor_809.jpg
       alt: Image alt text
   - infopic:
