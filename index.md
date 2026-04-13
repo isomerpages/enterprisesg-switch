@@ -48,16 +48,25 @@ sections:
       url: http://eepurl.com/iqDazw
       alt: Image alt text
   - infopic:
-      title: Spotlight your Startup
+      title: Apply for SLINGSHOT 2026
       subtitle: SLINGSHOT 2026
       id: infopic
-      description: Applications for SLINGSHOT 2026 are open! Compete for over S$2m in
-        grant prizes and be among the Top 50 Startups to receive a sponsored
-        trip to Singapore.
+      description: Make your mark at SLINGSHOT's 10th anniversary. Compete for over
+        S$2m in grant prizes and be among the Top 50 Startups to receive a
+        sponsored trip to Singapore.
       button: Learn more
       url: /slingshot/2025-edition/
       image: /images/homepage images/8.png
       alt: Pitching at SLINGSHOT
+  - infopic:
+      title: Showcase your Brand
+      subtitle: Sponsors & Partners
+      id: infopic
+      description: Check out all the programs and events that happened last year at SWITCH!
+      button: Download
+      url: https://go.gov.sg/switch2025guide
+      image: /images/2025/Home/CL207417.jpg
+      alt: Image alt text
   - infopic:
       title: Make the right connections
       subtitle: Trade Floor & Exhibitions
@@ -69,15 +78,6 @@ sections:
       url: /trade-floor
       image: /images/homepage images/20251030_SWITCH2025_HEND_00604.jpg
       alt: People networking at SWITCH
-  - infopic:
-      title: Download the Event Guide
-      subtitle: Event Guide
-      id: infopic
-      description: Check out all the programs and events that happened last year at SWITCH!
-      button: Download
-      url: https://go.gov.sg/switch2025guide
-      image: /images/2025/Home/CL207417.jpg
-      alt: Image alt text
   - infopic:
       title: Where Vision Meets Reality
       subtitle: Main Stage
