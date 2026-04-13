@@ -8,8 +8,9 @@ third_nav_title: SLINGSHOT
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLINGSHOT/SLINGSHOT 2026/EDM_banner_580x210px_wo_CTA.jpg">
 </div>
-<h4><strong>Be part of a milestone moment as SLINGSHOT marks its 10th Anniversary — our biggest edition yet.</strong></h4>
-<p>A decade of innovation excellence has transformed SLINGSHOT into the cornerstone
+<h2><strong>SLINGSHOT marks its 10th Anniversary </strong></h2>
+<p>Be a part of this milestone moment with our biggest edition to date. A
+decade of innovation excellence has transformed SLINGSHOT into the cornerstone
 of Singapore’s startup ecosystem. Since its inception in 2017, this flagship
 programme has connected visionary entrepreneurs with investors, networks
 and ecosystem partners and opportunities needed for them to scale their
