@@ -36,7 +36,7 @@ Showcase your expertise to a global audience at our four key stages.
 ##### Find your next business opportunity
 Build valuable relationships with the people most important to you at festival touchpoints like the Networking Zone.
 
-![](/images/2025/20251030_SWITCH2025_HEND_00604.jpg)
+![Networking at SWITCH](/images/2025/6__Exhibition_Floor_961__1_.jpg)
 ##### Connect with your next client
 Gain qualified leads with leading innovation and technology players, where SWITCH attendees are actively seeking out brands like yours.
 
