@@ -30,4 +30,7 @@ and Technology (SWITCH)!</p>
 <br>Make your mark with us today, sign up <a href="https://go.gov.sg/slingshot2026-switchweb" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
 <p></p>
 <p>Competition Domains:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SLINGSHOT Domains" src="/images/SLINGSHOT/SLINGSHOT 2026/Website_Update__2025_Sponsors___5_.png">
+</div>
 <p></p>
