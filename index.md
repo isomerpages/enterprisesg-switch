@@ -48,12 +48,12 @@ sections:
       url: http://eepurl.com/iqDazw
       alt: Image alt text
   - infopic:
-      title: Meet your Top 60 startups
-      subtitle: SLINGSHOT 2025
+      title: Spotlight your Startup
+      subtitle: SLINGSHOT 2026
       id: infopic
-      description: Learn more about the Top 60 startups selected from over 6,800
-        global applications who will be pitching at the finals from 29–31
-        October!
+      description: Applications for SLINGSHOT 2026 are open! Compete for over S$2m in
+        grant prizes and be among the Top 50 Startups to receive a sponsored
+        trip to Singapore.
       button: Learn more
       url: /slingshot/2025-edition/
       image: /images/homepage images/8.png
