@@ -5,12 +5,8 @@ links:
     sublinks:
       - title: About us
         url: /about
-      - title: Sponsors & Partners
-        url: /sponsors-partners/
-      - title: Events & Initiatives
-        url: /example-resource/events-and-initiatives/
-      - title: Blog
-        url: /example-resource/blog
+      - title: For You
+        url: /for-you
       - title: Mailing List
         url: http://eepurl.com/iqDazw
   - title: HIGHLIGHTS
