@@ -38,27 +38,27 @@ sections:
           description: Deep Tech Pitching Competition
           url: /slingshot/2026-edition/
   - infopic:
-      title: Join us at SWITCH 2026!
+      title: Be part of the Global-Asia innovation revolution
       subtitle: SWITCH 2026
       id: infopic
-      description: We’re back for another year of collaboration & innovation from
-        27–29 October 2026. Subscribe to our newsletter to be the first to hear
-        when registration opens!
-      button: Join our mailing list
+      description: Join us at SWITCH from 27–29 October 2026 in Singapore to
+        collaborate, accelerate and scale your innovations in deep tech and
+        other fast-moving industries.
+      button: Join our mailing list today
       url: http://eepurl.com/iqDazw
       alt: Crowd at SWITCH
       image: /images/homepage images/11__General_1__1_.jpg
   - infopic:
-      title: Apply for SLINGSHOT 2026
+      title: Make Singapore your homeground for innovation
       subtitle: SLINGSHOT 2026
       id: infopic
-      description: Make your mark at SLINGSHOT's 10th anniversary. Compete for over
-        S$2m in grant prizes and be among the Top 50 Startups to receive a
-        sponsored trip to Singapore.
+      description: Apply for SLINGSHOT before 30 June for a chance to pitch to
+        early-stage investors and win over S$2M in grant prizes and an immersion
+        trip to Singapore!
       button: Learn more
       url: /slingshot/2026-edition/
       image: /images/homepage images/SWD3_425.jpg
-      alt: SLINGSHOT Domain Winners 2025
+      alt: SLINGSHOT Winners 2025
   - infopic:
       title: Showcase your Brand
       subtitle: Connect with us
