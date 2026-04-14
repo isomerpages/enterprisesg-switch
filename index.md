@@ -91,16 +91,6 @@ sections:
       url: /main-stage
       image: /images/2025/Home/20251029_SWITCH_0315__1_.jpg
   - infopic:
-      title: Your Launchpad to Global Markets
-      subtitle: SWITCH Global
-      id: infopic
-      description: Navigate market expansion to international markets and regions with
-        robust innovation programmes and in-market expertise.
-      button: Learn more
-      alt: SWITCH Global
-      url: /switch-global
-      image: /images/2025/Home/20251030_SWITCH_0590.jpg
-  - infopic:
       title: Pioneering Tomorrow's Technologies
       subtitle: SWITCH Beyond
       id: infopic
@@ -112,15 +102,25 @@ sections:
       alt: SWITCH Beyond
       image: /images/2025/Home/20251029_SWITCH2025_HEND_00597.jpg
   - infopic:
+      title: Your Launchpad to Global Markets
+      subtitle: SWITCH Global
+      id: infopic
+      description: Navigate market expansion to international markets and regions with
+        robust innovation programmes and in-market expertise.
+      button: Learn more
+      alt: SWITCH Global
+      url: /switch-global
+      image: /images/2025/Home/20251030_SWITCH_0590.jpg
+  - infopic:
       title: Connect with your community
-      subtitle: Converge Stage
+      subtitle: SWITCH Converge
       id: infopic
       description: Focused on ecosystem exchange and practical discussions, discover
         relevant insights and industry gaps to drive your company forward.
       button: Learn More
-      url: https://switchsg.org/converge-stage/
+      url: switch-converge
       image: /images/2025/Home/J5001730.jpg
-      alt: Converge Stage
+      alt: SWITCH Converge
   - infopic:
       title: Highlights from SWITCH 2025
       subtitle: VIDEO
