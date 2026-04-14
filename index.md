@@ -104,7 +104,7 @@ sections:
       alt: SWITCH Beyond
       image: /images/2025/Home/20251029_SWITCH2025_HEND_00597.jpg
   - infopic:
-      title: Your Launchpad to Global Markets
+      title: Yourl launchpad to global markets and opportunities
       subtitle: SWITCH Global
       id: infopic
       description: Navigate market expansion to international markets and regions with
