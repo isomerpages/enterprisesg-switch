@@ -82,11 +82,12 @@ sections:
       image: /images/homepage images/20251030_SWITCH2025_HEND_00604.jpg
       alt: People networking at SWITCH
   - infopic:
-      title: Where Vision Meets Reality
-      subtitle: Main Stage
+      title: Stay on the pulse of innovation and global tech trends
+      subtitle: SWITCH Main Stage
       id: infopic
-      description: Experience the pulse of innovation with global tech leaders,
-        groundbreaking insights and a convergence of great tech minds.
+      description: As technology evolves at a breakneck speed with advances in AI,
+        robotics, and quantum computing, join our plenary stage for important
+        briefings by tech leaders.
       button: Learn More
       alt: Innovation at SWITCH
       url: /main-stage
