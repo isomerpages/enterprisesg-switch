@@ -131,8 +131,4 @@ sections:
       url: https://youtu.be/RlP9yGztQbQ
       image: /images/2025/Home/Website_Update__2025_Sponsors___2_.png
       alt: SWITCH 2025 Highlight Video
-  - resources:
-      title: News and Happenings
-      subtitle: Explore
-      button: See all
 ---
