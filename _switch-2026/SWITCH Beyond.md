@@ -25,7 +25,7 @@ leaders seeking to understand and shape the future of deep tech. Whether
 you're exploring technical partnerships, seeking investment opportunities,
 or staying ahead of technological trends, Beyond offers the depth of insight
 you need.</p>
-<p><strong>Stay tuned to learn about the upcoming deep tech tracks explored at SWITCH 2026.</strong>
+<p><em>Stay tuned for SWITCH Beyond's 2026 deep tech pillars.</em>
 </p>
 <h2>Beyond Stage Agenda</h2>
 <p>The Beyond Stage is a masterclass in deep tech, designed specifically
@@ -35,7 +35,7 @@ providing not just the latest insights but also the practical skills needed
 to lead your domain. The agenda is built for those who seek to push the
 boundaries of their fields, offering a unique forum to learn from and collaborate
 with a global network of peers who share your drive for innovation.</p>
-<p>To see the full masterclass and session lineup for SWITCH 2025, <a href="https://go.gov.sg/switch2025isomerbeyondagenda" rel="noopener nofollow" target="_blank">click to explore the complete agenda.</a>
+<p><em>Stay tuned for SWITCH Beyond's 2026 agenda.</em>
 </p>
 <h2>Past Speakers</h2>
 <div class="isomer-image-wrapper">
