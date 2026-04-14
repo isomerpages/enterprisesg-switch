@@ -32,10 +32,10 @@ sections:
           description: Multiple stages and programmes
           url: /main-stage
         - title: Trade Floor
-          description: Over 350 global exhibitors
+          description: Over 400 global exhibitors
           url: /trade-floor
         - title: SLINGSHOT
-          description: Deep Tech Pitching Competition
+          description: Deep tech pitching competition
           url: /slingshot/2026-edition/
   - infopic:
       title: Be part of the Global-Asia innovation revolution
