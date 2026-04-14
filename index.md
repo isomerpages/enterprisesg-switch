@@ -15,8 +15,7 @@ notification: ""
 sections:
   - hero:
       title: SWITCH Returns 27–29 October 2026!
-      subtitle: Be the first to know when registrations open and when exciting
-        happenings from our community take place!
+      subtitle: Join our mailing list to be the first to know when registrations open
       background: /images/homepage images/2.png
       button: Join our mailing list
       url: http://eepurl.com/iqDazw
@@ -38,21 +37,10 @@ sections:
           description: Deep tech pitching competition
           url: /slingshot/2026-edition/
   - infopic:
-      title: Be part of the Global-Asia innovation revolution
-      subtitle: SWITCH 2026
-      id: infopic
-      description: Join us at SWITCH from 27–29 October 2026 in Singapore to
-        collaborate, accelerate and scale your innovations in deep tech and
-        other fast-moving industries.
-      button: Join our mailing list today
-      url: http://eepurl.com/iqDazw
-      alt: Crowd at SWITCH
-      image: /images/homepage images/11__General_1__1_.jpg
-  - infopic:
-      title: Make Singapore your homeground for innovation
+      title: Apply now! Deep tech startup pitching competition
       subtitle: SLINGSHOT 2026
       id: infopic
-      description: Apply for SLINGSHOT before 30 June for a chance to pitch to
+      description: Apply for SLINGSHOT before 30 June 2026 for a chance to pitch to
         early-stage investors and win over S$2M in grant prizes and an immersion
         trip to Singapore!
       button: Learn more
@@ -63,9 +51,9 @@ sections:
       title: Bring your innovations to life with the right connections
       subtitle: Partner with us
       id: infopic
-      description: Innovation does not happen in a vacuum. Engage with over 25,000
-        innovators and investors at SWITCH. Explore co-innovation and
-        partnership opportunities with us.
+      description: Innovation does not happen in a vacuum. Explore partnership
+        opportunities with us and connect your brand and innovative solutions to
+        over 25,000 attendees.
       button: learn more
       url: /partner-with-us/
       image: /images/homepage images/6__Exhibition_Floor_809.jpg
@@ -104,7 +92,7 @@ sections:
       alt: SWITCH Beyond
       image: /images/2025/Home/20251029_SWITCH2025_HEND_00597.jpg
   - infopic:
-      title: Yourl launchpad to global markets and opportunities
+      title: Your launchpad to global markets and opportunities
       subtitle: SWITCH Global
       id: infopic
       description: Navigate market expansion to international markets and regions with
