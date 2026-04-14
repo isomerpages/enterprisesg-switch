@@ -93,12 +93,12 @@ sections:
       url: /main-stage
       image: /images/2025/Home/20251029_SWITCH_0315__1_.jpg
   - infopic:
-      title: Pioneering Tomorrow's Technologies
+      title: Going deeper into deep tech
       subtitle: SWITCH Beyond
       id: infopic
-      description: Connect with deep tech innovators who transform emerging
-        technologies from concept to reality at this dedicated domain-focused
-        programme.
+      description: Connect with deep tech innovators who bridge concept to application
+        at this dedicated deep tech-focused stage through conference sessions
+        and masterclasses.
       button: Learn more
       url: /switch-beyond
       alt: SWITCH Beyond
