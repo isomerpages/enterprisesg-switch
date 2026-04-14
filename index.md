@@ -114,11 +114,12 @@ sections:
       url: /switch-global
       image: /images/2025/Home/20251030_SWITCH_0590.jpg
   - infopic:
-      title: Connect with your community
+      title: The convergence of opportunities between startups & industry
       subtitle: SWITCH Converge
       id: infopic
-      description: Focused on ecosystem exchange and practical discussions, discover
-        relevant insights and industry gaps to drive your company forward.
+      description: Connect with leaders and community builders bridging the gaps faced
+        by founders and industry leads in the areas of entrepreneurship,
+        opportunities and talent.
       button: Learn More
       url: switch-converge
       image: /images/2025/Home/J5001730.jpg
