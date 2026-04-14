@@ -57,7 +57,7 @@ sections:
         sponsored trip to Singapore.
       button: Learn more
       url: /slingshot/2026-edition/
-      image: /images/homepage images/8.png
+      image: /images/homepage images/SWD3_425.jpg
       alt: SLINGSHOT Domain Winners 2025
   - infopic:
       title: Showcase your Brand
