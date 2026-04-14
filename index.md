@@ -14,9 +14,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore Week of Innovation & Technology
-      subtitle: SWITCH Returns 27-29 October 2026. Stay tuned for updates and
-        Community Happenings!
+      title: SWITCH Returns 27–29 October 2026!
+      subtitle: Join our mailing list to be the first to know when registrations open
       background: /images/homepage images/2.png
       button: Join our mailing list
       url: http://eepurl.com/iqDazw
@@ -32,54 +31,68 @@ sections:
           description: Multiple stages and programmes
           url: /main-stage
         - title: Trade Floor
-          description: Over 350 global exhibitors
+          description: Over 400 global exhibitors
           url: /trade-floor
         - title: SLINGSHOT
-          description: Deep Tech Pitching Competition
-          url: /slingshot/2025-edition/
+          description: Deep tech pitching competition
+          url: /slingshot/2026-edition/
   - infopic:
-      title: Meet your Top 60 startups
-      subtitle: SLINGSHOT 2025
+      title: Apply now! Deep tech startup pitching competition
+      subtitle: SLINGSHOT 2026
       id: infopic
-      description: Learn more about the Top 60 startups selected from over 6,800
-        global applications who will be pitching at the finals from 29–31
-        October!
+      description: Apply for SLINGSHOT before 30 June 2026 for a chance to pitch to
+        early-stage investors and win over S$2M in grant prizes and an immersion
+        trip to Singapore!
       button: Learn more
-      url: /slingshot/2025-edition/
-      image: /images/homepage images/8.png
-      alt: Pitching at SLINGSHOT
+      url: /slingshot/2026-edition/
+      image: /images/homepage images/SWD3_425.jpg
+      alt: SLINGSHOT Winners 2025
   - infopic:
-      title: Make the right connections
+      title: Bring your innovations to life with the right connections
+      subtitle: Partner with us
+      id: infopic
+      description: Innovation does not happen in a vacuum. Explore partnership
+        opportunities with us and connect your brand and innovative solutions to
+        over 25,000 attendees.
+      button: learn more
+      url: /partner-with-us/
+      image: /images/homepage images/6__Exhibition_Floor_809.jpg
+      alt: Image alt text
+  - infopic:
+      title: Connect with the world at our global innovation hub
       subtitle: Trade Floor & Exhibitions
       id: infopic
-      description: SWITCH 2025 featured over 400 global exhibitors at our Trade Floor.
-        Discover breakthrough solutions, forge partnerships, and scale your
-        business.
+      description: Build bridges to innovation ecosystems and new markets with over 30
+        global pavilions. Explore the frontiers of tech with over 400 startups
+        and exhibitors.
       button: Learn More
       url: /trade-floor
       image: /images/homepage images/20251030_SWITCH2025_HEND_00604.jpg
       alt: People networking at SWITCH
   - infopic:
-      title: Download the Event Guide
-      subtitle: Event Guide
+      title: Stay on the pulse of innovation and global tech trends
+      subtitle: SWITCH Main Stage
       id: infopic
-      description: Check out all the programs and events that happened last year at SWITCH!
-      button: Download
-      url: https://go.gov.sg/switch2025guide
-      image: /images/2025/Home/CL207417.jpg
-      alt: Image alt text
-  - infopic:
-      title: Where Vision Meets Reality
-      subtitle: Main Stage
-      id: infopic
-      description: Experience the pulse of innovation with global tech leaders,
-        groundbreaking insights and a convergence of great tech minds.
+      description: As technology evolves at a breakneck speed with advances in AI,
+        robotics, and quantum computing, join our plenary stage for important
+        briefings by tech leaders.
       button: Learn More
       alt: Innovation at SWITCH
       url: /main-stage
       image: /images/2025/Home/20251029_SWITCH_0315__1_.jpg
   - infopic:
-      title: Your Launchpad to Global Markets
+      title: Going deeper into deep tech
+      subtitle: SWITCH Beyond
+      id: infopic
+      description: Connect with deep tech innovators who bridge concept to application
+        at this dedicated deep tech-focused stage through conference sessions
+        and masterclasses.
+      button: Learn more
+      url: /switch-beyond
+      alt: SWITCH Beyond
+      image: /images/2025/Home/20251029_SWITCH2025_HEND_00597.jpg
+  - infopic:
+      title: Your launchpad to global markets and opportunities
       subtitle: SWITCH Global
       id: infopic
       description: Navigate market expansion to international markets and regions with
@@ -89,26 +102,16 @@ sections:
       url: /switch-global
       image: /images/2025/Home/20251030_SWITCH_0590.jpg
   - infopic:
-      title: Pioneering Tomorrow's Technologies
-      subtitle: SWITCH Beyond
+      title: The convergence of opportunities between startups & industry
+      subtitle: SWITCH Converge
       id: infopic
-      description: Connect with deep tech innovators who transform emerging
-        technologies from concept to reality at this dedicated domain-focused
-        programme.
-      button: Learn more
-      url: /switch-beyond
-      alt: SWITCH Beyond
-      image: /images/2025/Home/20251029_SWITCH2025_HEND_00597.jpg
-  - infopic:
-      title: Connect with your community
-      subtitle: Converge Stage
-      id: infopic
-      description: Focused on ecosystem exchange and practical discussions, discover
-        relevant insights and industry gaps to drive your company forward.
+      description: Connect with leaders and community builders bridging the gaps faced
+        by founders and industry leads in the areas of entrepreneurship,
+        opportunities and talent.
       button: Learn More
-      url: https://switchsg.org/converge-stage/
+      url: switch-converge
       image: /images/2025/Home/J5001730.jpg
-      alt: Converge Stage
+      alt: SWITCH Converge
   - infopic:
       title: Highlights from SWITCH 2025
       subtitle: VIDEO
@@ -119,8 +122,4 @@ sections:
       url: https://youtu.be/RlP9yGztQbQ
       image: /images/2025/Home/Website_Update__2025_Sponsors___2_.png
       alt: SWITCH 2025 Highlight Video
-  - resources:
-      title: News and Happenings
-      subtitle: Explore
-      button: See all
 ---

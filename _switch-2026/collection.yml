@@ -1,14 +1,14 @@
 collections:
-  switch-2025:
+  switch-2026:
     output: true
     order:
       - Main Stage.md
-      - SWITCH Global.md
       - SWITCH Beyond.md
-      - Converge Stage.md
-      - Trade Floor.md
+      - SWITCH Global.md
+      - SWITCH Converge.md
+      - Trade & Exhibition Floor.md
       - SLINGSHOT/.keep
+      - SLINGSHOT/2026 Edition.md
       - SLINGSHOT/2025 Edition.md
       - SLINGSHOT/2024 Edition.md
       - SLINGSHOT/2023 Edition.md
-      - For You.md

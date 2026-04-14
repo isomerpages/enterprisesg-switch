@@ -5,12 +5,8 @@ links:
     sublinks:
       - title: About us
         url: /about
-      - title: Sponsors & Partners
-        url: /sponsors-partners/
-      - title: Events & Initiatives
-        url: /example-resource/events-and-initiatives/
-      - title: Blog
-        url: /example-resource/blog
+      - title: For You
+        url: /for-you
       - title: Mailing List
         url: http://eepurl.com/iqDazw
   - title: HIGHLIGHTS
@@ -18,20 +14,16 @@ links:
     sublinks:
       - title: Main Stage
         url: /main-stage
-      - title: SWITCH Global
-        url: /switch-global
       - title: SWITCH Beyond
         url: /switch-beyond
+      - title: SWITCH Global
+        url: /switch-global
+      - title: SWITCH Converge
+        url: /switch-converge
       - title: SLINGSHOT
         url: /slingshot/2025-edition/
-      - title: Trade Floor
+      - title: Trade & Exhibition Floor
         url: /trade-floor
-      - title: Lab Crawls
-        url: https://go.gov.sg/switch2025isomerlabcrawl
-      - title: SWITCH Connect
-        url: https://connect.switchsg.org
-      - title: For You
-        url: /for-you-2025
   - title: EVENT GUIDE
     url: https://go.gov.sg/switch2025guide
     sublinks:
@@ -45,7 +37,14 @@ links:
         url: https://go.gov.sg/switch-2022-event-guide-v4
       - title: "2021"
         url: https://directory.switchsg.org
-  - title: SWITCH 2025
-    url: https://go.gov.sg/switch2025isomer
-  - title: GET YOUR PASS
-    url: https://go.gov.sg/switch2025isomerregistration
+  - title: PARTNER WITH US
+    url: /partner-with-us/
+    sublinks:
+      - title: Partner with us
+        url: /partner-with-us/
+      - title: Sponsors and Partners
+        url: /sponsors-partners/
+      - title: SWITCH 2025 Event Guide
+        url: https://go.gov.sg/switch2025guide
+      - title: SWITCH 2025 Post Show Report
+        url: https://go.gov.sg/switch2025report

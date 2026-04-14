@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - ABOUT SWITCH.md
-      - SPONSORS & PARTNERS.md
+      - FOR YOU.md
       - PARTNER WITH US.md
+      - SPONSORS & PARTNERS.md
