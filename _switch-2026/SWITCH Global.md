@@ -27,7 +27,7 @@ critical insights and connections needed to expand your business internationally
 This is more than a conference; it's a strategic hub where global opportunities
 are brought to your doorstep, eliminating the guesswork and accelerating
 your entry into new territories.</p>
-<p>To explore the world of opportunities available on this stage, <a href="https://go.gov.sg/switch2025isomerglobalagenda" rel="noopener nofollow" target="_blank">click to view last year's full agenda.</a>
+<p><em>Stay tuned for SWITCH Global's 2026 agenda</em>
 </p>
 <h2>Past Speakers</h2>
 <div class="isomer-image-wrapper">
