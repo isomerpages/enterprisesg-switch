@@ -14,20 +14,16 @@ links:
     sublinks:
       - title: Main Stage
         url: /main-stage
-      - title: SWITCH Global
-        url: /switch-global
       - title: SWITCH Beyond
         url: /switch-beyond
+      - title: SWITCH Global
+        url: /switch-global
+      - title: SWITCH Converge
+        url: /switch-converge
       - title: SLINGSHOT
         url: /slingshot/2025-edition/
-      - title: Trade Floor
+      - title: Trade & Exhibition Floor
         url: /trade-floor
-      - title: Lab Crawls
-        url: https://go.gov.sg/switch2025isomerlabcrawl
-      - title: SWITCH Connect
-        url: https://connect.switchsg.org
-      - title: For You
-        url: /for-you-2025
   - title: EVENT GUIDE
     url: https://go.gov.sg/switch2025guide
     sublinks:
