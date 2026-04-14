@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - For You.md
       - ABOUT SWITCH.md
+      - For You.md
       - PARTNER WITH US.md
       - SPONSORS & PARTNERS.md
