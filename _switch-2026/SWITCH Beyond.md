@@ -19,7 +19,6 @@ image: /images/2023/innovation showcase.png
 reality. This dedicated programming delivers intensive, domain-focused
 sessions that takes you deep into the heart of breakthrough technologies
 and their real-world applications.</p>
-<p></p>
 <p>Beyond is designed for technologists, researchers, investors, and industry
 leaders seeking to understand and shape the future of deep tech. Whether
 you're exploring technical partnerships, seeking investment opportunities,
