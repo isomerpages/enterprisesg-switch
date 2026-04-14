@@ -60,22 +60,23 @@ sections:
       image: /images/homepage images/SWD3_425.jpg
       alt: SLINGSHOT Winners 2025
   - infopic:
-      title: Showcase your Brand
-      subtitle: Connect with us
+      title: Bring your innovations to life with the right connections
+      subtitle: Partner with us
       id: infopic
-      description: Expand your reach to the over 25,000 attendees at SWITCH. Explore
-        the various opportunities for sponsorships and partnerships with us.
+      description: Innovation does not happen in a vacuum. Engage with over 25,000
+        innovators and investors at SWITCH. Explore co-innovation and
+        partnership opportunities with us.
       button: learn more
       url: /partner-with-us/
       image: /images/homepage images/6__Exhibition_Floor_809.jpg
       alt: Image alt text
   - infopic:
-      title: Make the right connections
+      title: Connect with the world at our global innovation hub
       subtitle: Trade Floor & Exhibitions
       id: infopic
-      description: SWITCH 2025 featured over 400 global exhibitors at our Trade Floor.
-        Discover breakthrough solutions, forge partnerships, and scale your
-        business.
+      description: Build bridges to innovation ecosystems and new markets with over 30
+        global pavilions. Explore the frontiers of tech with over 400 startups
+        and exhibitors.
       button: Learn More
       url: /trade-floor
       image: /images/homepage images/20251030_SWITCH2025_HEND_00604.jpg
