@@ -45,3 +45,16 @@ links:
         url: https://go.gov.sg/switch-2022-event-guide-v4
       - title: "2021"
         url: https://directory.switchsg.org
+  - title: PARTNER WITH US
+    url: /partner-with-us/
+    sublinks:
+      - title: Partner with us
+        url: /partner-with-us/
+      - title: Sponsors and Partners
+        url: /sponsors-partners/
+      - title: SWITCH 2025 Event Guide
+        url: https://go.gov.sg/switch2025guide
+      - title: SWITCH 2025 Post Show Report
+        url: https://go.gov.sg/switch2025report
+      - title: Connect with us
+        url: partnerships@switchsg.org
