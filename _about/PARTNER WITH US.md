@@ -20,7 +20,7 @@ When it comes to innovation-driven businesses, they partner with SWITCH - and fo
 
 Join leading companies like  Lenovo, AMD and Windows  in being at the forefront in paving the way for innovation and technology.
 
-<a href="mailto:partnerships@switchsg.org?subject=I would like to learn more about the opportunities at SWITCH 2024">Connect with our Partnerships team today!</a>
+<a href="mailto:partnerships@switchsg.org?subject=I would like to learn more about the opportunities at SWITCH">Connect with our Partnerships team today!</a>
 
 ### Why partner with SWITCH?
 
@@ -40,4 +40,4 @@ Build valuable relationships with the people most important to you at festival t
 ##### Connect with your next client
 Gain qualified leads with leading innovation and technology players, where SWITCH attendees are actively seeking out brands like yours.
 
-<a href="mailto:partnerships@switchsg.org?subject=I would like to learn more about the opportunities at SWITCH 2024">Connect with our Partnerships team today!</a>
+<a href="mailto:partnerships@switchsg.org?subject=I would like to learn more about the opportunities at SWITCH">Connect with our Partnerships team today!</a>
