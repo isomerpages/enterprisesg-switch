@@ -31,8 +31,9 @@ anywhere else.</p>
 <p><em>Stay tuned for SWITCH 2026's Main Stage agenda</em>
 </p>
 <h2>Past Speakers</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Main_Stage.png">
+<img style="width: 100%" height="auto" width="100%" alt="A photo grid of 10 speakers who spoke at SWITCH 2026 on the Main Stage" src="/images/2025/Main_Stage_v2.png">
 </div>
 <h2>Highlights</h2>
 <div class="isomer-image-wrapper">
@@ -50,6 +51,7 @@ anywhere else.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/BWP_1864.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
