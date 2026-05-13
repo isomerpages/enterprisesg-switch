@@ -79,7 +79,7 @@ sections:
       button: Learn More
       alt: Innovation at SWITCH
       url: /main-stage
-      image: /images/2025/Home/20251029_SWITCH_0315__1_.jpg
+      image: /images/2025/SWD2_007.jpg
   - infopic:
       title: Going deeper into deep tech
       subtitle: SWITCH Beyond
