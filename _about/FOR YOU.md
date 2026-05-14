@@ -1,6 +1,6 @@
 ---
 title: FOR YOU
-permalink: /for-you-2025/
+permalink: /for-you/
 variant: tiptap
 description: At the Singapore Week of Innovation and Technology (SWITCH) sparks
   of innovation and the potential of technology and collaboration are unleashed.
